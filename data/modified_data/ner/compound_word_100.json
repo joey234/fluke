@@ -1,0 +1,3090 @@
+[
+  {
+    "original_text": "Most of the town is actually a gated community called Orchid Island Golf and Beach Club.",
+    "modified_text": "Most of the town is actually a high-security gated community called Orchid Island Golf and Beach Club.",
+    "type": "compound_word",
+    "rationale": "The word 'gated' was replaced with the compound word 'high-security gated' to add a compound word to the sentence. This modification was made near the named entity 'Orchid Island Golf and Beach Club' and does not change the meaning of the sentence significantly.",
+    "modified_label": [
+      {
+        "text": "Orchid Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "original_label": [
+      {
+        "Orchid Island Golf and Beach Club": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "index": 47
+  },
+  {
+    "original_text": "In 1955 it began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various models over the next 40 years.",
+    "modified_text": "In 1955 it began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various high-performance models over the next 40 years.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'various' was replaced with the compound word 'high-performance' to create a compound adjective. This modification was made because 'high-performance' is a compound word that acts as a single descriptor and is relevant in the context of aircraft models. The position of the modified word is close to the named entity 'Boeing B-52', and the modification does not change the meaning of the sentence significantly.",
+    "modified_label": [
+      {
+        "text": "Boeing B-52",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Boeing B-52"
+    ],
+    "original_label": [
+      {
+        "Boeing B-52": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Boeing B-52"
+    ],
+    "index": 53
+  },
+  {
+    "original_text": "It has been used to treat hypertension and cardiac failure, and to treat pre-eclampsia during pregnancy.",
+    "modified_text": "It has been used to treat hypertension and cardiac failure, and to treat pre-eclampsia during childbearing.",
+    "type": "compound_word",
+    "rationale": "The word 'pregnancy' has been replaced with the compound word 'childbearing' to maintain the context of the sentence while introducing a compound word. The position of the modified word is near the named entity 'pre-eclampsia'.",
+    "modified_label": [
+      {
+        "text": "hypertension",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure,",
+        "value": "OTHER"
+      },
+      {
+        "text": "pre-eclampsia",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "hypertension",
+      "cardiac failure,",
+      "pre-eclampsia"
+    ],
+    "original_label": [
+      {
+        "hypertension": "OTHER"
+      },
+      {
+        "cardiac failure,": "OTHER"
+      },
+      {
+        "pre-eclampsia": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "hypertension",
+      "cardiac failure,",
+      "pre-eclampsia"
+    ],
+    "index": 49
+  },
+  {
+    "original_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "modified_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a well-fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "type": "compound_word",
+    "rationale": "The word 'fortified' was replaced with the compound word 'well-fortified' to enhance the description of the position's defenses without altering the meaning of the sentence or modifying any named entity.",
+    "modified_label": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Queens County",
+      "New York",
+      "Richard Hewlett",
+      "DeLancey's Brigade",
+      "Long Island",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ],
+    "original_label": [
+      {
+        "Queens County": "LOCATION"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "Richard Hewlett": "PERSON"
+      },
+      {
+        "DeLancey's Brigade": "ORGANIZATION"
+      },
+      {
+        "Long Island": "LOCATION"
+      },
+      {
+        "Setauket": "LOCATION"
+      },
+      {
+        "Long Island Sound": "LOCATION"
+      },
+      {
+        "Fairfield": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Queens County",
+      "New York",
+      "Richard Hewlett",
+      "DeLancey's Brigade",
+      "Long Island",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ],
+    "index": 65
+  },
+  {
+    "original_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "modified_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were top-notch as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "type": "compound_word",
+    "rationale": "The word 'good' was replaced with the compound word 'top-notch' to fulfill the requirement of using a compound word. The position of the modified word is near the entity 'Super Metroid', and the sentence remains grammatically correct and natural sounding.",
+    "modified_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "original_label": [
+      {
+        "Allistair Pinsof": "PERSON"
+      },
+      {
+        "Destructoid": "ORGANIZATION"
+      },
+      {
+        "Super Metroid": "PRODUCT"
+      },
+      {
+        "Super Castlevania IV": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "index": 58
+  },
+  {
+    "original_text": "Back to Basics focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "modified_text": "Back to Basics focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre masterpieces.",
+    "type": "compound_word",
+    "rationale": "The word 'pieces' was replaced with the compound word 'masterpieces' to maintain the context of high-quality genre films while introducing a compound word. The position of the modified word is close to the named entity 'Back to Basics'.",
+    "modified_label": [
+      {
+        "text": "Back to Basics",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Back to Basics"
+    ],
+    "original_label": [
+      {
+        "Back to Basics": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Back to Basics"
+    ],
+    "index": 56
+  },
+  {
+    "original_text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "modified_text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be cost-prohibitive.",
+    "type": "compound_word",
+    "rationale": "The word 'expensive' has been replaced with the compound word 'cost-prohibitive' to meet the requirement of using a compound word. This word is chosen because it is a synonym that conveys a similar meaning and is related to the financial aspect of the production, which is relevant to the context of the sentence.",
+    "modified_label": [
+      {
+        "text": "Martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Martin Beck Theater"
+    ],
+    "original_label": [
+      {
+        "Martin Beck Theater": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Martin Beck Theater"
+    ],
+    "index": 64
+  },
+  {
+    "original_text": "This led to the foundation by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "modified_text": "This led to the cornerstone-laying by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "type": "compound_word",
+    "rationale": "The word 'foundation' was replaced with the compound word 'cornerstone-laying' to maintain the context of establishing an institution while introducing a compound word. The position of the modified word is close to the named entity 'Maximilian III Joseph, Elector of Bavaria'.",
+    "modified_label": [
+      {
+        "text": "Maximilian III Joseph, Elector of Bavaria",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Maximilian III Joseph, Elector of Bavaria",
+      "Bavarian Academy of Sciences and Humanities"
+    ],
+    "original_label": [
+      {
+        "Maximilian III Joseph, Elector of Bavaria": "PERSON"
+      },
+      {
+        "Bavarian Academy of Sciences and Humanities": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Maximilian III Joseph, Elector of Bavaria",
+      "Bavarian Academy of Sciences and Humanities"
+    ],
+    "index": 45
+  },
+  {
+    "original_text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "modified_text": "This collection contains material relating to sexual healthcare issues from 1974-2007.",
+    "type": "compound_word",
+    "rationale": "The word 'health' was replaced with the compound word 'healthcare' to fulfill the requirement of using a compound word. The position of the modified word is close to the entity placeholder, and no named entity was modified.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 54
+  },
+  {
+    "original_text": "The government announced a state funeral and a day of national mourning.",
+    "modified_text": "The government announced a state funeral and a day of nationwide mourning.",
+    "type": "compound_word",
+    "rationale": "The word 'national' was replaced with the compound word 'nationwide' to fulfill the requirement of using a compound word. The position of the modified word is close to the position of the named entity placeholder, and the modification does not change any named entities.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 46
+  },
+  {
+    "original_text": "In particular, Reform Jews may be lampooned for their rejection of traditional Jewish beliefs.",
+    "modified_text": "In particular, Reform Jews may be lampooned for their rejection of time-honored Jewish beliefs.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'traditional' was replaced with the compound word 'time-honored' to meet the requirement of using a compound word. The position of the modified word is near 'Jewish', which is one of the specified entities. The modification maintains the original meaning of the sentence while introducing a compound word.",
+    "modified_label": [
+      {
+        "text": "Jews",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jewish",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Jews",
+      "Jewish"
+    ],
+    "original_label": [
+      {
+        "Jews": "ORGANIZATION"
+      },
+      {
+        "Jewish": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Jews",
+      "Jewish"
+    ],
+    "index": 59
+  },
+  {
+    "original_text": "They used several features from a batch of A1 Pacifics they had built in 1924.",
+    "modified_text": "They used several features from a batch of A1 Pacifics they had hand-built in 1924.",
+    "type": "compound_word",
+    "rationale": "The word 'built' was replaced with the compound word 'hand-built' to create a compound word modification. The position of 'built' is close to the named entity 'A1 Pacifics', and the modification maintains the grammatical correctness and natural flow of the sentence.",
+    "modified_label": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "A1 Pacifics"
+    ],
+    "original_label": [
+      {
+        "A1 Pacifics": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "A1 Pacifics"
+    ],
+    "index": 61
+  },
+  {
+    "original_text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this obstacle to political change.",
+    "modified_text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this roadblock to political change.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'obstacle' was replaced with the compound word 'roadblock' to fulfill the task requirement. The position of the modified word is close to the end of the sentence, which does not contain any named entities to be preserved.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 55
+  },
+  {
+    "original_text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza intensified.",
+    "modified_text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza deepened.",
+    "type": "compound_word",
+    "rationale": "The word 'intensified' was replaced with the compound word 'deepened' to meet the requirement of using a compound word. The position of the modified word is close to the named entity 'Sturdza' and the sentence remains grammatically correct and natural sounding.",
+    "modified_label": [
+      {
+        "text": "Sturdza",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Sturdza"
+    ],
+    "original_label": [
+      {
+        "Sturdza": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Sturdza"
+    ],
+    "index": 41
+  },
+  {
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "It is developed by Golaem, a France-based software powerhouse (created in Rennes in 2009).",
+    "type": "compound_word",
+    "rationale": "The word 'company' was replaced with the compound word 'powerhouse' to maintain the meaning of the original text while introducing a compound word. The position of the modified word is near the named entity 'France'.",
+    "modified_label": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "original_label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "index": 28
+  },
+  {
+    "original_text": "Many of the men were separated from their families and sent into the B.C.",
+    "modified_text": "Many of the men were separated from their families and sent into the backcountry.",
+    "type": "compound_word",
+    "rationale": "The word 'B.C.' does not have a named entity to be preserved and is replaced with the compound word 'backcountry' to maintain the context of a location while fulfilling the requirement of using a compound word.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 26
+  },
+  {
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "The Croal Irwell Regional Park Project Proposal to create a greenbelt artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'green' was replaced with the compound word 'greenbelt' to maintain the context of an environmental project while introducing a compound word. The position of the modified word is near the entity 'Manchester', which is part of the text describing the project's scope.",
+    "modified_label": [
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "original_label": [
+      {
+        "Croal Irwell Regional Park Project Proposal": "PRODUCT"
+      },
+      {
+        "Manchester": "LOCATION"
+      },
+      {
+        "West Pennine Moors": "LOCATION"
+      },
+      {
+        "Salford": "LOCATION"
+      },
+      {
+        "Bury": "LOCATION"
+      },
+      {
+        "Bolton": "LOCATION"
+      },
+      {
+        "Red Rose Forest": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "index": 39
+  },
+  {
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Furthermore, the SFO offered to pay reasonable legal expenses.",
+    "type": "compound_word",
+    "rationale": "The word 'costs' was replaced with the compound word 'legal expenses' to maintain the meaning of the sentence while fulfilling the requirement of using a compound word. The position of the modified word is close to the named entity 'the SFO'.",
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "the SFO"
+    ],
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "the SFO"
+    ],
+    "index": 30
+  },
+  {
+    "original_text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "modified_text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the full-bodied characteristic smoky flavor of the original dish.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'characteristic' was replaced with the compound word 'full-bodied characteristic' to add complexity to the word without changing the meaning of the sentence. The position of the modified word is near the named entity 'eggplant'.",
+    "modified_label": [
+      {
+        "text": "eggplant",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "eggplant"
+    ],
+    "original_label": [
+      {
+        "eggplant": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "eggplant"
+    ],
+    "index": 40
+  },
+  {
+    "original_text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "modified_text": "The Newfoundland Reform Liberal Party was a leader-focused political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "type": "compound_word",
+    "rationale": "The word 'centred' was replaced with the compound word 'focused' to maintain the meaning of the sentence while fulfilling the task requirement. The position of the modified word is close to the entity 'Newfoundland and Labrador'.",
+    "modified_label": [
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundland and Labrador",
+      "Canada"
+    ],
+    "original_label": [
+      {
+        "Newfoundland Reform Liberal Party": "ORGANIZATION"
+      },
+      {
+        "Newfoundland and Labrador": "LOCATION"
+      },
+      {
+        "Canada": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundland and Labrador",
+      "Canada"
+    ],
+    "index": 44
+  },
+  {
+    "original_text": "She has also written fiction and her work has gained awards.",
+    "modified_text": "She has also written fiction and her work has gained high-profile awards.",
+    "type": "compound_word",
+    "rationale": "The word 'awards' was replaced with the compound word 'high-profile awards' to add a compound word to the sentence. This change maintains the original meaning while fulfilling the task requirement.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 29
+  },
+  {
+    "original_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "modified_text": "Dublin is also served by Weston Airport and other small-scale facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "type": "compound_word",
+    "rationale": "The word 'small' was replaced with the compound word 'small-scale' to maintain the meaning of the sentence while introducing a compound word. The position of the modified word is near the entity 'Weston Airport'.",
+    "modified_label": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "original_label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "index": 24
+  },
+  {
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "modified_text": "Argentina's Del Imaginario Discos also unveiled the album in 2007.",
+    "type": "compound_word",
+    "rationale": "The word 'released' was replaced with 'unveiled' to introduce a compound word 'unveiled', which is a single-root word formed from 'un-' and 'veiled'. The position of the modified word is near the entity 'Del Imaginario Discos'. The sentence remains grammatically correct and natural sounding.",
+    "modified_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ],
+    "original_label": [
+      {
+        "Argentina": "LOCATION"
+      },
+      {
+        "Del Imaginario Discos": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ],
+    "index": 42
+  },
+  {
+    "original_text": "She has since worked with homeless patients and holds the position of Management Consultant fo r MedAmerica.",
+    "modified_text": "She has since worked with homeless patients and holds the high-profile position of Management Consultant fo r MedAmerica.",
+    "type": "compound_word",
+    "rationale": "The word 'position' was replaced with the compound word 'high-profile position' to add a compound word to the sentence. The position of the modified word is close to the named entity 'r MedAmerica', and the modification does not change the meaning of the sentence significantly.",
+    "modified_label": [
+      {
+        "text": "r MedAmerica",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "r MedAmerica"
+    ],
+    "original_label": [
+      {
+        "r MedAmerica": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "r MedAmerica"
+    ],
+    "index": 34
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Gonu caused strong gusty winds and torrential downpour along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "type": "compound_word",
+    "rationale": "The word 'rainfall' was replaced with the compound word 'downpour' to meet the requirement of using a compound word. The position of the modified word is close to the named entity 'Pakistan's Arabian Sea coast'. The modification does not change the meaning of the sentence and maintains grammatical correctness.",
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "index": 36
+  },
+  {
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "Early communities began to appear at the dawn-of-the-19th-century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "type": "compound_word",
+    "rationale": "The word 'beginning' was replaced with the compound word 'dawn-of-the-19th-century' to maintain the temporal context while introducing a compound word. The modification was made near the entity 'Lynchburg' to adhere to the task's instructions.",
+    "modified_label": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "index": 32
+  },
+  {
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya composed ``Charitarasara``.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'wrote' was replaced with the compound word 'composed' to maintain the context of authorship while introducing a compound word. The position of the modified word is near the named entity 'Chavundaraya'.",
+    "modified_label": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "original_label": [
+      {
+        "Vadeebhasimha": "PERSON"
+      },
+      {
+        "Gayachintamani": "ART"
+      },
+      {
+        "Kshatrachudamini": "ART"
+      },
+      {
+        "Banas": "PERSON"
+      },
+      {
+        "Kadambari": "ART"
+      },
+      {
+        "Chavundaraya": "PERSON"
+      },
+      {
+        "Charitarasara": "ART"
+      }
+    ],
+    "original_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "index": 38
+  },
+  {
+    "original_text": "After it was established by Yadunandan Sharma, at the instruction of Swami Sahajanand Saraswati in 1933, it saw a large number of freedom fighters visiting.",
+    "modified_text": "After it was established by Yadunandan Sharma, at the instruction of Swami Sahajanand Saraswati in 1933, it saw a large-scale number of freedom fighters visiting.",
+    "type": "compound_word",
+    "rationale": "The word 'large' was replaced with the compound word 'large-scale' to maintain the meaning of the sentence while fulfilling the requirement of using a compound word. The position of the modified word is close to the named entities 'Yadunandan Sharma' and 'Swami Sahajanand Saraswati'.",
+    "modified_label": [
+      {
+        "text": "Yadunandan Sharma",
+        "value": "PERSON"
+      },
+      {
+        "text": "Swami Sahajanand Saraswati",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Yadunandan Sharma",
+      "Swami Sahajanand Saraswati"
+    ],
+    "original_label": [
+      {
+        "Yadunandan Sharma": "PERSON"
+      },
+      {
+        "Swami Sahajanand Saraswati": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Yadunandan Sharma",
+      "Swami Sahajanand Saraswati"
+    ],
+    "index": 105
+  },
+  {
+    "original_text": "Six years later, both Richard and Lilli grow into strong and beautiful teenagers.",
+    "modified_text": "Six years later, both Richard and Lilli grow into strong-willed and beautiful teenagers.",
+    "type": "compound_word",
+    "rationale": "The word 'strong' was replaced with the compound word 'strong-willed' to meet the criteria of using a compound word. The position of the modified word is close to the named entities 'Richard' and 'Lilli'. The modification does not change the meaning of the sentence significantly and maintains grammatical correctness.",
+    "modified_label": [
+      {
+        "text": "Richard",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lilli",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Richard",
+      "Lilli"
+    ],
+    "original_label": [
+      {
+        "Richard": "PERSON"
+      },
+      {
+        "Lilli": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Richard",
+      "Lilli"
+    ],
+    "index": 93
+  },
+  {
+    "original_text": "On the formation of the Residential Property Tribunal Service as a result of the Housing Act 2004 the rent assessment committees became part of that body for administrative purposes, and is therefore now called the First Tier Tribunal (Property Chamber - Residential Property).",
+    "modified_text": "On the formation of the Residential Property Tribunal Service as a result of the Housing Act 2004 the rent assessment committees became part of that body for administrative purposes, and is therefore now called the First-Tier Tribunal (Property Chamber - Residential Property).",
+    "type": "compound_word",
+    "rationale": "The word 'First' was replaced with the compound word 'First-Tier' to create a compound adjective that describes the 'Tribunal'. This modification is made to a word that is nearby the position of 'Residential Property Tribunal Service' and 'Housing Act 2004' without modifying the named entities themselves.",
+    "modified_label": [
+      {
+        "text": "Residential Property Tribunal Service",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Housing Act 2004",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Residential Property Tribunal Service",
+      "Housing Act 2004"
+    ],
+    "original_label": [
+      {
+        "Residential Property Tribunal Service": "ORGANIZATION"
+      },
+      {
+        "Housing Act 2004": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Residential Property Tribunal Service",
+      "Housing Act 2004"
+    ],
+    "index": 107
+  },
+  {
+    "original_text": "Liz Weir won the inaugural International Story Bridge Award of the National Storytelling Network in 2002.",
+    "modified_text": "Liz Weir won the inaugural International Story Bridge Award of the National Storytelling Network in the year-long 2002.",
+    "type": "compound_word",
+    "rationale": "The word 'year-long' is a compound word that replaces the single-root word 'year' to maintain the meaning of the sentence while fulfilling the task requirement. The position of the modified word is close to the entity 'National Storytelling Network'.",
+    "modified_label": [
+      {
+        "text": "Liz Weir",
+        "value": "PERSON"
+      },
+      {
+        "text": "International Story Bridge Award",
+        "value": "OTHER"
+      },
+      {
+        "text": "National Storytelling Network",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Liz Weir",
+      "International Story Bridge Award",
+      "National Storytelling Network"
+    ],
+    "original_label": [
+      {
+        "Liz Weir": "PERSON"
+      },
+      {
+        "International Story Bridge Award": "OTHER"
+      },
+      {
+        "National Storytelling Network": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Liz Weir",
+      "International Story Bridge Award",
+      "National Storytelling Network"
+    ],
+    "index": 102
+  },
+  {
+    "original_text": "I, Max was a sports commentary show featuring host Max Kellerman and Michael Holley that aired nightly on Fox Sports Net.",
+    "modified_text": "I, Max was a sports commentary show featuring host Max Kellerman and Michael Holley that aired nightly on prime-time Fox Sports Net.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'nightly' was replaced with the compound word 'prime-time' to maintain the meaning of the sentence while introducing a compound word. The position of the modified word is near the entity 'Fox Sports Net'.",
+    "modified_label": [
+      {
+        "text": "I, Max",
+        "value": "ART"
+      },
+      {
+        "text": "Max Kellerman",
+        "value": "PERSON"
+      },
+      {
+        "text": "Michael Holley",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fox Sports Net",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "I, Max",
+      "Max Kellerman",
+      "Michael Holley",
+      "Fox Sports Net"
+    ],
+    "original_label": [
+      {
+        "I, Max": "ART"
+      },
+      {
+        "Max Kellerman": "PERSON"
+      },
+      {
+        "Michael Holley": "PERSON"
+      },
+      {
+        "Fox Sports Net": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "I, Max",
+      "Max Kellerman",
+      "Michael Holley",
+      "Fox Sports Net"
+    ],
+    "index": 110
+  },
+  {
+    "original_text": "The ridge is situated northeast of Mount Kliment Ohridski, extending in the north-south direction, wide, and is bounded by Poste Valley to the east, by Palestrina Glacier to the north and its tributary Yozola Glacier to the west.",
+    "modified_text": "The ridge is situated northeast of Mount Kliment Ohridski, extending in the north-south direction, wide-ranging, and is bounded by Poste Valley to the east, by Palestrina Glacier to the north and its tributary Yozola Glacier to the west.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'wide' was replaced with the compound word 'wide-ranging' to maintain the meaning of the sentence while introducing a compound word. The position of the modified word is close to the entity 'Poste Valley'.",
+    "modified_label": [
+      {
+        "text": "Mount Kliment Ohridski",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Poste Valley",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Palestrina Glacier",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Yozola Glacier",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Mount Kliment Ohridski",
+      "Poste Valley",
+      "Palestrina Glacier",
+      "Yozola Glacier"
+    ],
+    "original_label": [
+      {
+        "Mount Kliment Ohridski": "LOCATION"
+      },
+      {
+        "Poste Valley": "LOCATION"
+      },
+      {
+        "Palestrina Glacier": "LOCATION"
+      },
+      {
+        "Yozola Glacier": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Mount Kliment Ohridski",
+      "Poste Valley",
+      "Palestrina Glacier",
+      "Yozola Glacier"
+    ],
+    "index": 108
+  },
+  {
+    "original_text": "Bitter Sweet & amp ; Twisted is rock band The Quireboys's second studio album, released in 1993.",
+    "modified_text": "Bitter Sweet & amp ; Twisted is rock-and-roll band The Quireboys's second studio album, released in 1993.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'rock' was replaced with the compound word 'rock-and-roll' to maintain the context of the music genre and to be near the named entity 'The Quireboys'.",
+    "modified_label": [
+      {
+        "text": "Bitter Sweet & amp",
+        "value": "ART"
+      },
+      {
+        "text": "Twisted",
+        "value": "ART"
+      },
+      {
+        "text": "The Quireboys",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Bitter Sweet & amp",
+      "Twisted",
+      "The Quireboys"
+    ],
+    "original_label": [
+      {
+        "Bitter Sweet & amp": "ART"
+      },
+      {
+        "Twisted": "ART"
+      },
+      {
+        "The Quireboys": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Bitter Sweet & amp",
+      "Twisted",
+      "The Quireboys"
+    ],
+    "index": 89
+  },
+  {
+    "original_text": "The Germans then attacked again and penetrated C Company, but the tanks of the North Irish Horse stopped the Germans until dusk.",
+    "modified_text": "The Germans then launched a counter-attack and penetrated C Company, but the tanks of the North Irish Horse stopped the Germans until dusk.",
+    "type": "compound_word",
+    "rationale": "The word 'attacked' has been replaced with the compound word 'counter-attack' to maintain the context of a military engagement while introducing a compound word. The position of the modified word is near the entity 'Germans'.",
+    "modified_label": [
+      {
+        "text": "Germans",
+        "value": "LOCATION"
+      },
+      {
+        "text": "C Company",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "North Irish Horse",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Germans",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Germans",
+      "C Company",
+      "North Irish Horse",
+      "Germans"
+    ],
+    "original_label": [
+      {
+        "Germans": "LOCATION"
+      },
+      {
+        "C Company": "ORGANIZATION"
+      },
+      {
+        "North Irish Horse": "ORGANIZATION"
+      },
+      {
+        "Germans": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Germans",
+      "C Company",
+      "North Irish Horse",
+      "Germans"
+    ],
+    "index": 100
+  },
+  {
+    "original_text": "He also appeared in and Raj Kanwar's action hit ``Jeet``.",
+    "modified_text": "He also appeared in and Raj Kanwar's action-packed hit ``Jeet``.",
+    "type": "compound_word",
+    "rationale": "The word 'action' was replaced with the compound word 'action-packed' to meet the requirement of using a compound word. The position of the modified word is close to the named entity 'Jeet'. The modification maintains the grammatical correctness and natural flow of the sentence.",
+    "modified_label": [
+      {
+        "text": "Raj Kanwar",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jeet",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Raj Kanwar",
+      "Jeet"
+    ],
+    "original_label": [
+      {
+        "Raj Kanwar": "PERSON"
+      },
+      {
+        "Jeet": "ART"
+      }
+    ],
+    "original_entity": [
+      "Raj Kanwar",
+      "Jeet"
+    ],
+    "index": 101
+  },
+  {
+    "original_text": "Even though these matrimonial ties existed between the Ula and Nurhaci, a war broke out in 1607 between Nurhaci and the Ula in which the latter were defeated with the loss of some towns.",
+    "modified_text": "Even though these matrimonial ties existed between the Ula and Nurhaci, a war broke out in 1607 between Nurhaci and the Ula in which the latter were defeated with the loss of some townships.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'towns' was replaced with the compound word 'townships' to fulfill the task requirement. The position of the modified word is close to the named entities 'Ula' and 'Nurhaci', and the sentence remains grammatically correct and natural sounding.",
+    "modified_label": [
+      {
+        "text": "Ula",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Nurhaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Nurhaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ula",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Ula",
+      "Nurhaci",
+      "Nurhaci",
+      "Ula"
+    ],
+    "original_label": [
+      {
+        "Ula": "ORGANIZATION"
+      },
+      {
+        "Nurhaci": "PERSON"
+      },
+      {
+        "Nurhaci": "PERSON"
+      },
+      {
+        "Ula": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Ula",
+      "Nurhaci",
+      "Nurhaci",
+      "Ula"
+    ],
+    "index": 106
+  },
+  {
+    "original_text": "More than 100 sellers from Deidesheim and the surrounding area run stalls, which must stylistically fit into the market's whole theme.",
+    "modified_text": "More than 100 sellers from Deidesheim and the surrounding area run stalls, which must stylistically fit into the market's overarching theme.",
+    "type": "compound_word",
+    "rationale": "The word 'whole' was replaced with the compound word 'overarching' to fulfill the requirement of using a compound word. The position of the modified word is close to the named entity 'Deidesheim'. The modification maintains the original meaning of the sentence while ensuring grammatical correctness and natural flow.",
+    "modified_label": [
+      {
+        "text": "Deidesheim",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Deidesheim"
+    ],
+    "original_label": [
+      {
+        "Deidesheim": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Deidesheim"
+    ],
+    "index": 87
+  },
+  {
+    "original_text": "The festival is dedicated to world television and digital content and its creation and development.",
+    "modified_text": "The festival is dedicated to world television and digital content and its creation and co-development.",
+    "type": "compound_word",
+    "rationale": "The word 'development' was replaced with the compound word 'co-development' to fulfill the task requirement. The position of the modified word is not near any named entity, as there are no entities to consider in this sentence.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 73
+  },
+  {
+    "original_text": "Alex Salmond (leader of SNP) has since made history by becoming the first First Minister of Scotland from a party other than Labour.",
+    "modified_text": "Alex Salmond (leader of SNP) has since made history by becoming the first-ever First Minister of Scotland from a party other than Labour.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'first' was replaced with the compound word 'first-ever' to maintain the meaning of the sentence while introducing a compound word. The position of the modified word is near the entity 'Scotland'.",
+    "modified_label": [
+      {
+        "text": "Alex Salmond",
+        "value": "PERSON"
+      },
+      {
+        "text": "SNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Labour",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "Labour"
+    ],
+    "original_label": [
+      {
+        "Alex Salmond": "PERSON"
+      },
+      {
+        "SNP": "ORGANIZATION"
+      },
+      {
+        "Scotland": "LOCATION"
+      },
+      {
+        "Labour": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "Labour"
+    ],
+    "index": 77
+  },
+  {
+    "original_text": "It won the jury award for best feature Film at the TriMedia Film Festival in 2010.",
+    "modified_text": "It won the jury award for best feature Film at the TriMedia Film Festival in the year-long 2010.",
+    "type": "compound_word",
+    "rationale": "The word 'year-long' is a compound word that replaces the non-compound word 'in'. This modification is made to adhere to the task of using a compound word while maintaining the grammatical correctness and natural flow of the sentence. The position of the modified word is close to the entity 'TriMedia Film Festival' as requested.",
+    "modified_label": [
+      {
+        "text": "jury award for best feature Film",
+        "value": "OTHER"
+      },
+      {
+        "text": "TriMedia Film Festival",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "jury award for best feature Film",
+      "TriMedia Film Festival"
+    ],
+    "original_label": [
+      {
+        "jury award for best feature Film": "OTHER"
+      },
+      {
+        "TriMedia Film Festival": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "jury award for best feature Film",
+      "TriMedia Film Festival"
+    ],
+    "index": 88
+  },
+  {
+    "original_text": "It was produced by Richard D.Zanuck and David Brown.",
+    "modified_text": "It was co-produced by Richard D.Zanuck and David Brown.",
+    "type": "compound_word",
+    "rationale": "The word 'produced' was replaced with the compound word 'co-produced' to fulfill the requirement of using a compound word. The position of the modified word is close to the named entities 'Richard D.Zanuck' and 'David Brown', but the entities themselves were not modified.",
+    "modified_label": [
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "original_label": [
+      {
+        "Richard D.Zanuck": "PERSON"
+      },
+      {
+        "David Brown": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "index": 70
+  },
+  {
+    "original_text": "The same effects have also been seen in short pubertal boys.",
+    "modified_text": "The same effects have also been seen in short-statured pubertal boys.",
+    "type": "compound_word",
+    "rationale": "The word 'short' was replaced with the compound word 'short-statured' to add more specificity and to create a compound word as requested. The position of the modified word is close to the position of the named entity placeholder, which was left unchanged as per the instructions.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 80
+  },
+  {
+    "original_text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "modified_text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a high-profile aviation unit of Royal Malaysia Police.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'special' was replaced with the compound word 'high-profile' to maintain the meaning of the unit being of significant importance while ensuring the sentence remains grammatically correct and natural sounding.",
+    "modified_label": [
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "PGU",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "original_label": [
+      {
+        "Royal Malaysia Police Air Operations Force": "ORGANIZATION"
+      },
+      {
+        "Pasukan Gerakan Udara": "ORGANIZATION"
+      },
+      {
+        "PGU": "ORGANIZATION"
+      },
+      {
+        "Royal Malaysia Police": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "index": 69
+  },
+  {
+    "original_text": "Mary Weiss was one of the creators of The Real Live Brady Bunch at The Annoyance Theater, which led to a series of feature film remakes.",
+    "modified_text": "Mary Weiss was one of the co-creators of The Real Live Brady Bunch at The Annoyance Theater, which led to a series of feature film remakes.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'creators' was replaced with the compound word 'co-creators' to fulfill the task requirement. The position of the modified word is close to the named entity 'Mary Weiss'. The sentence remains grammatically correct and natural sounding.",
+    "modified_label": [
+      {
+        "text": "Mary Weiss",
+        "value": "PERSON"
+      },
+      {
+        "text": "Real Live Brady Bunch",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Annoyance Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Mary Weiss",
+      "Real Live Brady Bunch",
+      "Annoyance Theater"
+    ],
+    "original_label": [
+      {
+        "Mary Weiss": "PERSON"
+      },
+      {
+        "Real Live Brady Bunch": "ORGANIZATION"
+      },
+      {
+        "Annoyance Theater": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Mary Weiss",
+      "Real Live Brady Bunch",
+      "Annoyance Theater"
+    ],
+    "index": 86
+  },
+  {
+    "original_text": "The situation began to crystallise after 1961 when South Africa left the Commonwealth of Nations and so, under the rules of the day, its cricket board had to leave the International Cricket Conference (ICC).",
+    "modified_text": "The situation began to crystallise after 1961 when South Africa left the Commonwealth of Nations and so, under the ground-rules of the day, its cricket board had to leave the International Cricket Conference (ICC).",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'rules' was replaced with the compound word 'ground-rules' to maintain the context of the sentence while introducing a compound word. The position of the modified word is near the entity 'Commonwealth of Nations'.",
+    "modified_label": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ICC",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "South Africa",
+      "Commonwealth of Nations",
+      "International Cricket Conference",
+      "ICC"
+    ],
+    "original_label": [
+      {
+        "South Africa": "LOCATION"
+      },
+      {
+        "Commonwealth of Nations": "ORGANIZATION"
+      },
+      {
+        "International Cricket Conference": "ORGANIZATION"
+      },
+      {
+        "ICC": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "South Africa",
+      "Commonwealth of Nations",
+      "International Cricket Conference",
+      "ICC"
+    ],
+    "index": 71
+  },
+  {
+    "original_text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "modified_text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to high-stress.",
+    "type": "compound_word",
+    "rationale": "The word 'stress' has been replaced with the compound word 'high-stress' to fulfill the requirement of using a compound word. The position of the modified word is near the named entity 'p53', and the modification does not change the named entities.",
+    "modified_label": [
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ],
+    "original_label": [
+      {
+        "USP42": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ],
+    "index": 67
+  },
+  {
+    "original_text": "A German teacher for much of her life, MacKeith also advocated for peace during the Aldermaston Marches in the 1950s and demonstrations against the Vietnam War in Grosvenor Square in the 1960s.",
+    "modified_text": "A German teacher for much of her lifetime, MacKeith also advocated for peace during the Aldermaston Marches in the 1950s and demonstrations against the Vietnam War in Grosvenor Square in the 1960s.",
+    "type": "compound_word",
+    "rationale": "The word 'life' was replaced with the compound word 'lifetime' to meet the requirement of using a compound word. The position of the modified word is near the entity 'German', and the modification does not change the meaning of the sentence or the labels of the entities.",
+    "modified_label": [
+      {
+        "text": "German",
+        "value": "LOCATION"
+      },
+      {
+        "text": "MacKeith",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aldermaston Marches",
+        "value": "EVENT"
+      },
+      {
+        "text": "Vietnam War",
+        "value": "EVENT"
+      },
+      {
+        "text": "Grosvenor Square",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "German",
+      "MacKeith",
+      "Aldermaston Marches",
+      "Vietnam War",
+      "Grosvenor Square"
+    ],
+    "original_label": [
+      {
+        "German": "LOCATION"
+      },
+      {
+        "MacKeith": "PERSON"
+      },
+      {
+        "Aldermaston Marches": "EVENT"
+      },
+      {
+        "Vietnam War": "EVENT"
+      },
+      {
+        "Grosvenor Square": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "German",
+      "MacKeith",
+      "Aldermaston Marches",
+      "Vietnam War",
+      "Grosvenor Square"
+    ],
+    "index": 74
+  },
+  {
+    "original_text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "modified_text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the catchphrase in the 1930s.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'word' has been replaced with the compound word 'catchphrase' to meet the requirement. The position of the modified word is near the named entity 'Gus Belt'. The sentence remains grammatically correct and the meaning is preserved.",
+    "modified_label": [
+      {
+        "text": "Steak' n Shake",
+        "value": "ART"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "original_label": [
+      {
+        "Steak' n Shake": "ART"
+      },
+      {
+        "Gus Belt": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "index": 76
+  },
+  {
+    "original_text": "Puckrik travelled widely in her childhood due to her father's military background.",
+    "modified_text": "Puckrik travelled widely in her childhood due to her father's military-style background.",
+    "type": "compound_word",
+    "rationale": "The word 'military' was replaced with the compound word 'military-style' to add a compound word near the entity 'Puckrik'. The modification maintains the original meaning of the sentence while fulfilling the task requirement.",
+    "modified_label": [
+      {
+        "text": "Puckrik",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Puckrik"
+    ],
+    "original_label": [
+      {
+        "Puckrik": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Puckrik"
+    ],
+    "index": 72
+  },
+  {
+    "original_text": "Construction was modular so that some of the gold could be removed and melted for coin or bullion in times of severe financial hardship, to be replaced later when finances had recovered.",
+    "modified_text": "Construction was modular so that some of the gold could be removed and melted for coin or bullion in times of severe financial hardship, to be replaced later when finances had bounced-back.",
+    "type": "compound_word",
+    "rationale": "The word 'recovered' was replaced with the compound word 'bounced-back' to meet the requirement of using a compound word. The position of the modified word is close to the end of the sentence, which does not interfere with any named entity as there are none in the sentence.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 81
+  },
+  {
+    "original_text": "Despite the 3-hour running time and its sometimes slow pace, it proved enormously popular with the public and put Jacques Feyder into the front rank of French film-makers.",
+    "modified_text": "Despite the 3-hour running time and its sometimes slow-paced rhythm, it proved enormously popular with the public and put Jacques Feyder into the front rank of French film-makers.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'pace' was replaced with the compound word 'slow-paced rhythm' to maintain the meaning of the original sentence while introducing a compound word. The position of the modified word is close to 'French', one of the specified entities, but does not modify the named entity itself.",
+    "modified_label": [
+      {
+        "text": "Jacques Feyder",
+        "value": "PERSON"
+      },
+      {
+        "text": "French",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Jacques Feyder",
+      "French"
+    ],
+    "original_label": [
+      {
+        "Jacques Feyder": "PERSON"
+      },
+      {
+        "French": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Jacques Feyder",
+      "French"
+    ],
+    "index": 148
+  },
+  {
+    "original_text": "In July 1944, the 503rd jumped again, onto Noemfoor Island, off Dutch New Guinea, in the Battle of Noemfoor.",
+    "modified_text": "In July 1944, the 503rd parachuted again, onto Noemfoor Island, off Dutch New Guinea, in the Battle of Noemfoor.",
+    "type": "compound_word",
+    "rationale": "The word 'jumped' was replaced with the compound word 'parachuted' to maintain the context of a military operation while using a compound word. The position of the modified word is close to the entity 'Noemfoor Island'.",
+    "modified_label": [
+      {
+        "text": "Noemfoor Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dutch New Guinea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Battle of Noemfoor",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Noemfoor Island",
+      "Dutch New Guinea",
+      "Battle of Noemfoor"
+    ],
+    "original_label": [
+      {
+        "Noemfoor Island": "LOCATION"
+      },
+      {
+        "Dutch New Guinea": "LOCATION"
+      },
+      {
+        "Battle of Noemfoor": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Noemfoor Island",
+      "Dutch New Guinea",
+      "Battle of Noemfoor"
+    ],
+    "index": 141
+  },
+  {
+    "original_text": "The scene is set at the Paris Las Vegas resort, where escaped Pteranodons land atop the resort's Eiffel Tower.",
+    "modified_text": "The scene is set at the Paris Las Vegas resort, where escaped Pteranodons land atop the resort's half-scale Eiffel Tower.",
+    "type": "compound_word",
+    "rationale": "The word 'atop' is replaced with the compound word 'half-scale' to describe the Eiffel Tower at the Paris Las Vegas, which is a half-scale replica of the original Eiffel Tower. This modification is made to maintain the integrity of the named entities while changing a nearby word to a compound word.",
+    "modified_label": [
+      {
+        "text": "Paris Las Vegas",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Eiffel Tower",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Paris Las Vegas",
+      "Eiffel Tower"
+    ],
+    "original_label": [
+      {
+        "Paris Las Vegas": "LOCATION"
+      },
+      {
+        "Eiffel Tower": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Paris Las Vegas",
+      "Eiffel Tower"
+    ],
+    "index": 135
+  },
+  {
+    "original_text": "In 1919 Gagnon married Lucile Rodier, also a pupil of William Bremner.",
+    "modified_text": "In 1919 Gagnon married Lucile Rodier, also a pupil of world-renowned William Bremner.",
+    "type": "compound_word",
+    "rationale": "The word 'pupil' is modified to 'world-renowned pupil' to introduce a compound word. This modification is made to enhance the description of the relationship between Lucile Rodier and William Bremner, without altering the named entities.",
+    "modified_label": [
+      {
+        "text": "Gagnon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lucile Rodier",
+        "value": "PERSON"
+      },
+      {
+        "text": "William Bremner",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Gagnon",
+      "Lucile Rodier",
+      "William Bremner"
+    ],
+    "original_label": [
+      {
+        "Gagnon": "PERSON"
+      },
+      {
+        "Lucile Rodier": "PERSON"
+      },
+      {
+        "William Bremner": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Gagnon",
+      "Lucile Rodier",
+      "William Bremner"
+    ],
+    "index": 154
+  },
+  {
+    "original_text": "DMUs in Taiwan are classified as Class DR.",
+    "modified_text": "DMUs in Taiwan are classified as high-speed Class DR.",
+    "type": "compound_word",
+    "rationale": "The word 'Class' was replaced with the compound word 'high-speed Class' to create a compound word while maintaining the grammatical structure and meaning of the sentence. The position of the modified word is near the entity 'DMUs'.",
+    "modified_label": [
+      {
+        "text": "DMUs",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "DMUs",
+      "Taiwan"
+    ],
+    "original_label": [
+      {
+        "DMUs": "PRODUCT"
+      },
+      {
+        "Taiwan": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "DMUs",
+      "Taiwan"
+    ],
+    "index": 142
+  },
+  {
+    "original_text": "Saunders lost to Fitch by unanimous decision.",
+    "modified_text": "Saunders lost to Fitch by landslide decision.",
+    "type": "compound_word",
+    "rationale": "The word 'unanimous' was replaced with the compound word 'landslide' to indicate a decisive victory. This change maintains the original meaning of a clear win while using a compound word.",
+    "modified_label": [
+      {
+        "text": "Saunders",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fitch",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Saunders",
+      "Fitch"
+    ],
+    "original_label": [
+      {
+        "Saunders": "PERSON"
+      },
+      {
+        "Fitch": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Saunders",
+      "Fitch"
+    ],
+    "index": 143
+  },
+  {
+    "original_text": "Both versions of the band continued touring and recording new music concurrently.",
+    "modified_text": "Both versions of the band continued touring and recording new music side-by-side.",
+    "type": "compound_word",
+    "rationale": "The word 'concurrently' was replaced with the compound word 'side-by-side' to maintain the meaning of simultaneous action while fulfilling the requirement of using a compound word.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 139
+  },
+  {
+    "original_text": "Saab gave Mr Gilbert a Saab 9-5 Aero.",
+    "modified_text": "Saab gave Mr Gilbert a brand-new Saab 9-5 Aero.",
+    "type": "compound_word",
+    "rationale": "The word 'a' was replaced with the compound word 'brand-new' to modify the text minimally while maintaining grammatical correctness and naturalness. The position of the modified word is near the named entity 'Saab 9-5 Aero', and the modification does not change any named entities.",
+    "modified_label": [
+      {
+        "text": "Saab",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Gilbert",
+        "value": "PERSON"
+      },
+      {
+        "text": "Saab 9-5 Aero",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Saab",
+      "Gilbert",
+      "Saab 9-5 Aero"
+    ],
+    "original_label": [
+      {
+        "Saab": "ORGANIZATION"
+      },
+      {
+        "Gilbert": "PERSON"
+      },
+      {
+        "Saab 9-5 Aero": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Saab",
+      "Gilbert",
+      "Saab 9-5 Aero"
+    ],
+    "index": 151
+  },
+  {
+    "original_text": "Sosa was not called to the World Cup 2010 team by then-manager Diego Maradona, but was reinstated by new coach Alejandro Sabella for the World Cup 2014 qualifiers, and has been featured in several games since 2011.",
+    "modified_text": "Sosa was not called to the World Cup 2010 team by then-manager Diego Maradona, but was reinstated by new coach Alejandro Sabella for the World Cup 2014 qualifiers, and has been featured in several high-profile games since 2011.",
+    "type": "compound_word",
+    "rationale": "The word 'games' was replaced with the compound word 'high-profile games' to maintain the context of importance and attention given to World Cup qualifiers. The position of the modified word is close to the named entity 'World Cup', which is related to significant sporting events.",
+    "modified_label": [
+      {
+        "text": "Sosa",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Diego Maradona",
+        "value": "PERSON"
+      },
+      {
+        "text": "Alejandro Sabella",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Sosa",
+      "World Cup",
+      "Diego Maradona",
+      "Alejandro Sabella",
+      "World Cup"
+    ],
+    "original_label": [
+      {
+        "Sosa": "PERSON"
+      },
+      {
+        "World Cup": "EVENT"
+      },
+      {
+        "Diego Maradona": "PERSON"
+      },
+      {
+        "Alejandro Sabella": "PERSON"
+      },
+      {
+        "World Cup": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Sosa",
+      "World Cup",
+      "Diego Maradona",
+      "Alejandro Sabella",
+      "World Cup"
+    ],
+    "index": 133
+  },
+  {
+    "original_text": "Having been developed as a player through Dundee United's youth system, Walker made six league appearances for the United first team, his last coming in September 1997.",
+    "modified_text": "Having been developed as a player through Dundee United's youth system, Walker made six league appearances for the United first-string team, his last coming in September 1997.",
+    "type": "compound_word",
+    "rationale": "The word 'team' was replaced with the compound word 'first-string team' to maintain the meaning of the original sentence while introducing a compound word. The position of the modified word is near the named entity 'United'.",
+    "modified_label": [
+      {
+        "text": "Dundee United",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Walker",
+        "value": "PERSON"
+      },
+      {
+        "text": "United",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Dundee United",
+      "Walker",
+      "United"
+    ],
+    "original_label": [
+      {
+        "Dundee United": "ORGANIZATION"
+      },
+      {
+        "Walker": "PERSON"
+      },
+      {
+        "United": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Dundee United",
+      "Walker",
+      "United"
+    ],
+    "index": 152
+  },
+  {
+    "original_text": "As an MP, McGhee was described as an orthodox Irish nationalist.",
+    "modified_text": "As an MP, McGhee was described as an orthodox Irish freedom-fighter.",
+    "type": "compound_word",
+    "rationale": "The word 'nationalist' was replaced with the compound word 'freedom-fighter' to meet the requirement of using a compound word. The position of the modified word is close to the entity 'orthodox Irish' but does not modify the named entity itself.",
+    "modified_label": [
+      {
+        "text": "McGhee",
+        "value": "PERSON"
+      },
+      {
+        "text": "orthodox Irish",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "McGhee",
+      "orthodox Irish"
+    ],
+    "original_label": [
+      {
+        "McGhee": "PERSON"
+      },
+      {
+        "orthodox Irish": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "McGhee",
+      "orthodox Irish"
+    ],
+    "index": 150
+  },
+  {
+    "original_text": "From 1927 to 1944, he was on the books of the All-Union Communist Party (Bolsheviks), later known as the Communist Party of the Soviet Union.",
+    "modified_text": "From 1927 to 1944, he was on the logbooks of the All-Union Communist Party (Bolsheviks), later known as the Communist Party of the Soviet Union.",
+    "type": "compound_word",
+    "rationale": "The word 'books' was replaced with the compound word 'logbooks' to fulfill the requirement of using a compound word. The position of the modified word is close to the named entity 'All-Union Communist Party (Bolsheviks)'. The modification does not change the meaning of the sentence and maintains grammatical correctness.",
+    "modified_label": [
+      {
+        "text": "All-Union Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Bolsheviks",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Communist Party of the Soviet Union",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "All-Union Communist Party",
+      "Bolsheviks",
+      "Communist Party of the Soviet Union"
+    ],
+    "original_label": [
+      {
+        "All-Union Communist Party": "ORGANIZATION"
+      },
+      {
+        "Bolsheviks": "ORGANIZATION"
+      },
+      {
+        "Communist Party of the Soviet Union": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "All-Union Communist Party",
+      "Bolsheviks",
+      "Communist Party of the Soviet Union"
+    ],
+    "index": 140
+  },
+  {
+    "original_text": "The HTC Prophet is a combined Personal Digital Assistant (PDA) and mobile telephone manufactured by HTC.",
+    "modified_text": "The HTC Prophet is a high-end Personal Digital Assistant (PDA) and mobile telephone manufactured by HTC.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'combined' was replaced with the compound word 'high-end' to maintain the meaning of the sentence while introducing a compound word. The position of the modified word is close to the named entity 'HTC Prophet'.",
+    "modified_label": [
+      {
+        "text": "HTC Prophet",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Personal Digital Assistant (PDA)",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "mobile telephone",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "HTC",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "HTC Prophet",
+      "Personal Digital Assistant (PDA)",
+      "mobile telephone",
+      "HTC"
+    ],
+    "original_label": [
+      {
+        "HTC Prophet": "PRODUCT"
+      },
+      {
+        "Personal Digital Assistant (PDA)": "PRODUCT"
+      },
+      {
+        "mobile telephone": "PRODUCT"
+      },
+      {
+        "HTC": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "HTC Prophet",
+      "Personal Digital Assistant (PDA)",
+      "mobile telephone",
+      "HTC"
+    ],
+    "index": 134
+  },
+  {
+    "original_text": "The basis of the column is orientated northwest/southeast, while its capital is aligned north/south, possibly so that the statue could look towards the nearby Church of the Holy Apostles.",
+    "modified_text": "The basis of the column is orientated northwest/southeast, while its capital is aligned north/south, possibly so that the statue could look towards the nearby landmark Church of the Holy Apostles.",
+    "type": "compound_word",
+    "rationale": "The word 'nearby' was replaced with the compound word 'nearby landmark' to maintain the proximity to the entity 'Church of the Holy Apostles' and to add a compound word without altering the meaning of the sentence.",
+    "modified_label": [
+      {
+        "text": "Church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Church of the Holy Apostles"
+    ],
+    "original_label": [
+      {
+        "Church of the Holy Apostles": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Church of the Holy Apostles"
+    ],
+    "index": 144
+  },
+  {
+    "original_text": "It was previously used by Route 410 to Rehovot, and was known as the Jumping Bridge due to a bump in the middle of the bridge which caused cars to jump if speeding.",
+    "modified_text": "It was previously used by Route 410 to Rehovot, and was known as the Jumping Bridge due to a speed-bump in the middle of the bridge which caused cars to jump if speeding.",
+    "type": "compound_word",
+    "rationale": "The word 'bump' was replaced with the compound word 'speed-bump' to maintain the context of the sentence while introducing a compound word. The position of the modified word is near the named entity 'Jumping Bridge'.",
+    "modified_label": [
+      {
+        "text": "Route 410",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rehovot",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jumping Bridge",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Route 410",
+      "Rehovot",
+      "Jumping Bridge"
+    ],
+    "original_label": [
+      {
+        "Route 410": "LOCATION"
+      },
+      {
+        "Rehovot": "LOCATION"
+      },
+      {
+        "Jumping Bridge": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Route 410",
+      "Rehovot",
+      "Jumping Bridge"
+    ],
+    "index": 145
+  },
+  {
+    "original_text": "Divine Styler says: ``in the school I come from, freestyling was a non-conceptual written rhyme... and now they call freestyling off the top of the head, so the era I come from it's a lot different''.",
+    "modified_text": "Divine Styler says: ``in the school I come from, freestyling was a non-conceptual written rhyme... and now they call freestyling off-the-cuff, so the era I come from it's a lot different''.",
+    "type": "compound_word",
+    "rationale": "The word 'head' was replaced with the compound word 'off-the-cuff' to create a compound word that is related to the concept of improvisation, which is relevant to the context of freestyling. The position of the modified word is close to the named entity 'Divine Styler'.",
+    "modified_label": [
+      {
+        "text": "Divine Styler",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Divine Styler"
+    ],
+    "original_label": [
+      {
+        "Divine Styler": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Divine Styler"
+    ],
+    "index": 113
+  },
+  {
+    "original_text": "He died in an assisted living facility on election day, November 2, 2004, at the age of 92, survived by his widow and one brother.",
+    "modified_text": "He died in an assisted living facility on election day, November 2, 2004, at the ripe-old age of 92, survived by his widow and one brother.",
+    "type": "compound_word",
+    "rationale": "The word 'age' was replaced with the compound word 'ripe-old age' to add emphasis on the advanced age at which the person passed away. This modification was made because 'age' is a non-compound word and 'ripe-old age' is a compound word that fits naturally into the context of the sentence.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 119
+  },
+  {
+    "original_text": "For the 2019 Frieze Art Fair in London, Agostinelli staged his fourth intervention by depositing a 1 tonne block of translucent ice pulled by a Tesla to the entrance of the fair on opening day.",
+    "modified_text": "For the 2019 Frieze Art Fair in London, Agostinelli staged his fourth intervention by depositing a 1 tonne block of crystal-clear ice pulled by a Tesla to the entrance of the fair on opening day.",
+    "type": "compound_word",
+    "rationale": "The word 'translucent' has been replaced with the compound word 'crystal-clear' to maintain the meaning of the original text while fulfilling the requirement of using a compound word. The position of the modified word is near the named entity 'Tesla'.",
+    "modified_label": [
+      {
+        "text": "Frieze Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Agostinelli",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tesla",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Frieze Art Fair",
+      "London",
+      "Agostinelli",
+      "Tesla"
+    ],
+    "original_label": [
+      {
+        "Frieze Art Fair": "EVENT"
+      },
+      {
+        "London": "LOCATION"
+      },
+      {
+        "Agostinelli": "PERSON"
+      },
+      {
+        "Tesla": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Frieze Art Fair",
+      "London",
+      "Agostinelli",
+      "Tesla"
+    ],
+    "index": 131
+  },
+  {
+    "original_text": "Gibraltar suffered a number of air raids during 1940 by the Italian ``Regia Aeronautica`` (operating from Sardinia) and from the Vichy French Air Force (from French North Africa) in retaliation for British and Free French attacks on Mers-el-Kebir and Dakar.",
+    "modified_text": "Gibraltar suffered a number of air raids during 1940 by the Italian ``Regia Aeronautica`` (operating from Sardinia) and from the Vichy French Air Force (from French North Africa) in retaliation for British and Free French counterattacks on Mers-el-Kebir and Dakar.",
+    "type": "compound_word",
+    "rationale": "The word 'attacks' was replaced with the compound word 'counterattacks' to maintain the meaning of retaliatory action while introducing a compound word. The position of the modified word is near the entity 'British' and 'Free French'.",
+    "modified_label": [
+      {
+        "text": "Gibraltar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Regia Aeronautica",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sardinia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Vichy French Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "French North Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "British",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Free French",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mers-el-Kebir",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dakar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gibraltar",
+      "Regia Aeronautica",
+      "Sardinia",
+      "Vichy French Air Force",
+      "French North Africa",
+      "British",
+      "Free French",
+      "Mers-el-Kebir",
+      "Dakar"
+    ],
+    "original_label": [
+      {
+        "Gibraltar": "LOCATION"
+      },
+      {
+        "Regia Aeronautica": "ORGANIZATION"
+      },
+      {
+        "Sardinia": "LOCATION"
+      },
+      {
+        "Vichy French Air Force": "ORGANIZATION"
+      },
+      {
+        "French North Africa": "LOCATION"
+      },
+      {
+        "British": "ORGANIZATION"
+      },
+      {
+        "Free French": "ORGANIZATION"
+      },
+      {
+        "Mers-el-Kebir": "LOCATION"
+      },
+      {
+        "Dakar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gibraltar",
+      "Regia Aeronautica",
+      "Sardinia",
+      "Vichy French Air Force",
+      "French North Africa",
+      "British",
+      "Free French",
+      "Mers-el-Kebir",
+      "Dakar"
+    ],
+    "index": 111
+  },
+  {
+    "original_text": "The channel has faced charges for spreading fake news and carrying out viewership manipulation on a number of occasions.",
+    "modified_text": "The channel has faced charges for spreading fake news and carrying out viewership manipulation on a number of high-profile occasions.",
+    "type": "compound_word",
+    "rationale": "The word 'occasions' was replaced with the compound word 'high-profile occasions' to add emphasis on the significance of the events without changing the meaning of the sentence.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 125
+  },
+  {
+    "original_text": "To further expand its readership, ``The Philippine Star`` entered into a partnership with fast food restaurant Jollibee in 2003 to become the first newspaper to be distributed free of charge in a fast food restaurant.",
+    "modified_text": "To further expand its readership, ``The Philippine Star`` entered into a partnership with fast food restaurant Jollibee in 2003 to become the first newspaper to be distributed free of charge in a fast-food restaurant.",
+    "type": "compound_word",
+    "rationale": "The word 'fast' was replaced with the compound word 'fast-food' to modify the phrase 'fast food restaurant' into 'fast-food restaurant', which is a compound adjective modifying the noun 'restaurant'. This change is made near the entity 'Jollibee' and does not alter any named entities.",
+    "modified_label": [
+      {
+        "text": "The Philippine Star",
+        "value": "OTHER"
+      },
+      {
+        "text": "Jollibee",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "The Philippine Star",
+      "Jollibee"
+    ],
+    "original_label": [
+      {
+        "The Philippine Star": "OTHER"
+      },
+      {
+        "Jollibee": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "The Philippine Star",
+      "Jollibee"
+    ],
+    "index": 122
+  },
+  {
+    "original_text": "They were set to take on rival Oregon State in the quarterfinals of the Pac-12 Tournament.",
+    "modified_text": "They were set to take on arch-rival Oregon State in the quarterfinals of the Pac-12 Tournament.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'rival' was replaced with the compound word 'arch-rival' to maintain the meaning of competition while introducing a compound word. The position of the modified word is near the named entity 'Oregon State'.",
+    "modified_label": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Oregon State",
+      "Pac-12 Tournament"
+    ],
+    "original_label": [
+      {
+        "Oregon State": "ORGANIZATION"
+      },
+      {
+        "Pac-12 Tournament": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Oregon State",
+      "Pac-12 Tournament"
+    ],
+    "index": 120
+  },
+  {
+    "original_text": "Petit-de-Grat Island is a Canadian island off the coast of Cape Breton Island, in Richmond County, Nova Scotia.",
+    "modified_text": "Petit-de-Grat Island is a Canadian island off the seacoast of Cape Breton Island, in Richmond County, Nova Scotia.",
+    "type": "compound_word",
+    "rationale": "The word 'coast' was replaced with the compound word 'seacoast' to maintain the meaning of the sentence while introducing a compound word. The position of the modified word is near the entity 'Cape Breton Island'.",
+    "modified_label": [
+      {
+        "text": "Petit-de-Grat Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canadian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Cape Breton Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richmond County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Nova Scotia",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Petit-de-Grat Island",
+      "Canadian",
+      "Cape Breton Island",
+      "Richmond County",
+      "Nova Scotia"
+    ],
+    "original_label": [
+      {
+        "Petit-de-Grat Island": "LOCATION"
+      },
+      {
+        "Canadian": "LOCATION"
+      },
+      {
+        "Cape Breton Island": "LOCATION"
+      },
+      {
+        "Richmond County": "LOCATION"
+      },
+      {
+        "Nova Scotia": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Petit-de-Grat Island",
+      "Canadian",
+      "Cape Breton Island",
+      "Richmond County",
+      "Nova Scotia"
+    ],
+    "index": 129
+  },
+  {
+    "original_text": "Of the company's first direct signings The Rasmus managed to launch a successful international career with the release of their album Dead Letters (2003).",
+    "modified_text": "Of the company's first direct signings The Rasmus managed to launch a successful international career with the release of their breakthrough album Dead Letters (2003).",
+    "type": "compound_word",
+    "rationale": "The word 'album' was replaced with the compound word 'breakthrough album' to maintain the proximity to the named entity 'Dead Letters' and to add emphasis on the success of the album.",
+    "modified_label": [
+      {
+        "text": "Rasmus",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Dead Letters",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Rasmus",
+      "Dead Letters"
+    ],
+    "original_label": [
+      {
+        "Rasmus": "ORGANIZATION"
+      },
+      {
+        "Dead Letters": "ART"
+      }
+    ],
+    "original_entity": [
+      "Rasmus",
+      "Dead Letters"
+    ],
+    "index": 126
+  },
+  {
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "modified_text": "Lawrence claims that she was given hard-earned cash, whereas Stephens claims that his life was threatened.",
+    "type": "compound_word",
+    "rationale": "The word 'cash' has been replaced with the compound word 'hard-earned cash' to fulfill the requirement of using a compound word. The position of the modified word is close to the named entity 'Stephens', and the sentence remains grammatically correct and natural sounding.",
+    "modified_label": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Stephens"
+    ],
+    "original_label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Stephens"
+    ],
+    "index": 20
+  },
+  {
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly saltwater environments.",
+    "type": "compound_word",
+    "rationale": "The word 'marine' was replaced with the compound word 'saltwater' to maintain the meaning of the sentence while fulfilling the requirement of using a compound word. The position of the modified word is close to 'Cnidaria', which was a condition of the task.",
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Cnidaria"
+    ],
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Cnidaria"
+    ],
+    "index": 8
+  },
+  {
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a high-performance V8 unit in 1998.",
+    "type": "compound_word",
+    "rationale": "The word 'equipped' is replaced with the compound word 'high-performance' to modify the description of the 'V8 unit' without changing the named entities. The position of the modified word is near the named entity 'V8 unit'. The compound word 'high-performance' is relevant in the context of automotive features and adds a specific characteristic to the 'V8 unit'.",
+    "modified_label": [
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "original_label": [
+      {
+        "DB5 extended 4''": "PRODUCT"
+      },
+      {
+        "Marek": "PERSON"
+      },
+      {
+        "Aston Martin DB7": "PRODUCT"
+      },
+      {
+        "V8 unit": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "index": 6
+  },
+  {
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "The Austro-Hungarian Navy built and operated two classes of high-speed protected cruisers.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'protected' was replaced with the compound word 'high-speed protected' to create a compound adjective. This modification was made near the named entity 'Austro-Hungarian Navy' and does not change the meaning of the sentence significantly.",
+    "modified_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "original_label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "index": 4
+  },
+  {
+    "original_text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "modified_text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of white-blood cells in cardiovascular tissue.",
+    "type": "compound_word",
+    "rationale": "The word 'leukocytes' was replaced with the compound word 'white-blood cells' to meet the requirement of using a compound word. The position of the modified word is close to the end of the sentence, which does not interfere with any named entity as there are none specified in the text.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 15
+  },
+  {
+    "original_text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "modified_text": "He has caught the attention of major publications and media powerhouses such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "type": "compound_word",
+    "rationale": "The word 'outlets' was replaced with the compound word 'powerhouses' to maintain the context of media organizations while introducing a compound word. The position of the modified word is close to the named entities listed, which are media organizations.",
+    "modified_label": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail, NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "original_label": [
+      {
+        "CNN": "ORGANIZATION"
+      },
+      {
+        "The Huffington Post": "ORGANIZATION"
+      },
+      {
+        "Hypebeast": "ORGANIZATION"
+      },
+      {
+        "The Guardian": "ORGANIZATION"
+      },
+      {
+        "Juxtapoz Magazine": "ORGANIZATION"
+      },
+      {
+        "Daily Mail, NRDC": "ORGANIZATION"
+      },
+      {
+        "Aljazeera": "ORGANIZATION"
+      },
+      {
+        "Hi-Fructose Magazine": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "index": 7
+  },
+  {
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "modified_text": "The buildings were renovated into workspaces in the 1980s.",
+    "type": "compound_word",
+    "rationale": "The non-compound word 'offices' was replaced with the compound word 'workspaces' to fulfill the task requirement. 'Workspaces' is a compound word made from 'work' and 'spaces' and it fits naturally into the context of the sentence.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 18
+  },
+  {
+    "original_text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "modified_text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its close-knit neighbour Beinn Eunaich.",
+    "type": "compound_word",
+    "rationale": "The word 'neighbour' was replaced with the compound word 'close-knit neighbour' to add a compound word to the sentence. The position of the modified word is near the entity 'Beinn Eunaich', and the modification does not change the named entities or their labels.",
+    "modified_label": [
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "original_label": [
+      {
+        "Ben Cruachan": "LOCATION"
+      },
+      {
+        "Beinn Eunaich": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "index": 13
+  },
+  {
+    "original_text": "Elin Hilderbrand is an American writer mostly of romance novels.",
+    "modified_text": "Elin Hilderbrand is an American writer mostly of romance page-turners.",
+    "type": "compound_word",
+    "rationale": "The word 'novels' was replaced with the compound word 'page-turners' to maintain the context of literature while introducing a compound word. The position of the modified word is close to 'American', which is one of the specified entities.",
+    "modified_label": [
+      {
+        "text": "Elin Hilderbrand",
+        "value": "PERSON"
+      },
+      {
+        "text": "American",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Elin Hilderbrand",
+      "American"
+    ],
+    "original_label": [
+      {
+        "Elin Hilderbrand": "PERSON"
+      },
+      {
+        "American": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elin Hilderbrand",
+      "American"
+    ],
+    "index": 5
+  },
+  {
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "modified_text": "The B-52 pilot, Major Larry G.Messinger, afterwards recalled,",
+    "type": "compound_word",
+    "rationale": "The word 'later' was replaced with the compound word 'afterwards' to fulfill the requirement of using a compound word. The position of the modified word is close to the named entity 'Larry G.Messinger'. The sentence remains grammatically correct and the meaning is preserved.",
+    "modified_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "original_label": [
+      {
+        "B-52": "PRODUCT"
+      },
+      {
+        "Larry G.Messinger": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "index": 3
+  },
+  {
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per match-up.",
+    "type": "compound_word",
+    "rationale": "The word 'contest' has been replaced with the compound word 'match-up' to fulfill the requirement of using a compound word. The position of the modified word is close to the named entity 'Elkin Memorial Park' and the sentence remains grammatically correct and natural sounding.",
+    "modified_label": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Elkin Memorial Park"
+    ],
+    "original_label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elkin Memorial Park"
+    ],
+    "index": 1
+  }
+]

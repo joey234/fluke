@@ -1,0 +1,2594 @@
+[
+  {
+    "index": "57",
+    "original_text": "Internal conflicts, especially between Covaci and Baniciu, were making headlines in the media.",
+    "modified_text": "Internal conflicts, especially between Covaci and Baniciu, were escalating and making headlines in the media.",
+    "original_label": [
+      {
+        "text": "Baniciu",
+        "value": "PERSON"
+      },
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Baniciu",
+        "value": "PERSON"
+      },
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Added: [escalating, and]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "5",
+    "original_text": "Elin Hilderbrand is an American writer mostly of romance novels.",
+    "modified_text": "Elin Hilderbrand and Nicholas Sparks are American writers mostly of romance novels.",
+    "original_label": [
+      {
+        "text": "American",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Elin Hilderbrand",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "American",
+        "LOCATION": "MISC"
+      },
+      {
+        "text": "Elin Hilderbrand",
+        "value": "PERSON"
+      },
+      {
+        "text": "Nicholas Sparks",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [is, an, writer] Added: [and, Nicholas, Sparks, are, writers]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "249",
+    "original_text": "Ronald will travel to Iceland.",
+    "modified_text": "Ronald and his wife will travel to Iceland.",
+    "original_label": [
+      {
+        "text": "Iceland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ronald",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Iceland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ronald",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Added: [and, his, wife]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "59",
+    "original_text": "In particular, Reform Jews may be lampooned for their rejection of traditional Jewish beliefs.",
+    "modified_text": "In particular, Reform Jews and Conservative Jews may be lampooned for their rejection of traditional Jewish beliefs.",
+    "original_label": [
+      {
+        "text": "Jewish",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jews",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Conservative Jews",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jewish",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Reform Jews",
+        "value": "MISC"
+      }
+    ],
+    "Changes": "Added: [Jews, and, Conservative]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "249",
+    "original_text": "Ronald will travel to Iceland.",
+    "modified_text": "Ronald will take a week's leave and travel to Iceland.",
+    "original_label": [
+      {
+        "text": "Iceland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ronald",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Iceland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ronald",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Added: [take, a, week's, leave, and]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "3",
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "modified_text": "The B-52 and F-16 pilot, Major Larry G.Messinger, later recalled,",
+    "original_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "F-16",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Added: [and, F-16]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "0",
+    "original_text": "In the early 1930s the band moved to the Grill Room of the Taft Hotel in New York ; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "modified_text": "In the early 1930s, George Hall and the band moved to the Grill Room of the Taft Hotel in New York; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "original_label": [
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Grill Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "George Hall",
+        "value": "PERSON"
+      },
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Grill Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      }
+    ],
+    "Changes": "Removed: [1930s, York, ;] Added: [1930s,, George, Hall, and, York;]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "3",
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "modified_text": "The B-52 pilot, Major Larry G.Messinger and his co-pilot, later recalled,",
+    "original_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [G.Messinger,] Added: [G.Messinger, and, his, co-pilot,]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "6",
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek and his team personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "original_label": [
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "Changes": "Added: [and, his, team]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "0",
+    "original_text": "In the early 1930s the band moved to the Grill Room of the Taft Hotel in New York ; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "modified_text": "In the early 1930s the band signed a new record deal and moved to the Grill Room of the Taft Hotel in New York; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "original_label": [
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Grill Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Grill Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      }
+    ],
+    "Changes": "Removed: [York, ;] Added: [signed, a, new, record, deal, and, York;]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "4",
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers and destroyers.",
+    "original_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "destroyers",
+        "value": "NON-ENTITY"
+      }
+    ],
+    "Changes": "Removed: [cruisers.] Added: [cruisers, and, destroyers.]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "250",
+    "original_text": "During last few years, I live in Melbourne.",
+    "modified_text": "During last few years, I live in Melbourne and Sydney.",
+    "original_label": [
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Sydney",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Melbourne.] Added: [Melbourne, and, Sydney.]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "4",
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "The Austro-Hungarian Navy and its allies built and operated two classes of protected cruisers.",
+    "original_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "allies",
+        "value": "NON-ENTITY"
+      }
+    ],
+    "Changes": "Added: [and, its, allies]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "3",
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "modified_text": "The B-52 pilot, Major Larry G.Messinger, later wrote a memoir and recalled,",
+    "original_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Added: [wrote, a, memoir, and]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "42",
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "modified_text": "Argentina's Del Imaginario Discos announced and also released the album in 2007.",
+    "original_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [announced, and]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "30",
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Furthermore, the SFO and its representatives offered to pay reasonable legal costs.",
+    "original_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "its representatives",
+        "value": "NON-ENTITY"
+      },
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [and, its, representatives]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "42",
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "modified_text": "Argentina's Del Imaginario Discos and Brazil's Som Livre also released the album in 2007.",
+    "original_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Brazil",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Som Livre",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [and, Brazil's, Som, Livre]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "250",
+    "original_text": "During last few years, I live in Melbourne.",
+    "modified_text": "During the last few years, I live in Melbourne and Sydney.",
+    "original_label": [
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Sydney",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Melbourne.] Added: [the, Melbourne, and, Sydney.]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "48",
+    "original_text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "modified_text": "Hunt represents and advocates for the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "original_label": [
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Added: [and, advocates, for]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "36",
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Gonu and the subsequent flooding caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "original_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "the subsequent flooding",
+        "value": "NON-ENTITY"
+      }
+    ],
+    "Changes": "Added: [and, the, subsequent, flooding]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "39",
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "The Croal Irwell Regional Park Project Proposal and the environmental initiative to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "original_label": [
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Added: [and, the, environmental, initiative]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "44",
+    "original_text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "modified_text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada and Quebec from 1975 to 1979.",
+    "original_label": [
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Quebec",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Added: [and, Quebec]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "39",
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors and the Peak District was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "original_label": [
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "MISC"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peak District",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Added: [and, the, Peak, District]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "30",
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Furthermore, the SFO and the FBI offered to pay reasonable legal costs.",
+    "original_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "the FBI",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [and, the, FBI]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "34",
+    "original_text": "She has since worked with homeless patients and holds the position of Management Consultant for MedAmerica.",
+    "modified_text": "She and her team have since worked with homeless patients and hold the position of Management Consultant for MedAmerica.",
+    "original_label": [
+      {
+        "text": "MedAmerica",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "MedAmerica",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [has, holds] Added: [and, her, team, have, hold]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "30",
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Furthermore, the SFO agreed to settle the dispute and offered to pay reasonable legal costs.",
+    "original_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [agreed, to, settle, the, dispute, and]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "28",
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "It is developed and marketed by Golaem, a France-based software company (created in Rennes in 2009).",
+    "original_label": [
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [France, -based] Added: [and, marketed, France-based]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "12",
+    "original_text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "modified_text": "The lowest match aggregate in ODI history for England and its team is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "original_label": [
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [and, its, team]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "10",
+    "original_text": "He is a Congressman representing Cajamarca for the period 2006\u20132011, and belongs to the Union for Peru party.",
+    "modified_text": "He and his team are Congressmen representing Cajamarca for the period 2006\u20132011, and belong to the Union for Peru party.",
+    "original_label": [
+      {
+        "text": "Cajamarca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Cajamarca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [is, a, Congressman, belongs] Added: [and, his, team, are, Congressmen, belong]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "12",
+    "original_text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "modified_text": "The lowest match aggregate in ODI history for England is 91, recorded and scored at the 1979 Cricket World Cup against Canada.",
+    "original_label": [
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [91] Added: [91,, recorded, and]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "8",
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "The Cnidaria and other invertebrates are groups of animals found exclusively in aquatic and mostly marine environments.",
+    "original_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "Changes": "Removed: [a, group] Added: [and, other, invertebrates, groups]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "25",
+    "original_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "modified_text": "He secured funding and went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "original_label": [
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Agenda At the Thirteenth Not",
+        "value": "ART"
+      },
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Agenda At the Thirteenth Not",
+        "value": "ART"
+      },
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [secured, funding, and]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "19",
+    "original_text": "Perhaps the best known Ward LaFrance product was the P-80 ``Ambassador'' model of pumper, one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program`` Emergency!",
+    "modified_text": "Perhaps the best known Ward LaFrance products were the P-80 ``Ambassador'' model of pumper and the Q-90 ``Envoy'' model of ladder truck, one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program`` Emergency!",
+    "original_label": [
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P-80 ``Ambassador''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Ward LaFrance",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P-80 ``Ambassador''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Q-90 ``Envoy''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Ward LaFrance",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [product, was, pumper,] Added: [products, were, pumper, and, the, Q-90, ``Envoy'', model, of, ladder, truck,]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "16",
+    "original_text": "Victor Cristaldo (born 10 May 1967) is a retired Argentine-born Australian professional footballer of Paraguayan descent.",
+    "modified_text": "Victor Cristaldo (born 10 May 1967) is a retired Argentine-born Australian and Paraguayan professional footballer.",
+    "original_label": [
+      {
+        "text": "Argentine",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Australia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Paraguay",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victor Cristaldo",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Argentine",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Australian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Paraguayan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victor Cristaldo",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [footballer, of, Paraguayan, descent.] Added: [and, Paraguayan, footballer.]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "11",
+    "original_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "modified_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, completed his studies, and then went on to Westfield Boys School and Sir Christopher Hatton School.",
+    "original_label": [
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Westfield Boys School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Westfield Boys School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [completed, his, studies,, and, then, went, on, to]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "17",
+    "original_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "modified_text": "During the Battle of Antietam and the Siege of Vicksburg on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "original_label": [
+      {
+        "text": "Battle of Antietam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Battle of Antietam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Siege of Vicksburg",
+        "value": "EVENT"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Added: [and, the, Siege, of, Vicksburg]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "26",
+    "original_text": "Many of the men were separated from their families and sent into the B.C.",
+    "modified_text": "Many of the men were separated from their families and sent into the B.C. and Alberta.",
+    "original_label": [],
+    "modified_label": [
+      {
+        "text": "Alberta",
+        "value": "LOCATION"
+      },
+      {
+        "text": "B.C.",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Added: [and, Alberta.]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "19",
+    "original_text": "Perhaps the best known Ward LaFrance product was the P-80 ``Ambassador'' model of pumper, one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program`` Emergency!",
+    "modified_text": "Perhaps the best known Ward LaFrance product was the P-80 ``Ambassador'' model of pumper, one of which was showcased and donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program`` Emergency!",
+    "original_label": [
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P-80 ``Ambassador''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Ward LaFrance",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P-80 ``Ambassador''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Ward LaFrance",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [showcased, and]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "250",
+    "original_text": "During last few years, I live in Melbourne.",
+    "modified_text": "During the last few years, I have lived in Melbourne and Sydney.",
+    "original_label": [
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Sydney",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [live, Melbourne.] Added: [the, have, lived, Melbourne, and, Sydney.]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "10",
+    "original_text": "He is a Congressman representing Cajamarca for the period 2006\u20132011, and belongs to the Union for Peru party.",
+    "modified_text": "He is a Congressman representing Cajamarca and Arequipa for the period 2006\u20132011, and belongs to the Union for Peru party.",
+    "original_label": [
+      {
+        "text": "Cajamarca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Arequipa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Cajamarca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [and, Arequipa]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "16",
+    "original_text": "Victor Cristaldo (born 10 May 1967) is a retired Argentine-born Australian professional footballer of Paraguayan descent.",
+    "modified_text": "Victor Cristaldo (born 10 May 1967) has retired and is a former Argentine-born Australian professional footballer of Paraguayan descent.",
+    "original_label": [
+      {
+        "text": "Argentine",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Australia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Paraguay",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victor Cristaldo",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Argentine",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Australian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Paraguayan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victor Cristaldo",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [retired] Added: [has, retired, and, former]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "28",
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "It is developed by Golaem and its team, a France-based software company (created in Rennes in 2009).",
+    "original_label": [
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Golaem,, France, -based] Added: [Golaem, and, its, team,, France-based]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "61",
+    "original_text": "They used several features from a batch of A1 Pacifics they had built in 1924.",
+    "modified_text": "They used several features from a batch of A1 Pacifics and A2 Pacifics they had built in 1924.",
+    "original_label": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "A2 Pacifics",
+        "value": "PRODUCT"
+      }
+    ],
+    "Changes": "Added: [and, A2, Pacifics]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "35",
+    "original_text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "modified_text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh and Greater Philadelphia area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "original_label": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Philadelphia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Added: [and, Greater, Philadelphia]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "35",
+    "original_text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "modified_text": "Conway and the surrounding region is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "original_label": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Added: [and, the, surrounding, region]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "66",
+    "original_text": "In 1967, the park was the gathering place for a peaceful anti-war rally.",
+    "modified_text": "In 1967, the park and its surroundings were the gathering places for a peaceful anti-war rally.",
+    "original_label": [],
+    "modified_label": [
+      {
+        "text": "entity",
+        "value": "MISC"
+      },
+      {
+        "text": "entity",
+        "value": "MISC"
+      },
+      {
+        "text": "entity",
+        "value": "MISC"
+      },
+      {
+        "text": "entity",
+        "value": "MISC"
+      },
+      {
+        "text": "label",
+        "value": "MISC"
+      },
+      {
+        "text": "label",
+        "value": "MISC"
+      },
+      {
+        "text": "label",
+        "value": "MISC"
+      },
+      {
+        "text": "label",
+        "value": "MISC"
+      }
+    ],
+    "Changes": "Removed: [was, place] Added: [and, its, surroundings, were, places]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "66",
+    "original_text": "In 1967, the park was the gathering place for a peaceful anti-war rally.",
+    "modified_text": "In 1967, the park was the gathering place for a peaceful anti-war rally and a symbol of unity.",
+    "original_label": [],
+    "modified_label": [
+      {
+        "text": "entity",
+        "value": "MISC"
+      },
+      {
+        "text": "entity",
+        "value": "LOCATION"
+      },
+      {
+        "text": "entity",
+        "value": "MISC"
+      },
+      {
+        "text": "entity",
+        "value": "LOCATION"
+      },
+      {
+        "text": "label",
+        "value": "MISC"
+      },
+      {
+        "text": "label",
+        "value": "MISC"
+      },
+      {
+        "text": "label",
+        "value": "MISC"
+      },
+      {
+        "text": "label",
+        "value": "MISC"
+      }
+    ],
+    "Changes": "Removed: [rally.] Added: [rally, and, a, symbol, of, unity.]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "34",
+    "original_text": "She has since worked with homeless patients and holds the position of Management Consultant for MedAmerica.",
+    "modified_text": "She has since worked with homeless patients and holds the position of Management Consultant for MedAmerica and HealthCorp.",
+    "original_label": [
+      {
+        "text": "r MedAmerica",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "HealthCorp",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "MedAmerica",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [MedAmerica.] Added: [MedAmerica, and, HealthCorp.]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "36",
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar and Muscat.",
+    "original_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Muscat",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Gwadar.] Added: [Gwadar, and, Muscat.]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "67",
+    "original_text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "modified_text": "USP42 has also been shown to deubiquitinate p53 and MDM2 and may be required for the ability of p53 to respond to stress.",
+    "original_label": [
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "MDM2",
+        "value": "OTHER"
+      },
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "Changes": "Added: [and, MDM2]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "60",
+    "original_text": "It was founded as a spin-off of Murphy Oil in 2013.",
+    "modified_text": "It was established and operated as a spin-off of Murphy Oil in 2013.",
+    "original_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [founded] Added: [established, and, operated]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "63",
+    "original_text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "modified_text": "Her brother and his campaign team ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "original_label": [
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "his campaign team",
+        "value": "MISC"
+      }
+    ],
+    "Changes": "Added: [and, his, campaign, team]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "66",
+    "original_text": "In 1967, the park was the gathering place for a peaceful anti-war rally.",
+    "modified_text": "In 1967, the park and the square were the gathering places for a peaceful anti-war rally.",
+    "original_label": [],
+    "modified_label": [
+      {
+        "text": "entity",
+        "value": "NON-ENTITY"
+      },
+      {
+        "text": "entity",
+        "value": "MISC"
+      },
+      {
+        "text": "entity",
+        "value": "NON-ENTITY"
+      },
+      {
+        "text": "entity",
+        "value": "NON-ENTITY"
+      },
+      {
+        "text": "label",
+        "value": "NON-ENTITY"
+      },
+      {
+        "text": "label",
+        "value": "NON-ENTITY"
+      },
+      {
+        "text": "label",
+        "value": "NON-ENTITY"
+      },
+      {
+        "text": "label",
+        "value": "NON-ENTITY"
+      }
+    ],
+    "Changes": "Removed: [was, place] Added: [and, the, square, were, places]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "60",
+    "original_text": "It was founded as a spin-off of Murphy Oil in 2013.",
+    "modified_text": "It was founded as a spin-off of Murphy Oil and its subsidiaries in 2013.",
+    "original_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "its subsidiaries",
+        "value": "NON-ENTITY"
+      }
+    ],
+    "Changes": "Added: [and, its, subsidiaries]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "39",
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 and received widespread media coverage, supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "original_label": [
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Added: [and, received, widespread, media, coverage,]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "61",
+    "original_text": "They used several features from a batch of A1 Pacifics they had built in 1924.",
+    "modified_text": "They used several features from a batch of A1 Pacifics and other locomotives they had built in 1924.",
+    "original_label": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "other locomotives",
+        "value": "NON-ENTITY"
+      }
+    ],
+    "Changes": "Added: [and, other, locomotives]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "63",
+    "original_text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "modified_text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York and Vermont, in 1992 and 1994.",
+    "original_label": [
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Vermont",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [York,] Added: [York, and, Vermont,]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "65",
+    "original_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "modified_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had fortified and established a position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "original_label": [
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [fortified] Added: [fortified, and]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "60",
+    "original_text": "It was founded as a spin-off of Murphy Oil in 2013.",
+    "modified_text": "It was founded as a spin-off of Murphy Oil and ExxonMobil in 2013.",
+    "original_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "ExxonMobil",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [and, ExxonMobil]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "59",
+    "original_text": "In particular, Reform Jews may be lampooned for their rejection of traditional Jewish beliefs.",
+    "modified_text": "In particular, Reform Jews may be criticized and lampooned for their rejection of traditional Jewish beliefs.",
+    "original_label": [
+      {
+        "text": "Jewish",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jews",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Jewish",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Reform Jews",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [criticized, and]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "67",
+    "original_text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "modified_text": "USP42 and its associated factors have also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "original_label": [
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "Changes": "Removed: [has] Added: [and, its, associated, factors, have]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "65",
+    "original_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "modified_text": "Loyalists and their families recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "original_label": [
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Added: [and, their, families]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "51",
+    "original_text": "Jamil was married to the daughter of Khalid Bakdash, a Syrian politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "modified_text": "Jamil was married and settled down with the daughter of Khalid Bakdash, a Syrian politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "original_label": [
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [to] Added: [and, settled, down, with]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "62",
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "modified_text": "At a festival, Siddhi and her friend save Vin from being shot at by Rudra.",
+    "original_label": [
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      },
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      },
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "her friend",
+        "value": "NON-ENTITY"
+      }
+    ],
+    "Changes": "Removed: [saves] Added: [and, her, friend, save]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "63",
+    "original_text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "modified_text": "Her brother campaigned vigorously and ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "original_label": [
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [campaigned, vigorously, and]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "62",
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "modified_text": "At a festival, Siddhi intervenes and saves Vin from being shot at by Rudra.",
+    "original_label": [
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      },
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      },
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Added: [intervenes, and]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "62",
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "modified_text": "At a festival, Siddhi and Anjali save Vin from being shot at by Rudra.",
+    "original_label": [
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      },
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Anjali",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      },
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [saves] Added: [and, Anjali, save]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "57",
+    "original_text": "Internal conflicts, especially between Covaci and Baniciu, were making headlines in the media.",
+    "modified_text": "Internal conflicts, especially between Covaci, Baniciu, and their colleagues, were making headlines in the media.",
+    "original_label": [
+      {
+        "text": "Baniciu",
+        "value": "PERSON"
+      },
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Baniciu",
+        "value": "PERSON"
+      },
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "their colleagues",
+        "value": "NON-ENTITY"
+      }
+    ],
+    "Changes": "Removed: [Covaci, Baniciu,] Added: [Covaci,, Baniciu,, their, colleagues,]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "51",
+    "original_text": "Jamil was married to the daughter of Khalid Bakdash, a Syrian politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "modified_text": "Jamil was married to the daughter of Khalid Bakdash, a Syrian politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab and European parliament in 1954.",
+    "original_label": [
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      },
+      {
+        "text": "European",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Added: [and, European]",
+    "is_subset": "FALSE"
+  },
+  {
+    "index": "65",
+    "original_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "modified_text": "Loyalists recruited from Queens County and Kings County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "original_label": [
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Kings County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Added: [County, and, Kings]",
+    "is_subset": "TRUE"
+  },
+  {
+    "index": "54",
+    "original_text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "modified_text": "This collection showcases and contains material relating to sexual health issues from 1974-2007.",
+    "original_label": [],
+    "modified_label": [
+      {
+        "text": "1974-2007",
+        "value": "NON-ENTITY"
+      },
+      {
+        "text": "This collection",
+        "value": "NON-ENTITY"
+      }
+    ],
+    "Changes": "Added: [showcases, and]",
+    "is_subset": "TRUE"
+  }
+]

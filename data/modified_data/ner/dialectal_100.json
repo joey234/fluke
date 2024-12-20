@@ -1,0 +1,3517 @@
+[
+  {
+    "original_text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza intensified.",
+    "modified_text": "The kampong people also not happy lor, then from 1846 to 1848, they more and more against Sturdza.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singapore Colloquial English such as the use of 'kampong' to refer to rural communities, 'lor' as a discourse particle, and the omission of auxiliary verbs ('was') and articles.",
+    "modified_label": [
+      {
+        "text": "Sturdza",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Sturdza"
+    ],
+    "original_label": [
+      {
+        "Sturdza": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Sturdza"
+    ],
+    "index": 41
+  },
+  {
+    "original_text": "It was founded as a spin-off of Murphy Oil in 2013.",
+    "modified_text": "It start as one spin-off from Murphy Oil in 2013 lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes simplification of verb form to 'start' and the addition of 'lah' at the end of the sentence, which is a common particle used for emphasis in Singlish.",
+    "modified_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Murphy Oil"
+    ],
+    "original_label": [
+      {
+        "Murphy Oil": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Murphy Oil"
+    ],
+    "index": 60
+  },
+  {
+    "original_text": "Anhur is a playable character in the multiplayer online battle arena, ``SMITE''.",
+    "modified_text": "Anhur is one playable character in the multiplayer online battle arena game, ``SMITE'' lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, the particle 'lah' is often added at the end of sentences for emphasis. The word 'one' is used instead of 'a' for the indefinite article, which is a common feature in Singlish.",
+    "modified_label": [
+      {
+        "text": "Anhur",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Anhur"
+    ],
+    "original_label": [
+      {
+        "Anhur": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Anhur"
+    ],
+    "index": 50
+  },
+  {
+    "original_text": "Moreover, Santa is actually innocent of the crime, which was instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "modified_text": "Also hor, Santa actually never do anything wrong one lah, is Cousin Mel who plan everything one lor, in the song say a bit only but in the show make her like some gold-digger like that.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singlish such as the use of 'lah' and 'lor' for emphasis, 'hor' as a discourse particle, and 'one' as a general-purpose declarative suffix. The grammar is reflective of the basilect level of Singlish, which often simplifies or omits certain standard English structures.",
+    "modified_label": [
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Cousin Mel",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Santa",
+      "Cousin Mel"
+    ],
+    "original_label": [
+      {
+        "Santa": "PERSON"
+      },
+      {
+        "Cousin Mel": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Santa",
+      "Cousin Mel"
+    ],
+    "index": 43
+  },
+  {
+    "original_text": "Internal conflicts, especially between Covaci and Baniciu, were making headlines in the media.",
+    "modified_text": "Got internal conflicts lah, especially between Covaci and Baniciu, making headlines in the media one.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes Singlish features such as the use of 'lah' for emphasis, 'got' as a present tense marker, and 'one' as a general emphatic particle at the end of the sentence.",
+    "modified_label": [
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Baniciu",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Covaci",
+      "Baniciu"
+    ],
+    "original_label": [
+      {
+        "Covaci": "PERSON"
+      },
+      {
+        "Baniciu": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Covaci",
+      "Baniciu"
+    ],
+    "index": 57
+  },
+  {
+    "original_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "modified_text": "Allistair Pinsof from ``Destructoid``, he praise the game lor, say the controls power like ``Super Metroid`` and ``Super Castlevania IV`` one.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes elements of Singlish, such as the use of 'lor' for emphasis and 'one' as a general article, as well as 'power' to describe something as excellent.",
+    "modified_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "original_label": [
+      {
+        "Allistair Pinsof": "PERSON"
+      },
+      {
+        "Destructoid": "ORGANIZATION"
+      },
+      {
+        "Super Metroid": "PRODUCT"
+      },
+      {
+        "Super Castlevania IV": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "index": 58
+  },
+  {
+    "original_text": "The government announced a state funeral and a day of national mourning.",
+    "modified_text": "Government say got state funeral and one whole day national mourning lor.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, 'say' is often used instead of 'announced', 'got' is a common colloquial substitute for 'will be', and 'lor' is an end particle that adds a touch of resignation or inevitability.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 46
+  },
+  {
+    "original_text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "modified_text": "The Newfoundland Reform Liberal Party was one leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979 lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes the use of 'one' as an indefinite article and the particle 'lah' at the end of the sentence, which are characteristic of Singlish.",
+    "modified_label": [
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundland and Labrador",
+      "Canada"
+    ],
+    "original_label": [
+      {
+        "Newfoundland Reform Liberal Party": "ORGANIZATION"
+      },
+      {
+        "Newfoundland and Labrador": "LOCATION"
+      },
+      {
+        "Canada": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundland and Labrador",
+      "Canada"
+    ],
+    "index": 44
+  },
+  {
+    "original_text": "Back to Basics focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "modified_text": "Back to Basics focus on genre classics one, show older movies and underground cult films, sometimes try a bit on the mainstream and new genre pieces lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singlish such as the omission of articles, use of 'one' as a general placeholder, 'lah' for emphasis, and simplification of verb tenses.",
+    "modified_label": [
+      {
+        "text": "Back to Basics",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Back to Basics"
+    ],
+    "original_label": [
+      {
+        "Back to Basics": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Back to Basics"
+    ],
+    "index": 56
+  },
+  {
+    "original_text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "modified_text": "Hunt represent the 8th legislative district in Omaha lor, got the midtown neighborhoods like Dundee, Benson, and Keystone one.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singlish such as 'lor' for a casual assertion, 'got' as a replacement for 'consisting of', and 'one' as a colloquial particle at the end of the sentence to indicate definiteness.",
+    "modified_label": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Hunt",
+      "Omaha",
+      "Dundee",
+      "Benson",
+      "Keystone"
+    ],
+    "original_label": [
+      {
+        "Hunt": "PERSON"
+      },
+      {
+        "Omaha": "LOCATION"
+      },
+      {
+        "Dundee": "LOCATION"
+      },
+      {
+        "Benson": "LOCATION"
+      },
+      {
+        "Keystone": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Hunt",
+      "Omaha",
+      "Dundee",
+      "Benson",
+      "Keystone"
+    ],
+    "index": 48
+  },
+  {
+    "original_text": "Most of the town is actually a gated community called Orchid Island Golf and Beach Club.",
+    "modified_text": "Most of the town actually one gated community called Orchid Island Golf and Beach Club lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, 'is' can be omitted, and 'lah' is often added at the end of sentences for emphasis. The word 'one' is used instead of 'a' to reflect the dialect's grammatical structure.",
+    "modified_label": [
+      {
+        "text": "Orchid Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "original_label": [
+      {
+        "Orchid Island Golf and Beach Club": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "index": 47
+  },
+  {
+    "original_text": "This led to the foundation by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "modified_text": "So like that, Maximilian III Joseph, Elector of Bavaria, he go and set up the Bavarian Academy of Sciences and Humanities lor, on 28 March 1759.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes Singlish expressions such as 'So like that' and 'lor', which are indicative of the colloquial speech pattern. 'He go and set up' is a common Singlish construction for past actions.",
+    "modified_label": [
+      {
+        "text": "Maximilian III Joseph, Elector of Bavaria",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Maximilian III Joseph, Elector of Bavaria",
+      "Bavarian Academy of Sciences and Humanities"
+    ],
+    "original_label": [
+      {
+        "Maximilian III Joseph, Elector of Bavaria": "PERSON"
+      },
+      {
+        "Bavarian Academy of Sciences and Humanities": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Maximilian III Joseph, Elector of Bavaria",
+      "Bavarian Academy of Sciences and Humanities"
+    ],
+    "index": 45
+  },
+  {
+    "original_text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "modified_text": "This collection got materials one, talk about sexual health issues from 1974-2007 lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singlish such as the use of 'one' as a discourse particle, 'lah' for emphasis at the end of the sentence, and 'got' as a colloquial substitute for 'contains'. The sentence structure is slightly altered to reflect Singlish speech patterns.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 54
+  },
+  {
+    "original_text": "In 1955 it began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various models over the next 40 years.",
+    "modified_text": "In 1955 hor, it start to receive one early model of the Boeing B-52 Stratofortress lor, then upgrade to many different models over the next 40 years.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes the use of 'hor' and 'lor' as discourse particles and 'start to receive' instead of 'began receiving' to mimic the syntax and discourse features of Singlish.",
+    "modified_label": [
+      {
+        "text": "Boeing B-52",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Boeing B-52"
+    ],
+    "original_label": [
+      {
+        "Boeing B-52": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Boeing B-52"
+    ],
+    "index": 53
+  },
+  {
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "modified_text": "Del Imaginario Discos from Argentina also released the album lah, in 2007.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes the use of 'lah' at the end of the sentence, which is a particle that adds emphasis and is characteristic of Singlish. The structure of the sentence remains largely the same, as Singlish often follows standard English syntax but with colloquialisms and particles added.",
+    "modified_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ],
+    "original_label": [
+      {
+        "Argentina": "LOCATION"
+      },
+      {
+        "Del Imaginario Discos": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ],
+    "index": 42
+  },
+  {
+    "original_text": "It was produced by Richard D.Zanuck and David Brown.",
+    "modified_text": "It was produced by Richard D.Zanuck and David Brown only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "In Indian English, the word 'only' is often used for emphasis at the end of a statement to indicate that the preceding information is exclusive or definitive.",
+    "modified_label": [
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "original_label": [
+      {
+        "Richard D.Zanuck": "PERSON"
+      },
+      {
+        "David Brown": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "index": 70
+  },
+  {
+    "original_text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "modified_text": "The story was adapted to the stage in the year 1939 at the Martin Beck Theater to great acclaim, but ran only for six performances because the production was proving to be expensive.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "Indian English often includes more formal structures such as 'in the year' before a date. The past perfect 'had been' is replaced with simple past 'was' for simplicity. The word order is slightly altered to 'ran only for six performances' for emphasis, and 'was proving to be' is used to indicate the ongoing nature of the expense.",
+    "modified_label": [
+      {
+        "text": "Martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Martin Beck Theater"
+    ],
+    "original_label": [
+      {
+        "Martin Beck Theater": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Martin Beck Theater"
+    ],
+    "index": 64
+  },
+  {
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "modified_text": "In a festival, Siddhi is saving Vin from getting shot by Rudra.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "Indian English often includes the use of present continuous tense 'is saving' instead of simple present 'saves', even when referring to a single event. The use of 'In' instead of 'At' for locations is also a common feature in Indian English. The progressive 'getting' is retained, as it is commonly used in Indian English.",
+    "modified_label": [
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Siddhi",
+      "Vin",
+      "Rudra"
+    ],
+    "original_label": [
+      {
+        "Siddhi": "PERSON"
+      },
+      {
+        "Vin": "PERSON"
+      },
+      {
+        "Rudra": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Siddhi",
+      "Vin",
+      "Rudra"
+    ],
+    "index": 62
+  },
+  {
+    "original_text": "In 1967, the park was the gathering place for a peaceful anti-war rally.",
+    "modified_text": "In 1967, the park became the gathering spot for a peaceful anti-war rally only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes the use of 'became' in place of 'was' and the addition of 'only' at the end of the sentence, which is a common feature in Indian English to emphasize the exclusivity of the event. The sentence structure is slightly modified to align with Indian English usage.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 66
+  },
+  {
+    "original_text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "modified_text": "Royal Malaysia Police Air Operations Force or 'Pasukan Gerakan Udara (PGU)' is a special aviation unit belonging to Royal Malaysia Police only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "Indian English often includes the use of 'only' for emphasis and can include more formal constructs such as 'belonging to' to indicate possession or association.",
+    "modified_label": [
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "PGU",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "original_label": [
+      {
+        "Royal Malaysia Police Air Operations Force": "ORGANIZATION"
+      },
+      {
+        "Pasukan Gerakan Udara": "ORGANIZATION"
+      },
+      {
+        "PGU": "ORGANIZATION"
+      },
+      {
+        "Royal Malaysia Police": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "index": 69
+  },
+  {
+    "original_text": "Puckrik travelled widely in her childhood due to her father's military background.",
+    "modified_text": "Puckrik, in her childhood, travelled a lot because her father was in the military, no?",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes features of Indian English such as the use of 'no' as a tag question at the end of the sentence, and a slight reordering of the sentence structure to match common Indian English syntax.",
+    "modified_label": [
+      {
+        "text": "Puckrik",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Puckrik"
+    ],
+    "original_label": [
+      {
+        "Puckrik": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Puckrik"
+    ],
+    "index": 72
+  },
+  {
+    "original_text": "Mediaite named her in a four-way tie among the ``Best TV Pundits`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "modified_text": "Mediaite has named her in a four-way tie among the 'Best TV Pundits' of 2014 for having brought a comprehensive understanding to women's health and justice issues, which is going beyond the usual talking points.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes syntactical features of Indian English, such as the use of 'has named' instead of 'named', and the use of 'which is going' to imply the continuation of the action beyond the usual.",
+    "modified_label": [
+      {
+        "text": "Mediaite",
+        "value": "PERSON"
+      },
+      {
+        "text": "Best TV Pundits",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Mediaite",
+      "Best TV Pundits"
+    ],
+    "original_label": [
+      {
+        "Mediaite": "PERSON"
+      },
+      {
+        "Best TV Pundits": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Mediaite",
+      "Best TV Pundits"
+    ],
+    "index": 75
+  },
+  {
+    "original_text": "The album featured remixes of ``Like It or Not`` and ``Tearing Me Up`` from artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "modified_text": "The album is having remixes of ``Like It or Not`` and ``Tearing Me Up`` from artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "Indian English often uses 'is having' in place of 'has' or 'features' to denote possession or inclusion, which is a common Indianism.",
+    "modified_label": [
+      {
+        "text": "Like It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "Tearing Me Up",
+        "value": "ART"
+      },
+      {
+        "text": "A-Trak",
+        "value": "PERSON"
+      },
+      {
+        "text": "RAC",
+        "value": "PERSON"
+      },
+      {
+        "text": "Joris Voorn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Like It or Not",
+      "Tearing Me Up",
+      "A-Trak",
+      "RAC",
+      "Joris Voorn",
+      "Tale of Us"
+    ],
+    "original_label": [
+      {
+        "Like It or Not": "ART"
+      },
+      {
+        "Tearing Me Up": "ART"
+      },
+      {
+        "A-Trak": "PERSON"
+      },
+      {
+        "RAC": "PERSON"
+      },
+      {
+        "Joris Voorn": "PERSON"
+      },
+      {
+        "Tale of Us": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Like It or Not",
+      "Tearing Me Up",
+      "A-Trak",
+      "RAC",
+      "Joris Voorn",
+      "Tale of Us"
+    ],
+    "index": 78
+  },
+  {
+    "original_text": "It is operated by the Nhulunbuy Corporation.",
+    "modified_text": "It is being operated by the Nhulunbuy Corporation only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "Indian English often includes the continuous tense for ongoing actions and may use 'only' for emphasis at the end of the sentence.",
+    "modified_label": [
+      {
+        "text": "Nhulunbuy Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "original_label": [
+      {
+        "Nhulunbuy Corporation": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "index": 68
+  },
+  {
+    "original_text": "The same effects have also been seen in short pubertal boys.",
+    "modified_text": "The same effects are also being seen in the short pubertal boys.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "Indian English often uses continuous tenses, and the definite article 'the' may be used more frequently before adjectives like 'short'.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 80
+  },
+  {
+    "original_text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "modified_text": "As per Steak' n Shake archives, the restaurant's founder, Gus Belt, had applied for a trademark on the word in the 1930s.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes 'As per' which is a common phrase in Indian English to mean 'according to', and the use of 'had applied' reflects the Indian English tendency to use perfect tenses.",
+    "modified_label": [
+      {
+        "text": "Steak' n Shake",
+        "value": "ART"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "original_label": [
+      {
+        "Steak' n Shake": "ART"
+      },
+      {
+        "Gus Belt": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "index": 76
+  },
+  {
+    "original_text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "modified_text": "USP42 has also been shown to deubiquitinate p53 and it might be required for the ability of p53 to respond to stress.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes the use of 'it might be required' which reflects a formal and somewhat redundant expression common in Indian English. The structure of the sentence remains largely the same, as Indian English often follows British English grammar closely.",
+    "modified_label": [
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ],
+    "original_label": [
+      {
+        "USP42": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ],
+    "index": 67
+  },
+  {
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "Golaem, one software company from France one, developed it lor (started in Rennes in 2009).",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, the word 'lor' is often used at the end of a statement to assert a matter-of-fact tone. The word 'one' is used as an indefinite article, and the sentence structure is altered to reflect common Singlish syntax, while keeping the entities intact.",
+    "modified_label": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "original_label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "index": 28
+  },
+  {
+    "original_text": "Many of the men were separated from their families and sent into the B.C.",
+    "modified_text": "Many of the men kena separate from their families and send into the B.C. lor.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singapore Colloquial English such as the use of 'kena' which is a Malay loanword used in Singlish to indicate a passive action, and 'lor' which is a discourse particle that does not change the meaning of the sentence but reflects the speaking style of Singlish.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 26
+  },
+  {
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "His student Vadeebhasimha write in prose 'Gayachintamani' and 'Kshatrachudamini' one, based on poet Banas 'Kadambari' lah, then minister Chavundaraya also write 'Charitarasara'.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes the use of 'write' in place of 'wrote' and the addition of 'one' and 'lah' which are particles that reflect Singlish colloquial speech. The word 'also' is added before 'write' to indicate sequential actions, which is a common feature in Singlish.",
+    "modified_label": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "original_label": [
+      {
+        "Vadeebhasimha": "PERSON"
+      },
+      {
+        "Gayachintamani": "ART"
+      },
+      {
+        "Kshatrachudamini": "ART"
+      },
+      {
+        "Banas": "PERSON"
+      },
+      {
+        "Kadambari": "ART"
+      },
+      {
+        "Chavundaraya": "PERSON"
+      },
+      {
+        "Charitarasara": "ART"
+      }
+    ],
+    "original_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "index": 38
+  },
+  {
+    "original_text": "Dorsa has a Bachelor of Music in Composition from California State University, Northridge in 2001, Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "modified_text": "Dorsa got Bachelor of Music in Composition one from California State University, Northridge in 2001, then Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and Doctor of Musical Arts at University of Michigan, Ann Arbor in 2008 lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes the use of 'got' which is a common feature in Singlish to indicate possession or attainment. The addition of 'lah' at the end of the sentence is a discourse particle that is frequently used in Singlish for emphasis. Articles like 'a' are often omitted in Singlish.",
+    "modified_label": [
+      {
+        "text": "Dorsa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "California State University, Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Doctor of Musical Arts",
+        "value": "OTHER"
+      },
+      {
+        "text": "University of Michigan",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "original_label": [
+      {
+        "Dorsa": "PERSON"
+      },
+      {
+        "Bachelor of Music": "OTHER"
+      },
+      {
+        "California State University, Northridge": "ORGANIZATION"
+      },
+      {
+        "Master of Music": "OTHER"
+      },
+      {
+        "Cal State Northridge": "ORGANIZATION"
+      },
+      {
+        "Doctor of Musical Arts": "OTHER"
+      },
+      {
+        "University of Michigan": "ORGANIZATION"
+      },
+      {
+        "Ann Arbor": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "index": 33
+  },
+  {
+    "original_text": "She has also written fiction and her work has gained awards.",
+    "modified_text": "She also write fiction one, her work got awards lor.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, the past tense can be indicated without changing the verb form ('write' instead of 'written'). The particle 'one' is often used for emphasis, and 'lor' is a colloquial particle used for assertion. The sentence structure is modified to reflect Singlish features, with less emphasis on strict grammatical tenses.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 29
+  },
+  {
+    "original_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "modified_text": "Dublin also got service by Weston Airport lah, and other small-small facilities, got helicopter operators also, then the military and some more State services use Casement Aerodrome nearby one.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singlish such as the use of 'lah' for emphasis, 'small-small' as a reduplication that emphasizes the plurality, 'got' instead of 'is served by', 'also' to indicate inclusion, and 'one' as a general placeholder word at the end of the sentence.",
+    "modified_label": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "original_label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "index": 24
+  },
+  {
+    "original_text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "modified_text": "Some versions, the eggplant not grilled one, but boiled, so it becomes more soft and don't have the smoky flavor like the original dish lor.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singapore Colloquial English such as the omission of articles ('the'), use of 'one' as a general placeholder, 'lor' as a discourse particle, and the absence of 'is' in the present tense.",
+    "modified_label": [
+      {
+        "text": "eggplant",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "eggplant"
+    ],
+    "original_label": [
+      {
+        "eggplant": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "eggplant"
+    ],
+    "index": 40
+  },
+  {
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_text": "Glutamine synthetase use ammonia one, produced by nitrate reduction, amino acid degradation, and photorespiration lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes the use of 'use' without's' to reflect the common dropping of the third person singular's' in Singlish. The particle 'one' is used to indicate specificity, and 'lah' is added at the end of the sentence for emphasis, which is a common feature in Singlish.",
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "index": 21
+  },
+  {
+    "original_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "modified_text": "He go and produce for Kim Fowley and BMX Bandits one, that Receiver Records album ``Hidden Agenda At the Thirteenth Not`` lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singlish such as the omission of articles, use of 'one' as an indefinite pronoun, and the particle 'lah' for emphasis, which are typical in this English creole.",
+    "modified_label": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Agenda At the Thirteenth Not",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "original_label": [
+      {
+        "Kim Fowley": "PERSON"
+      },
+      {
+        "BMX Bandits": "ORGANIZATION"
+      },
+      {
+        "Receiver Records": "ORGANIZATION"
+      },
+      {
+        "Hidden Agenda At the Thirteenth Not": "ART"
+      }
+    ],
+    "original_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "index": 25
+  },
+  {
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "Early kampungs start to show up at the starting of the 19th century lah, got Lynchburg, Harrisburg, and Rightor's Point one (now call Morgan's Point) in the 1820s.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes lexical items like 'kampungs' (communities) and the particle 'lah' for emphasis, which are typical of Singlish. The phrase 'got' is used to indicate inclusion, and 'one' is a common placeholder for a noun.",
+    "modified_label": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "index": 32
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Gonu cause quite the strong gusty winds and heavy rain lah, along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes lexical features of Singlish, such as the use of 'lah' for emphasis and 'quite the' to intensify the description of the winds and rain. The grammar remains close to Standard English to maintain comprehensibility while reflecting Singlish features.",
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "index": 36
+  },
+  {
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Also, the SFO say can pay for the legal costs lor.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, 'furthermore' can be replaced with 'also', and 'offered to pay' can be expressed as 'say can pay'. The particle 'lor' is often used at the end of a sentence to indicate a matter-of-fact tone.",
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "the SFO"
+    ],
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "the SFO"
+    ],
+    "index": 30
+  },
+  {
+    "original_text": "Most of the town is actually a gated community called Orchid Island Golf and Beach Club.",
+    "modified_text": "Most of the town is actually a gated community only, called Orchid Island Golf and Beach Club.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "In Indian English, the word 'only' is often used for emphasis after the noun phrase. The structure of the sentence remains similar to Standard English, but with the addition of 'only' for an Indian English flavor.",
+    "modified_label": [
+      {
+        "text": "Orchid Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "original_label": [
+      {
+        "Orchid Island Golf and Beach Club": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "index": 47
+  },
+  {
+    "original_text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "modified_text": "This collection is containing materials related to sexual health issues from 1974-2007 only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes features of Indian English such as the use of 'is containing' instead of 'contains' and the addition of 'only' at the end of the sentence for emphasis. The sentence structure is modified to reflect common Indian English grammar patterns.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 54
+  },
+  {
+    "original_text": "In 1955 it began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various models over the next 40 years.",
+    "modified_text": "In 1955 it started receiving an early model of the Boeing B-52 Stratofortress and was upgraded to various models across the next 40 years.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes the use of 'started receiving' instead of 'began receiving' and 'was upgraded' to reflect the more formal and passive construction often found in Indian English.",
+    "modified_label": [
+      {
+        "text": "Boeing B-52",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Boeing B-52"
+    ],
+    "original_label": [
+      {
+        "Boeing B-52": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Boeing B-52"
+    ],
+    "index": 53
+  },
+  {
+    "original_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "modified_text": "Allistair Pinsof of ``Destructoid``, he has praised the game, telling that the controls are as good as that of ``Super Metroid`` and ``Super Castlevania IV``.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes Indian English features such as the use of 'has praised' instead of 'praised' and 'telling' instead of 'saying', which are common in Indian English syntax.",
+    "modified_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "original_label": [
+      {
+        "Allistair Pinsof": "PERSON"
+      },
+      {
+        "Destructoid": "ORGANIZATION"
+      },
+      {
+        "Super Metroid": "PRODUCT"
+      },
+      {
+        "Super Castlevania IV": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "index": 58
+  },
+  {
+    "original_text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza intensified.",
+    "modified_text": "The peasantry was also much aggrieved, and from 1846 to 1848 the opposition to Sturdza became very strong.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes features of Indian English such as the use of 'much' for emphasis and a more formal tone that is characteristic of Indian English. Phrases like 'became very strong' are used to reflect the intensification of opposition.",
+    "modified_label": [
+      {
+        "text": "Sturdza",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Sturdza"
+    ],
+    "original_label": [
+      {
+        "Sturdza": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Sturdza"
+    ],
+    "index": 41
+  },
+  {
+    "original_text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "modified_text": "Hunt is representing the 8th legislative district in Omaha, which consists of the midtown neighbourhoods like Dundee, Benson, and Keystone.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes features of Indian English such as the use of present continuous tense 'is representing' instead of simple present 'represents', and the use of 'which consists of' to provide additional clarification. Also, 'neighbourhoods' is spelled in the British English form, which is commonly used in Indian English.",
+    "modified_label": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Hunt",
+      "Omaha",
+      "Dundee",
+      "Benson",
+      "Keystone"
+    ],
+    "original_label": [
+      {
+        "Hunt": "PERSON"
+      },
+      {
+        "Omaha": "LOCATION"
+      },
+      {
+        "Dundee": "LOCATION"
+      },
+      {
+        "Benson": "LOCATION"
+      },
+      {
+        "Keystone": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Hunt",
+      "Omaha",
+      "Dundee",
+      "Benson",
+      "Keystone"
+    ],
+    "index": 48
+  },
+  {
+    "original_text": "It was founded as a spin-off of Murphy Oil in 2013.",
+    "modified_text": "It was founded as a spin-off of Murphy Oil only in 2013.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes the addition of 'only' which is often used in Indian English for emphasis and to indicate that something happened recently or at a specific time.",
+    "modified_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Murphy Oil"
+    ],
+    "original_label": [
+      {
+        "Murphy Oil": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Murphy Oil"
+    ],
+    "index": 60
+  },
+  {
+    "original_text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this obstacle to political change.",
+    "modified_text": "However, in 1861 the prospect of southern states doing secession after the 1860 presidential election removed this obstacle to political change only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes features of Indian English such as the use of 'doing secession' which reflects the Indianism of verb construction, and the addition of 'only' at the end of the sentence for emphasis, a common feature in Indian English to stress the completion of an action.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 55
+  },
+  {
+    "original_text": "Moreover, Santa is actually innocent of the crime, which was instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "modified_text": "Furthermore, Santa is actually not guilty of the crime, it was Cousin Mel who has done the masterminding, no? She is mentioned only briefly in the song but in the special, they have made her out to be a gold-digging villainess.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes features of Indian English such as the use of 'no?' as a tag question, 'has done' for past perfect tense, and the retention of formal structures. The sentence structure is kept close to Standard English but includes Indianisms in phrasing and grammar.",
+    "modified_label": [
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Cousin Mel",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Santa",
+      "Cousin Mel"
+    ],
+    "original_label": [
+      {
+        "Santa": "PERSON"
+      },
+      {
+        "Cousin Mel": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Santa",
+      "Cousin Mel"
+    ],
+    "index": 43
+  },
+  {
+    "original_text": "Internal conflicts, especially between Covaci and Baniciu, were making headlines in the media.",
+    "modified_text": "Internal conflicts, especially between Covaci and Baniciu, were coming into the headlines in the media.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes a common Indian English feature of using 'coming into' to indicate something becoming prominent or noticeable, which is a literal translation of an Indian language syntax into English.",
+    "modified_label": [
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Baniciu",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Covaci",
+      "Baniciu"
+    ],
+    "original_label": [
+      {
+        "Covaci": "PERSON"
+      },
+      {
+        "Baniciu": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Covaci",
+      "Baniciu"
+    ],
+    "index": 57
+  },
+  {
+    "original_text": "Back to Basics focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "modified_text": "Back to Basics is focusing on genre classics, showing older movies and underground cult films, with occasional tries at mainstream and newer genre pieces only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes features of Indian English such as the continuous tense for present actions, and the use of 'only' for emphasis at the end of the sentence.",
+    "modified_label": [
+      {
+        "text": "Back to Basics",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Back to Basics"
+    ],
+    "original_label": [
+      {
+        "Back to Basics": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Back to Basics"
+    ],
+    "index": 56
+  },
+  {
+    "original_text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "modified_text": "In some versions, the eggplant is not getting grilled, but is getting boiled, resulting in a softer version that is lacking the characteristic smoky flavor of the original dish.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes features of Indian English such as the use of continuous tense ('is getting') where simple present tense is typically used in other dialects, and the use of 'is lacking' instead of 'lacks' to emphasize the absence of the smoky flavor.",
+    "modified_label": [
+      {
+        "text": "eggplant",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "eggplant"
+    ],
+    "original_label": [
+      {
+        "eggplant": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "eggplant"
+    ],
+    "index": 40
+  },
+  {
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Moreover, the SFO has offered to pay the reasonable legal costs.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "In Indian English, 'furthermore' can be replaced with 'moreover', and the perfect tense 'has offered' is often used to indicate an action that has relevance to the present moment. The word 'the' before 'reasonable legal costs' is retained for formality, which is common in Indian English.",
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "the SFO"
+    ],
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "the SFO"
+    ],
+    "index": 30
+  },
+  {
+    "original_text": "Many of the men were separated from their families and sent into the B.C.",
+    "modified_text": "Many men got separated from their families and were sent to the B.C. only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes features of Indian English such as the omission of the article 'the' before 'men', the use of 'got separated' instead of 'were separated', and the addition of 'only' at the end of the sentence for emphasis, which is a common feature in Indian English to stress the action that has taken place.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 26
+  },
+  {
+    "original_text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "modified_text": "Nintendo continued selling the revised Wii model and the Wii Mini along with the Wii U during its first release year only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes features of Indian English such as the use of 'only' at the end of the sentence for emphasis, and 'continued selling' which is a common verb construction in Indian English. The sentence structure is slightly altered to sound more natural in Indian English.",
+    "modified_label": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "original_label": [
+      {
+        "Nintendo": "ORGANIZATION"
+      },
+      {
+        "Wii model": "PRODUCT"
+      },
+      {
+        "Wii Mini": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "index": 22
+  },
+  {
+    "original_text": "She has also written fiction and her work has gained awards.",
+    "modified_text": "She has also written fiction and her work has got awards.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "In Indian English, the present perfect tense 'has gained' is often replaced with 'has got'. The sentence structure is kept similar to Standard English, with slight modifications to verb forms to reflect Indian English usage.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 29
+  },
+  {
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_text": "Glutamine synthetase is using ammonia which is produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes the use of 'is using' which reflects the Indian English tendency to use continuous tense. The addition of 'which is' before 'produced' adds a relative clause, which is a common feature in Indian English to provide additional information.",
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "index": 21
+  },
+  {
+    "original_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "modified_text": "Dublin is also served by Weston Airport and other small facilities only, by a range of helicopter operators, and the military and some State services are using Casement Aerodrome nearby.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes features of Indian English such as the use of 'only' for emphasis at the end of a phrase, and 'are using' to indicate a continuous action, which is a common feature in Indian English grammar.",
+    "modified_label": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "original_label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "index": 24
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Gonu has caused strong gusty winds and heavy rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes features of Indian English, such as the use of the present perfect tense 'has caused' and the addition of 'only' at the end of the sentence for emphasis, which is a common feature in Indian English.",
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "index": 36
+  },
+  {
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "His pupil Vadeebhasimha has written in prose 'Gayachintamani' and 'Kshatrachudamini', based on poet Banas' 'Kadambari', and minister Chavundaraya has also written 'Charitarasara'.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes the use of 'has written' which is a common feature in Indian English to indicate the perfect aspect. The addition of 'also' before 'written' is a typical Indian English feature to show addition or continuation.",
+    "modified_label": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "original_label": [
+      {
+        "Vadeebhasimha": "PERSON"
+      },
+      {
+        "Gayachintamani": "ART"
+      },
+      {
+        "Kshatrachudamini": "ART"
+      },
+      {
+        "Banas": "PERSON"
+      },
+      {
+        "Kadambari": "ART"
+      },
+      {
+        "Chavundaraya": "PERSON"
+      },
+      {
+        "Charitarasara": "ART"
+      }
+    ],
+    "original_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "index": 38
+  },
+  {
+    "original_text": "The situation began to crystallise after 1961 when South Africa left the Commonwealth of Nations and so, under the rules of the day, its cricket board had to leave the International Cricket Conference (ICC).",
+    "modified_text": "The situation start to become clear one after 1961 lor, when South Africa say bye-bye to the Commonwealth of Nations, then hor, by the rules that time, its cricket board must also cabut from the International Cricket Conference (ICC) lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification incorporates Singlish expressions such as 'lor' for emphasis, 'say bye-bye' as a colloquial way of saying 'left', 'then hor' as a conversational connector, 'must also cabut' to mean 'had to leave', and 'lah' as an emphatic particle at the end of the sentence, all of which are characteristic of Singlish basilect.",
+    "modified_label": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ICC",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "South Africa",
+      "Commonwealth of Nations",
+      "International Cricket Conference",
+      "ICC"
+    ],
+    "original_label": [
+      {
+        "South Africa": "LOCATION"
+      },
+      {
+        "Commonwealth of Nations": "ORGANIZATION"
+      },
+      {
+        "International Cricket Conference": "ORGANIZATION"
+      },
+      {
+        "ICC": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "South Africa",
+      "Commonwealth of Nations",
+      "International Cricket Conference",
+      "ICC"
+    ],
+    "index": 71
+  },
+  {
+    "original_text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "modified_text": "Her brother run for the United States House of Representatives from upstate New York one, but no luck lah, in 1992 and 1994.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, the past tense 'ran' can be replaced with the present tense 'run' as tense markers are often omitted. The particle 'lah' is frequently used for emphasis, and 'one' is used as a general placeholder for a noun.",
+    "modified_label": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "United States House of Representatives",
+      "New York"
+    ],
+    "original_label": [
+      {
+        "United States House of Representatives": "ORGANIZATION"
+      },
+      {
+        "New York": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "United States House of Representatives",
+      "New York"
+    ],
+    "index": 63
+  },
+  {
+    "original_text": "It is operated by the Nhulunbuy Corporation.",
+    "modified_text": "Nhulunbuy Corporation the one running it lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, the sentence structure often changes, and 'lah' is a common particle added for emphasis. The passive voice is also less commonly used, hence the active 'the one running it'.",
+    "modified_label": [
+      {
+        "text": "Nhulunbuy Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "original_label": [
+      {
+        "Nhulunbuy Corporation": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "index": 68
+  },
+  {
+    "original_text": "The festival is dedicated to world television and digital content and its creation and development.",
+    "modified_text": "The festival one kind event for world television and digital content, how to make and grow it lor.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singlish such as the use of 'one kind' to mean 'dedicated to' and 'lor' as a discourse particle for emphasis. The grammar is also adjusted to reflect the basilect level of Singlish.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 73
+  },
+  {
+    "original_text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "modified_text": "The story last time got adapt to the stage in 1939 one at the Martin Beck Theater, very good one, but only can run for six shows 'cos the production very expensive lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, past events are often referred to with 'last time', and 'got' is used to indicate past tense. The phrase 'very good one' is a common Singlish expression for acclaim. 'Can' is used to indicate possibility, and 'lah' is a common Singlish particle added for emphasis. 'Cos' is a contraction of 'because'.",
+    "modified_label": [
+      {
+        "text": "Martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Martin Beck Theater"
+    ],
+    "original_label": [
+      {
+        "Martin Beck Theater": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Martin Beck Theater"
+    ],
+    "index": 64
+  },
+  {
+    "original_text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "modified_text": "Royal Malaysia Police Air Operations Force or 'Pasukan Gerakan Udara (PGU)' one special aviation unit under Royal Malaysia Police lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, 'lah' is a common particle added for emphasis, and 'one' is often used instead of 'a' or 'an'. The preposition 'under' is used to indicate belonging or part of a larger entity.",
+    "modified_label": [
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "PGU",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "original_label": [
+      {
+        "Royal Malaysia Police Air Operations Force": "ORGANIZATION"
+      },
+      {
+        "Pasukan Gerakan Udara": "ORGANIZATION"
+      },
+      {
+        "PGU": "ORGANIZATION"
+      },
+      {
+        "Royal Malaysia Police": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "index": 69
+  },
+  {
+    "original_text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "modified_text": "USP42 also can deubiquitinate p53 one, maybe got need for p53 to react to stress lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes the use of 'also can' instead of 'has also been shown to' to reflect the more direct and less formal structure of Singlish. 'Maybe got need' is a colloquial way of expressing possibility or requirement, and the particle 'lah' is added at the end for emphasis, which is characteristic of Singlish.",
+    "modified_label": [
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ],
+    "original_label": [
+      {
+        "USP42": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ],
+    "index": 67
+  },
+  {
+    "original_text": "It was produced by Richard D.Zanuck and David Brown.",
+    "modified_text": "Richard D.Zanuck and David Brown, they the ones who produced it lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, the particle 'lah' is often added for emphasis at the end of a statement. The phrase 'they the ones who' is a common Singlish construction to emphasize the doers of the action.",
+    "modified_label": [
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "original_label": [
+      {
+        "Richard D.Zanuck": "PERSON"
+      },
+      {
+        "David Brown": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "index": 70
+  },
+  {
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "modified_text": "At festival, Siddhi save Vin from kena shoot by Rudra lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, articles like 'a' are often omitted, and the verb 'saves' is simplified to 'save'. The phrase 'being shot at' is colloquially expressed as 'kena shoot', where 'kena' is a Malay loanword meaning 'to get hit' or 'to be affected by'. The particle 'lah' is added for emphasis, a common feature in Singlish.",
+    "modified_label": [
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Siddhi",
+      "Vin",
+      "Rudra"
+    ],
+    "original_label": [
+      {
+        "Siddhi": "PERSON"
+      },
+      {
+        "Vin": "PERSON"
+      },
+      {
+        "Rudra": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Siddhi",
+      "Vin",
+      "Rudra"
+    ],
+    "index": 62
+  },
+  {
+    "original_text": "The same effects have also been seen in short pubertal boys.",
+    "modified_text": "Same effects also can see in short pubertal boys lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, 'lah' is a common particle added for emphasis, 'can see' is used instead of 'have been seen', and articles like 'the' are often omitted.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 80
+  },
+  {
+    "original_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "modified_text": "Loyalists kena recruit from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade lor, they go and set up one fortified position in early August at the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes lexical features and particles characteristic of Singlish, such as 'kena' for passive action, 'lor' as a filler word, and 'go and' to indicate the action taken. The sentence structure is also slightly altered to match Singlish colloquial patterns.",
+    "modified_label": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Queens County",
+      "New York",
+      "Richard Hewlett",
+      "DeLancey's Brigade",
+      "Long Island",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ],
+    "original_label": [
+      {
+        "Queens County": "LOCATION"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "Richard Hewlett": "PERSON"
+      },
+      {
+        "DeLancey's Brigade": "ORGANIZATION"
+      },
+      {
+        "Long Island": "LOCATION"
+      },
+      {
+        "Setauket": "LOCATION"
+      },
+      {
+        "Long Island Sound": "LOCATION"
+      },
+      {
+        "Fairfield": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Queens County",
+      "New York",
+      "Richard Hewlett",
+      "DeLancey's Brigade",
+      "Long Island",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ],
+    "index": 65
+  },
+  {
+    "original_text": "Alex Salmond (leader of SNP) has since made history by becoming the first First Minister of Scotland from a party other than Labour.",
+    "modified_text": "Alex Salmond, leader of SNP lor, made history already lor, become the first First Minister of Scotland, not from Labour one.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singlish such as the use of 'lor' for emphasis, 'already' to indicate the past tense, and 'one' as a general classifier. The grammar is also altered to reflect Singlish sentence structure.",
+    "modified_label": [
+      {
+        "text": "Alex Salmond",
+        "value": "PERSON"
+      },
+      {
+        "text": "SNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Labour",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "Labour"
+    ],
+    "original_label": [
+      {
+        "Alex Salmond": "PERSON"
+      },
+      {
+        "SNP": "ORGANIZATION"
+      },
+      {
+        "Scotland": "LOCATION"
+      },
+      {
+        "Labour": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "Labour"
+    ],
+    "index": 77
+  },
+  {
+    "original_text": "Mediaite named her in a four-way tie among the ``Best TV Pundits`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "modified_text": "Mediaite give her name one part of the four-corner fight for 'Best TV Pundits' in 2014 lor, 'cause she really know her stuff on women's health and justice issues, not just the same old pattern.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes lexical and grammatical features of Singlish, such as 'give her name' instead of 'named', 'lor' as a discourse particle, and 'really know her stuff' to imply a comprehensive understanding.",
+    "modified_label": [
+      {
+        "text": "Mediaite",
+        "value": "PERSON"
+      },
+      {
+        "text": "Best TV Pundits",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Mediaite",
+      "Best TV Pundits"
+    ],
+    "original_label": [
+      {
+        "Mediaite": "PERSON"
+      },
+      {
+        "Best TV Pundits": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Mediaite",
+      "Best TV Pundits"
+    ],
+    "index": 75
+  },
+  {
+    "original_text": "In 1967, the park was the gathering place for a peaceful anti-war rally.",
+    "modified_text": "In 1967, the park become the place where people gather for a peaceful anti-war rally lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes the use of 'become' in place of 'was' and the addition of 'lah' at the end of the sentence, which are features characteristic of Singlish. The sentence structure is also slightly altered to reflect Singlish syntax.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 66
+  },
+  {
+    "original_text": "Puckrik travelled widely in her childhood due to her father's military background.",
+    "modified_text": "Puckrik last time travel here and there when small because her father from army lor.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singapore Colloquial English such as 'last time' to indicate the past, 'here and there' to mean 'widely', and the use of 'lor' as a discourse particle. The term 'from army' is used to indicate her father's military background in a more colloquial way.",
+    "modified_label": [
+      {
+        "text": "Puckrik",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Puckrik"
+    ],
+    "original_label": [
+      {
+        "Puckrik": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Puckrik"
+    ],
+    "index": 72
+  },
+  {
+    "original_text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "modified_text": "According to Steak' n Shake archives lah, the restaurant founder, Gus Belt, went to apply for trademark on the word one in the 1930s.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes 'lah' which is a discourse particle characteristic of Singlish, and 'went to apply' which reflects the colloquial grammar structure. 'One' is used as an indefinite article, which is a feature of Singlish.",
+    "modified_label": [
+      {
+        "text": "Steak' n Shake",
+        "value": "ART"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "original_label": [
+      {
+        "Steak' n Shake": "ART"
+      },
+      {
+        "Gus Belt": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "index": 76
+  },
+  {
+    "original_text": "They used several features from a batch of A1 Pacifics they had built in 1924.",
+    "modified_text": "They use quite a few features from one batch of A1 Pacifics they built in 1924 lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes the use of the present tense 'use' instead of 'used', which is a feature of Singlish where tense markers are often omitted. The word 'lah' is added at the end of the sentence for emphasis, a common particle in Singlish. 'Quite a few' is used to replace 'several' to match the informal tone of Singlish.",
+    "modified_label": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "A1 Pacifics"
+    ],
+    "original_label": [
+      {
+        "A1 Pacifics": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "A1 Pacifics"
+    ],
+    "index": 61
+  },
+  {
+    "original_text": "The album featured remixes of ``Like It or Not`` and ``Tearing Me Up`` from artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "modified_text": "The album got remixes of ``Like It or Not`` and ``Tearing Me Up`` one, from artists like A-Trak, RAC, Joris Voorn, and Tale of Us lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, 'lah' is often added at the end of sentences for emphasis, and 'one' is sometimes used after nouns for a colloquial touch.",
+    "modified_label": [
+      {
+        "text": "Like It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "Tearing Me Up",
+        "value": "ART"
+      },
+      {
+        "text": "A-Trak",
+        "value": "PERSON"
+      },
+      {
+        "text": "RAC",
+        "value": "PERSON"
+      },
+      {
+        "text": "Joris Voorn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Like It or Not",
+      "Tearing Me Up",
+      "A-Trak",
+      "RAC",
+      "Joris Voorn",
+      "Tale of Us"
+    ],
+    "original_label": [
+      {
+        "Like It or Not": "ART"
+      },
+      {
+        "Tearing Me Up": "ART"
+      },
+      {
+        "A-Trak": "PERSON"
+      },
+      {
+        "RAC": "PERSON"
+      },
+      {
+        "Joris Voorn": "PERSON"
+      },
+      {
+        "Tale of Us": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Like It or Not",
+      "Tearing Me Up",
+      "A-Trak",
+      "RAC",
+      "Joris Voorn",
+      "Tale of Us"
+    ],
+    "index": 78
+  },
+  {
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "modified_text": "Lawrence is claiming that she was given cash, while Stephens is claiming that his life was threatened.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "In Indian English, continuous tense ('is claiming') is often used where simple present tense might be used in other dialects. The conjunction 'whereas' is replaced with 'while' for a more formal tone, which is common in Indian English.",
+    "modified_label": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Stephens"
+    ],
+    "original_label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Stephens"
+    ],
+    "index": 20
+  },
+  {
+    "original_text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "modified_text": "Somewhat hidden by the Ben Cruachan range, it is usually being climbed along with its neighbour Beinn Eunaich only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes the use of 'being climbed' which reflects the continuous tense often used in Indian English, and the addition of 'only' at the end of the sentence which is a common Indianism to emphasize the exclusivity of the action.",
+    "modified_label": [
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "original_label": [
+      {
+        "Ben Cruachan": "LOCATION"
+      },
+      {
+        "Beinn Eunaich": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "index": 13
+  },
+  {
+    "original_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "modified_text": "During the Battle of Antietam on September 17, 1862, Wilkinson got injured and was made to serve the remainder of the war as an officer in the Veterans Reserve Corps only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "Modified to include Indian English features such as 'got injured' instead of 'was injured' and the use of 'only' for emphasis at the end of the sentence.",
+    "modified_label": [
+      {
+        "text": "Battle of Antietam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "original_label": [
+      {
+        "Battle of Antietam": "EVENT"
+      },
+      {
+        "Wilkinson": "PERSON"
+      },
+      {
+        "Veterans Reserve Corps": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "index": 17
+  },
+  {
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_text": "The final season of minor league play at Elkin Memorial Park saw a season attendance of 16,322, with an average of 299 per match only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes Indian English features such as the use of 'only' for emphasis at the end of the sentence and a more formal structure that is often found in Indian English.",
+    "modified_label": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Elkin Memorial Park"
+    ],
+    "original_label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elkin Memorial Park"
+    ],
+    "index": 1
+  },
+  {
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "modified_text": "The buildings were getting renovated into offices in the 1980s only.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "In Indian English, the continuous tense 'were getting renovated' is often used where standard English would use the simple past passive 'were renovated'. The word 'only' is frequently used in Indian English for emphasis at the end of a sentence.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 18
+  },
+  {
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "The Austro-Hungarian Navy has built and operated two classes of protected cruisers.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "Indian English often uses the present perfect tense 'has built' instead of the simple past 'built' to indicate a completed action.",
+    "modified_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "original_label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "index": 4
+  },
+  {
+    "original_text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "modified_text": "England's lowest match aggregate in ODI history is 91 only, scored at the 1979 Cricket World Cup against Canada.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "Modified to include Indian English features such as the use of 'only' for emphasis and the possessive form 'England's' to indicate belonging.",
+    "modified_label": [
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ],
+    "original_label": [
+      {
+        "England": "ORGANIZATION"
+      },
+      {
+        "Cricket World Cup": "EVENT"
+      },
+      {
+        "Canada": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ],
+    "index": 12
+  },
+  {
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "In the mid-'60s, a prototype was fitted in a one-off DB5 extended 4'' behind the doors and Marek personally drove it, and then in 1998, a normally 6-cylinder Aston Martin DB7 got fitted with a V8 unit.",
+    "type": "dialectal",
+    "subtype": "indian_english",
+    "rationale": "The modification includes syntactical changes characteristic of Indian English, such as 'got fitted' for 'was equipped' and the use of 'then' to indicate sequence.",
+    "modified_label": [
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "original_label": [
+      {
+        "DB5 extended 4''": "PRODUCT"
+      },
+      {
+        "Marek": "PERSON"
+      },
+      {
+        "Aston Martin DB7": "PRODUCT"
+      },
+      {
+        "V8 unit": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "index": 6
+  },
+  {
+    "original_text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "modified_text": "England one in ODI history lowest match score is 91, at the 1979 Cricket World Cup against Canada lor.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "Modified to reflect Singlish features such as the use of 'one' for emphasis, 'lor' as a discourse particle, and the reordering of words to mimic Singlish sentence structure.",
+    "modified_label": [
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ],
+    "original_label": [
+      {
+        "England": "ORGANIZATION"
+      },
+      {
+        "Cricket World Cup": "EVENT"
+      },
+      {
+        "Canada": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ],
+    "index": 12
+  },
+  {
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "Last time in the mid-'60s, they go fit one prototype inside one special DB5 extended 4'' behind the doors, Marek himself drive one, then in 1998, they go put V8 unit inside the normal 6-cylinder Aston Martin DB7 lor.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes lexical and grammatical features of Singlish, such as 'go' for past tense, 'lor' for emphasis, and the use of 'one' as an indefinite article.",
+    "modified_label": [
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "original_label": [
+      {
+        "DB5 extended 4''": "PRODUCT"
+      },
+      {
+        "Marek": "PERSON"
+      },
+      {
+        "Aston Martin DB7": "PRODUCT"
+      },
+      {
+        "V8 unit": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "index": 6
+  },
+  {
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_text": "Last season of minor league play at Elkin Memorial Park lor, got 16,322 people come watch, average like 299 each match lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singlish such as 'lor' for a casual tone, 'got' as a replacement for 'saw', and 'lah' for emphasis, as well as colloquial phrasing.",
+    "modified_label": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Elkin Memorial Park"
+    ],
+    "original_label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elkin Memorial Park"
+    ],
+    "index": 1
+  },
+  {
+    "original_text": "The 117-bed facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "modified_text": "The 117-bed facility got all individual rooms one, each with own bathroom inside.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, articles such as 'the' are often omitted, 'one' is used as a discourse particle for emphasis, and possessive pronouns like 'its' are commonly dropped.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 14
+  },
+  {
+    "original_text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "modified_text": "The Ninth kena whack bad at the Battle of Camulodunum with Quintus Petillius Cerialis during Boudica's time (61), lor, when most of the foot-soldiers die-die in the jialat try to save the Camulodunum (Colchester) city kena siege.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singapore Colloquial English such as 'kena whack' instead of 'suffered a defeat', 'with' instead of 'under', 'during' instead of 'in the rebellion of', 'die-die' instead of 'were killed', 'jialat try' instead of 'disastrous attempt', and 'kena siege' instead of 'besieged'. The use of 'lor' is a discourse particle common in Singlish.",
+    "modified_label": [
+      {
+        "text": "Camulodunum",
+        "value": "EVENT"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "PERSON"
+      },
+      {
+        "text": "Boudica",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Camulodunum",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ],
+    "original_label": [
+      {
+        "Camulodunum": "EVENT"
+      },
+      {
+        "Quintus Petillius Cerialis": "PERSON"
+      },
+      {
+        "Boudica": "EVENT"
+      },
+      {
+        "Camulodunum": "LOCATION"
+      },
+      {
+        "Colchester": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Camulodunum",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ],
+    "index": 9
+  },
+  {
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "The Austro-Hungarian Navy build and operate two classes of protected cruisers one.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, the past tense may not be indicated, and the particle 'one' is often added for emphasis.",
+    "modified_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "original_label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "index": 4
+  },
+  {
+    "original_text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "modified_text": "He kena spotlight by all the big name publications and media like CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes Singlish features such as 'kena' for passive construction, and the particle 'lah' for emphasis, which are characteristic of Singapore Colloquial English.",
+    "modified_label": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail, NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "original_label": [
+      {
+        "CNN": "ORGANIZATION"
+      },
+      {
+        "The Huffington Post": "ORGANIZATION"
+      },
+      {
+        "Hypebeast": "ORGANIZATION"
+      },
+      {
+        "The Guardian": "ORGANIZATION"
+      },
+      {
+        "Juxtapoz Magazine": "ORGANIZATION"
+      },
+      {
+        "Daily Mail, NRDC": "ORGANIZATION"
+      },
+      {
+        "Aljazeera": "ORGANIZATION"
+      },
+      {
+        "Hi-Fructose Magazine": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "index": 7
+  },
+  {
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "The Cnidaria one kind of animals lah, you find them only in water one, mostly in the sea hor.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, particles like 'lah' and 'hor' are often added for emphasis and to convey a conversational tone. 'One' is used as a general article, and 'kind of' is a common phrase used to describe a category. The sentence structure is also more relaxed and colloquial.",
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Cnidaria"
+    ],
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Cnidaria"
+    ],
+    "index": 8
+  },
+  {
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "modified_text": "The buildings last time got renovated into offices in the 80s lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, 'last time' is often used to refer to the past, and 'lah' is a common particle added for emphasis. The passive voice 'were renovated' is expressed as 'got renovated', which is typical in Singlish.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 18
+  },
+  {
+    "original_text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "modified_text": "Like somewhat hidden by the Ben Cruachan range lah, people normally climb it together with neighbour Beinn Eunaich one.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes 'lah' which is a common Singlish particle used for emphasis, and 'one' at the end of the sentence which is a typical Singlish sentence ending. The word 'like' is used as a filler, which is common in casual Singlish speech.",
+    "modified_label": [
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "original_label": [
+      {
+        "Ben Cruachan": "LOCATION"
+      },
+      {
+        "Beinn Eunaich": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "index": 13
+  },
+  {
+    "original_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "modified_text": "He born in Wellingborough, Northamptonshire, then he go Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, the past tense 'was born' is often simplified to 'born', and 'attended' is colloquially replaced with 'go'. The particle 'lah' is frequently used at the end of sentences for emphasis and is characteristic of Singlish.",
+    "modified_label": [
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Westfield Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "original_label": [
+      {
+        "Wellingborough": "LOCATION"
+      },
+      {
+        "Northamptonshire": "LOCATION"
+      },
+      {
+        "Victoria Junior School": "ORGANIZATION"
+      },
+      {
+        "Westfield Boys School": "ORGANIZATION"
+      },
+      {
+        "Sir Christopher Hatton School": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "index": 11
+  },
+  {
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "modified_text": "Lawrence say she kena given cash, but then Stephens say his life kena threaten lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "In Singlish, 'claims' is often simplified to 'say' and 'was given' to 'kena given', which indicates a passive action. 'Whereas' is replaced with 'but then' for a conversational tone, and 'lah' is added at the end of the sentence for emphasis, which is a common feature in Singlish.",
+    "modified_label": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Stephens"
+    ],
+    "original_label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Stephens"
+    ],
+    "index": 20
+  },
+  {
+    "original_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "modified_text": "During the Battle of Antietam on September 17, 1862, Wilkinson kena hurt and had to serve the rest of the war as an officer in the Veterans Reserve Corps lor.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "Modified to include Singlish expressions such as 'kena' for experiencing something bad and 'lor' for emphasis at the end of a sentence.",
+    "modified_label": [
+      {
+        "text": "Battle of Antietam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "original_label": [
+      {
+        "Battle of Antietam": "EVENT"
+      },
+      {
+        "Wilkinson": "PERSON"
+      },
+      {
+        "Veterans Reserve Corps": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "index": 17
+  },
+  {
+    "original_text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "modified_text": "Experimental GPX1 deficiency make certain aging things more jialat, like the blood vessel problem, change shape, and white blood cells come in the heart tissue lah.",
+    "type": "dialectal",
+    "subtype": "singaporean_english",
+    "rationale": "The modification includes features of Singlish such as the use of 'lah' for emphasis, simplification of technical terms ('endothelial dysfunction' to 'blood vessel problem'), and the use of 'jialat' which is a Singlish term for a serious or troublesome situation.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 15
+  }
+]

@@ -1,0 +1,3479 @@
+[
+  {
+    "original_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "modified_text": "He produced Kim Fowley and BMX Bandits' ``Hidden Agenda At the Thirteenth Not`` for Receiver Records.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "To shorten the sentence, unnecessary words such as 'went on to' and '(band)' were removed. The phrase 'Receiver Records' album' was restructured to 'for Receiver Records' to maintain grammatical correctness while reducing length. The meaning of the sentence remains the same, focusing on the production of the album by the entities involved.",
+    "modified_label": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Agenda At the Thirteenth Not",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "original_label": [
+      {
+        "Kim Fowley": "PERSON"
+      },
+      {
+        "BMX Bandits": "ORGANIZATION"
+      },
+      {
+        "Receiver Records": "ORGANIZATION"
+      },
+      {
+        "Hidden Agenda At the Thirteenth Not": "ART"
+      }
+    ],
+    "original_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "index": 25
+  },
+  {
+    "original_text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "modified_text": "Nintendo sold the Wii model, Wii Mini, and Wii U during the Wii U's first year.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words such as 'continued to' and 'revised', and 'alongside' was omitted to reduce the length while keeping the meaning and all entity names intact.",
+    "modified_label": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "original_label": [
+      {
+        "Nintendo": "ORGANIZATION"
+      },
+      {
+        "Wii model": "PRODUCT"
+      },
+      {
+        "Wii Mini": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "index": 22
+  },
+  {
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "modified_text": "Lawrence claims receiving cash, Stephens claims threats to his life.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing several words while retaining the core meaning. 'That she was given' was changed to 'receiving' and 'that his life was' to 'threats to his'. The conjunction 'whereas' was removed to reduce length.",
+    "modified_label": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Stephens"
+    ],
+    "original_label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Stephens"
+    ],
+    "index": 20
+  },
+  {
+    "original_text": "She has also written fiction and her work has gained awards.",
+    "modified_text": "She wrote fiction and won awards.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing 'also', 'has', 'her work has gained' to 'won' to reduce the length while keeping the meaning and without any entity names to retain.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 29
+  },
+  {
+    "original_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "modified_text": "In the quaint town of Wellingborough, nestled within the scenic county of Northamptonshire, he embarked on his educational journey, attending the esteemed Victoria Junior School, followed by the reputable Westfield Boys School, and culminating at the prestigious Sir Christopher Hatton School.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases and adjectives, as well as additional clauses to elaborate on the setting and the progression of his education. The structure and position of phrases were maintained, and all entity names were left unchanged.",
+    "modified_label": [
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Westfield Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "original_label": [
+      {
+        "Wellingborough": "LOCATION"
+      },
+      {
+        "Northamptonshire": "LOCATION"
+      },
+      {
+        "Victoria Junior School": "ORGANIZATION"
+      },
+      {
+        "Westfield Boys School": "ORGANIZATION"
+      },
+      {
+        "Sir Christopher Hatton School": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "index": 11
+  },
+  {
+    "original_text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "modified_text": "England's lowest ODI score, 91, was at the 1979 Cricket World Cup versus Canada.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words and phrases that were not essential to the core meaning, such as 'match aggregate in ODI history for' and replacing 'against' with 'versus' to maintain the sentence structure and meaning while reducing the length.",
+    "modified_label": [
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ],
+    "original_label": [
+      {
+        "England": "ORGANIZATION"
+      },
+      {
+        "Cricket World Cup": "EVENT"
+      },
+      {
+        "Canada": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ],
+    "index": 12
+  },
+  {
+    "original_text": "The 117-bed facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "modified_text": "The 117-bed facility had individual rooms with en-suite bathrooms.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "To shorten the sentence, redundant words such as 'entirely' and 'facilities' after 'bathroom' were removed. The phrase 'each with its own' was also omitted as it is implied that individual rooms have their own bathrooms. The meaning remains the same, focusing on the description of the facility.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 14
+  },
+  {
+    "original_text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "modified_text": "GPX1 deficiency amplifies aging, causing endothelial dysfunction and leukocyte invasion in cardiovascular tissue.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The modified sentence is shortened by removing words such as 'experimental', 'certain', 'namely', and 'vascular remodeling' to reduce the length while retaining the core meaning of the original sentence. The entity names are not present and thus remain unchanged.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 15
+  },
+  {
+    "original_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "modified_text": "Born in Wellingborough, Northamptonshire, he attended Victoria Junior School, Westfield Boys School, Sir Christopher Hatton School.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing auxiliary verbs and pronouns while keeping the meaning intact. The structure and position of phrases were maintained, and all entity names were left unchanged.",
+    "modified_label": [
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Westfield Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "original_label": [
+      {
+        "Wellingborough": "LOCATION"
+      },
+      {
+        "Northamptonshire": "LOCATION"
+      },
+      {
+        "Victoria Junior School": "ORGANIZATION"
+      },
+      {
+        "Westfield Boys School": "ORGANIZATION"
+      },
+      {
+        "Sir Christopher Hatton School": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "index": 11
+  },
+  {
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "modified_text": "Buildings became offices in the '80s.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "To shorten the sentence, 'The' and 'were' were removed to make the subject 'Buildings' more immediate, 'renovated into' was changed to 'became' for brevity, and 'the 1980s' was contracted to ''80s'. The meaning remains similar, and no entities are present to be retained.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 18
+  },
+  {
+    "original_text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "modified_text": "In some versions, the eggplant is boiled, not grilled, yielding a softer, less smoky dish.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing extra words and phrases while retaining the core meaning. The comparison between grilling and boiling was maintained, as was the resulting texture and flavor difference.",
+    "modified_label": [
+      {
+        "text": "eggplant",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "eggplant"
+    ],
+    "original_label": [
+      {
+        "eggplant": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "eggplant"
+    ],
+    "index": 40
+  },
+  {
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "modified_text": "In 2007, the well-known label from Argentina, Del Imaginario Discos, not only published the album but also promoted it extensively.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "To lengthen the sentence, additional descriptive phrases and a clause were added. Words like 'well-known label from' and 'not only published but also promoted it extensively' were included to double the sentence length while keeping the entities and core meaning intact.",
+    "modified_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ],
+    "original_label": [
+      {
+        "Argentina": "LOCATION"
+      },
+      {
+        "Del Imaginario Discos": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ],
+    "index": 42
+  },
+  {
+    "original_text": "This led to the foundation by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "modified_text": "Maximilian III Joseph, Elector of Bavaria founded the Bavarian Academy of Sciences and Humanities in 1759.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing extraneous words and phrases while retaining the core meaning and the entity names. The date was simplified to just the year to reduce length.",
+    "modified_label": [
+      {
+        "text": "Maximilian III Joseph, Elector of Bavaria",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Maximilian III Joseph, Elector of Bavaria",
+      "Bavarian Academy of Sciences and Humanities"
+    ],
+    "original_label": [
+      {
+        "Maximilian III Joseph, Elector of Bavaria": "PERSON"
+      },
+      {
+        "Bavarian Academy of Sciences and Humanities": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Maximilian III Joseph, Elector of Bavaria",
+      "Bavarian Academy of Sciences and Humanities"
+    ],
+    "index": 45
+  },
+  {
+    "original_text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "modified_text": "The Newfoundland Reform Liberal Party, from 1975 to 1979, was in Canada's Newfoundland and Labrador.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words such as 'a leader-centred political party' and rephrasing without altering the meaning or the position of the phrases. The entity names remain unchanged.",
+    "modified_label": [
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundland and Labrador",
+      "Canada"
+    ],
+    "original_label": [
+      {
+        "Newfoundland Reform Liberal Party": "ORGANIZATION"
+      },
+      {
+        "Newfoundland and Labrador": "LOCATION"
+      },
+      {
+        "Canada": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundland and Labrador",
+      "Canada"
+    ],
+    "index": 44
+  },
+  {
+    "original_text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza intensified.",
+    "modified_text": "During the period between 1846 and 1848, the peasantry was not only aggrieved but also increasingly vocal in their opposition, and as a result, the level of resistance and discontent directed specifically towards Sturdza significantly intensified.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence is lengthened by adding descriptive phrases and clauses to elaborate on the peasantry's growing opposition to Sturdza, effectively doubling the length while maintaining the original sentence's meaning. The entity 'Sturdza' is kept intact.",
+    "modified_label": [
+      {
+        "text": "Sturdza",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Sturdza"
+    ],
+    "original_label": [
+      {
+        "Sturdza": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Sturdza"
+    ],
+    "index": 41
+  },
+  {
+    "original_text": "Most of the town is actually a gated community called Orchid Island Golf and Beach Club.",
+    "modified_text": "The town includes the gated Orchid Island Golf and Beach Club.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing extraneous words while preserving the core meaning and the entity name 'Orchid Island Golf and Beach Club'. The phrase 'Most of' and 'actually' were removed to make the sentence more concise, and 'is' was changed to 'includes' to maintain grammatical correctness.",
+    "modified_label": [
+      {
+        "text": "Orchid Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "original_label": [
+      {
+        "Orchid Island Golf and Beach Club": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "index": 47
+  },
+  {
+    "original_text": "Most of the town is actually a gated community called Orchid Island Golf and Beach Club.",
+    "modified_text": "A significant portion of the town's area is, in fact, encompassed by a well-established, secure gated community known as Orchid Island Golf and Beach Club.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive words and phrases, thereby doubling the length while keeping the original meaning and the entity name 'Orchid Island Golf and Beach Club'. Words such as 'significant portion', 'area', 'in fact', 'encompassed by', 'well-established', and 'secure' were added to increase the sentence length and provide additional context.",
+    "modified_label": [
+      {
+        "text": "Orchid Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "original_label": [
+      {
+        "Orchid Island Golf and Beach Club": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "index": 47
+  },
+  {
+    "original_text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "modified_text": "Hunt represents Omaha's 8th district, including Dundee, Benson, Keystone.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words that were not essential to the meaning, such as 'legislative' and 'midtown neighborhoods of', while retaining the core information about Hunt and the locations represented.",
+    "modified_label": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Hunt",
+      "Omaha",
+      "Dundee",
+      "Benson",
+      "Keystone"
+    ],
+    "original_label": [
+      {
+        "Hunt": "PERSON"
+      },
+      {
+        "Omaha": "LOCATION"
+      },
+      {
+        "Dundee": "LOCATION"
+      },
+      {
+        "Benson": "LOCATION"
+      },
+      {
+        "Keystone": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Hunt",
+      "Omaha",
+      "Dundee",
+      "Benson",
+      "Keystone"
+    ],
+    "index": 48
+  },
+  {
+    "original_text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "modified_text": "From the year 1975 until the end of 1979, the Newfoundland Reform Liberal Party, which was known for its strong focus on leadership, served as a significant political entity within the region of Newfoundland and Labrador, a province of Canada.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases and additional context such as 'which was known for its strong focus on leadership' and 'a province of', effectively doubling the length while maintaining the original meaning and structure. The entity names remain unchanged.",
+    "modified_label": [
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundland and Labrador",
+      "Canada"
+    ],
+    "original_label": [
+      {
+        "Newfoundland Reform Liberal Party": "ORGANIZATION"
+      },
+      {
+        "Newfoundland and Labrador": "LOCATION"
+      },
+      {
+        "Canada": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundland and Labrador",
+      "Canada"
+    ],
+    "index": 44
+  },
+  {
+    "original_text": "The government announced a state funeral and a day of national mourning.",
+    "modified_text": "The government declared a state funeral and national mourning.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "To shorten the sentence, 'announced' was changed to 'declared' and 'a day of' was removed. This reduces the length while retaining the original meaning and keeping the sentence structure intact.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 46
+  },
+  {
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "modified_text": "Argentina's Del Imaginario Discos released it in 2007.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "To shorten the sentence, 'also' and 'the album' were removed. 'It' was used to refer to 'the album' implicitly, reducing the length while retaining the original entities and meaning.",
+    "modified_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ],
+    "original_label": [
+      {
+        "Argentina": "LOCATION"
+      },
+      {
+        "Del Imaginario Discos": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ],
+    "index": 42
+  },
+  {
+    "original_text": "The government announced a state funeral and a day of national mourning.",
+    "modified_text": "The government officially announced a state funeral and proclaimed a day of national mourning to honor the solemn occasion.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "To lengthen the sentence, additional words were added to elaborate on the announcement ('officially announced') and the day of mourning ('proclaimed a day of national mourning to honor the solemn occasion'). This doubles the length while maintaining the original meaning and sentence structure.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 46
+  },
+  {
+    "original_text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza intensified.",
+    "modified_text": "Between 1846 and 1848, peasant unrest against Sturdza grew.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The modified sentence is shortened by removing words and phrases while retaining the core meaning of peasant opposition to Sturdza intensifying over time. The entity 'Sturdza' remains unchanged.",
+    "modified_label": [
+      {
+        "text": "Sturdza",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Sturdza"
+    ],
+    "original_label": [
+      {
+        "Sturdza": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Sturdza"
+    ],
+    "index": 41
+  },
+  {
+    "original_text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "modified_text": "As per the historical records preserved in the Steak' n Shake archives, it is documented that the innovative founder of the restaurant, Gus Belt, made a formal application for a trademark registration on the distinctive word during the era of the 1930s.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases and additional context, effectively doubling the length while maintaining the original meaning and entities.",
+    "modified_label": [
+      {
+        "text": "Steak' n Shake",
+        "value": "ART"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "original_label": [
+      {
+        "Steak' n Shake": "ART"
+      },
+      {
+        "Gus Belt": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "index": 76
+  },
+  {
+    "original_text": "The festival is dedicated to world television and digital content and its creation and development.",
+    "modified_text": "The annual festival, a grand and significant event, is wholeheartedly dedicated to the celebration and appreciation of world television and digital content, including the intricate processes of its creation and development.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The modified sentence is lengthened by adding descriptive phrases and additional context. Words such as 'annual', 'grand and significant event', 'wholeheartedly', 'celebration and appreciation', and 'intricate processes' are included to double the sentence length while preserving the original meaning.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 73
+  },
+  {
+    "original_text": "``Patrick Morris`` sent out her own mayday call at 6:51 am and sank 35 minutes later.",
+    "modified_text": "``Patrick Morris`` issued a mayday at 6:51 am, sinking soon after.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing several words while retaining the core meaning. The phrase 'sent out her own' was replaced with 'issued' to shorten the sentence, and '35 minutes later' was replaced with 'soon after' to maintain the meaning within the reduced length.",
+    "modified_label": [
+      {
+        "text": "Patrick Morris",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Patrick Morris"
+    ],
+    "original_label": [
+      {
+        "Patrick Morris": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Patrick Morris"
+    ],
+    "index": 79
+  },
+  {
+    "original_text": "``Patrick Morris`` sent out her own mayday call at 6:51 am and sank 35 minutes later.",
+    "modified_text": "At precisely 6:51 am, the vessel known as ``Patrick Morris`` desperately sent out her own urgent mayday distress signal and tragically sank a mere 35 minutes later in the cold, unforgiving sea.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive words and phrases. Words such as 'precisely', 'vessel known as', 'desperately', 'urgent', 'distress signal', 'tragically', 'a mere', and 'in the cold, unforgiving sea' were inserted to double the sentence length while preserving the original meaning and keeping the entity name unchanged.",
+    "modified_label": [
+      {
+        "text": "Patrick Morris",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Patrick Morris"
+    ],
+    "original_label": [
+      {
+        "Patrick Morris": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Patrick Morris"
+    ],
+    "index": 79
+  },
+  {
+    "original_text": "Puckrik travelled widely in her childhood due to her father's military background.",
+    "modified_text": "Throughout her childhood, Puckrik experienced a variety of cultures and places, travelling extensively because of her father's frequent military reassignments.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding details about the variety of experiences ('experienced a variety of cultures and places') and specifying the nature of the travel ('because of her father's frequent military reassignments'). The entity 'Puckrik' remains unchanged, and the sentence retains the original meaning while being expanded.",
+    "modified_label": [
+      {
+        "text": "Puckrik",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Puckrik"
+    ],
+    "original_label": [
+      {
+        "Puckrik": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Puckrik"
+    ],
+    "index": 72
+  },
+  {
+    "original_text": "The situation began to crystallise after 1961 when South Africa left the Commonwealth of Nations and so, under the rules of the day, its cricket board had to leave the International Cricket Conference (ICC).",
+    "modified_text": "The situation started to become clear and more defined after the year 1961, a pivotal moment when South Africa made the decision to depart from the Commonwealth of Nations, and consequently, due to the regulations that were in effect at that time, the national cricket board of South Africa found itself compelled to withdraw from the membership of the International Cricket Conference, commonly known as the ICC.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The modified sentence is expanded to double the original length by adding descriptive phrases and additional context, while maintaining the original meaning and keeping all entity names unchanged.",
+    "modified_label": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ICC",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "South Africa",
+      "Commonwealth of Nations",
+      "International Cricket Conference",
+      "ICC"
+    ],
+    "original_label": [
+      {
+        "South Africa": "LOCATION"
+      },
+      {
+        "Commonwealth of Nations": "ORGANIZATION"
+      },
+      {
+        "International Cricket Conference": "ORGANIZATION"
+      },
+      {
+        "ICC": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "South Africa",
+      "Commonwealth of Nations",
+      "International Cricket Conference",
+      "ICC"
+    ],
+    "index": 71
+  },
+  {
+    "original_text": "Mediaite named her in a four-way tie among the ``Best TV Pundits`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "modified_text": "In 2014, Mediaite honored her expertise by naming her in a four-way tie among the esteemed 'Best TV Pundits', citing her exceptional and comprehensive understanding of complex women's health and justice issues, which surpassed the standard and typical talking points often heard.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases such as 'honored her expertise', 'esteemed', 'exceptional and comprehensive understanding', 'complex', 'surpassed the standard and typical talking points', and 'often heard' to elaborate on the original content while maintaining the same meaning and keeping the entity names unchanged.",
+    "modified_label": [
+      {
+        "text": "Mediaite",
+        "value": "PERSON"
+      },
+      {
+        "text": "Best TV Pundits",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Mediaite",
+      "Best TV Pundits"
+    ],
+    "original_label": [
+      {
+        "Mediaite": "PERSON"
+      },
+      {
+        "Best TV Pundits": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Mediaite",
+      "Best TV Pundits"
+    ],
+    "index": 75
+  },
+  {
+    "original_text": "It was produced by Richard D.Zanuck and David Brown.",
+    "modified_text": "Produced by Richard D.Zanuck, David Brown.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence has been shortened by removing auxiliary verbs and pronouns while retaining the main verb and the entity names to convey the same meaning.",
+    "modified_label": [
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "original_label": [
+      {
+        "Richard D.Zanuck": "PERSON"
+      },
+      {
+        "David Brown": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "index": 70
+  },
+  {
+    "original_text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "modified_text": "Steak' n Shake founder Gus Belt sought a 1930s trademark.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing additional context to focus on the main action and entities, reducing the length to about half while retaining the original meaning and entities.",
+    "modified_label": [
+      {
+        "text": "Steak' n Shake",
+        "value": "ART"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "original_label": [
+      {
+        "Steak' n Shake": "ART"
+      },
+      {
+        "Gus Belt": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "index": 76
+  },
+  {
+    "original_text": "The album featured remixes of ``Like It or Not`` and ``Tearing Me Up`` from artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "modified_text": "Album with ``Like It or Not``, ``Tearing Me Up`` remixes by A-Trak, RAC, Joris Voorn, Tale of Us.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words such as 'featured' and 'from artists like' to reduce the length while retaining the original meaning and all entity names.",
+    "modified_label": [
+      {
+        "text": "Like It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "Tearing Me Up",
+        "value": "ART"
+      },
+      {
+        "text": "A-Trak",
+        "value": "PERSON"
+      },
+      {
+        "text": "RAC",
+        "value": "PERSON"
+      },
+      {
+        "text": "Joris Voorn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Like It or Not",
+      "Tearing Me Up",
+      "A-Trak",
+      "RAC",
+      "Joris Voorn",
+      "Tale of Us"
+    ],
+    "original_label": [
+      {
+        "Like It or Not": "ART"
+      },
+      {
+        "Tearing Me Up": "ART"
+      },
+      {
+        "A-Trak": "PERSON"
+      },
+      {
+        "RAC": "PERSON"
+      },
+      {
+        "Joris Voorn": "PERSON"
+      },
+      {
+        "Tale of Us": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Like It or Not",
+      "Tearing Me Up",
+      "A-Trak",
+      "RAC",
+      "Joris Voorn",
+      "Tale of Us"
+    ],
+    "index": 78
+  },
+  {
+    "original_text": "Puckrik travelled widely in her childhood due to her father's military background.",
+    "modified_text": "Puckrik travelled a lot as a child.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing details about the reason for travel ('due to her father's military background') and using 'a lot' instead of 'widely'. The entity 'Puckrik' remains unchanged, and the core meaning of the original sentence is preserved.",
+    "modified_label": [
+      {
+        "text": "Puckrik",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Puckrik"
+    ],
+    "original_label": [
+      {
+        "Puckrik": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Puckrik"
+    ],
+    "index": 72
+  },
+  {
+    "original_text": "It was produced by Richard D.Zanuck and David Brown.",
+    "modified_text": "The film's production was skillfully managed and overseen by the renowned producers Richard D.Zanuck and David Brown, who brought their extensive experience to the project.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence length has been doubled by adding descriptive phrases and additional context that emphasizes the role and reputation of the producers without changing the original meaning or the position of the entity names.",
+    "modified_label": [
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "original_label": [
+      {
+        "Richard D.Zanuck": "PERSON"
+      },
+      {
+        "David Brown": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "index": 70
+  },
+  {
+    "original_text": "Alex Salmond (leader of SNP) has since made history by becoming the first First Minister of Scotland from a party other than Labour.",
+    "modified_text": "Alex Salmond, SNP leader, became Scotland's first non-Labour First Minister.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing additional words and phrases while retaining the core meaning and all entity names. The structure was kept intact, with the phrase 'SNP leader' moved before 'became' to maintain grammatical correctness.",
+    "modified_label": [
+      {
+        "text": "Alex Salmond",
+        "value": "PERSON"
+      },
+      {
+        "text": "SNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Labour",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "Labour"
+    ],
+    "original_label": [
+      {
+        "Alex Salmond": "PERSON"
+      },
+      {
+        "SNP": "ORGANIZATION"
+      },
+      {
+        "Scotland": "LOCATION"
+      },
+      {
+        "Labour": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "Labour"
+    ],
+    "index": 77
+  },
+  {
+    "original_text": "Dorsa has a Bachelor of Music in Composition from California State University, Northridge in 2001, Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "modified_text": "Dorsa, an accomplished musician, has achieved a Bachelor of Music with a focus in Composition from the prestigious California State University, Northridge back in the year 2001, followed by a Master of Music specializing in Harpsichord Performance at the well-known Cal State Northridge in 2004, and subsequently completed a Doctor of Musical Arts at the renowned University of Michigan, located in Ann Arbor, in the year 2008.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "To lengthen the sentence, additional descriptive words and phrases were added to provide more context and detail, such as 'accomplished musician', 'prestigious', 'well-known', 'renowned', and specifying the years as 'back in the year' and 'in the year'. This increased the sentence length to approximately double its original length while maintaining the original meaning and structure.",
+    "modified_label": [
+      {
+        "text": "Dorsa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "California State University, Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Doctor of Musical Arts",
+        "value": "OTHER"
+      },
+      {
+        "text": "University of Michigan",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "original_label": [
+      {
+        "Dorsa": "PERSON"
+      },
+      {
+        "Bachelor of Music": "OTHER"
+      },
+      {
+        "California State University, Northridge": "ORGANIZATION"
+      },
+      {
+        "Master of Music": "OTHER"
+      },
+      {
+        "Cal State Northridge": "ORGANIZATION"
+      },
+      {
+        "Doctor of Musical Arts": "OTHER"
+      },
+      {
+        "University of Michigan": "ORGANIZATION"
+      },
+      {
+        "Ann Arbor": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "index": 33
+  },
+  {
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "His dedicated pupil, the esteemed Vadeebhasimha, composed the prose works ``Gayachintamani`` and ``Kshatrachudamini``, drawing inspiration from the celebrated poet Banas' masterpiece ``Kadambari``, while the distinguished minister Chavundaraya authored the notable ``Charitarasara``.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "To lengthen the sentence, descriptive adjectives and phrases were added to embellish the text and double its length without changing the original meaning or the position of the phrases. Additional words such as 'dedicated', 'esteemed', 'composed', 'drawing inspiration', 'celebrated', 'masterpiece', 'distinguished', and 'authored' were included to expand the sentence.",
+    "modified_label": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "original_label": [
+      {
+        "Vadeebhasimha": "PERSON"
+      },
+      {
+        "Gayachintamani": "ART"
+      },
+      {
+        "Kshatrachudamini": "ART"
+      },
+      {
+        "Banas": "PERSON"
+      },
+      {
+        "Kadambari": "ART"
+      },
+      {
+        "Chavundaraya": "PERSON"
+      },
+      {
+        "Charitarasara": "ART"
+      }
+    ],
+    "original_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "index": 38
+  },
+  {
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "Communities like Lynchburg, Harrisburg, and Rightor's Point (now Morgan's Point) emerged in the 1820s.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The modified sentence is shortened by removing additional context about the timing of the appearance of the communities, while retaining the core information about the emergence of the communities and keeping all entity names unchanged.",
+    "modified_label": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "index": 32
+  },
+  {
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "In addition to other initiatives, the SFO, a prominent organization, has generously offered to cover all reasonable and necessary legal costs incurred.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "To lengthen the sentence, additional phrases were added such as 'In addition to other initiatives,' and 'a prominent organization, has generously' to elaborate on the context and the nature of the SFO. 'All reasonable and necessary' was used to expand on the type of legal costs covered, thus doubling the length of the sentence while retaining the original meaning.",
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "the SFO"
+    ],
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "the SFO"
+    ],
+    "index": 30
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "The tropical cyclone Gonu caused extremely strong gusty winds and exceptionally torrential rainfall along the entire stretch of Pakistan's Arabian Sea coast, extending from the bustling port city of Karachi to the strategic maritime hub of Gwadar.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive words, including the type of storm, and elaborating on the significance of the locations. The meaning and the entity names remained unchanged.",
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "index": 36
+  },
+  {
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "The SFO offered to pay legal costs.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "To shorten the sentence, 'Furthermore,' was removed as it is an introductory word that can be omitted without altering the meaning of the sentence. 'Reasonable' was also removed as it is an adjective that does not change the core action described in the sentence.",
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "the SFO"
+    ],
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "the SFO"
+    ],
+    "index": 30
+  },
+  {
+    "original_text": "She has since worked with homeless patients and holds the position of Management Consultant fo r MedAmerica.",
+    "modified_text": "Throughout her career, she has dedicated time to work with homeless patients and currently holds the esteemed position of Management Consultant fo r MedAmerica, a role she excels in.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases and additional context to double the length without changing the original meaning or the position of the entity name 'r MedAmerica'. Words such as 'Throughout her career', 'dedicated time to', 'currently', 'esteemed', 'a role she excels in' were added to expand the sentence.",
+    "modified_label": [
+      {
+        "text": "r MedAmerica",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "r MedAmerica"
+    ],
+    "original_label": [
+      {
+        "r MedAmerica": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "r MedAmerica"
+    ],
+    "index": 34
+  },
+  {
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "The Croal Irwell Regional Park Project Proposal, linking Manchester to the West Pennine Moors, had support from Salford, Bury, Bolton, and the Red Rose Forest.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing extra details and using the word 'linking' to imply the creation of a green artery. The phrase 'was announced in June 2003' was removed to shorten the sentence while retaining the core meaning.",
+    "modified_label": [
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "original_label": [
+      {
+        "Croal Irwell Regional Park Project Proposal": "PRODUCT"
+      },
+      {
+        "Manchester": "LOCATION"
+      },
+      {
+        "West Pennine Moors": "LOCATION"
+      },
+      {
+        "Salford": "LOCATION"
+      },
+      {
+        "Bury": "LOCATION"
+      },
+      {
+        "Bolton": "LOCATION"
+      },
+      {
+        "Red Rose Forest": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "index": 39
+  },
+  {
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "As the 19th century dawned, a number of nascent communities gradually started to form and establish themselves, notably including the likes of Lynchburg, Harrisburg, and the area known as Rightor's Point, which is today referred to as Morgan's Point, all of which came into existence around the 1820s.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The modified sentence is lengthened by adding descriptive phrases and additional context to the original sentence. The sentence structure and the position of the phrases within the sentence are maintained, and all entity names remain unchanged, while the meaning of the sentence is preserved.",
+    "modified_label": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "index": 32
+  },
+  {
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "In June 2003, the ambitious Croal Irwell Regional Park Project Proposal was unveiled, aiming to establish a continuous green artery stretching from the bustling centre of Manchester all the way to the scenic West Pennine Moors, with the initiative receiving robust support from the local councils of Salford, Bury, and Bolton, as well as the environmental stewardship of the Red Rose Forest.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive words and phrases such as 'ambitious', 'unveiled', 'aiming to establish', 'continuous', 'bustling', 'scenic', 'robust support', 'local councils', and 'environmental stewardship'. These additions double the length of the sentence while maintaining the original meaning and structure.",
+    "modified_label": [
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "original_label": [
+      {
+        "Croal Irwell Regional Park Project Proposal": "PRODUCT"
+      },
+      {
+        "Manchester": "LOCATION"
+      },
+      {
+        "West Pennine Moors": "LOCATION"
+      },
+      {
+        "Salford": "LOCATION"
+      },
+      {
+        "Bury": "LOCATION"
+      },
+      {
+        "Bolton": "LOCATION"
+      },
+      {
+        "Red Rose Forest": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "index": 39
+  },
+  {
+    "original_text": "Dorsa has a Bachelor of Music in Composition from California State University, Northridge in 2001, Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "modified_text": "Dorsa earned a Bachelor of Music from California State University, Northridge, a Master of Music at Cal State Northridge, and a Doctor of Musical Arts from University of Michigan, Ann Arbor.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "To shorten the sentence, details such as the years and specific fields of study were removed, while retaining the core information about the degrees and institutions. The sentence was reduced to approximately half of its original length by omitting less essential words and phrases.",
+    "modified_label": [
+      {
+        "text": "Dorsa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "California State University, Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Doctor of Musical Arts",
+        "value": "OTHER"
+      },
+      {
+        "text": "University of Michigan",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "original_label": [
+      {
+        "Dorsa": "PERSON"
+      },
+      {
+        "Bachelor of Music": "OTHER"
+      },
+      {
+        "California State University, Northridge": "ORGANIZATION"
+      },
+      {
+        "Master of Music": "OTHER"
+      },
+      {
+        "Cal State Northridge": "ORGANIZATION"
+      },
+      {
+        "Doctor of Musical Arts": "OTHER"
+      },
+      {
+        "University of Michigan": "ORGANIZATION"
+      },
+      {
+        "Ann Arbor": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "index": 33
+  },
+  {
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "Pupil Vadeebhasimha wrote ``Gayachintamani`` and ``Kshatrachudamini`` from Banas' ``Kadambari``; Chavundaraya wrote ``Charitarasara``.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "To shorten the sentence, unnecessary words were removed while retaining the core meaning and all entity names. The phrase 'wrote in prose' was shortened to 'wrote', and 'based on poet' was reduced to 'from'. The conjunction 'and' was replaced with a semicolon to connect two independent clauses.",
+    "modified_label": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "original_label": [
+      {
+        "Vadeebhasimha": "PERSON"
+      },
+      {
+        "Gayachintamani": "ART"
+      },
+      {
+        "Kshatrachudamini": "ART"
+      },
+      {
+        "Banas": "PERSON"
+      },
+      {
+        "Kadambari": "ART"
+      },
+      {
+        "Chavundaraya": "PERSON"
+      },
+      {
+        "Charitarasara": "ART"
+      }
+    ],
+    "original_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "index": 38
+  },
+  {
+    "original_text": "She has since worked with homeless patients and holds the position of Management Consultant fo r MedAmerica.",
+    "modified_text": "She works with homeless patients as a Management Consultant fo r MedAmerica.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words that were not essential to the meaning, such as 'has since' and 'holds the position of', while retaining the entity name 'r MedAmerica' and the core meaning of the original sentence.",
+    "modified_label": [
+      {
+        "text": "r MedAmerica",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "r MedAmerica"
+    ],
+    "original_label": [
+      {
+        "r MedAmerica": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "r MedAmerica"
+    ],
+    "index": 34
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Gonu brought winds and rain from Karachi to Gwadar.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing adjectives and rephrasing without changing the meaning or the position of the phrases. All entity names were retained.",
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "index": 36
+  },
+  {
+    "original_text": "In 1967, the park was the gathering place for a peaceful anti-war rally.",
+    "modified_text": "Back in 1967, the spacious park became the chosen gathering place for a large, peaceful anti-war rally, drawing numerous attendees.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive words such as 'spacious', 'chosen', 'large', and 'drawing numerous attendees' to double the length while keeping the original meaning intact.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 66
+  },
+  {
+    "original_text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "modified_text": "In 1939, the story hit the stage at the Martin Beck Theater, acclaimed but short-lived due to costs.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words and phrases while maintaining the core information about the adaptation of the story to the stage at the Martin Beck Theater, its acclaim, and the brevity of the run due to high production costs. The sentence length was reduced to approximately half of the original while keeping the same meaning and structure.",
+    "modified_label": [
+      {
+        "text": "Martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Martin Beck Theater"
+    ],
+    "original_label": [
+      {
+        "Martin Beck Theater": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Martin Beck Theater"
+    ],
+    "index": 64
+  },
+  {
+    "original_text": "It is operated by the Nhulunbuy Corporation.",
+    "modified_text": "Operated by Nhulunbuy Corporation.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "To shorten the sentence, the subject 'It' and the auxiliary verb 'is' were removed. This maintains the passive voice and keeps the meaning and entity name intact.",
+    "modified_label": [
+      {
+        "text": "Nhulunbuy Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "original_label": [
+      {
+        "Nhulunbuy Corporation": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "index": 68
+  },
+  {
+    "original_text": "It is operated by the Nhulunbuy Corporation.",
+    "modified_text": "The facility, with its complex operations and diverse workforce, is efficiently managed and operated by the esteemed Nhulunbuy Corporation.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "To lengthen the sentence, additional descriptive phrases were added around the original sentence. These phrases provide context about the facility's operations and the reputation of the Nhulunbuy Corporation without changing the original meaning or the entity name.",
+    "modified_label": [
+      {
+        "text": "Nhulunbuy Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "original_label": [
+      {
+        "Nhulunbuy Corporation": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "index": 68
+  },
+  {
+    "original_text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "modified_text": "In the early 1990s, specifically in the years 1992 and 1994, her brother made an attempt, although it was not successful, to secure a seat in the United States House of Representatives representing the constituents of upstate New York.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases, temporal context, and additional details to elaborate on the original events, while keeping the entity names and the core meaning intact.",
+    "modified_label": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "United States House of Representatives",
+      "New York"
+    ],
+    "original_label": [
+      {
+        "United States House of Representatives": "ORGANIZATION"
+      },
+      {
+        "New York": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "United States House of Representatives",
+      "New York"
+    ],
+    "index": 63
+  },
+  {
+    "original_text": "They used several features from a batch of A1 Pacifics they had built in 1924.",
+    "modified_text": "They used features from A1 Pacifics built in 1924.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing 'several' and 'a batch of' to reduce the length while retaining the core meaning and the entity 'A1 Pacifics'.",
+    "modified_label": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "A1 Pacifics"
+    ],
+    "original_label": [
+      {
+        "A1 Pacifics": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "A1 Pacifics"
+    ],
+    "index": 61
+  },
+  {
+    "original_text": "It was founded as a spin-off of Murphy Oil in 2013.",
+    "modified_text": "In the year 2013, the company was established as an independent entity, originating as a spin-off from the well-known organization Murphy Oil.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "To lengthen the sentence, additional descriptive words and phrases were added, such as 'In the year', 'the company was established as an independent entity', and 'originating from the well-known organization'. These additions double the length of the original sentence while maintaining the original meaning and keeping the entity 'Murphy Oil' unchanged.",
+    "modified_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Murphy Oil"
+    ],
+    "original_label": [
+      {
+        "Murphy Oil": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Murphy Oil"
+    ],
+    "index": 60
+  },
+  {
+    "original_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "modified_text": "In the early days of August, Loyalists, who had been diligently recruited from the region known as Queens County, which is situated within the state of New York, by the esteemed Lieutenant Colonel Richard Hewlett for the distinguished 3rd battalion of DeLancey's Brigade, had meticulously established a strategically fortified position on the central north shore of the well-known Long Island at the location of Setauket, which is positioned just across the expansive Long Island Sound from the notable area of Fairfield.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases and adjectives such as 'In the early days of August', 'diligently recruited', 'region known as', 'situated within the state of', 'esteemed', 'distinguished', 'meticulously established', 'strategically fortified position', 'well-known', 'location of', 'positioned just across', 'expansive', and 'notable area of'. The sentence structure and phrase positions were maintained, and the core meaning along with all entity names remained unchanged.",
+    "modified_label": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Queens County",
+      "New York",
+      "Richard Hewlett",
+      "DeLancey's Brigade",
+      "Long Island",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ],
+    "original_label": [
+      {
+        "Queens County": "LOCATION"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "Richard Hewlett": "PERSON"
+      },
+      {
+        "DeLancey's Brigade": "ORGANIZATION"
+      },
+      {
+        "Long Island": "LOCATION"
+      },
+      {
+        "Setauket": "LOCATION"
+      },
+      {
+        "Long Island Sound": "LOCATION"
+      },
+      {
+        "Fairfield": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Queens County",
+      "New York",
+      "Richard Hewlett",
+      "DeLancey's Brigade",
+      "Long Island",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ],
+    "index": 65
+  },
+  {
+    "original_text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "modified_text": "Royal Malaysia Police Air Operations Force, ``Pasukan Gerakan Udara (PGU)'', is Royal Malaysia Police's aviation unit.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words and rephrasing without changing the meaning or the position of phrases. All entity names were retained.",
+    "modified_label": [
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "PGU",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "original_label": [
+      {
+        "Royal Malaysia Police Air Operations Force": "ORGANIZATION"
+      },
+      {
+        "Pasukan Gerakan Udara": "ORGANIZATION"
+      },
+      {
+        "PGU": "ORGANIZATION"
+      },
+      {
+        "Royal Malaysia Police": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "index": 69
+  },
+  {
+    "original_text": "In 1967, the park was the gathering place for a peaceful anti-war rally.",
+    "modified_text": "In 1967, the park hosted a peaceful anti-war rally.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing 'was the gathering place for' and replacing it with 'hosted' to maintain the original meaning while reducing the length to approximately half.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 66
+  },
+  {
+    "original_text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "modified_text": "The Royal Malaysia Police Air Operations Force, also known as ``Pasukan Gerakan Udara (PGU)'', serves as the dedicated and specialized aviation unit within the broader organizational structure of the Royal Malaysia Police.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases and additional context. The meaning was preserved, and all entity names remained unchanged.",
+    "modified_label": [
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "PGU",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "original_label": [
+      {
+        "Royal Malaysia Police Air Operations Force": "ORGANIZATION"
+      },
+      {
+        "Pasukan Gerakan Udara": "ORGANIZATION"
+      },
+      {
+        "PGU": "ORGANIZATION"
+      },
+      {
+        "Royal Malaysia Police": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "index": 69
+  },
+  {
+    "original_text": "They used several features from a batch of A1 Pacifics they had built in 1924.",
+    "modified_text": "Incorporating a variety of innovative characteristics, they utilized numerous features from a complete batch of A1 Pacifics, a series they had expertly constructed back in the year 1924.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases and additional context to double the length while maintaining the original meaning and the entity 'A1 Pacifics'.",
+    "modified_label": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "A1 Pacifics"
+    ],
+    "original_label": [
+      {
+        "A1 Pacifics": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "A1 Pacifics"
+    ],
+    "index": 61
+  },
+  {
+    "original_text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "modified_text": "The story, which had been masterfully adapted to the stage in the year of 1939 at the renowned Martin Beck Theater, received widespread critical acclaim, yet unfortunately, it only managed to run for a mere six performances because the elaborate and costly nature of the production proved to be financially burdensome.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive words and phrases, enhancing the original content with additional details such as 'masterfully adapted', 'renowned', 'widespread critical acclaim', 'unfortunately', 'a mere six performances', 'elaborate and costly nature', and 'financially burdensome'. This increased the sentence length to approximately double the original while preserving the same meaning and structure, including the position of the phrase containing the entity name 'Martin Beck Theater'.",
+    "modified_label": [
+      {
+        "text": "Martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Martin Beck Theater"
+    ],
+    "original_label": [
+      {
+        "Martin Beck Theater": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Martin Beck Theater"
+    ],
+    "index": 64
+  },
+  {
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "modified_text": "During an exhilarating festival, the brave Siddhi heroically saves Vin from the imminent danger of being shot at by the notorious Rudra.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive words and phrases such as 'exhilarating', 'the brave', 'heroically', 'imminent danger of', and 'the notorious'. These additions serve to double the length of the sentence while maintaining the original meaning and keeping the entity names ['Siddhi', 'Vin', 'Rudra'] in the same order.",
+    "modified_label": [
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Siddhi",
+      "Vin",
+      "Rudra"
+    ],
+    "original_label": [
+      {
+        "Siddhi": "PERSON"
+      },
+      {
+        "Vin": "PERSON"
+      },
+      {
+        "Rudra": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Siddhi",
+      "Vin",
+      "Rudra"
+    ],
+    "index": 62
+  },
+  {
+    "original_text": "It was founded as a spin-off of Murphy Oil in 2013.",
+    "modified_text": "Founded as Murphy Oil spin-off in 2013.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "To shorten the sentence, unnecessary words such as 'It was' and 'a' were removed. The entity 'Murphy Oil' remains unchanged, and the sentence still conveys the same meaning, indicating the founding year and nature of the entity.",
+    "modified_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Murphy Oil"
+    ],
+    "original_label": [
+      {
+        "Murphy Oil": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Murphy Oil"
+    ],
+    "index": 60
+  },
+  {
+    "original_text": "Back to Basics focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "modified_text": "Back to Basics, a distinctive organization, primarily focuses on genre classics, meticulously curating a selection of older movies and underground cult films, while also occasionally venturing into the realm of mainstream cinema and introducing audiences to newer genre pieces.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The modified sentence is lengthened by adding descriptive phrases and additional context about the organization's activities and selection process, thereby doubling the length while maintaining the original entities and the core meaning.",
+    "modified_label": [
+      {
+        "text": "Back to Basics",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Back to Basics"
+    ],
+    "original_label": [
+      {
+        "Back to Basics": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Back to Basics"
+    ],
+    "index": 56
+  },
+  {
+    "original_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "modified_text": "Allistair Pinsof, a respected journalist at ``Destructoid``, enthusiastically praised the game's design, particularly emphasizing that the responsive controls were just as precise and enjoyable as those found in the classic titles ``Super Metroid`` and ``Super Castlevania IV.''",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive words and phrases that elaborate on the original sentiment without changing the meaning. 'a respected journalist at' provides context to Allistair Pinsof's position, 'enthusiastically praised the game's design, particularly emphasizing' adds detail to the praise, and 'responsive controls were just as precise and enjoyable as those found in' expands on the comparison of the controls.",
+    "modified_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "original_label": [
+      {
+        "Allistair Pinsof": "PERSON"
+      },
+      {
+        "Destructoid": "ORGANIZATION"
+      },
+      {
+        "Super Metroid": "PRODUCT"
+      },
+      {
+        "Super Castlevania IV": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "index": 58
+  },
+  {
+    "original_text": "Anhur is a playable character in the multiplayer online battle arena, ``SMITE''.",
+    "modified_text": "In the realm of virtual gaming, Anhur is recognized as a selectable, playable character featured in the popular, competitive multiplayer online battle arena known as ``SMITE''.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases and context around the game and the character. Words such as 'selectable', 'featured', 'popular', 'competitive', and 'known as' were added to expand the sentence while maintaining the original meaning. The entity 'Anhur' remains central to the sentence, ensuring the modification does not alter its significance.",
+    "modified_label": [
+      {
+        "text": "Anhur",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Anhur"
+    ],
+    "original_label": [
+      {
+        "Anhur": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Anhur"
+    ],
+    "index": 50
+  },
+  {
+    "original_text": "In 1955 it began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various models over the next 40 years.",
+    "modified_text": "In 1955 it got the Boeing B-52 and upgraded over 40 years.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words and phrases that were not essential to the main meaning, such as 'an early model of', 'Stratofortress', and 'to various models'. The entity name 'Boeing B-52' was kept unchanged, and the core information about receiving and upgrading the Boeing B-52 was retained.",
+    "modified_label": [
+      {
+        "text": "Boeing B-52",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Boeing B-52"
+    ],
+    "original_label": [
+      {
+        "Boeing B-52": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Boeing B-52"
+    ],
+    "index": 53
+  },
+  {
+    "original_text": "Internal conflicts, especially between Covaci and Baniciu, were making headlines in the media.",
+    "modified_text": "The media was abuzz with extensive reports on the internal conflicts, particularly the intense disagreements and frequent clashes between Covaci and Baniciu, which were becoming increasingly prominent.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases and additional context such as 'The media was abuzz with extensive reports on', 'particularly the intense disagreements and frequent clashes', and 'which were becoming increasingly prominent' to double the length while maintaining the original meaning and keeping the entity names unchanged.",
+    "modified_label": [
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Baniciu",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Covaci",
+      "Baniciu"
+    ],
+    "original_label": [
+      {
+        "Covaci": "PERSON"
+      },
+      {
+        "Baniciu": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Covaci",
+      "Baniciu"
+    ],
+    "index": 57
+  },
+  {
+    "original_text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "modified_text": "Collection includes sexual health material from 1974-2007.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words such as 'this', 'contains', and 'relating to', which are not essential for maintaining the original meaning. The phrase 'sexual health issues' was also shortened to 'sexual health material' to reduce length while preserving the core information.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 54
+  },
+  {
+    "original_text": "Back to Basics focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "modified_text": "Back to Basics shows genre classics, including older and cult films.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The modified sentence is shortened by removing details about the types of movies and frequency of showing mainstream pieces, while retaining the core meaning that 'Back to Basics' showcases genre classics and cult films.",
+    "modified_label": [
+      {
+        "text": "Back to Basics",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Back to Basics"
+    ],
+    "original_label": [
+      {
+        "Back to Basics": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Back to Basics"
+    ],
+    "index": 56
+  },
+  {
+    "original_text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this obstacle to political change.",
+    "modified_text": "However, it was in the year 1861 that the looming and very real prospect of secession by the southern states, following closely after the pivotal 1860 presidential election, effectively removed what had been a significant and longstanding obstacle to the much-needed political change.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The modified sentence is lengthened by adding descriptive phrases and additional context, such as 'looming and very real prospect,' 'following closely after the pivotal,' and 'what had been a significant and longstanding.' The sentence is approximately doubled in length while maintaining the original meaning and without any entity names to keep unchanged.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 55
+  },
+  {
+    "original_text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "modified_text": "This particular collection, which is quite extensive, contains a wide range of material and documents that specifically relate to the important and sensitive issues of sexual health spanning from the year 1974 all the way through to 2007.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases such as 'which is quite extensive', 'a wide range of', 'specifically relate to', 'important and sensitive issues of', and 'spanning from the year...all the way through to'. These additions elaborate on the original content without changing the meaning or the entity names.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 54
+  },
+  {
+    "original_text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this obstacle to political change.",
+    "modified_text": "In 1861, southern states' secession after the 1860 election removed a political obstacle.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The modified sentence is shortened by removing words and phrases that are not essential to the main point, such as 'However,' and 'the prospect of.' The sentence is reduced to approximately half of its original length while retaining the core meaning and without any entity names to keep unchanged.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 55
+  },
+  {
+    "original_text": "In particular, Reform Jews may be lampooned for their rejection of traditional Jewish beliefs.",
+    "modified_text": "Specifically, it is often observed that Reform Jews, who are a distinct group, might frequently be the subject of scorn or mockery due to their conscious decision to turn away from the long-established and traditional Jewish religious beliefs.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases and additional context such as 'who are a distinct group,' 'might frequently be the subject of scorn or mockery,' and 'conscious decision to turn away from the long-established and traditional.' This expansion doubles the length of the original sentence while maintaining the original meaning and keeping the entity names 'Jews' and 'Jewish' unchanged.",
+    "modified_label": [
+      {
+        "text": "Jews",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jewish",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Jews",
+      "Jewish"
+    ],
+    "original_label": [
+      {
+        "Jews": "ORGANIZATION"
+      },
+      {
+        "Jewish": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Jews",
+      "Jewish"
+    ],
+    "index": 59
+  },
+  {
+    "original_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "modified_text": "Allistair Pinsof from ``Destructoid`` liked the controls of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words and phrases without altering the meaning or the structure significantly. The phrase 'praised the game, saying' was replaced with 'liked' to maintain the positive sentiment while reducing length. The phrase 'the controls were as good as that of' was removed to shorten the sentence while keeping the comparison between the controls of the two games.",
+    "modified_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "original_label": [
+      {
+        "Allistair Pinsof": "PERSON"
+      },
+      {
+        "Destructoid": "ORGANIZATION"
+      },
+      {
+        "Super Metroid": "PRODUCT"
+      },
+      {
+        "Super Castlevania IV": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "index": 58
+  },
+  {
+    "original_text": "Anhur is a playable character in the multiplayer online battle arena, ``SMITE''.",
+    "modified_text": "Anhur is a character in ``SMITE''.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words that describe the type of game (multiplayer online battle arena) and the word 'playable' which is implied by being a character in a game. The entity 'Anhur' remains unchanged, and the core meaning that Anhur is associated with the game 'SMITE' is retained.",
+    "modified_label": [
+      {
+        "text": "Anhur",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Anhur"
+    ],
+    "original_label": [
+      {
+        "Anhur": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Anhur"
+    ],
+    "index": 50
+  },
+  {
+    "original_text": "In 1955 it began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various models over the next 40 years.",
+    "modified_text": "Starting in 1955, the air force base began the process of receiving an early model of the iconic Boeing B-52 Stratofortress and systematically upgraded to various advanced models consistently over the next four decades.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive words and phrases such as 'the air force base', 'the process of', 'iconic', 'systematically', 'advanced', 'consistently', and 'four decades' to provide more detail while maintaining the original meaning. The entity name 'Boeing B-52' was kept unchanged, and the sentence structure was preserved.",
+    "modified_label": [
+      {
+        "text": "Boeing B-52",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Boeing B-52"
+    ],
+    "original_label": [
+      {
+        "Boeing B-52": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Boeing B-52"
+    ],
+    "index": 53
+  },
+  {
+    "original_text": "Internal conflicts, especially between Covaci and Baniciu, were making headlines in the media.",
+    "modified_text": "Conflicts between Covaci and Baniciu hit the media.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words and phrases such as 'Internal', 'especially', and 'were making headlines in' to reduce the length while retaining the core meaning and keeping the entity names unchanged.",
+    "modified_label": [
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Baniciu",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Covaci",
+      "Baniciu"
+    ],
+    "original_label": [
+      {
+        "Covaci": "PERSON"
+      },
+      {
+        "Baniciu": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Covaci",
+      "Baniciu"
+    ],
+    "index": 57
+  },
+  {
+    "original_text": "In particular, Reform Jews may be lampooned for their rejection of traditional Jewish beliefs.",
+    "modified_text": "Reform Jews may face ridicule for discarding Jewish traditions.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words and phrases such as 'In particular,' and 'their rejection of traditional' to condense the meaning while retaining the core message and the entity names 'Jews' and 'Jewish'. The sentence length is approximately half of the original.",
+    "modified_label": [
+      {
+        "text": "Jews",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jewish",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Jews",
+      "Jewish"
+    ],
+    "original_label": [
+      {
+        "Jews": "ORGANIZATION"
+      },
+      {
+        "Jewish": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Jews",
+      "Jewish"
+    ],
+    "index": 59
+  },
+  {
+    "original_text": "In the early 1930s the band moved to the Grill Room of the Taft Hotel in New York ; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "modified_text": "Back in the early 1930s, the renowned band made its significant move to the prestigious Grill Room located within the confines of the Taft Hotel, situated in the bustling city of New York; consequentially, the band underwent a rebranding and was henceforth known as 'George Hall and His Hotel Taft Orchestra'.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive words and phrases such as 'renowned', 'made its significant move', 'prestigious', 'located within the confines of', 'situated in the bustling city of', and 'underwent a rebranding and was henceforth known as'. These additions were made to double the length of the sentence while maintaining the original meaning and keeping the structure and position of phrases unchanged. All entity names were kept as required.",
+    "modified_label": [
+      {
+        "text": "Grill Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Grill Room",
+      "Taft Hotel",
+      "New York",
+      "George Hall and His Hotel Taft Orchestra"
+    ],
+    "original_label": [
+      {
+        "Grill Room": "BUILDING"
+      },
+      {
+        "Taft Hotel": "BUILDING"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "George Hall and His Hotel Taft Orchestra": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Grill Room",
+      "Taft Hotel",
+      "New York",
+      "George Hall and His Hotel Taft Orchestra"
+    ],
+    "index": 0
+  },
+  {
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "The historical Austro-Hungarian Navy, with its significant maritime prowess, meticulously built and operated not just one, but two distinct and robust classes of heavily protected cruisers.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "To lengthen the sentence, additional descriptive phrases were added around the original sentence. Words like 'historical', 'significant maritime prowess', 'meticulously', 'not just one, but two distinct and robust', and 'heavily' were inserted to elaborate on the original content without changing the meaning or the entity names.",
+    "modified_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "original_label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "index": 4
+  },
+  {
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "modified_text": "Major Larry G.Messinger, B-52 pilot, recalled,",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "To shorten the sentence, non-essential words such as 'The' and 'later' were removed. The sentence structure was preserved by keeping the phrase position of the entities 'B-52' and 'Larry G.Messinger' intact. The meaning remains similar, conveying that the person recalled something.",
+    "modified_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "original_label": [
+      {
+        "B-52": "PRODUCT"
+      },
+      {
+        "Larry G.Messinger": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "index": 3
+  },
+  {
+    "original_text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "modified_text": "He has caught the attention of CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera, and Hi-Fructose Magazine.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "To shorten the sentence, the phrase 'major publications and media outlets such as' was removed. This reduction approximately halves the length of the original sentence while retaining all entity names and the core meaning.",
+    "modified_label": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail, NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "original_label": [
+      {
+        "CNN": "ORGANIZATION"
+      },
+      {
+        "The Huffington Post": "ORGANIZATION"
+      },
+      {
+        "Hypebeast": "ORGANIZATION"
+      },
+      {
+        "The Guardian": "ORGANIZATION"
+      },
+      {
+        "Juxtapoz Magazine": "ORGANIZATION"
+      },
+      {
+        "Daily Mail, NRDC": "ORGANIZATION"
+      },
+      {
+        "Aljazeera": "ORGANIZATION"
+      },
+      {
+        "Hi-Fructose Magazine": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "index": 7
+  },
+  {
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "In the mid-'60s, Marek drove a unique DB5 extended 4'', and by 1998, a V8 unit powered an Aston Martin DB7.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing details such as 'prototype was fitted', 'after the doors', 'personally', and 'normally 6-cylinder' to maintain the core meaning while reducing the length. The sentence structure was kept intact, with the entity names in their original positions.",
+    "modified_label": [
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "original_label": [
+      {
+        "DB5 extended 4''": "PRODUCT"
+      },
+      {
+        "Marek": "PERSON"
+      },
+      {
+        "Aston Martin DB7": "PRODUCT"
+      },
+      {
+        "V8 unit": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "index": 6
+  },
+  {
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "Back in the innovative mid-'60s, a specially designed prototype was meticulously fitted in a one-of-a-kind, custom-built DB5 extended 4'' right after the sleek doors, and it was driven with great enthusiasm by Marek himself, while in the year 1998, a traditionally 6-cylinder model of the iconic Aston Martin DB7 was expertly equipped with a robust V8 unit, enhancing its performance.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive phrases and adjectives such as 'specially designed', 'meticulously fitted', 'one-of-a-kind, custom-built', 'great enthusiasm', 'traditionally 6-cylinder model', 'iconic', 'expertly equipped', and 'robust', which doubled the length while preserving the original meaning and structure. The entity names remained unchanged and in the same positions within the sentence.",
+    "modified_label": [
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "original_label": [
+      {
+        "DB5 extended 4''": "PRODUCT"
+      },
+      {
+        "Marek": "PERSON"
+      },
+      {
+        "Aston Martin DB7": "PRODUCT"
+      },
+      {
+        "V8 unit": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "index": 6
+  },
+  {
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_text": "In its last year, the beloved Elkin Memorial Park, a cherished venue for minor league games, witnessed a total season attendance of 16,322, which breaks down to an average of 299 enthusiastic fans per each exciting contest.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence was lengthened by adding descriptive words and phrases such as 'In its last year', 'beloved', 'cherished venue for minor league games', 'witnessed a total season attendance of', 'which breaks down to', 'enthusiastic fans', and 'each exciting contest'. These additions double the length of the original sentence while maintaining the original meaning and keeping the entity name 'Elkin Memorial Park' unchanged.",
+    "modified_label": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Elkin Memorial Park"
+    ],
+    "original_label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elkin Memorial Park"
+    ],
+    "index": 1
+  },
+  {
+    "original_text": "In the early 1930s the band moved to the Grill Room of the Taft Hotel in New York ; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "modified_text": "In the 1930s, the band shifted to the Grill Room at Taft Hotel, New York, becoming 'George Hall and His Hotel Taft Orchestra'.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words such as 'early', 'of the', and 'was renamed', which are not essential for maintaining the original meaning. The structure and position of phrases were kept intact, and all entity names were preserved.",
+    "modified_label": [
+      {
+        "text": "Grill Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Grill Room",
+      "Taft Hotel",
+      "New York",
+      "George Hall and His Hotel Taft Orchestra"
+    ],
+    "original_label": [
+      {
+        "Grill Room": "BUILDING"
+      },
+      {
+        "Taft Hotel": "BUILDING"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "George Hall and His Hotel Taft Orchestra": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Grill Room",
+      "Taft Hotel",
+      "New York",
+      "George Hall and His Hotel Taft Orchestra"
+    ],
+    "index": 0
+  },
+  {
+    "original_text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "modified_text": "Remarkably, he has rapidly caught the widespread attention of a plethora of major and influential publications and media outlets around the world, such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera, and Hi-Fructose Magazine, all of which are highly esteemed.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "To lengthen the sentence, additional descriptive phrases and adjectives were added before and after the list of entities. These additions double the length of the original sentence while maintaining the original meaning and structure, as well as keeping all entity names unchanged.",
+    "modified_label": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail, NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "original_label": [
+      {
+        "CNN": "ORGANIZATION"
+      },
+      {
+        "The Huffington Post": "ORGANIZATION"
+      },
+      {
+        "Hypebeast": "ORGANIZATION"
+      },
+      {
+        "The Guardian": "ORGANIZATION"
+      },
+      {
+        "Juxtapoz Magazine": "ORGANIZATION"
+      },
+      {
+        "Daily Mail, NRDC": "ORGANIZATION"
+      },
+      {
+        "Aljazeera": "ORGANIZATION"
+      },
+      {
+        "Hi-Fructose Magazine": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "index": 7
+  },
+  {
+    "original_text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "modified_text": "In the historical context of the rebellion of Boudica in 61 AD, the Roman legion known as the Ninth faced a significant and serious defeat at the Battle of Camulodunum, which was led by the commander Quintus Petillius Cerialis, and during this tragic conflict, a vast majority of the Roman foot-soldiers tragically lost their lives in a desperate and ultimately unsuccessful endeavor to rescue the encircled and besieged ancient city of Camulodunum, now known as Colchester.",
+    "type": "length_bias",
+    "subtype": "longer",
+    "rationale": "The sentence is lengthened by adding descriptive phrases and contextual information about the historical event, the identity of the Ninth legion, and the nature of the conflict. Additional adjectives and adverbs are used to maintain the original meaning while doubling the sentence length.",
+    "modified_label": [
+      {
+        "text": "Camulodunum",
+        "value": "EVENT"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "PERSON"
+      },
+      {
+        "text": "Boudica",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Camulodunum",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ],
+    "original_label": [
+      {
+        "Camulodunum": "EVENT"
+      },
+      {
+        "Quintus Petillius Cerialis": "PERSON"
+      },
+      {
+        "Boudica": "EVENT"
+      },
+      {
+        "Camulodunum": "LOCATION"
+      },
+      {
+        "Colchester": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Camulodunum",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ],
+    "index": 9
+  },
+  {
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_text": "Elkin Memorial Park's final season drew 16,322 fans, averaging 299 each game.",
+    "type": "length_bias",
+    "subtype": "shorter",
+    "rationale": "The sentence was shortened by removing words and phrases such as 'of minor league play' and 'saw season attendance of', while retaining the key information about the park's final season attendance and average per game. The entity name 'Elkin Memorial Park' remains unchanged.",
+    "modified_label": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Elkin Memorial Park"
+    ],
+    "original_label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elkin Memorial Park"
+    ],
+    "index": 1
+  }
+]

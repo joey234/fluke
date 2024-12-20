@@ -1,0 +1,3452 @@
+[
+  {
+    "original_text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "modified_text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and FortWayne Line trains.",
+    "modified_label": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "FortWayne Line",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Conway",
+      "Norfolk Southern",
+      "Greater Pittsburgh",
+      "Pittsburgh",
+      "FortWayne Line"
+    ],
+    "original_label": [
+      {
+        "Conway": "LOCATION"
+      },
+      {
+        "Norfolk Southern": "LOCATION"
+      },
+      {
+        "Greater Pittsburgh": "LOCATION"
+      },
+      {
+        "Pittsburgh": "LOCATION"
+      },
+      {
+        "Fort Wayne Line": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Conway",
+      "Norfolk Southern",
+      "Greater Pittsburgh",
+      "Pittsburgh",
+      "Fort Wayne Line"
+    ],
+    "index": 35
+  },
+  {
+    "original_text": "On the formation of the Residential Property Tribunal Service as a result of the Housing Act 2004 the rent assessment committees became part of that body for administrative purposes, and is therefore now called the First Tier Tribunal (Property Chamber - Residential Property).",
+    "modified_text": "On the formation of the ResidentialProperty Tribunal Service as a result of the Housing Act2004 the rent assessment committees became part of that body for administrative purposes, and is therefore now called the First Tier Tribunal (Property Chamber - Residential Property).",
+    "modified_label": [
+      {
+        "text": "ResidentialProperty Tribunal Service",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Housing Act2004",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "ResidentialProperty Tribunal Service",
+      "Housing Act2004"
+    ],
+    "original_label": [
+      {
+        "Residential Property Tribunal Service": "ORGANIZATION"
+      },
+      {
+        "Housing Act 2004": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Residential Property Tribunal Service",
+      "Housing Act 2004"
+    ],
+    "index": 107
+  },
+  {
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "modified_text": "Argentina's Del ImaginarioDiscos also released the album in 2007.",
+    "modified_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del ImaginarioDiscos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Argentina",
+      "Del ImaginarioDiscos"
+    ],
+    "original_label": [
+      {
+        "Argentina": "LOCATION"
+      },
+      {
+        "Del Imaginario Discos": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ],
+    "index": 42
+  },
+  {
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, aminoacid degradation, and photorespiration.",
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "aminoacid",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "aminoacid"
+    ],
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "index": 21
+  },
+  {
+    "original_text": "Tyrosine phosphorylation is the addition of a phosphate (PO43\u2212) group to the amino acid tyrosine on a protein.",
+    "modified_text": "Tyrosine phosphorylation is the addition of a phosphate (PO43\u2212) group to the amino acid tyrosineon a protein.",
+    "modified_label": [
+      {
+        "text": "PO43\u2212",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid tyrosineon",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "PO43\u2212",
+      "amino acid tyrosineon"
+    ],
+    "original_label": [
+      {
+        "PO43\\u2212": "OTHER"
+      },
+      {
+        "amino acid tyrosine": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "PO43\u2212",
+      "amino acid tyrosine"
+    ],
+    "index": 52
+  },
+  {
+    "original_text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "modified_text": "The Ninth suffered a serious defeat at the Battle of Camulodunumunder Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum(Colchester).",
+    "modified_label": [
+      {
+        "text": "Camulodunumunder",
+        "value": "EVENT"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "PERSON"
+      },
+      {
+        "text": "Boudica",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Camulodunumunder",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ],
+    "original_label": [
+      {
+        "Camulodunum": "EVENT"
+      },
+      {
+        "Quintus Petillius Cerialis": "PERSON"
+      },
+      {
+        "Boudica": "EVENT"
+      },
+      {
+        "Camulodunum": "LOCATION"
+      },
+      {
+        "Colchester": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Camulodunum",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ],
+    "index": 9
+  },
+  {
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "The Austro-HungarianNavy built and operated two classes of protected cruisers.",
+    "modified_label": [
+      {
+        "text": "Austro-HungarianNavy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Austro-HungarianNavy"
+    ],
+    "original_label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "index": 4
+  },
+  {
+    "original_text": "Mike Moreton headed the team, joining TWR to run the XJ220 project.",
+    "modified_text": "Mike Moreton headed the team, joining TWR to run theXJ220 project.",
+    "modified_label": [
+      {
+        "text": "Mike Moreton",
+        "value": "PERSON"
+      },
+      {
+        "text": "TWR",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "theXJ220",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Mike Moreton",
+      "TWR",
+      "theXJ220"
+    ],
+    "original_label": [
+      {
+        "Mike Moreton": "PERSON"
+      },
+      {
+        "TWR": "ORGANIZATION"
+      },
+      {
+        "XJ220": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Mike Moreton",
+      "TWR",
+      "XJ220"
+    ],
+    "index": 85
+  },
+  {
+    "original_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "modified_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``SuperMetroid`` and ``Super Castlevania IV.''",
+    "modified_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "SuperMetroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "SuperMetroid",
+      "Super Castlevania IV"
+    ],
+    "original_label": [
+      {
+        "Allistair Pinsof": "PERSON"
+      },
+      {
+        "Destructoid": "ORGANIZATION"
+      },
+      {
+        "Super Metroid": "PRODUCT"
+      },
+      {
+        "Super Castlevania IV": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "index": 58
+  },
+  {
+    "original_text": "Kenyon entered Maynooth Seminary in 1829 \u2013 the year of Catholic Emancipation.",
+    "modified_text": "Kenyon entered MaynoothSeminary in 1829 \u2013 the year of Catholic Emancipation.",
+    "modified_label": [
+      {
+        "text": "Kenyon",
+        "value": "PERSON"
+      },
+      {
+        "text": "MaynoothSeminary",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Catholic Emancipation",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Kenyon",
+      "MaynoothSeminary",
+      "Catholic Emancipation"
+    ],
+    "original_label": [
+      {
+        "Kenyon": "PERSON"
+      },
+      {
+        "Maynooth Seminary": "ORGANIZATION"
+      },
+      {
+        "Catholic Emancipation": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Kenyon",
+      "Maynooth Seminary",
+      "Catholic Emancipation"
+    ],
+    "index": 23
+  },
+  {
+    "original_text": "I, Max was a sports commentary show featuring host Max Kellerman and Michael Holley that aired nightly on Fox Sports Net.",
+    "modified_text": "I, Max was a sports commentary show featuring host MaxKellerman and Michael Holley that aired nightly on Fox Sports Net.",
+    "modified_label": [
+      {
+        "text": "I, Max",
+        "value": "ART"
+      },
+      {
+        "text": "MaxKellerman",
+        "value": "PERSON"
+      },
+      {
+        "text": "Michael Holley",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fox Sports Net",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "I, Max",
+      "MaxKellerman",
+      "Michael Holley",
+      "Fox Sports Net"
+    ],
+    "original_label": [
+      {
+        "I, Max": "ART"
+      },
+      {
+        "Max Kellerman": "PERSON"
+      },
+      {
+        "Michael Holley": "PERSON"
+      },
+      {
+        "Fox Sports Net": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "I, Max",
+      "Max Kellerman",
+      "Michael Holley",
+      "Fox Sports Net"
+    ],
+    "index": 110
+  },
+  {
+    "original_text": "Pune lost the match 1\u20133 with all three goals coming after Amrinder came on.",
+    "modified_text": "Pune lost the match 1\u20133 with all three goals coming after Amrindercame on.",
+    "modified_label": [
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Amrindercame",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Pune",
+      "Amrindercame"
+    ],
+    "original_label": [
+      {
+        "Pune": "ORGANIZATION"
+      },
+      {
+        "Amrinder": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Pune",
+      "Amrinder"
+    ],
+    "index": 37
+  },
+  {
+    "original_text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "modified_text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland andLabrador, Canada from 1975 to 1979.",
+    "modified_label": [
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundlandand Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundlandand Labrador",
+      "Canada"
+    ],
+    "original_label": [
+      {
+        "Newfoundland Reform Liberal Party": "ORGANIZATION"
+      },
+      {
+        "Newfoundland and Labrador": "LOCATION"
+      },
+      {
+        "Canada": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundland and Labrador",
+      "Canada"
+    ],
+    "index": 44
+  },
+  {
+    "original_text": "The founder of K\u014deido (the purveyors of Kibi dango) authored a travel guide in 1895, in which he claimed that Kibitsuhiko rolled with his own hand some kibi dango to give to Emperor Jimmu who stopped at Takayama Palace in Okayama.",
+    "modified_text": "The founder of K\u014deido (the purveyors of Kibi dango) authored a travel guide in 1895, in which he claimed that Kibitsuhiko rolled with his own hand some kibi dango to give to Emperor Jimmu who stopped at Takayama Palacein Okayama.",
+    "modified_label": [
+      {
+        "text": "K\u014deido",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Kibi dango",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Kibitsuhiko",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "kibi dango",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Jimmu",
+        "value": "PERSON"
+      },
+      {
+        "text": "Takayama Palacein",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Okayama",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "K\u014deido",
+      "Kibi dango",
+      "Kibitsuhiko",
+      "kibi dango",
+      "Jimmu",
+      "Takayama Palacein",
+      "Okayama"
+    ],
+    "original_label": [
+      {
+        "K\\u014deido": "ORGANIZATION"
+      },
+      {
+        "Kibi dango": "PRODUCT"
+      },
+      {
+        "Kibitsuhiko": "ORGANIZATION"
+      },
+      {
+        "kibi dango": "PRODUCT"
+      },
+      {
+        "Jimmu": "PERSON"
+      },
+      {
+        "Takayama Palace": "BUILDING"
+      },
+      {
+        "Okayama": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "K\u014deido",
+      "Kibi dango",
+      "Kibitsuhiko",
+      "kibi dango",
+      "Jimmu",
+      "Takayama Palace",
+      "Okayama"
+    ],
+    "index": 27
+  },
+  {
+    "original_text": "The Germans then attacked again and penetrated C Company, but the tanks of the North Irish Horse stopped the Germans until dusk.",
+    "modified_text": "The Germans then attacked again and penetrated CCompany, but the tanks of the North Irish Horse stopped the Germans until dusk.",
+    "modified_label": [
+      {
+        "text": "Germans",
+        "value": "LOCATION"
+      },
+      {
+        "text": "CCompany",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "North Irish Horse",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Germans",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Germans",
+      "CCompany",
+      "North Irish Horse",
+      "Germans"
+    ],
+    "original_label": [
+      {
+        "Germans": "LOCATION"
+      },
+      {
+        "C Company": "ORGANIZATION"
+      },
+      {
+        "North Irish Horse": "ORGANIZATION"
+      },
+      {
+        "Germans": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Germans",
+      "C Company",
+      "North Irish Horse",
+      "Germans"
+    ],
+    "index": 100
+  },
+  {
+    "original_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "modified_text": "Loyalists recruited from QueensCounty, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "modified_label": [
+      {
+        "text": "QueensCounty",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "QueensCounty",
+      "New York",
+      "Richard Hewlett",
+      "DeLancey's Brigade",
+      "Long Island",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ],
+    "original_label": [
+      {
+        "Queens County": "LOCATION"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "Richard Hewlett": "PERSON"
+      },
+      {
+        "DeLancey's Brigade": "ORGANIZATION"
+      },
+      {
+        "Long Island": "LOCATION"
+      },
+      {
+        "Setauket": "LOCATION"
+      },
+      {
+        "Long Island Sound": "LOCATION"
+      },
+      {
+        "Fairfield": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Queens County",
+      "New York",
+      "Richard Hewlett",
+      "DeLancey's Brigade",
+      "Long Island",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ],
+    "index": 65
+  },
+  {
+    "original_text": "Gibraltar suffered a number of air raids during 1940 by the Italian ``Regia Aeronautica`` (operating from Sardinia) and from the Vichy French Air Force (from French North Africa) in retaliation for British and Free French attacks on Mers-el-Kebir and Dakar.",
+    "modified_text": "Gibraltar suffered a number of air raids during 1940 by the Italian ``RegiaAeronautica`` (operating from Sardinia) and from the Vichy French Air Force (from French North Africa) in retaliation for British and Free French attacks on Mers-el-Kebir and Dakar.",
+    "modified_label": [
+      {
+        "text": "Gibraltar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RegiaAeronautica",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sardinia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Vichy French Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "French North Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "British",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Free French",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mers-el-Kebir",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dakar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gibraltar",
+      "RegiaAeronautica",
+      "Sardinia",
+      "Vichy French Air Force",
+      "French North Africa",
+      "British",
+      "Free French",
+      "Mers-el-Kebir",
+      "Dakar"
+    ],
+    "original_label": [
+      {
+        "Gibraltar": "LOCATION"
+      },
+      {
+        "Regia Aeronautica": "ORGANIZATION"
+      },
+      {
+        "Sardinia": "LOCATION"
+      },
+      {
+        "Vichy French Air Force": "ORGANIZATION"
+      },
+      {
+        "French North Africa": "LOCATION"
+      },
+      {
+        "British": "ORGANIZATION"
+      },
+      {
+        "Free French": "ORGANIZATION"
+      },
+      {
+        "Mers-el-Kebir": "LOCATION"
+      },
+      {
+        "Dakar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gibraltar",
+      "Regia Aeronautica",
+      "Sardinia",
+      "Vichy French Air Force",
+      "French North Africa",
+      "British",
+      "Free French",
+      "Mers-el-Kebir",
+      "Dakar"
+    ],
+    "index": 111
+  },
+  {
+    "original_text": "Divine Styler says: ``in the school I come from, freestyling was a non-conceptual written rhyme... and now they call freestyling off the top of the head, so the era I come from it's a lot different''.",
+    "modified_text": "DivineStyler says: ``in the school I come from, freestyling was a non-conceptual written rhyme... and now they call freestyling off the top of the head, so the era I come from it's a lot different''.",
+    "modified_label": [
+      {
+        "text": "DivineStyler",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "DivineStyler"
+    ],
+    "original_label": [
+      {
+        "Divine Styler": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Divine Styler"
+    ],
+    "index": 113
+  },
+  {
+    "original_text": "Six years later, both Richard and Lilli grow into strong and beautiful teenagers.",
+    "modified_text": "Six years later, both Richardand Lilli grow into strong and beautiful teenagers.",
+    "modified_label": [
+      {
+        "text": "Richardand",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lilli",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Richardand",
+      "Lilli"
+    ],
+    "original_label": [
+      {
+        "Richard": "PERSON"
+      },
+      {
+        "Lilli": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Richard",
+      "Lilli"
+    ],
+    "index": 93
+  },
+  {
+    "original_text": "It won the jury award for best feature Film at the TriMedia Film Festival in 2010.",
+    "modified_text": "It won the jury award for best feature Film at the TriMedia FilmFestival in 2010.",
+    "modified_label": [
+      {
+        "text": "jury award for best feature Film",
+        "value": "OTHER"
+      },
+      {
+        "text": "TriMedia FilmFestival",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "jury award for best feature Film",
+      "TriMedia FilmFestival"
+    ],
+    "original_label": [
+      {
+        "jury award for best feature Film": "OTHER"
+      },
+      {
+        "TriMedia Film Festival": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "jury award for best feature Film",
+      "TriMedia Film Festival"
+    ],
+    "index": 88
+  },
+  {
+    "original_text": "In particular, Reform Jews may be lampooned for their rejection of traditional Jewish beliefs.",
+    "modified_text": "In particular, Reform Jews may be lampooned, for their rejection of traditional Jewish beliefs.",
+    "modified_label": [
+      {
+        "text": "Jews",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jewish",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Jews",
+      "Jewish"
+    ],
+    "original_label": [
+      {
+        "Jews": "ORGANIZATION"
+      },
+      {
+        "Jewish": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Jews",
+      "Jewish"
+    ],
+    "index": 59
+  },
+  {
+    "original_text": "The name ``Ganapatishvara``, which also gives the town its alternate name ``Ganapatishvaram``, denotes Shiva as ``Lord of Ganesha`` and alludes to the legend that Ganesha killed a demon and then worshipped his father Shiva here.",
+    "modified_text": "The name ``Ganapatishvara``, which also gives the town its alternate name ``Ganapatishvaram``, denotes Shiva as ``Lordof Ganesha`` and alludes to the legend that Ganesha killed a demon and then worshipped his father Shiva here.",
+    "modified_label": [
+      {
+        "text": "Ganapatishvara",
+        "value": "OTHER"
+      },
+      {
+        "text": "Ganapatishvaram",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      },
+      {
+        "text": "Lordof Ganesha",
+        "value": "OTHER"
+      },
+      {
+        "text": "Ganesha",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Ganapatishvara",
+      "Ganapatishvaram",
+      "Shiva",
+      "Lordof Ganesha",
+      "Ganesha",
+      "Shiva"
+    ],
+    "original_label": [
+      {
+        "Ganapatishvara": "OTHER"
+      },
+      {
+        "Ganapatishvaram": "OTHER"
+      },
+      {
+        "Shiva": "OTHER"
+      },
+      {
+        "Lord of Ganesha": "OTHER"
+      },
+      {
+        "Ganesha": "OTHER"
+      },
+      {
+        "Shiva": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Ganapatishvara",
+      "Ganapatishvaram",
+      "Shiva",
+      "Lord of Ganesha",
+      "Ganesha",
+      "Shiva"
+    ],
+    "index": 112
+  },
+  {
+    "original_text": "The same effects have also been seen in short pubertal boys.",
+    "modified_text": "The same effects have also been seen in short pubertall boys.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 80
+  },
+  {
+    "original_text": "Elin Hilderbrand is an American writer mostly of romance novels.",
+    "modified_text": "Elin Hilderbrand is anAmerican writer mostly of romance novels.",
+    "modified_label": [
+      {
+        "text": "Elin Hilderbrand",
+        "value": "PERSON"
+      },
+      {
+        "text": "anAmerican",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Elin Hilderbrand",
+      "anAmerican"
+    ],
+    "original_label": [
+      {
+        "Elin Hilderbrand": "PERSON"
+      },
+      {
+        "American": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elin Hilderbrand",
+      "American"
+    ],
+    "index": 5
+  },
+  {
+    "original_text": "In 1955 it began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various models over the next 40 years.",
+    "modified_text": "In 1955, it began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various models over the next 40 years.",
+    "modified_label": [
+      {
+        "text": "Boeing B-52",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Boeing B-52"
+    ],
+    "original_label": [
+      {
+        "Boeing B-52": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Boeing B-52"
+    ],
+    "index": 53
+  },
+  {
+    "original_text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this obstacle to political change.",
+    "modified_text": "However, in 1861 the prospect of seccession by southern states after the 1860 presidential election removed this obstacle to political change.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 55
+  },
+  {
+    "original_text": "More than 100 sellers from Deidesheim and the surrounding area run stalls, which must stylistically fit into the market's whole theme.",
+    "modified_text": "More than 100 sellers from Deidesheimand the surrounding area run stalls, which must stylistically fit into the market's whole theme.",
+    "modified_label": [
+      {
+        "text": "Deidesheimand",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Deidesheimand"
+    ],
+    "original_label": [
+      {
+        "Deidesheim": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Deidesheim"
+    ],
+    "index": 87
+  },
+  {
+    "original_text": "Construction was modular so that some of the gold could be removed and melted for coin or bullion in times of severe financial hardship, to be replaced later when finances had recovered.",
+    "modified_text": "Construction was modular, so that some of the gold could be removed and melted for coin or bullion in times of severe financial hardship, to be replaced later when finances had recovered.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 81
+  },
+  {
+    "original_text": "After it was established by Yadunandan Sharma, at the instruction of Swami Sahajanand Saraswati in 1933, it saw a large number of freedom fighters visiting.",
+    "modified_text": "After it was established by YadunandanSharma, at the instruction of Swami Sahajanand Saraswati in 1933, it saw a large number of freedom fighters visiting.",
+    "modified_label": [
+      {
+        "text": "YadunandanSharma",
+        "value": "PERSON"
+      },
+      {
+        "text": "Swami Sahajanand Saraswati",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "YadunandanSharma",
+      "Swami Sahajanand Saraswati"
+    ],
+    "original_label": [
+      {
+        "Yadunandan Sharma": "PERSON"
+      },
+      {
+        "Swami Sahajanand Saraswati": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Yadunandan Sharma",
+      "Swami Sahajanand Saraswati"
+    ],
+    "index": 105
+  },
+  {
+    "original_text": "He died in an assisted living facility on election day, November 2, 2004, at the age of 92, survived by his widow and one brother.",
+    "modified_text": "He died in an assisted living facillity on election day, November 2, 2004, at the age of 92, survived by his widow and one brother.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 119
+  },
+  {
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "modified_text": "At a festival, Siddhi saves Vin from being shot at, by Rudra.",
+    "modified_label": [
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Siddhi",
+      "Vin",
+      "Rudra"
+    ],
+    "original_label": [
+      {
+        "Siddhi": "PERSON"
+      },
+      {
+        "Vin": "PERSON"
+      },
+      {
+        "Rudra": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Siddhi",
+      "Vin",
+      "Rudra"
+    ],
+    "index": 62
+  },
+  {
+    "original_text": "The festival is dedicated to world television and digital content and its creation and development.",
+    "modified_text": "The festival is dedicated to world television and digital content and its creation and developmment.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 73
+  },
+  {
+    "original_text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "modified_text": "Nintendo continued to sell the revised Wii model, and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "modified_label": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "original_label": [
+      {
+        "Nintendo": "ORGANIZATION"
+      },
+      {
+        "Wii model": "PRODUCT"
+      },
+      {
+        "Wii Mini": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "index": 22
+  },
+  {
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Furthermore, the SFO offered to pay reasonable, legal costs.",
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "the SFO"
+    ],
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "the SFO"
+    ],
+    "index": 30
+  },
+  {
+    "original_text": "Most of the town is actually a gated community called Orchid Island Golf and Beach Club.",
+    "modified_text": "Most of the town, is actually a gated community called Orchid Island Golf and Beach Club.",
+    "modified_label": [
+      {
+        "text": "Orchid Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "original_label": [
+      {
+        "Orchid Island Golf and Beach Club": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "index": 47
+  },
+  {
+    "original_text": "Another part of the RNA binds to the X-chromosome positioning PRC2 such that it can methylate various regions on the X-chromosome.",
+    "modified_text": "Another part of the RNA, binds to the X-chromosome positioning PRC2 such that it can methylate various regions on the X-chromosome.",
+    "modified_label": [
+      {
+        "text": "RNA",
+        "value": "OTHER"
+      },
+      {
+        "text": "X-chromosome",
+        "value": "OTHER"
+      },
+      {
+        "text": "PRC2",
+        "value": "OTHER"
+      },
+      {
+        "text": "X-chromosome",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "RNA",
+      "X-chromosome",
+      "PRC2",
+      "X-chromosome"
+    ],
+    "original_label": [
+      {
+        "RNA": "OTHER"
+      },
+      {
+        "X-chromosome": "OTHER"
+      },
+      {
+        "PRC2": "OTHER"
+      },
+      {
+        "X-chromosome": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "RNA",
+      "X-chromosome",
+      "PRC2",
+      "X-chromosome"
+    ],
+    "index": 95
+  },
+  {
+    "original_text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "modified_text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of RoyalMalaysia Police.",
+    "modified_label": [
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "PGU",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "RoyalMalaysia Police",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "RoyalMalaysia Police"
+    ],
+    "original_label": [
+      {
+        "Royal Malaysia Police Air Operations Force": "ORGANIZATION"
+      },
+      {
+        "Pasukan Gerakan Udara": "ORGANIZATION"
+      },
+      {
+        "PGU": "ORGANIZATION"
+      },
+      {
+        "Royal Malaysia Police": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "index": 69
+  },
+  {
+    "original_text": "``Patrick Morris`` sent out her own mayday call at 6:51 am and sank 35 minutes later.",
+    "modified_text": "``PatrickMorris`` sent out her own mayday call at 6:51 am and sank 35 minutes later.",
+    "modified_label": [
+      {
+        "text": "PatrickMorris",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "PatrickMorris"
+    ],
+    "original_label": [
+      {
+        "Patrick Morris": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Patrick Morris"
+    ],
+    "index": 79
+  },
+  {
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_text": "The final season of minor league play, Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_label": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Elkin Memorial Park"
+    ],
+    "original_label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elkin Memorial Park"
+    ],
+    "index": 1
+  },
+  {
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "It is developed by Golaem, a France-based software company (created in Rennesin 2009).",
+    "modified_label": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennesin",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Golaem",
+      "France",
+      "Rennesin"
+    ],
+    "original_label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "index": 28
+  },
+  {
+    "original_text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza intensified.",
+    "modified_text": "The peasantry was also aggrieved, and between 1846 and 1848, opposition to Sturdza intensified.",
+    "modified_label": [
+      {
+        "text": "Sturdza",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Sturdza"
+    ],
+    "original_label": [
+      {
+        "Sturdza": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Sturdza"
+    ],
+    "index": 41
+  },
+  {
+    "original_text": "The ability to sustain a lucrative business in bootlegging liquor was largely helped by the minimal police surveillance at the time.",
+    "modified_text": "The ability to sustain a lucrative business in bootlegging liquor, was largely helped by the minimal police surveillance at the time.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 94
+  },
+  {
+    "original_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "modified_text": "He went on to produce Kim Fowley, and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "modified_label": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Agenda At the Thirteenth Not",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "original_label": [
+      {
+        "Kim Fowley": "PERSON"
+      },
+      {
+        "BMX Bandits": "ORGANIZATION"
+      },
+      {
+        "Receiver Records": "ORGANIZATION"
+      },
+      {
+        "Hidden Agenda At the Thirteenth Not": "ART"
+      }
+    ],
+    "original_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "index": 25
+  },
+  {
+    "original_text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "modified_text": "The lowest match aggregate in ODI history for England, is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "modified_label": [
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ],
+    "original_label": [
+      {
+        "England": "ORGANIZATION"
+      },
+      {
+        "Cricket World Cup": "EVENT"
+      },
+      {
+        "Canada": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ],
+    "index": 12
+  },
+  {
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "The Cnidaria, are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Cnidaria"
+    ],
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Cnidaria"
+    ],
+    "index": 8
+  },
+  {
+    "original_text": "She has since worked with homeless patients and holds the position of Management Consultant fo r MedAmerica.",
+    "modified_text": "She has since worked with homeless patients, and holds the position of Management Consultant fo r MedAmerica.",
+    "modified_label": [
+      {
+        "text": "r MedAmerica",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "r MedAmerica"
+    ],
+    "original_label": [
+      {
+        "r MedAmerica": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "r MedAmerica"
+    ],
+    "index": 34
+  },
+  {
+    "original_text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "modified_text": "Somewhat hidden away by the BenCruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "modified_label": [
+      {
+        "text": "BenCruachan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "BenCruachan",
+      "Beinn Eunaich"
+    ],
+    "original_label": [
+      {
+        "Ben Cruachan": "LOCATION"
+      },
+      {
+        "Beinn Eunaich": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "index": 13
+  },
+  {
+    "original_text": "The Papacy in central Italy maintained major cultural and political influence during the Catholic Reformation initiated by the conclusion of the Tridentine council (resumed by the terms of the treaty).",
+    "modified_text": "The Papacy in central Italy maintained major cultural, and political influence during the Catholic Reformation initiated by the conclusion of the Tridentine council (resumed by the terms of the treaty).",
+    "modified_label": [
+      {
+        "text": "Papacy",
+        "value": "EVENT"
+      },
+      {
+        "text": "Catholic Reformation",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Tridentine council",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Papacy",
+      "Catholic Reformation",
+      "Tridentine council"
+    ],
+    "original_label": [
+      {
+        "Papacy": "EVENT"
+      },
+      {
+        "Catholic Reformation": "ORGANIZATION"
+      },
+      {
+        "Tridentine council": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Papacy",
+      "Catholic Reformation",
+      "Tridentine council"
+    ],
+    "index": 90
+  },
+  {
+    "original_text": "Moreover, Santa is actually innocent of the crime, which was instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "modified_text": "Moreover, Santa is actually innocent of the crime, which was instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song, but made into a gold-digging villainness in the special.",
+    "modified_label": [
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Cousin Mel",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Santa",
+      "Cousin Mel"
+    ],
+    "original_label": [
+      {
+        "Santa": "PERSON"
+      },
+      {
+        "Cousin Mel": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Santa",
+      "Cousin Mel"
+    ],
+    "index": 43
+  },
+  {
+    "original_text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "modified_text": "The story had been adapted to the stage in 1939 at the MartinBeck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "modified_label": [
+      {
+        "text": "MartinBeck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "MartinBeck Theater"
+    ],
+    "original_label": [
+      {
+        "Martin Beck Theater": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Martin Beck Theater"
+    ],
+    "index": 64
+  },
+  {
+    "original_text": "The government announced a state funeral and a day of national mourning.",
+    "modified_text": "The government announced a state funeral, and a day of national mourning.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 46
+  },
+  {
+    "original_text": "Malcolm III (; c.26 March 1031 \u2013 13 November 1093 (age 62)) was King of Scots from 1058 to 1093.",
+    "modified_text": "Malcolm III (; c.26 March 1031 \u2013 13 November 1093, (age 62)) was King of Scots from 1058 to 1093.",
+    "modified_label": [
+      {
+        "text": "Malcolm III",
+        "value": "PERSON"
+      },
+      {
+        "text": "Scots",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Malcolm III",
+      "Scots"
+    ],
+    "original_label": [
+      {
+        "Malcolm III": "PERSON"
+      },
+      {
+        "Scots": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Malcolm III",
+      "Scots"
+    ],
+    "index": 98
+  },
+  {
+    "original_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "modified_text": "During the Battle of Antietam, on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "modified_label": [
+      {
+        "text": "Battle of Antietam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "original_label": [
+      {
+        "Battle of Antietam": "EVENT"
+      },
+      {
+        "Wilkinson": "PERSON"
+      },
+      {
+        "Veterans Reserve Corps": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "index": 17
+  },
+  {
+    "original_text": "It has been used to treat hypertension and cardiac failure, and to treat pre-eclampsia during pregnancy.",
+    "modified_text": "It has been used to treat hypertension and cardiac failure, and to treat pre-eclampsiaduring pregnancy.",
+    "modified_label": [
+      {
+        "text": "hypertension",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure,",
+        "value": "OTHER"
+      },
+      {
+        "text": "pre-eclampsiaduring",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "hypertension",
+      "cardiac failure,",
+      "pre-eclampsiaduring"
+    ],
+    "original_label": [
+      {
+        "hypertension": "OTHER"
+      },
+      {
+        "cardiac failure,": "OTHER"
+      },
+      {
+        "pre-eclampsia": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "hypertension",
+      "cardiac failure,",
+      "pre-eclampsia"
+    ],
+    "index": 49
+  },
+  {
+    "original_text": "Liz Weir won the inaugural International Story Bridge Award of the National Storytelling Network in 2002.",
+    "modified_text": "Liz Weir won the inaugural International Story Bridge Award, of the National Storytelling Network in 2002.",
+    "modified_label": [
+      {
+        "text": "Liz Weir",
+        "value": "PERSON"
+      },
+      {
+        "text": "International Story Bridge Award",
+        "value": "OTHER"
+      },
+      {
+        "text": "National Storytelling Network",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Liz Weir",
+      "International Story Bridge Award",
+      "National Storytelling Network"
+    ],
+    "original_label": [
+      {
+        "Liz Weir": "PERSON"
+      },
+      {
+        "International Story Bridge Award": "OTHER"
+      },
+      {
+        "National Storytelling Network": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Liz Weir",
+      "International Story Bridge Award",
+      "National Storytelling Network"
+    ],
+    "index": 102
+  },
+  {
+    "original_text": "It is operated by the Nhulunbuy Corporation.",
+    "modified_text": "It is operated, by the Nhulunbuy Corporation.",
+    "modified_label": [
+      {
+        "text": "Nhulunbuy Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "original_label": [
+      {
+        "Nhulunbuy Corporation": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "index": 68
+  },
+  {
+    "original_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "modified_text": "Dublin is also served by Weston Airport, and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "modified_label": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "original_label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "index": 24
+  },
+  {
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point; (modern Morgan's Point) in the 1820s.",
+    "modified_label": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "index": 32
+  },
+  {
+    "original_text": "The album featured remixes of ``Like It or Not`` and ``Tearing Me Up`` from artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "modified_text": "The album featured remixes of ``Like It or Not``, and ``Tearing Me Up`` from artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "modified_label": [
+      {
+        "text": "Like It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "Tearing Me Up",
+        "value": "ART"
+      },
+      {
+        "text": "A-Trak",
+        "value": "PERSON"
+      },
+      {
+        "text": "RAC",
+        "value": "PERSON"
+      },
+      {
+        "text": "Joris Voorn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Like It or Not",
+      "Tearing Me Up",
+      "A-Trak",
+      "RAC",
+      "Joris Voorn",
+      "Tale of Us"
+    ],
+    "original_label": [
+      {
+        "Like It or Not": "ART"
+      },
+      {
+        "Tearing Me Up": "ART"
+      },
+      {
+        "A-Trak": "PERSON"
+      },
+      {
+        "RAC": "PERSON"
+      },
+      {
+        "Joris Voorn": "PERSON"
+      },
+      {
+        "Tale of Us": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Like It or Not",
+      "Tearing Me Up",
+      "A-Trak",
+      "RAC",
+      "Joris Voorn",
+      "Tale of Us"
+    ],
+    "index": 78
+  },
+  {
+    "original_text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "modified_text": "This collection contains material relating to sexual health issues, from 1974-2007.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 54
+  },
+  {
+    "original_text": "Even though these matrimonial ties existed between the Ula and Nurhaci, a war broke out in 1607 between Nurhaci and the Ula in which the latter were defeated with the loss of some towns.",
+    "modified_text": "Even though these matrimonial ties existed between the Ula and Nurhaci; a war broke out in 1607 between Nurhaci and the Ula in which the latter were defeated with the loss of some towns.",
+    "modified_label": [
+      {
+        "text": "Ula",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Nurhaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Nurhaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ula",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Ula",
+      "Nurhaci",
+      "Nurhaci",
+      "Ula"
+    ],
+    "original_label": [
+      {
+        "Ula": "ORGANIZATION"
+      },
+      {
+        "Nurhaci": "PERSON"
+      },
+      {
+        "Nurhaci": "PERSON"
+      },
+      {
+        "Ula": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Ula",
+      "Nurhaci",
+      "Nurhaci",
+      "Ula"
+    ],
+    "index": 106
+  },
+  {
+    "original_text": "Team Orr scored four times on way to a 7\u20131 victory.",
+    "modified_text": "Team Orr scored four times, on way to a 7\u20131 victory.",
+    "modified_label": [
+      {
+        "text": "Team Orr",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Team Orr"
+    ],
+    "original_label": [
+      {
+        "Team Orr": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Team Orr"
+    ],
+    "index": 31
+  },
+  {
+    "original_text": "almost over 75 members of parliament join the alliance.",
+    "modified_text": "almost over 75 members of parliament, join the alliance.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 97
+  },
+  {
+    "original_text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "modified_text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes, in cardiovascular tissue.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 15
+  },
+  {
+    "original_text": "They used several features from a batch of A1 Pacifics they had built in 1924.",
+    "modified_text": "They used several features from a batch of A1 Pacifics, they had built in 1924.",
+    "modified_label": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "A1 Pacifics"
+    ],
+    "original_label": [
+      {
+        "A1 Pacifics": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "A1 Pacifics"
+    ],
+    "index": 61
+  },
+  {
+    "original_text": "Dorsa has a Bachelor of Music in Composition from California State University, Northridge in 2001, Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "modified_text": "Dorsa has a Bachelor of Music in Composition from California State University, Northridge in 2001; Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "modified_label": [
+      {
+        "text": "Dorsa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "California State University, Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Doctor of Musical Arts",
+        "value": "OTHER"
+      },
+      {
+        "text": "University of Michigan",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "original_label": [
+      {
+        "Dorsa": "PERSON"
+      },
+      {
+        "Bachelor of Music": "OTHER"
+      },
+      {
+        "California State University, Northridge": "ORGANIZATION"
+      },
+      {
+        "Master of Music": "OTHER"
+      },
+      {
+        "Cal State Northridge": "ORGANIZATION"
+      },
+      {
+        "Doctor of Musical Arts": "OTHER"
+      },
+      {
+        "University of Michigan": "ORGANIZATION"
+      },
+      {
+        "Ann Arbor": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "index": 33
+  },
+  {
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "modified_text": "Lawrence claims that she was given cash; whereas Stephens claims that his life was threatened.",
+    "modified_label": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Stephens"
+    ],
+    "original_label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Stephens"
+    ],
+    "index": 20
+  },
+  {
+    "original_text": "He is a Congressman representing Cajamarca for the period 2006\u20132011, and belongs to the Union for Peru party.",
+    "modified_text": "He is a Congressman representing Cajamarca, for the period 2006\u20132011, and belongs to the Union for Peru party.",
+    "modified_label": [
+      {
+        "text": "Cajamarca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Cajamarca",
+      "Peru party"
+    ],
+    "original_label": [
+      {
+        "Cajamarca": "LOCATION"
+      },
+      {
+        "Peru party": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Cajamarca",
+      "Peru party"
+    ],
+    "index": 10
+  },
+  {
+    "original_text": "Mediaite named her in a four-way tie among the ``Best TV Pundits`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "modified_text": "Mediaite named her in a four-way tie among the ``BestTVPundits`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "modified_label": [
+      {
+        "text": "Mediaite",
+        "value": "PERSON"
+      },
+      {
+        "text": "BestTVPundits",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Mediaite",
+      "BestTVPundits"
+    ],
+    "original_label": [
+      {
+        "Mediaite": "PERSON"
+      },
+      {
+        "Best TV Pundits": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Mediaite",
+      "Best TV Pundits"
+    ],
+    "index": 75
+  },
+  {
+    "original_text": "Puckrik travelled widely in her childhood due to her father's military background.",
+    "modified_text": "Puckriktravelled widely in her childhood due to her father's military background.",
+    "modified_label": [
+      {
+        "text": "Puckriktravelled",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Puckriktravelled"
+    ],
+    "original_label": [
+      {
+        "Puckrik": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Puckrik"
+    ],
+    "index": 72
+  },
+  {
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally; and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_label": [
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "original_label": [
+      {
+        "DB5 extended 4''": "PRODUCT"
+      },
+      {
+        "Marek": "PERSON"
+      },
+      {
+        "Aston Martin DB7": "PRODUCT"
+      },
+      {
+        "V8 unit": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "index": 6
+  },
+  {
+    "original_text": "Sosa was not called to the World Cup 2010 team by then-manager Diego Maradona, but was reinstated by new coach Alejandro Sabella for the World Cup 2014 qualifiers, and has been featured in several games since 2011.",
+    "modified_text": "Sosa was not called to the World Cup 2010 team by then-manager Diego Maradona; but was reinstated by new coach Alejandro Sabella for the World Cup 2014 qualifiers, and has been featured in several games since 2011.",
+    "modified_label": [
+      {
+        "text": "Sosa",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Diego Maradona",
+        "value": "PERSON"
+      },
+      {
+        "text": "Alejandro Sabella",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Sosa",
+      "World Cup",
+      "Diego Maradona",
+      "Alejandro Sabella",
+      "World Cup"
+    ],
+    "original_label": [
+      {
+        "Sosa": "PERSON"
+      },
+      {
+        "World Cup": "EVENT"
+      },
+      {
+        "Diego Maradona": "PERSON"
+      },
+      {
+        "Alejandro Sabella": "PERSON"
+      },
+      {
+        "World Cup": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Sosa",
+      "World Cup",
+      "Diego Maradona",
+      "Alejandro Sabella",
+      "World Cup"
+    ],
+    "index": 133
+  },
+  {
+    "original_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "modified_text": "He was born in Wellingborough, Northamptonshire, where he attended VictoriaJunior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "modified_label": [
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "VictoriaJunior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Westfield Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "VictoriaJunior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "original_label": [
+      {
+        "Wellingborough": "LOCATION"
+      },
+      {
+        "Northamptonshire": "LOCATION"
+      },
+      {
+        "Victoria Junior School": "ORGANIZATION"
+      },
+      {
+        "Westfield Boys School": "ORGANIZATION"
+      },
+      {
+        "Sir Christopher Hatton School": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "index": 11
+  },
+  {
+    "original_text": "Breck Ullr Fest was first held in 1963.",
+    "modified_text": "Breck Ullr Fest was first held in 1963!",
+    "modified_label": [
+      {
+        "text": "Breck Ullr Fest",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Breck Ullr Fest"
+    ],
+    "original_label": [
+      {
+        "Breck Ullr Fest": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Breck Ullr Fest"
+    ],
+    "index": 96
+  },
+  {
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani``, and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_label": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "original_label": [
+      {
+        "Vadeebhasimha": "PERSON"
+      },
+      {
+        "Gayachintamani": "ART"
+      },
+      {
+        "Kshatrachudamini": "ART"
+      },
+      {
+        "Banas": "PERSON"
+      },
+      {
+        "Kadambari": "ART"
+      },
+      {
+        "Chavundaraya": "PERSON"
+      },
+      {
+        "Charitarasara": "ART"
+      }
+    ],
+    "original_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "index": 38
+  },
+  {
+    "original_text": "After the end of the Civil War, Young was excluded from President Andrew Johns on's amnesty proclamation.",
+    "modified_text": "After the end of the CivilWar, Young was excluded from President Andrew Johns on's amnesty proclamation.",
+    "modified_label": [
+      {
+        "text": "CivilWar",
+        "value": "EVENT"
+      },
+      {
+        "text": "Young",
+        "value": "PERSON"
+      },
+      {
+        "text": "Andrew Johns",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "CivilWar",
+      "Young",
+      "Andrew Johns"
+    ],
+    "original_label": [
+      {
+        "Civil War": "EVENT"
+      },
+      {
+        "Young": "PERSON"
+      },
+      {
+        "Andrew Johns": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Civil War",
+      "Young",
+      "Andrew Johns"
+    ],
+    "index": 109
+  },
+  {
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "modified_text": "The buildings were renovated into offices, in the 1980s.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 18
+  },
+  {
+    "original_text": "In some cases, black community groups resisted the attacks, especially in Chicago and Washington, D.C.",
+    "modified_text": "In some cases, black community groups resisted the attacks, especially in Chicago, and Washington, D.C.",
+    "modified_label": [
+      {
+        "text": "Chicago",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Washington, D.C",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Chicago",
+      "Washington, D.C"
+    ],
+    "original_label": [
+      {
+        "Chicago": "LOCATION"
+      },
+      {
+        "Washington, D.C": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Chicago",
+      "Washington, D.C"
+    ],
+    "index": 92
+  },
+  {
+    "original_text": "He also appeared in and Raj Kanwar's action hit ``Jeet``.",
+    "modified_text": "He also appeared in, and Raj Kanwar's action hit ``Jeet``.",
+    "modified_label": [
+      {
+        "text": "Raj Kanwar",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jeet",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Raj Kanwar",
+      "Jeet"
+    ],
+    "original_label": [
+      {
+        "Raj Kanwar": "PERSON"
+      },
+      {
+        "Jeet": "ART"
+      }
+    ],
+    "original_entity": [
+      "Raj Kanwar",
+      "Jeet"
+    ],
+    "index": 101
+  },
+  {
+    "original_text": "The basis of the column is orientated northwest/southeast, while its capital is aligned north/south, possibly so that the statue could look towards the nearby Church of the Holy Apostles.",
+    "modified_text": "The basis of the column is orientated northwest/southeast; while its capital is aligned north/south, possibly so that the statue could look towards the nearby Church of the Holy Apostles.",
+    "modified_label": [
+      {
+        "text": "Church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Church of the Holy Apostles"
+    ],
+    "original_label": [
+      {
+        "Church of the Holy Apostles": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Church of the Holy Apostles"
+    ],
+    "index": 144
+  },
+  {
+    "original_text": "For the 2019 Frieze Art Fair in London, Agostinelli staged his fourth intervention by depositing a 1 tonne block of translucent ice pulled by a Tesla to the entrance of the fair on opening day.",
+    "modified_text": "For the 2019 Frieze Art Fair in London; Agostinelli staged his fourth intervention by depositing a 1 tonne block of translucent ice pulled by a Tesla to the entrance of the fair on opening day.",
+    "modified_label": [
+      {
+        "text": "Frieze Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Agostinelli",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tesla",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Frieze Art Fair",
+      "London",
+      "Agostinelli",
+      "Tesla"
+    ],
+    "original_label": [
+      {
+        "Frieze Art Fair": "EVENT"
+      },
+      {
+        "London": "LOCATION"
+      },
+      {
+        "Agostinelli": "PERSON"
+      },
+      {
+        "Tesla": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Frieze Art Fair",
+      "London",
+      "Agostinelli",
+      "Tesla"
+    ],
+    "index": 131
+  },
+  {
+    "original_text": "Many of the men were separated from their families and sent into the B.C.",
+    "modified_text": "Many of the men were separated from their families, and sent into the B.C.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 26
+  },
+  {
+    "original_text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "modified_text": "Her brother ran unsuccessfully for the UnitedStates House of Representatives from upstate New York, in 1992 and 1994.",
+    "modified_label": [
+      {
+        "text": "UnitedStates House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "UnitedStates House of Representatives",
+      "New York"
+    ],
+    "original_label": [
+      {
+        "United States House of Representatives": "ORGANIZATION"
+      },
+      {
+        "New York": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "United States House of Representatives",
+      "New York"
+    ],
+    "index": 63
+  },
+  {
+    "original_text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "modified_text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word, in the 1930s.",
+    "modified_label": [
+      {
+        "text": "Steak' n Shake",
+        "value": "ART"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "original_label": [
+      {
+        "Steak' n Shake": "ART"
+      },
+      {
+        "Gus Belt": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "index": 76
+  },
+  {
+    "original_text": "Alex Salmond (leader of SNP) has since made history by becoming the first First Minister of Scotland from a party other than Labour.",
+    "modified_text": "Alex Salmond, (leader of SNP) has since made history by becoming the first First Minister of Scotland from a party other than Labour.",
+    "modified_label": [
+      {
+        "text": "Alex Salmond",
+        "value": "PERSON"
+      },
+      {
+        "text": "SNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Labour",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "Labour"
+    ],
+    "original_label": [
+      {
+        "Alex Salmond": "PERSON"
+      },
+      {
+        "SNP": "ORGANIZATION"
+      },
+      {
+        "Scotland": "LOCATION"
+      },
+      {
+        "Labour": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "Labour"
+    ],
+    "index": 77
+  },
+  {
+    "original_text": "Both doors are mirror images of each other and each contain the bronze University seal.",
+    "modified_text": "Both doors are mirror images of each other, and each contain the bronze University seal.",
+    "modified_label": [
+      {
+        "text": "bronze University seal",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "bronze University seal"
+    ],
+    "original_label": [
+      {
+        "bronze University seal": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "bronze University seal"
+    ],
+    "index": 91
+  },
+  {
+    "original_text": "They finished the season 14\u201319, 9\u20139 in C-USA play to finish in seventh place.",
+    "modified_text": "They finished the season 14\u201319, 9\u20139 in C-USA playto finish in seventh place.",
+    "modified_label": [
+      {
+        "text": "C-USA play",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "C-USA play"
+    ],
+    "original_label": [
+      {
+        "C-USA play": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "C-USA play"
+    ],
+    "index": 2
+  },
+  {
+    "original_text": "Less commonly, cases of hypersexuality have been reported.",
+    "modified_text": "Less commonly, cases of hypersexualityhave been reported.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 103
+  },
+  {
+    "original_text": "The ridge is situated northeast of Mount Kliment Ohridski, extending in the north-south direction, wide, and is bounded by Poste Valley to the east, by Palestrina Glacier to the north and its tributary Yozola Glacier to the west.",
+    "modified_text": "The ridge is situated northeast of Mount Kliment Ohridski; extending in the north-south direction, wide, and is bounded by Poste Valley to the east, by Palestrina Glacier to the north and its tributary Yozola Glacier to the west.",
+    "modified_label": [
+      {
+        "text": "Mount Kliment Ohridski",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Poste Valley",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Palestrina Glacier",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Yozola Glacier",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Mount Kliment Ohridski",
+      "Poste Valley",
+      "Palestrina Glacier",
+      "Yozola Glacier"
+    ],
+    "original_label": [
+      {
+        "Mount Kliment Ohridski": "LOCATION"
+      },
+      {
+        "Poste Valley": "LOCATION"
+      },
+      {
+        "Palestrina Glacier": "LOCATION"
+      },
+      {
+        "Yozola Glacier": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Mount Kliment Ohridski",
+      "Poste Valley",
+      "Palestrina Glacier",
+      "Yozola Glacier"
+    ],
+    "index": 108
+  },
+  {
+    "original_text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "modified_text": "USP42 has also been shown to deubiquitinate p53, and may be required for the ability of p53 to respond to stress.",
+    "modified_label": [
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ],
+    "original_label": [
+      {
+        "USP42": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ],
+    "index": 67
+  },
+  {
+    "original_text": "Anhur is a playable character in the multiplayer online battle arena, ``SMITE''.",
+    "modified_text": "Anhur, is a playable character in the multiplayer online battle arena, ``SMITE''.",
+    "modified_label": [
+      {
+        "text": "Anhur",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Anhur"
+    ],
+    "original_label": [
+      {
+        "Anhur": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Anhur"
+    ],
+    "index": 50
+  },
+  {
+    "original_text": "The situation began to crystallise after 1961 when South Africa left the Commonwealth of Nations and so, under the rules of the day, its cricket board had to leave the International Cricket Conference (ICC).",
+    "modified_text": "The situation began to crystallise after 1961, when South Africa left the Commonwealth of Nations and so, under the rules of the day, its cricket board had to leave the International Cricket Conference (ICC).",
+    "modified_label": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ICC",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "South Africa",
+      "Commonwealth of Nations",
+      "International Cricket Conference",
+      "ICC"
+    ],
+    "original_label": [
+      {
+        "South Africa": "LOCATION"
+      },
+      {
+        "Commonwealth of Nations": "ORGANIZATION"
+      },
+      {
+        "International Cricket Conference": "ORGANIZATION"
+      },
+      {
+        "ICC": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "South Africa",
+      "Commonwealth of Nations",
+      "International Cricket Conference",
+      "ICC"
+    ],
+    "index": 71
+  },
+  {
+    "original_text": "Both versions of the band continued touring and recording new music concurrently.",
+    "modified_text": "Both versions of the band continued tourinng and recording new music concurrently.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 139
+  },
+  {
+    "original_text": "The channel has faced charges for spreading fake news and carrying out viewership manipulation on a number of occasions.",
+    "modified_text": "The channnel has faced charges for spreading fake news and carrying out viewership manipulation on a number of occasions.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 125
+  },
+  {
+    "original_text": "In 1967, the park was the gathering place for a peaceful anti-war rally.",
+    "modified_text": "In 1967, the park was the gathering place, for a peaceful anti-war rally.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 66
+  },
+  {
+    "original_text": "This led to the foundation by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "modified_text": "This led to the foundation by Maximilian III Joseph, Elector of Bavaria, of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "modified_label": [
+      {
+        "text": "Maximilian III Joseph, Elector of Bavaria",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Maximilian III Joseph, Elector of Bavaria",
+      "Bavarian Academy of Sciences and Humanities"
+    ],
+    "original_label": [
+      {
+        "Maximilian III Joseph, Elector of Bavaria": "PERSON"
+      },
+      {
+        "Bavarian Academy of Sciences and Humanities": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Maximilian III Joseph, Elector of Bavaria",
+      "Bavarian Academy of Sciences and Humanities"
+    ],
+    "index": 45
+  },
+  {
+    "original_text": "It was produced by Richard D.Zanuck and David Brown.",
+    "modified_text": "It was produced by Richard D.Zanuck, and David Brown.",
+    "modified_label": [
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "original_label": [
+      {
+        "Richard D.Zanuck": "PERSON"
+      },
+      {
+        "David Brown": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "index": 70
+  },
+  {
+    "original_text": "It was previously used by Route 410 to Rehovot, and was known as the Jumping Bridge due to a bump in the middle of the bridge which caused cars to jump if speeding.",
+    "modified_text": "It was previously used by Route 410 to Rehovot; and was known as the Jumping Bridge due to a bump in the middle of the bridge which caused cars to jump if speeding.",
+    "modified_label": [
+      {
+        "text": "Route 410",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rehovot",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jumping Bridge",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Route 410",
+      "Rehovot",
+      "Jumping Bridge"
+    ],
+    "original_label": [
+      {
+        "Route 410": "LOCATION"
+      },
+      {
+        "Rehovot": "LOCATION"
+      },
+      {
+        "Jumping Bridge": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Route 410",
+      "Rehovot",
+      "Jumping Bridge"
+    ],
+    "index": 145
+  },
+  {
+    "original_text": "In the early 1930s the band moved to the Grill Room of the Taft Hotel in New York ; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "modified_text": "In the early 1930s the band moved to the Grill Room of the Taft Hotel in New York; the band was renamed ``George Hall and His HotelTaft Orchestra``.",
+    "modified_label": [
+      {
+        "text": "Grill Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "George Hall and His HotelTaft Orchestra",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Grill Room",
+      "Taft Hotel",
+      "New York",
+      "George Hall and His HotelTaft Orchestra"
+    ],
+    "original_label": [
+      {
+        "Grill Room": "BUILDING"
+      },
+      {
+        "Taft Hotel": "BUILDING"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "George Hall and His Hotel Taft Orchestra": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Grill Room",
+      "Taft Hotel",
+      "New York",
+      "George Hall and His Hotel Taft Orchestra"
+    ],
+    "index": 0
+  },
+  {
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the RedRose Forest.",
+    "modified_label": [
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RedRose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "RedRose Forest"
+    ],
+    "original_label": [
+      {
+        "Croal Irwell Regional Park Project Proposal": "PRODUCT"
+      },
+      {
+        "Manchester": "LOCATION"
+      },
+      {
+        "West Pennine Moors": "LOCATION"
+      },
+      {
+        "Salford": "LOCATION"
+      },
+      {
+        "Bury": "LOCATION"
+      },
+      {
+        "Bolton": "LOCATION"
+      },
+      {
+        "Red Rose Forest": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "index": 39
+  }
+]

@@ -1,0 +1,52 @@
+System message:
+
+Your input fields are:
+1. `dialogue` (str)
+
+Your output fields are:
+1. `reasoning` (str)
+2. `label` (str)
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## dialogue ## ]]
+{dialogue}
+
+[[ ## reasoning ## ]]
+{reasoning}
+
+[[ ## label ## ]]
+{label}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Does the last utterance contradict the dialogue context? Answer with 1 if contradict, 0 if not contradict
+
+
+User message:
+
+[[ ## dialogue ## ]]
+agent 0: what does that mean?
+agent 1: What does what mean exactly?
+agent 0: this has obviously gone all wrong somewhere
+agent 1: Well whatever went wrong,  I hope it can be fixed somehow.
+agent 0: How the world is going right now! It's crazy, the world is going down...
+agent 1: We are at a point of no return, nothing will get better now...
+
+Respond with the corresponding output fields, starting with the field `[[ ## reasoning ## ]]`, then `[[ ## label ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+Response:
+
+[[ ## reasoning ## ]]
+The dialogue context involves a discussion about the state of the world, with agent 0 expressing concern about things going wrong and the world going down. Agent 1 responds by agreeing with the sentiment, stating that they are at a point of no return and that nothing will get better. This response aligns with the concern expressed by agent 0 and does not contradict the dialogue context.
+
+[[ ## label ## ]]
+0
+
+[[ ## completed ## ]]
+
+
+
+

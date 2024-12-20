@@ -1,0 +1,802 @@
+[
+  {
+    "idx": 227,
+    "original_text": "as the two leads, lathan and diggs are charming and have chemistry both as friends and lovers.",
+    "label": 1,
+    "modified_text": "As the two leads, Lathan and Diggs are seen as charming and are perceived to have chemistry both as friends and lovers.",
+    "type": "active_to_passive",
+    "index": 227
+  },
+  {
+    "idx": 698,
+    "original_text": "an interesting story with a pertinent (cinematically unique) message, told fairly well and scored to perfection, i found myself struggling to put my finger on that elusive `` missing thing. ''",
+    "label": 1,
+    "modified_text": "A story of interest with a message that is pertinent (cinematically unique) was told fairly well and scored to perfection; it was found by me that there was a struggle to put my finger on that elusive'missing thing.'",
+    "type": "active_to_passive",
+    "index": 698
+  },
+  {
+    "idx": 485,
+    "original_text": "a literate presentation that wonderfully weaves a murderous event in 1873 with murderous rage in 2002.",
+    "label": 1,
+    "modified_text": "A literate presentation that is wonderfully woven from a murderous event in 1873 with murderous rage in 2002.",
+    "type": "active_to_passive",
+    "index": 485
+  },
+  {
+    "idx": 413,
+    "original_text": "at least one scene is so disgusting that viewers may be hard pressed to retain their lunch.",
+    "label": 0,
+    "modified_text": "At least one scene is so disgusting that it may be hard for viewers to be pressed hard enough to retain their lunch.",
+    "type": "active_to_passive",
+    "index": 413
+  },
+  {
+    "idx": 138,
+    "original_text": "that is a compliment to kuras and miller.",
+    "label": 1,
+    "modified_text": "A compliment is being given to Kuras and Miller.",
+    "type": "active_to_passive",
+    "index": 138
+  },
+  {
+    "idx": 141,
+    "original_text": "the character of zigzag is not sufficiently developed to support a film constructed around him.",
+    "label": 0,
+    "modified_text": "The character of Zigzag is not developed sufficiently for a film to be constructed around him.",
+    "type": "active_to_passive",
+    "index": 141
+  },
+  {
+    "idx": 319,
+    "original_text": "too much of it feels unfocused and underdeveloped.",
+    "label": 0,
+    "modified_text": "Too much of it is felt to be unfocused and underdeveloped.",
+    "type": "active_to_passive",
+    "index": 319
+  },
+  {
+    "idx": 30,
+    "original_text": "thanks to scott's charismatic roger and eisenberg's sweet nephew, roger dodger is one of the most compelling variations on in the company of men.",
+    "label": 1,
+    "modified_text": "Thanks to Scott's charismatic portrayal of Roger and Eisenberg's portrayal of the sweet nephew, Roger Dodger is considered to be one of the most compelling variations on'In the Company of Men'.",
+    "type": "active_to_passive",
+    "index": 30
+  },
+  {
+    "idx": 338,
+    "original_text": "it's of the quality of a lesser harrison ford movie - six days, seven nights, maybe, or that dreadful sabrina remake.",
+    "label": 0,
+    "modified_text": "The quality of it is reminiscent of a lesser Harrison Ford movie - perhaps Six Days, Seven Nights, or that dreadful Sabrina remake.",
+    "type": "active_to_passive",
+    "index": 338
+  },
+  {
+    "idx": 35,
+    "original_text": "a sequence of ridiculous shoot - 'em - up scenes.",
+    "label": 0,
+    "modified_text": "A sequence of shoot -'em - up scenes that are ridiculous.",
+    "type": "active_to_passive",
+    "index": 35
+  },
+  {
+    "idx": 41,
+    "original_text": "this illuminating documentary transcends our preconceived vision of the holy land and its inhabitants, revealing the human complexities beneath.",
+    "label": 1,
+    "modified_text": "Our preconceived vision of the holy land and its inhabitants is transcended by this illuminating documentary, revealing the human complexities beneath.",
+    "type": "active_to_passive",
+    "index": 41
+  },
+  {
+    "idx": 734,
+    "original_text": "this isn't even madonna's swept away.",
+    "label": 0,
+    "modified_text": "This isn't even swept away by Madonna.",
+    "type": "active_to_passive",
+    "index": 734
+  },
+  {
+    "idx": 285,
+    "original_text": "k-19 exploits our substantial collective fear of nuclear holocaust to generate cheap hollywood tension.",
+    "label": 0,
+    "modified_text": "Our substantial collective fear of nuclear holocaust is exploited by K-19 to generate cheap Hollywood tension.",
+    "type": "active_to_passive",
+    "index": 285
+  },
+  {
+    "idx": 764,
+    "original_text": "movie fans, get ready to take off... the other direction.",
+    "label": 0,
+    "modified_text": "Movie fans, be ready to be taken off... in the other direction.",
+    "type": "active_to_passive",
+    "index": 764
+  },
+  {
+    "idx": 167,
+    "original_text": "the end result is a film that's neither.",
+    "label": 0,
+    "modified_text": "The end result is a film that is neither admired nor enjoyed.",
+    "type": "active_to_passive",
+    "index": 167
+  },
+  {
+    "idx": 426,
+    "original_text": "charles ' entertaining film chronicles seinfeld's return to stand-up comedy after the wrap of his legendary sitcom, alongside wannabe comic adams ' attempts to get his shot at the big time.",
+    "label": 1,
+    "modified_text": "The entertaining film by Charles is chronicled, which follows Seinfeld's return to stand-up comedy after his legendary sitcom wrapped up, alongside the attempts by wannabe comic Adams to get his shot at the big time.",
+    "type": "active_to_passive",
+    "index": 426
+  },
+  {
+    "idx": 303,
+    "original_text": "entertains by providing good, lively company.",
+    "label": 1,
+    "modified_text": "Good, lively company is provided for entertainment.",
+    "type": "active_to_passive",
+    "index": 303
+  },
+  {
+    "idx": 396,
+    "original_text": "a very well-made, funny and entertaining picture.",
+    "label": 1,
+    "modified_text": "A picture that is very well-made, funny, and entertaining.",
+    "type": "active_to_passive",
+    "index": 396
+  },
+  {
+    "idx": 267,
+    "original_text": "it's played in the most straight-faced fashion, with little humor to lighten things up.",
+    "label": 0,
+    "modified_text": "It is played in the most straight-faced fashion, with little humor being used to lighten things up.",
+    "type": "active_to_passive",
+    "index": 267
+  },
+  {
+    "idx": 97,
+    "original_text": "no sophomore slump for director sam mendes, who segues from oscar winner to oscar-winning potential with a smooth sleight of hand.",
+    "label": 1,
+    "modified_text": "No sophomore slump is experienced by director Sam Mendes, who is segued from Oscar winner to Oscar-winning potential with a smooth sleight of hand.",
+    "type": "active_to_passive",
+    "index": 97
+  },
+  {
+    "idx": 794,
+    "original_text": "it confirms fincher's status as a film maker who artfully bends technical know-how to the service of psychological insight.",
+    "label": 1,
+    "modified_text": "Fincher's status as a film maker who artfully bends technical know-how to the service of psychological insight is confirmed by it.",
+    "type": "active_to_passive",
+    "index": 794
+  },
+  {
+    "idx": 449,
+    "original_text": "oh come on.",
+    "label": 0,
+    "modified_text": "Oh, it is insisted upon.",
+    "type": "active_to_passive",
+    "index": 449
+  },
+  {
+    "idx": 311,
+    "original_text": "a warm, funny, engaging film.",
+    "label": 1,
+    "modified_text": "A film that is warm, funny, and engaging.",
+    "type": "active_to_passive",
+    "index": 311
+  },
+  {
+    "idx": 597,
+    "original_text": "visually rather stunning, but ultimately a handsome-looking bore, the true creativity would have been to hide treasure planet entirely and completely reimagine it.",
+    "label": 0,
+    "modified_text": "Visually considered rather stunning, but ultimately a handsome-looking bore, it would have been true creativity to have Treasure Planet entirely hidden and completely reimagined.",
+    "type": "active_to_passive",
+    "index": 597
+  },
+  {
+    "idx": 80,
+    "original_text": "the draw (for `` big bad love '') is a solid performance by arliss howard.",
+    "label": 1,
+    "modified_text": "The draw (for'Big Bad Love') is characterized by a solid performance that is given by Arliss Howard.",
+    "type": "active_to_passive",
+    "index": 80
+  },
+  {
+    "idx": 519,
+    "original_text": "moretti's compelling anatomy of grief and the difficult process of adapting to loss.",
+    "label": 0,
+    "modified_text": "Moretti's anatomy of grief and the difficult process of adapting to loss are presented compellingly.",
+    "type": "active_to_passive",
+    "index": 519
+  },
+  {
+    "idx": 312,
+    "original_text": "i'll bet the video game is a lot more fun than the film.",
+    "label": 0,
+    "modified_text": "It is bet that the video game is a lot more fun than the film.",
+    "type": "active_to_passive",
+    "index": 312
+  },
+  {
+    "idx": 680,
+    "original_text": "the vitality of the actors keeps the intensity of the film high, even as the strafings blend together.",
+    "label": 1,
+    "modified_text": "The intensity of the film is kept high by the vitality of the actors, even as the strafings are blended together.",
+    "type": "active_to_passive",
+    "index": 680
+  },
+  {
+    "idx": 432,
+    "original_text": "coughs and sputters on its own postmodern conceit.",
+    "label": 0,
+    "modified_text": "Is coughed and sputtered on by its own postmodern conceit.",
+    "type": "active_to_passive",
+    "index": 432
+  },
+  {
+    "idx": 75,
+    "original_text": "among the year's most intriguing explorations of alientation.",
+    "label": 1,
+    "modified_text": "Among the year's explorations of alienation, this is considered one of the most intriguing.",
+    "type": "active_to_passive",
+    "index": 75
+  },
+  {
+    "idx": 511,
+    "original_text": "lapaglia's ability to convey grief and hope works with weaver's sensitive reactions to make this a two-actor master class.",
+    "label": 1,
+    "modified_text": "The ability of LaPaglia to convey grief and hope is worked with by Weaver's sensitive reactions to make this a master class of two actors.",
+    "type": "active_to_passive",
+    "index": 511
+  },
+  {
+    "idx": 405,
+    "original_text": "outer-space buffs might love this film, but others will find its pleasures intermittent.",
+    "label": 0,
+    "modified_text": "This film might be loved by outer-space buffs, but its pleasures will be found intermittent by others.",
+    "type": "active_to_passive",
+    "index": 405
+  },
+  {
+    "idx": 808,
+    "original_text": "enormously entertaining for moviegoers of any age.",
+    "label": 1,
+    "modified_text": "Found enormously entertaining by moviegoers of any age.",
+    "type": "active_to_passive",
+    "index": 808
+  },
+  {
+    "idx": 512,
+    "original_text": "villeneuve spends too much time wallowing in bibi's generic angst (there are a lot of shots of her gazing out windows).",
+    "label": 0,
+    "modified_text": "Too much time is spent by Villeneuve wallowing in Bibi's generic angst (there are a lot of shots of her being gazed out of windows).",
+    "type": "active_to_passive",
+    "index": 512
+  },
+  {
+    "idx": 34,
+    "original_text": "it doesn't believe in itself, it has no sense of humor... it's just plain bored.",
+    "label": 0,
+    "modified_text": "Belief in itself is not present, a sense of humor is absent... it is just made plain bored.",
+    "type": "active_to_passive",
+    "index": 34
+  },
+  {
+    "idx": 479,
+    "original_text": "it's a stunning lyrical work of considerable force and truth.",
+    "label": 1,
+    "modified_text": "It is considered a stunning lyrical work of considerable force and truth.",
+    "type": "active_to_passive",
+    "index": 479
+  },
+  {
+    "idx": 748,
+    "original_text": "and when you're talking about a slapstick comedy, that's a pretty big problem.",
+    "label": 0,
+    "modified_text": "and when a slapstick comedy is being talked about, that's a pretty big problem.",
+    "type": "active_to_passive",
+    "index": 748
+  },
+  {
+    "idx": 824,
+    "original_text": "late marriage's stiffness is unlikely to demonstrate the emotional clout to sweep u.s. viewers off their feet.",
+    "label": 0,
+    "modified_text": "It is unlikely that the stiffness of late marriage will demonstrate the emotional clout to sweep U.S. viewers off their feet.",
+    "type": "active_to_passive",
+    "index": 824
+  },
+  {
+    "idx": 252,
+    "original_text": "blanchett's performance confirms her power once again.",
+    "label": 1,
+    "modified_text": "Blanchett's power is confirmed by her performance once again.",
+    "type": "active_to_passive",
+    "index": 252
+  },
+  {
+    "idx": 750,
+    "original_text": "nelson's brutally unsentimental approach... sucks the humanity from the film, leaving behind an horrific but weirdly unemotional spectacle.",
+    "label": 0,
+    "modified_text": "The humanity is sucked from the film by Nelson's brutally unsentimental approach, leaving behind a spectacle that is horrific but weirdly unemotional.",
+    "type": "active_to_passive",
+    "index": 750
+  },
+  {
+    "idx": 196,
+    "original_text": "so, too, is this comedy about mild culture clashing in today's new delhi.",
+    "label": 1,
+    "modified_text": "So, too, is this comedy about mild culture being clashed in today's New Delhi.",
+    "type": "active_to_passive",
+    "index": 196
+  },
+  {
+    "idx": 57,
+    "original_text": "the cold turkey would've been a far better title.",
+    "label": 0,
+    "modified_text": "A far better title would have been given by'the cold turkey'.",
+    "type": "active_to_passive",
+    "index": 57
+  },
+  {
+    "idx": 497,
+    "original_text": "the overall effect is less like a children's movie than a recruitment film for future hollywood sellouts.",
+    "label": 0,
+    "modified_text": "The overall effect is less like a children's movie than it is like a recruitment film for future Hollywood sellouts.",
+    "type": "active_to_passive",
+    "index": 497
+  },
+  {
+    "idx": 188,
+    "original_text": "a misogynistic piece of filth that attempts to pass itself off as hip, young adult entertainment.",
+    "label": 0,
+    "modified_text": "A piece of filth that is misogynistic and attempts to be passed off as hip, young adult entertainment.",
+    "type": "active_to_passive",
+    "index": 188
+  },
+  {
+    "idx": 3,
+    "original_text": "the acting, costumes, music, cinematography and sound are all astounding given the production's austere locales.",
+    "label": 1,
+    "modified_text": "The acting, costumes, music, cinematography, and sound were all found to be astounding, given the production's austere locales.",
+    "type": "active_to_passive",
+    "index": 3
+  },
+  {
+    "idx": 251,
+    "original_text": "the film tries too hard to be funny and tries too hard to be hip.",
+    "label": 0,
+    "modified_text": "Too hard is tried by the film to be funny and too hard is tried to be hip.",
+    "type": "active_to_passive",
+    "index": 251
+  },
+  {
+    "idx": 372,
+    "original_text": "the special effects and many scenes of weightlessness look as good or better than in the original, while the oscar-winning sound and james horner's rousing score make good use of the hefty audio system.",
+    "label": 1,
+    "modified_text": "The special effects and many scenes of weightlessness are looked upon as good or better than those in the original, while the Oscar-winning sound and James Horner's rousing score are made to take good advantage of the hefty audio system.",
+    "type": "active_to_passive",
+    "index": 372
+  },
+  {
+    "idx": 610,
+    "original_text": "like you couldn't smell this turkey rotting from miles away.",
+    "label": 0,
+    "modified_text": "It's like this turkey couldn't be smelled rotting from miles away.",
+    "type": "active_to_passive",
+    "index": 610
+  },
+  {
+    "idx": 673,
+    "original_text": "drops you into a dizzying, volatile, pressure-cooker of a situation that quickly snowballs out of control, while focusing on the what much more than the why.",
+    "label": 1,
+    "modified_text": "You are dropped into a dizzying, volatile, pressure-cooker of a situation that is quickly snowballed out of control, while the focus is on the what much more than the why.",
+    "type": "active_to_passive",
+    "index": 673
+  },
+  {
+    "idx": 490,
+    "original_text": "detox is ultimately a pointless endeavor.",
+    "label": 0,
+    "modified_text": "Detox is ultimately considered a pointless endeavor.",
+    "type": "active_to_passive",
+    "index": 490
+  },
+  {
+    "idx": 517,
+    "original_text": "not far beneath the surface, this reconfigured tale asks disturbing questions about those things we expect from military epics.",
+    "label": 1,
+    "modified_text": "Not far beneath the surface, disturbing questions about those things we expect from military epics are asked by this reconfigured tale.",
+    "type": "active_to_passive",
+    "index": 517
+  },
+  {
+    "idx": 761,
+    "original_text": "the result is a gaudy bag of stale candy, something from a halloween that died.",
+    "label": 0,
+    "modified_text": "A gaudy bag of stale candy is the result, something from a Halloween that died.",
+    "type": "active_to_passive",
+    "index": 761
+  },
+  {
+    "idx": 645,
+    "original_text": "the words, ` frankly, my dear, i don't give a damn, ' have never been more appropriate.",
+    "label": 0,
+    "modified_text": "The words,'frankly, my dear, I don't give a damn,' have never been deemed more appropriate.",
+    "type": "active_to_passive",
+    "index": 645
+  },
+  {
+    "idx": 65,
+    "original_text": "you wonder why enough wasn't just a music video rather than a full-length movie.",
+    "label": 0,
+    "modified_text": "It is wondered why just a music video was not enough rather than a full-length movie.",
+    "type": "active_to_passive",
+    "index": 65
+  },
+  {
+    "idx": 123,
+    "original_text": "turns potentially forgettable formula into something strangely diverting.",
+    "label": 1,
+    "modified_text": "Potentially forgettable formula is turned into something strangely diverting.",
+    "type": "active_to_passive",
+    "index": 123
+  },
+  {
+    "idx": 566,
+    "original_text": "does little more than play an innocuous game of fill-in - the-blanks with a tragic past.",
+    "label": 0,
+    "modified_text": "Little more is done than playing an innocuous game of fill-in-the-blanks with a tragic past.",
+    "type": "active_to_passive",
+    "index": 566
+  },
+  {
+    "idx": 767,
+    "original_text": "a film about a young man finding god that is accessible and touching to the marrow.",
+    "label": 1,
+    "modified_text": "A film about a young man being found by God that is made accessible and touching to the marrow.",
+    "type": "active_to_passive",
+    "index": 767
+  },
+  {
+    "idx": 390,
+    "original_text": "mattei is tiresomely grave and long-winded, as if circularity itself indicated profundity.",
+    "label": 0,
+    "modified_text": "Mattei is seen as tiresomely grave and long-winded, as if profundity were indicated by circularity itself.",
+    "type": "active_to_passive",
+    "index": 390
+  },
+  {
+    "idx": 249,
+    "original_text": "huston nails both the glad-handing and the choking sense of hollow despair.",
+    "label": 1,
+    "modified_text": "Both the glad-handing and the choking sense of hollow despair are nailed by Huston.",
+    "type": "active_to_passive",
+    "index": 249
+  },
+  {
+    "idx": 495,
+    "original_text": "light years / several warp speeds / levels and levels of dilithium crystals better than the pitiful insurrection.",
+    "label": 1,
+    "modified_text": "light years / several warp speeds / levels and levels of dilithium crystals are considered better than the pitiful insurrection.",
+    "type": "active_to_passive",
+    "index": 495
+  },
+  {
+    "idx": 663,
+    "original_text": "it will grip even viewers who aren't interested in rap, as it cuts to the heart of american society in an unnerving way.",
+    "label": 1,
+    "modified_text": "Even viewers who are not interested in rap will be gripped, as the heart of American society is cut to in an unnerving way.",
+    "type": "active_to_passive",
+    "index": 663
+  },
+  {
+    "idx": 463,
+    "original_text": "some of their jokes work, but most fail miserably and in the end, pumpkin is far more offensive than it is funny.",
+    "label": 0,
+    "modified_text": "Some of their jokes are found to work, but most are failed miserably and in the end, pumpkin is considered far more offensive than it is found to be funny.",
+    "type": "active_to_passive",
+    "index": 463
+  },
+  {
+    "idx": 560,
+    "original_text": "don't be fooled by the impressive cast list - eye see you is pure junk.",
+    "label": 0,
+    "modified_text": "Don't be fooled by the impressive cast list - Eye See You is considered pure junk.",
+    "type": "active_to_passive",
+    "index": 560
+  },
+  {
+    "idx": 622,
+    "original_text": "few films capture so perfectly the hopes and dreams of little boys on baseball fields as well as the grown men who sit in the stands.",
+    "label": 1,
+    "modified_text": "The hopes and dreams of little boys on baseball fields are captured so perfectly by few films, as well as by the grown men who sit in the stands.",
+    "type": "active_to_passive",
+    "index": 622
+  },
+  {
+    "idx": 713,
+    "original_text": "corpus collosum -- while undeniably interesting -- wore out its welcome well before the end credits rolled about 45 minutes in.",
+    "label": 0,
+    "modified_text": "The corpus collosum -- while undeniably interesting -- had its welcome worn out well before the end credits rolled, about 45 minutes in.",
+    "type": "active_to_passive",
+    "index": 713
+  },
+  {
+    "idx": 840,
+    "original_text": "what is 100 % missing here is a script of even the most elemental literacy, an inkling of genuine wit, and anything resembling acting.",
+    "label": 0,
+    "modified_text": "What is 100% missing here is a script of even the most elemental literacy, an inkling of genuine wit, and anything resembling acting to be seen.",
+    "type": "active_to_passive",
+    "index": 840
+  },
+  {
+    "idx": 685,
+    "original_text": "no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes.",
+    "label": 1,
+    "modified_text": "No screen fantasy-adventure in recent memory has been showcased with the showmanship of the last 45 minutes of clones.",
+    "type": "active_to_passive",
+    "index": 685
+  },
+  {
+    "idx": 424,
+    "original_text": "a good piece of work more often than not.",
+    "label": 1,
+    "modified_text": "A piece of work is considered good more often than not.",
+    "type": "active_to_passive",
+    "index": 424
+  },
+  {
+    "idx": 660,
+    "original_text": "like mike is a winner for kids, and no doubt a winner for lil bow wow, who can now add movies to the list of things he does well.",
+    "label": 1,
+    "modified_text": "Like Mike is considered a winner for kids, and no doubt a winner for Lil Bow Wow, who can now have movies added to the list of things he does well.",
+    "type": "active_to_passive",
+    "index": 660
+  },
+  {
+    "idx": 78,
+    "original_text": "there is nothing outstanding about this film, but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine.",
+    "label": 1,
+    "modified_text": "Nothing outstanding is presented by this film, but it is considered good enough and is likely to be appreciated most by sailors and folks who are knowledgeable about submarines.",
+    "type": "active_to_passive",
+    "index": 78
+  },
+  {
+    "idx": 832,
+    "original_text": "manages to show life in all of its banality when the intention is quite the opposite.",
+    "label": 0,
+    "modified_text": "Life is shown in all of its banality when the intention is quite the opposite.",
+    "type": "active_to_passive",
+    "index": 832
+  },
+  {
+    "idx": 433,
+    "original_text": "the lion king was a roaring success when it was released eight years ago, but on imax it seems better, not just bigger.",
+    "label": 1,
+    "modified_text": "The Lion King had been met with roaring success when it was released eight years ago, but on IMAX, it is perceived as better, not just bigger.",
+    "type": "active_to_passive",
+    "index": 433
+  },
+  {
+    "idx": 773,
+    "original_text": "it's a beautiful madness.",
+    "label": 1,
+    "modified_text": "A beautiful madness is being experienced.",
+    "type": "active_to_passive",
+    "index": 773
+  },
+  {
+    "idx": 574,
+    "original_text": "a broad, melodramatic estrogen opera that's pretty toxic in its own right.",
+    "label": 0,
+    "modified_text": "A broad, melodramatic estrogen opera that is considered pretty toxic in its own right.",
+    "type": "active_to_passive",
+    "index": 574
+  },
+  {
+    "idx": 656,
+    "original_text": "so much facile technique, such cute ideas, so little movie.",
+    "label": 1,
+    "modified_text": "So much technique is displayed facilely, such cute ideas are presented, so little of the movie is there.",
+    "type": "active_to_passive",
+    "index": 656
+  },
+  {
+    "idx": 785,
+    "original_text": "aside from minor tinkering, this is the same movie you probably loved in 1994, except that it looks even better.",
+    "label": 1,
+    "modified_text": "Aside from minor tinkering, this movie, which you probably loved in 1994, is the same, except that it is made to look even better.",
+    "type": "active_to_passive",
+    "index": 785
+  },
+  {
+    "idx": 257,
+    "original_text": "taylor appears to have blown his entire budget on soundtrack rights and had nothing left over for jokes.",
+    "label": 0,
+    "modified_text": "It appears that the entire budget was blown by Taylor on soundtrack rights and nothing was left over for jokes.",
+    "type": "active_to_passive",
+    "index": 257
+  },
+  {
+    "idx": 394,
+    "original_text": "whether writer-director anne fontaine's film is a ghost story, an account of a nervous breakdown, a trip down memory lane, all three or none of the above, it is as seductive as it is haunting.",
+    "label": 1,
+    "modified_text": "Whether the film by writer-director Anne Fontaine is seen as a ghost story, an account of a nervous breakdown, a trip down memory lane, all three, or none of the above, it is considered as seductive as it is haunting.",
+    "type": "active_to_passive",
+    "index": 394
+  },
+  {
+    "idx": 341,
+    "original_text": "it deserves to be seen by anyone with even a passing interest in the events shaping the world beyond their own horizons.",
+    "label": 1,
+    "modified_text": "It deserves to be seen by anyone with even a passing interest in the events that are shaping the world beyond their own horizons.",
+    "type": "active_to_passive",
+    "index": 341
+  },
+  {
+    "idx": 384,
+    "original_text": "at times, the suspense is palpable, but by the end there's a sense that the crux of the mystery hinges on a technicality that strains credulity and leaves the viewer haunted by the waste of potential.",
+    "label": 0,
+    "modified_text": "At times, the suspense can be felt as palpable, but by the end, it is sensed that the crux of the mystery is hinged on a technicality that strains credulity and the viewer is left haunted by the waste of potential.",
+    "type": "active_to_passive",
+    "index": 384
+  },
+  {
+    "idx": 782,
+    "original_text": "the structure the film takes may find matt damon and ben affleck once again looking for residuals as this officially completes a good will hunting trilogy that was never planned.",
+    "label": 1,
+    "modified_text": "The structure taken by the film may result in Matt Damon and Ben Affleck once again looking for residuals, as a Good Will Hunting trilogy that was never planned is officially completed by this.",
+    "type": "active_to_passive",
+    "index": 782
+  },
+  {
+    "idx": 194,
+    "original_text": "instead of a hyperbolic beat-charged urban western, it's an unpretentious, sociologically pointed slice of life.",
+    "label": 1,
+    "modified_text": "Instead of being a hyperbolic beat-charged urban western, it is seen as an unpretentious, sociologically pointed slice of life.",
+    "type": "active_to_passive",
+    "index": 194
+  },
+  {
+    "idx": 276,
+    "original_text": "for this reason and this reason only -- the power of its own steadfast, hoity-toity convictions -- chelsea walls deserves a medal.",
+    "label": 1,
+    "modified_text": "For this reason and this reason only -- the power of its own steadfast, hoity-toity convictions -- a medal is deserved by Chelsea Walls.",
+    "type": "active_to_passive",
+    "index": 276
+  },
+  {
+    "idx": 435,
+    "original_text": "a marvel like none you've seen.",
+    "label": 1,
+    "modified_text": "A marvel like none that has been seen by you.",
+    "type": "active_to_passive",
+    "index": 435
+  },
+  {
+    "idx": 634,
+    "original_text": "harris commands the screen, using his frailty to suggest the ravages of a life of corruption and ruthlessness.",
+    "label": 1,
+    "modified_text": "The screen is commanded by Harris, with his frailty being used to suggest the ravages of a life of corruption and ruthlessness.",
+    "type": "active_to_passive",
+    "index": 634
+  },
+  {
+    "idx": 117,
+    "original_text": "moody, heartbreaking, and filmed in a natural, unforced style that makes its characters seem entirely convincing even when its script is not.",
+    "label": 1,
+    "modified_text": "Moody, heartbreaking, and filmed in a natural, unforced style, the characters are made to seem entirely convincing even when the script is not.",
+    "type": "active_to_passive",
+    "index": 117
+  },
+  {
+    "idx": 810,
+    "original_text": "this is a good script, good dialogue, funny even for adults.",
+    "label": 1,
+    "modified_text": "This script is considered good, the dialogue is seen as good, and it is found funny even by adults.",
+    "type": "active_to_passive",
+    "index": 810
+  },
+  {
+    "idx": 642,
+    "original_text": "this re-do is so dumb and so exploitative in its violence that, ironically, it becomes everything that the rather clumsy original was railing against.",
+    "label": 0,
+    "modified_text": "This re-do is seen as so dumb and is considered so exploitative in its violence that, ironically, it becomes everything against which the rather clumsy original was railing.",
+    "type": "active_to_passive",
+    "index": 642
+  },
+  {
+    "idx": 732,
+    "original_text": "like being trapped at a perpetual frat party... how can something so gross be so boring?",
+    "label": 0,
+    "modified_text": "Being trapped at a perpetual frat party is like... how can something so gross be made so boring?",
+    "type": "active_to_passive",
+    "index": 732
+  },
+  {
+    "idx": 304,
+    "original_text": "a densely constructed, highly referential film, and an audacious return to form that can comfortably sit among jean-luc godard's finest work.",
+    "label": 1,
+    "modified_text": "A densely constructed, highly referential film, and an audacious return to form that can be comfortably seated among Jean-Luc Godard's finest works.",
+    "type": "active_to_passive",
+    "index": 304
+  },
+  {
+    "idx": 684,
+    "original_text": "a study in shades of gray, offering itself up in subtle plot maneuvers...",
+    "label": 1,
+    "modified_text": "A study is presented in shades of gray, with itself being offered up in subtle plot maneuvers...",
+    "type": "active_to_passive",
+    "index": 684
+  },
+  {
+    "idx": 531,
+    "original_text": "(t) here's only so much anyone can do with a florid, overplotted, anne rice rock 'n' roll vampire novel before the built-in silliness of the whole affair defeats them.",
+    "label": 0,
+    "modified_text": "There is only so much that can be done by anyone with a florid, overplotted, Anne Rice rock'n' roll vampire novel before the built-in silliness of the whole affair defeats them.",
+    "type": "active_to_passive",
+    "index": 531
+  },
+  {
+    "idx": 408,
+    "original_text": "there are simply too many ideas floating around -- part farce, part sliding doors, part pop video -- and yet failing to exploit them.",
+    "label": 0,
+    "modified_text": "There are simply too many ideas being floated around -- part farce, part sliding doors, part pop video -- and yet they are not being exploited.",
+    "type": "active_to_passive",
+    "index": 408
+  },
+  {
+    "idx": 786,
+    "original_text": "the film makes a fatal mistake : it asks us to care about a young man whose only apparent virtue is that he is not quite as unpleasant as some of the people in his life.",
+    "label": 0,
+    "modified_text": "A fatal mistake is made by the film: it asks us to care about a young man whose only apparent virtue is that he is not quite as unpleasant as some of the people in his life.",
+    "type": "active_to_passive",
+    "index": 786
+  },
+  {
+    "idx": 737,
+    "original_text": "my big fat greek wedding uses stereotypes in a delightful blend of sweet romance and lovingly dished out humor.",
+    "label": 1,
+    "modified_text": "Stereotypes are used in a delightful blend of sweet romance and lovingly dished out humor in My Big Fat Greek Wedding.",
+    "type": "active_to_passive",
+    "index": 737
+  },
+  {
+    "idx": 50,
+    "original_text": "it feels like an after-school special gussied up with some fancy special effects, and watching its rote plot points connect is about as exciting as gazing at an egg timer for 93 minutes.",
+    "label": 0,
+    "modified_text": "It is felt like an after-school special that has been gussied up with some fancy special effects, and having its rote plot points connected is about as exciting as being gazed at an egg timer for 93 minutes.",
+    "type": "active_to_passive",
+    "index": 50
+  },
+  {
+    "idx": 841,
+    "original_text": "there's a wickedly subversive bent to the best parts of birthday girl.",
+    "label": 1,
+    "modified_text": "A wickedly subversive bent is present in the best parts of Birthday Girl.",
+    "type": "active_to_passive",
+    "index": 841
+  },
+  {
+    "idx": 100,
+    "original_text": "neither parker nor donovan is a typical romantic lead, but they bring a fresh, quirky charm to the formula.",
+    "label": 1,
+    "modified_text": "A fresh, quirky charm is brought to the formula by neither Parker nor Donovan, who are not typical romantic leads.",
+    "type": "active_to_passive",
+    "index": 100
+  },
+  {
+    "idx": 187,
+    "original_text": "` de niro... is a veritable source of sincere passion that this hollywood contrivance orbits around. '",
+    "label": 1,
+    "modified_text": "`De Niro... is seen as a veritable source of sincere passion around which this Hollywood contrivance orbits.'",
+    "type": "active_to_passive",
+    "index": 187
+  },
+  {
+    "idx": 19,
+    "original_text": "in its best moments, resembles a bad high school production of grease, without benefit of song.",
+    "label": 0,
+    "modified_text": "In its best moments, it is resembled by a bad high school production of Grease, without the benefit of song.",
+    "type": "active_to_passive",
+    "index": 19
+  }
+]

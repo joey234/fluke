@@ -1,0 +1,3239 @@
+[
+  {
+    "index": "63",
+    "original_text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "modified_text": "Her brother ran unsuccessfully for New York from the United States House of Representatives upstate, in 1992 and 1994.",
+    "original_label": [
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [from, upstate, New, York,] Added: [New, York, from, upstate,]",
+    "": "FALSE"
+  },
+  {
+    "index": "62",
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "modified_text": "At a festival, Vin saves Siddhi from being shot at by Rudra.",
+    "original_label": [
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      },
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      },
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [saves, Vin] Added: [Vin, saves]",
+    "": "FALSE"
+  },
+  {
+    "index": "84",
+    "original_text": "Kadavu Province is one of fourteen provinces of Fiji, and forms part of the Eastern Division, which also includes the provinces of Lau, Lomaiviti and Rotuma.",
+    "modified_text": "One of fourteen provinces of Fiji is Kadavu Province, and forms part of the Eastern Division, which also includes the provinces of Lau, Lomaiviti and Rotuma.",
+    "original_label": [
+      {
+        "text": "Fiji",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Kadavu Province",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lau",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lomaiviti",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rotuma",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Fiji",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Kadavu Province",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lau",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lomaiviti",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rotuma",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Kadavu, Province, is, one, Fiji,] Added: [One, Fiji, is, Kadavu, Province,]",
+    "": "FALSE"
+  },
+  {
+    "index": "63",
+    "original_text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "modified_text": "The United States House of Representatives from upstate New York was unsuccessfully run for by her brother, in 1992 and 1994.",
+    "original_label": [
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Her, brother, ran, unsuccessfully, for, the, York,] Added: [The, York, was, unsuccessfully, run, for, by, her, brother,]",
+    "": "FALSE"
+  },
+  {
+    "index": "4",
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "Two classes of protected cruisers were built and operated by the Austro-Hungarian Navy.",
+    "original_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [The, Austro-Hungarian, Navy, two, classes, of, protected, cruisers.] Added: [Two, classes, of, protected, cruisers, were, by, the, Austro-Hungarian, Navy.]",
+    "": "FALSE"
+  },
+  {
+    "index": "66",
+    "original_text": "In 1967, the park was the gathering place for a peaceful anti-war rally.",
+    "modified_text": "In 1967, a peaceful anti-war rally was the gathering place for the park.",
+    "original_label": [],
+    "modified_label": [],
+    "Changes": "Removed: [the, park, a, peaceful, anti-war, rally.] Added: [a, peaceful, anti-war, rally, the, park.]",
+    "": "FALSE"
+  },
+  {
+    "index": "0",
+    "original_text": "In the early 1930s the band moved to the Grill Room of the Taft Hotel in New York; the band was renamed 'George Hall and His Hotel Taft Orchestra'.",
+    "modified_text": "In the early 1930s the band moved to the Taft Hotel of the Grill Room in New York; the band was renamed 'George Hall and His Hotel Taft Orchestra'.",
+    "original_label": [
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Grill Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Grill Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      }
+    ],
+    "Changes": "Removed: [of, the, Taft, Hotel] Added: [Taft, Hotel, of, the]",
+    "": "FALSE"
+  },
+  {
+    "index": "70",
+    "original_text": "It was produced by Richard D.Zanuck and David Brown.",
+    "modified_text": "Richard D.Zanuck and David Brown produced it.",
+    "original_label": [
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      },
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      },
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [It, was, produced, by, Brown.] Added: [Brown, produced, it.]",
+    "": "FALSE"
+  },
+  {
+    "index": "65",
+    "original_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "modified_text": "A fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield, had been established by Loyalists recruited from Queens County, New York for the 3rd battalion DeLancey's Brigade by Lieutenant Colonel Richard Hewlett.",
+    "original_label": [
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Loyalists, recruited, from, Queens, County,, New, York, by, Lieutenant, Colonel, Richard, Hewlett, for, the, 3rd, battalion, DeLancey's, Brigade, had, established, a, Fairfield.] Added: [A, Fairfield,, had, been, established, by, Loyalists, recruited, from, Queens, County,, New, York, for, the, 3rd, battalion, DeLancey's, Brigade, by, Lieutenant, Colonel, Richard, Hewlett.]",
+    "": "FALSE"
+  },
+  {
+    "index": "70",
+    "original_text": "It was produced by Richard D.Zanuck and David Brown.",
+    "modified_text": "It was produced by David Brown and Richard D.Zanuck.",
+    "original_label": [
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      },
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      },
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [D.Zanuck, and, David, Brown.] Added: [David, Brown, and, D.Zanuck.]",
+    "": "FALSE"
+  },
+  {
+    "index": "69",
+    "original_text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "modified_text": "Pasukan Gerakan Udara or ``Royal Malaysia Police Air Operations Force (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "original_label": [
+      {
+        "text": "PGU",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "PGU",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Royal, or, ``Pasukan, Gerakan, Udara] Added: [Pasukan, Gerakan, Udara, or, ``Royal]",
+    "": "FALSE"
+  },
+  {
+    "index": "10",
+    "original_text": "He is a Congressman representing Cajamarca for the period 2006\u20132011, and belongs to the Union for Peru party.",
+    "modified_text": "He is a Congressman representing the Union for Peru party for the period 2006\u20132011, and belongs to Cajamarca.",
+    "original_label": [
+      {
+        "text": "Cajamarca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Cajamarca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Cajamarca, the, Union, for, Peru, party.] Added: [the, Union, for, Peru, party, Cajamarca.]",
+    "": "FALSE"
+  },
+  {
+    "index": "64",
+    "original_text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "modified_text": "The stage in 1939 at the Martin Beck Theater had been adapted to the story to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "original_label": [
+      {
+        "text": "Martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "Changes": "Removed: [story, had, been, adapted, to, the] Added: [had, been, adapted, to, the, story]",
+    "": "FALSE"
+  },
+  {
+    "index": "68",
+    "original_text": "It is operated by the Nhulunbuy Corporation.",
+    "modified_text": "The Nhulunbuy Corporation operates it.",
+    "original_label": [
+      {
+        "text": "Nhulunbuy Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Nhulunbuy Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [It, is, operated, by, the, Corporation.] Added: [The, Corporation, operates, it.]",
+    "": "FALSE"
+  },
+  {
+    "index": "69",
+    "original_text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "modified_text": "A special aviation unit of Royal Malaysia Police is Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)''.",
+    "original_label": [
+      {
+        "text": "PGU",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "PGU",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [(PGU)'', is, a, special, aviation, unit, of, Royal, Malaysia, Police.] Added: [A, special, aviation, unit, of, Royal, Malaysia, Police, is, (PGU)''.]",
+    "": "FALSE"
+  },
+  {
+    "index": "9",
+    "original_text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "modified_text": "A serious defeat at the Battle of Camulodunum was suffered by the Ninth under Quintus Petillius Cerialis in the rebellion of Boudica (61), when the besieged city of Camulodunum (Colchester) was in a disastrous attempt to be relieved by most of the foot-soldiers who were killed.",
+    "original_label": [
+      {
+        "text": "Boudica",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Boudica",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [The, Ninth, suffered, a, most, the, foot-soldiers, were, killed, relieve, besieged, city, of, Camulodunum, (Colchester).] Added: [A, was, suffered, by, the, Ninth, the, besieged, city, Camulodunum, (Colchester), was, be, relieved, by, most, of, foot-soldiers, who, were, killed.]",
+    "": "FALSE"
+  },
+  {
+    "index": "6",
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "A prototype was fitted in the mid-'60s in a one-off Aston Martin DB7 after the doors and driven by Marek personally, and a normally 6-cylinder DB5 extended 4'' was equipped with a V8 unit in 1998.",
+    "original_label": [
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "Changes": "Removed: [DB5, extended, 4'', Aston, Martin, DB7] Added: [Aston, Martin, DB7, DB5, extended, 4'']",
+    "": "FALSE"
+  },
+  {
+    "index": "6",
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "A V8 unit was equipped in a normally 6-cylinder Aston Martin DB7 in 1998, and a prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally.",
+    "original_label": [
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "Changes": "Removed: [personally,, and, a, normally, 6-cylinder, Aston, Martin, DB7, was, equipped, with, a, V8, unit, in, 1998.] Added: [V8, unit, was, equipped, in, a, normally, 6-cylinder, Aston, Martin, DB7, in, 1998,, and, a, personally.]",
+    "": "FALSE"
+  },
+  {
+    "index": "1",
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_text": "The final season of minor league play saw Elkin Memorial Park season attendance of 16,322, an average of 299 per contest.",
+    "original_label": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [saw] Added: [saw]",
+    "": "FALSE"
+  },
+  {
+    "index": "11",
+    "original_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "modified_text": "Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School were attended by him in Wellingborough, Northamptonshire, where he was born.",
+    "original_label": [
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Westfield Boys School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Westfield Boys School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [He, was, born, in, Wellingborough,, Northamptonshire,, where, he, attended, School.] Added: [School, were, attended, by, him, in, Wellingborough,, Northamptonshire,, where, he, was, born.]",
+    "": "FALSE"
+  },
+  {
+    "index": "8",
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "A group of animals found exclusively in aquatic and mostly marine environments are the Cnidaria.",
+    "original_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "Changes": "Removed: [The, Cnidaria, are, a, environments.] Added: [A, environments, are, the, Cnidaria.]",
+    "": "FALSE"
+  },
+  {
+    "index": "3",
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "modified_text": "Major Larry G.Messinger, the B-52 pilot, later recalled,",
+    "original_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [The, B-52, pilot,] Added: [the, B-52, pilot,]",
+    "": "FALSE"
+  },
+  {
+    "index": "2",
+    "original_text": "They finished the season 14\u201319, 9\u20139 in C-USA play to finish in seventh place.",
+    "modified_text": "The season finished 14\u201319, 9\u20139 in C-USA play with them to finish in seventh place.",
+    "original_label": [
+      {
+        "text": "C-USA play",
+        "value": "EVENT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "C-USA play",
+        "value": "EVENT"
+      }
+    ],
+    "Changes": "Removed: [They, the, season] Added: [The, season, with, them]",
+    "": "FALSE"
+  },
+  {
+    "index": "5",
+    "original_text": "Elin Hilderbrand is an American writer mostly of romance novels.",
+    "modified_text": "An American writer mostly of romance novels is Elin Hilderbrand.",
+    "original_label": [
+      {
+        "text": "American",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Elin Hilderbrand",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "American",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Elin Hilderbrand",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [Elin, Hilderbrand, is, an, novels.] Added: [An, novels, is, Elin, Hilderbrand.]",
+    "": "FALSE"
+  },
+  {
+    "index": "12",
+    "original_text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "modified_text": "91 is the lowest match aggregate in ODI history for England scored at the 1979 Cricket World Cup against Canada.",
+    "original_label": [
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [The, is, 91] Added: [91, is, the]",
+    "": "FALSE"
+  },
+  {
+    "index": "7",
+    "original_text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "modified_text": "Major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine have caught his attention.",
+    "original_label": [
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail, NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail, NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [He, has, caught, the, attention, of, major, Magazine.] Added: [Major, Magazine, have, caught, his, attention.]",
+    "": "FALSE"
+  },
+  {
+    "index": "3",
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "modified_text": "The Larry G.Messinger pilot, Major B-52, later recalled,",
+    "original_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [B-52, Larry, G.Messinger,] Added: [Larry, G.Messinger, B-52,]",
+    "": "FALSE"
+  },
+  {
+    "index": "9",
+    "original_text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "modified_text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Boudica in the rebellion of Quintus Petillius Cerialis (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "original_label": [
+      {
+        "text": "Boudica",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Boudica",
+        "value": "PERSON"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "EVENT"
+      }
+    ],
+    "Changes": "Removed: [Quintus, Petillius, Cerialis, Boudica] Added: [Boudica, Quintus, Petillius, Cerialis]",
+    "": "TRUE"
+  },
+  {
+    "index": "10",
+    "original_text": "He is a Congressman representing Cajamarca for the period 2006\u20132011, and belongs to the Union for Peru party.",
+    "modified_text": "The Union for Peru party belongs to a Congressman representing Cajamarca for the period 2006\u20132011.",
+    "original_label": [
+      {
+        "text": "Cajamarca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Cajamarca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [He, is, 2006\u20132011,, and, belongs, to, the, Union, for, Peru, party.] Added: [The, Union, for, Peru, party, belongs, to, 2006\u20132011.]",
+    "": "FALSE"
+  },
+  {
+    "index": "28",
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "It is developed by Golaem, a Rennes-based software company (created in France in 2009).",
+    "original_label": [
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [France, -based, Rennes] Added: [Rennes-based, France]",
+    "": "FALSE"
+  },
+  {
+    "index": "32",
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "Early communities began to appear at the beginning of the 19th century, including Harrisburg, Lynchburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "original_label": [
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Harrisburg,] Added: [Harrisburg,]",
+    "": "FALSE"
+  },
+  {
+    "index": "35",
+    "original_text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "modified_text": "The hub of operations for Norfolk Southern in the Greater Pittsburgh area is Conway, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "original_label": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Conway, is, the, area,] Added: [The, area, is, Conway,]",
+    "": "FALSE"
+  },
+  {
+    "index": "32",
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "At the beginning of the 19th century, Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) began to appear as early communities in the 1820s.",
+    "original_label": [
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Early, communities, began, to, appear, at, including] Added: [At, began, to, appear, as, early, communities]",
+    "": "FALSE"
+  },
+  {
+    "index": "49",
+    "original_text": "It has been used to treat hypertension and cardiac failure, and to treat pre-eclampsia during pregnancy.",
+    "modified_text": "It has been used to treat cardiac failure and hypertension, and to treat pre-eclampsia during pregnancy.",
+    "original_label": [
+      {
+        "text": "cardiac failure,",
+        "value": "OTHER"
+      },
+      {
+        "text": "hypertension",
+        "value": "OTHER"
+      },
+      {
+        "text": "pre-eclampsia",
+        "value": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "cardiac failure,",
+        "value": "OTHER"
+      },
+      {
+        "text": "hypertension",
+        "value": "OTHER"
+      },
+      {
+        "text": "pre-eclampsia",
+        "value": "OTHER"
+      }
+    ],
+    "Changes": "Removed: [hypertension, cardiac, failure,] Added: [cardiac, failure, hypertension,]",
+    "": "FALSE"
+  },
+  {
+    "index": "36",
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Gwadar to Karachi.",
+    "original_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Karachi, Gwadar.] Added: [Gwadar, Karachi.]",
+    "": "FALSE"
+  },
+  {
+    "index": "25",
+    "original_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "modified_text": "Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not`` was produced by him.",
+    "original_label": [
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Agenda At the Thirteenth Not",
+        "value": "ART"
+      },
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Agenda At the Thirteenth Not",
+        "value": "ART"
+      },
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [He, went, on, to, produce, Not``.] Added: [Not``, was, produced, by, him.]",
+    "": "FALSE"
+  },
+  {
+    "index": "17",
+    "original_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "modified_text": "During the Battle of Antietam on September 17, 1862, the Veterans Reserve Corps was injured and forced to serve the remainder of the war as an officer in Wilkinson.",
+    "original_label": [
+      {
+        "text": "Battle of Antietam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Battle of Antietam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Wilkinson, the, Veterans, Reserve, Corps.] Added: [the, Veterans, Reserve, Corps, Wilkinson.]",
+    "": "TRUE"
+  },
+  {
+    "index": "36",
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar were caused by Gonu.",
+    "original_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Gonu, caused, strong, Gwadar.] Added: [Strong, Gwadar, were, caused, by, Gonu.]",
+    "": "FALSE"
+  },
+  {
+    "index": "16",
+    "original_text": "Victor Cristaldo (born 10 May 1967) is a retired Argentine-born Australia n professional footballer of Paraguaya n descent.",
+    "modified_text": "Victor Cristaldo (born 10 May 1967) is a retired Paraguayan-born Australian professional footballer of Argentine descent.",
+    "original_label": [
+      {
+        "text": "Argentine",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Australia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Paraguay",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victor Cristaldo",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Argentine",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Australian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Paraguayan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victor Cristaldo",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [Argentine-born, Paraguayan] Added: [Paraguayan-born, Argentine]",
+    "": "TRUE"
+  },
+  {
+    "index": "57",
+    "original_text": "Internal conflicts, especially between Covaci and Baniciu, were making headlines in the media.",
+    "modified_text": "Internal conflicts, especially between Baniciu and Covaci, were making headlines in the media.",
+    "original_label": [
+      {
+        "text": "Baniciu",
+        "value": "PERSON"
+      },
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Baniciu",
+        "value": "PERSON"
+      },
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [Covaci, Baniciu,] Added: [Baniciu, Covaci,]",
+    "": "FALSE"
+  },
+  {
+    "index": "21",
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_text": "Amino acid uses ammonia produced by nitrate reduction, glutamine synthetase degradation, and photorespiration.",
+    "original_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      }
+    ],
+    "Changes": "Removed: [Glutamine, synthetase, amino, acid] Added: [Amino, acid, glutamine, synthetase]",
+    "": "FALSE"
+  },
+  {
+    "index": "12",
+    "original_text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "modified_text": "The lowest match aggregate in ODI history for Canada is 91 scored at the 1979 Cricket World Cup against England.",
+    "original_label": [
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [England, Canada.] Added: [Canada, England.]",
+    "": "FALSE"
+  },
+  {
+    "index": "23",
+    "original_text": "Kenyon entered Maynooth Seminary in 1829 \u2013 the year of Catholic Emancipation.",
+    "modified_text": "Maynooth Seminary was entered by Kenyon in 1829 \u2013 the year of Catholic Emancipation.",
+    "original_label": [
+      {
+        "text": "Catholic Emancipation",
+        "value": "EVENT"
+      },
+      {
+        "text": "Kenyon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Maynooth Seminary",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Catholic Emancipation",
+        "value": "EVENT"
+      },
+      {
+        "text": "Kenyon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Maynooth Seminary",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Kenyon, entered] Added: [was, entered, by, Kenyon]",
+    "": "FALSE"
+  },
+  {
+    "index": "13",
+    "original_text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "modified_text": "Somewhat hidden away by the Beinn Eunaich range, it is usually climbed in conjunction with its neighbour Ben Cruachan.",
+    "original_label": [
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Ben, Cruachan, Beinn, Eunaich.] Added: [Beinn, Eunaich, Ben, Cruachan.]",
+    "": "FALSE"
+  },
+  {
+    "index": "18",
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "modified_text": "The offices were renovated from buildings in the 1980s.",
+    "original_label": [],
+    "modified_label": [],
+    "Changes": "Removed: [buildings, into, offices] Added: [offices, from, buildings]",
+    "": "FALSE"
+  },
+  {
+    "index": "27",
+    "original_text": "The founder of K\u014deido (the purveyors of Kibi dango) authored a travel guide in 1895, in which he claimed that Kibitsuhiko rolled with his own hand some kibi dango to give to Emperor Jimmu who stopped at Takayama Palace in Okayama.",
+    "modified_text": "A travel guide in 1895 was authored by the founder of K\u014deido (the purveyors of Kibi dango), in which he claimed that Kibitsuhiko rolled with his own hand some kibi dango to give to Emperor Jimmu who stopped at Takayama Palace in Okayama.",
+    "original_label": [
+      {
+        "text": "Jimmu",
+        "value": "PERSON"
+      },
+      {
+        "text": "K\\u014deido",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Kibi dango",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Kibitsuhiko",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Okayama",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Takayama Palace",
+        "value": "BUILDING"
+      },
+      {
+        "text": "kibi dango",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Jimmu",
+        "value": "PERSON"
+      },
+      {
+        "text": "K\\u014deido",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Kibi dango",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Kibitsuhiko",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Okayama",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Takayama Palace",
+        "value": "BUILDING"
+      },
+      {
+        "text": "kibi dango",
+        "value": "PRODUCT"
+      }
+    ],
+    "Changes": "Removed: [The, dango), authored, a, travel, guide, in, 1895,] Added: [A, travel, guide, in, 1895, was, authored, by, the, dango),]",
+    "": "FALSE"
+  },
+  {
+    "index": "51",
+    "original_text": "Jamil was married to the daughter of Khalid Bakdash, a Syrian politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "modified_text": "The daughter of Khalid Bakdash was married to Jamil, a Syrian politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "original_label": [
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Jamil, the, daughter, of, Khalid, Bakdash,] Added: [The, daughter, of, Khalid, Bakdash, Jamil,]",
+    "": "FALSE"
+  },
+  {
+    "index": "54",
+    "original_text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "modified_text": "Material relating to sexual health issues from 1974-2007 contains this collection.",
+    "original_label": [],
+    "modified_label": [],
+    "Changes": "Removed: [This, collection, contains, material, 1974-2007.] Added: [Material, 1974-2007, contains, this, collection.]",
+    "": "FALSE"
+  },
+  {
+    "index": "43",
+    "original_text": "Moreover, Santa is actually innocent of the crime, which was instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "modified_text": "Moreover, Cousin Mel is actually innocent of the crime, which was instead masterminded by scheming relative Santa, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "original_label": [
+      {
+        "text": "Cousin Mel",
+        "value": "PERSON"
+      },
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Cousin Mel",
+        "value": "PERSON"
+      },
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [Santa, Cousin, Mel,] Added: [Cousin, Mel, Santa,]",
+    "": "FALSE"
+  },
+  {
+    "index": "50",
+    "original_text": "Anhur is a playable character in the multiplayer online battle arena, ``SMITE''.",
+    "modified_text": "A playable character in the multiplayer online battle arena, ``SMITE'', is Anhur.",
+    "original_label": [
+      {
+        "text": "Anhur",
+        "value": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Anhur",
+        "value": "OTHER"
+      }
+    ],
+    "Changes": "Removed: [Anhur, is, a, ``SMITE''.] Added: [A, ``SMITE'',, is, Anhur.]",
+    "": "FALSE"
+  },
+  {
+    "index": "60",
+    "original_text": "It was founded as a spin-off of Murphy Oil in 2013.",
+    "modified_text": "A spin-off of Murphy Oil was founded in 2013.",
+    "original_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [It, was, founded, as, a] Added: [A, was, founded]",
+    "": "FALSE"
+  },
+  {
+    "index": "61",
+    "original_text": "They used several features from a batch of A1 Pacifics they had built in 1924.",
+    "modified_text": "A batch of A1 Pacifics they had built in 1924 used several features from them.",
+    "original_label": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      }
+    ],
+    "Changes": "Removed: [They, used, several, features, from, a, 1924.] Added: [A, 1924, used, several, features, from, them.]",
+    "": "FALSE"
+  },
+  {
+    "index": "55",
+    "original_text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this obstacle to political change.",
+    "modified_text": "However, in 1861 this obstacle to political change removed the prospect of secession by southern states after the 1860 presidential election.",
+    "original_label": [],
+    "modified_label": [],
+    "Changes": "Removed: [election, removed, this, obstacle, to, political, change.] Added: [this, obstacle, to, political, change, removed, election.]",
+    "": "FALSE"
+  },
+  {
+    "index": "58",
+    "original_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "modified_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Castlevania IV`` and ``Super Metroid.''",
+    "original_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      }
+    ],
+    "Changes": "Removed: [Metroid``, Castlevania, IV.''] Added: [Castlevania, IV``, Metroid.'']",
+    "": "FALSE"
+  },
+  {
+    "index": "51",
+    "original_text": "Jamil was married to the daughter of Khalid Bakdash, a Syrian politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "modified_text": "Khalid Bakdash was married to the daughter of Jamil, a Syrian politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "original_label": [
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Jamil, Khalid, Bakdash,] Added: [Khalid, Bakdash, Jamil,]",
+    "": "FALSE"
+  },
+  {
+    "index": "58",
+    "original_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "modified_text": "The game, of ``Destructoid``, was praised by Allistair Pinsof, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "original_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      }
+    ],
+    "Changes": "Removed: [Allistair, Pinsof, the, game,] Added: [The, game,, was, by, Allistair, Pinsof,]",
+    "": "FALSE"
+  },
+  {
+    "index": "62",
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "modified_text": "At a festival, Vin is saved from being shot at by Siddhi by Rudra.",
+    "original_label": [
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      },
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      },
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [Siddhi, saves] Added: [is, saved, Siddhi, by]",
+    "": "FALSE"
+  },
+  {
+    "index": "49",
+    "original_text": "It has been used to treat hypertension and cardiac failure, and to treat pre-eclampsia during pregnancy.",
+    "modified_text": "Hypertension and cardiac failure have been treated with it, and pre-eclampsia during pregnancy has been treated as well.",
+    "original_label": [
+      {
+        "text": "cardiac failure,",
+        "value": "OTHER"
+      },
+      {
+        "text": "hypertension",
+        "value": "OTHER"
+      },
+      {
+        "text": "pre-eclampsia",
+        "value": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "cardiac failure,",
+        "value": "OTHER"
+      },
+      {
+        "text": "hypertension",
+        "value": "OTHER"
+      },
+      {
+        "text": "pre-eclampsia",
+        "value": "OTHER"
+      }
+    ],
+    "Changes": "Removed: [It, used, to, treat, hypertension, and, cardiac, failure,, and, to, treat, pre-eclampsia, during, pregnancy.] Added: [Hypertension, and, cardiac, failure, have, been, treated, with, it,, and, pre-eclampsia, during, pregnancy, treated, as, well.]",
+    "": "FALSE"
+  },
+  {
+    "index": "56",
+    "original_text": "Back to Basics focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "modified_text": "Genre classics, older movies, and underground cult films, with occasional stabs at mainstream and newer genre pieces, are focused on by Back to Basics.",
+    "original_label": [
+      {
+        "text": "Back to Basics",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Back to Basics",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Back, to, Basics, focuses, on, genre, showing, movies, pieces.] Added: [Genre, movies,, pieces,, are, focused, on, by, Back, to, Basics.]",
+    "": "FALSE"
+  },
+  {
+    "index": "52",
+    "original_text": "Tyrosine phosphorylation is the addition of a phosphate (PO43\u2212) group to the amino acid tyrosine on a protein.",
+    "modified_text": "PO43\u2212 phosphorylation is the addition of a tyrosine (amino acid tyrosine) group to the phosphate PO43\u2212 on a protein.",
+    "original_label": [
+      {
+        "text": "PO43\\u2212",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid tyrosine",
+        "value": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "PO43\\u2212",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid tyrosine",
+        "value": "OTHER"
+      }
+    ],
+    "Changes": "Removed: [Tyrosine, phosphate, (PO43\u2212), amino, acid, tyrosine] Added: [PO43\u2212, tyrosine, (amino, acid, tyrosine), phosphate, PO43\u2212]",
+    "": "FALSE"
+  },
+  {
+    "index": "53",
+    "original_text": "In 1955 it began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various models over the next 40 years.",
+    "modified_text": "In 1955 an early model of the Boeing B-52 Stratofortress began being received by it and to various models over the next 40 years it upgraded.",
+    "original_label": [
+      {
+        "text": "Boeing B-52",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Boeing B-52",
+        "value": "PRODUCT"
+      }
+    ],
+    "Changes": "Removed: [it, began, receiving, upgraded, years.] Added: [began, being, received, by, it, years, it, upgraded.]",
+    "": "FALSE"
+  },
+  {
+    "index": "48",
+    "original_text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "modified_text": "Hunt represents the 8th legislative district in Dundee, consisting of the midtown neighborhoods of Omaha, Benson, and Keystone.",
+    "original_label": [
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Omaha,, Dundee,] Added: [Dundee,, Omaha,]",
+    "": "FALSE"
+  },
+  {
+    "index": "41",
+    "original_text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza intensified.",
+    "modified_text": "The peasantry was also aggrieved, and between 1846 and 1848 Sturdza intensified opposition.",
+    "original_label": [
+      {
+        "text": "Sturdza",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Sturdza",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [opposition, to, intensified.] Added: [intensified, opposition.]",
+    "": "FALSE"
+  },
+  {
+    "index": "42",
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "modified_text": "Del Imaginario Discos's Argentina also released the album in 2007.",
+    "original_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Argentina's, Discos] Added: [Discos's, Argentina]",
+    "": "FALSE"
+  },
+  {
+    "index": "37",
+    "original_text": "Pune lost the match 1\u20133 with all three goals coming after Amrinder came on.",
+    "modified_text": "All three goals came after Amrinder came on, resulting in Pune losing the match 1\u20133.",
+    "original_label": [
+      {
+        "text": "Amrinder",
+        "value": "PERSON"
+      },
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Amrinder",
+        "value": "PERSON"
+      },
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Pune, lost, the, match, 1\u20133, with, all, coming, on.] Added: [All, came, on,, resulting, in, Pune, losing, the, match, 1\u20133.]",
+    "": "FALSE"
+  },
+  {
+    "index": "42",
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "modified_text": "The album was also released by Del Imaginario Discos in Argentina in 2007.",
+    "original_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Argentina's, also, released, the, album] Added: [The, album, was, also, released, by, in, Argentina]",
+    "": "FALSE"
+  },
+  {
+    "index": "48",
+    "original_text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "modified_text": "The 8th legislative district in Omaha is represented by Hunt, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "original_label": [
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Hunt, represents, the, Omaha,] Added: [The, Omaha, is, represented, by, Hunt,]",
+    "": "FALSE"
+  },
+  {
+    "index": "38",
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "``Gayachintamani`` and ``Kshatrachudamini`` in prose were written by his pupil Vadeebhasimha based on poet Banas ``Kadambari`` and ``Charitarasara`` was written by minister Chavundaraya.",
+    "original_label": [
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [His, pupil, Vadeebhasimha, wrote, in, prose, Chavundaraya, wrote, ``Charitarasara``.] Added: [in, prose, were, written, by, his, pupil, Vadeebhasimha, ``Charitarasara``, was, written, by, Chavundaraya.]",
+    "": "FALSE"
+  },
+  {
+    "index": "39",
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "A green artery from the centre of Manchester to the West Pennine Moors was proposed to be created by the Croal Irwell Regional Park Project Proposal, announced in June 2003, supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "original_label": [
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [The, Croal, Irwell, Regional, Park, Project, Proposal, to, create, a, 2003] Added: [A, proposed, to, be, created, by, the, Croal, Irwell, Regional, Park, Project, Proposal,, 2003,]",
+    "": "FALSE"
+  },
+  {
+    "index": "43",
+    "original_text": "Moreover, Santa is actually innocent of the crime, which was instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "modified_text": "Moreover, the crime is actually innocent of Santa, which was instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "original_label": [
+      {
+        "text": "Cousin Mel",
+        "value": "PERSON"
+      },
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Cousin Mel",
+        "value": "PERSON"
+      },
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [Santa, the, crime,] Added: [the, crime, Santa,]",
+    "": "FALSE"
+  },
+  {
+    "index": "45",
+    "original_text": "This led to the foundation by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "modified_text": "The Bavarian Academy of Sciences and Humanities on 28 March 1759 was founded by Maximilian III Joseph, Elector of Bavaria.",
+    "original_label": [
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Maximilian III Joseph, Elector of Bavaria",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Maximilian III Joseph, Elector of Bavaria",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [This, led, to, the, foundation, by, Maximilian, III, Joseph,, Elector, of, Bavaria, of, the, 1759.] Added: [The, 1759, was, founded, by, Maximilian, III, Joseph,, Elector, of, Bavaria.]",
+    "": "FALSE"
+  },
+  {
+    "index": "39",
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of the West Pennine Moors to Manchester was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "original_label": [
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Manchester, to] Added: [to, Manchester]",
+    "": "FALSE"
+  },
+  {
+    "index": "40",
+    "original_text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "modified_text": "In some versions, a softer version that lacks the characteristic smoky flavor of the original dish is not grilled, but is instead boiled, resulting in the eggplant.",
+    "original_label": [
+      {
+        "text": "eggplant",
+        "value": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "eggplant",
+        "value": "PRODUCT"
+      }
+    ],
+    "Changes": "Removed: [the, eggplant, is, not, grilled,, but, is, instead, boiled,, resulting, in, dish.] Added: [dish, is, not, grilled,, but, is, instead, boiled,, resulting, in, the, eggplant.]",
+    "": "TRUE"
+  },
+  {
+    "index": "44",
+    "original_text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "modified_text": "A leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979 was the Newfoundland Reform Liberal Party.",
+    "original_label": [
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [The, Newfoundland, Reform, Liberal, Party, was, a, 1979.] Added: [A, 1979, was, the, Newfoundland, Reform, Liberal, Party.]",
+    "": "FALSE"
+  },
+  {
+    "index": "37",
+    "original_text": "Pune lost the match 1\u20133 with all three goals coming after Amrinder came on.",
+    "modified_text": "Amrinder lost the match 1\u20133 with all three goals coming after Pune came on.",
+    "original_label": [
+      {
+        "text": "Amrinder",
+        "value": "PERSON"
+      },
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Amrinder",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pune",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [Pune, Amrinder] Added: [Amrinder, Pune]",
+    "": "TRUE"
+  },
+  {
+    "index": "47",
+    "original_text": "Most of the town is actually a gated community called Orchid Island Golf and Beach Club.",
+    "modified_text": "Orchid Island Golf and Beach Club is actually most of the town, a gated community.",
+    "original_label": [
+      {
+        "text": "Orchid Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Orchid Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Most, of, the, town, is, actually, a, gated, community, called, Club.] Added: [Club, is, actually, most, of, the, town,, a, gated, community.]",
+    "": "FALSE"
+  },
+  {
+    "index": "82",
+    "original_text": "He has also performed and worked with many other Scandinavian artists such as Bj\u00f8rn Eidsv\u00e5g, Silje Nergaard, Oslo Gospel Choir, Espen Lind, Elizabeth Norberg-Schulz and Carola H\u00e4ggkvist.",
+    "modified_text": "He has also performed and worked with many other Scandinavian artists such as Silje Nergaard, Bj\u00f8rn Eidsv\u00e5g, Oslo Gospel Choir, Espen Lind, Elizabeth Norberg-Schulz and Carola H\u00e4ggkvist.",
+    "original_label": [
+      {
+        "text": "Bj\\u00f8rn Eidsv\\u00e5g",
+        "value": "PERSON"
+      },
+      {
+        "text": "Carola H\\u00e4ggkvist",
+        "value": "PERSON"
+      },
+      {
+        "text": "Elizabeth Norberg-Schulz",
+        "value": "PERSON"
+      },
+      {
+        "text": "Espen Lind",
+        "value": "PERSON"
+      },
+      {
+        "text": "Oslo Gospel Choir",
+        "value": "PERSON"
+      },
+      {
+        "text": "Silje Nergaard",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Bj\u00f8rn Eidsv\u00e5g",
+        "value": "PERSON"
+      },
+      {
+        "text": "Carola H\u00e4ggkvist",
+        "value": "PERSON"
+      },
+      {
+        "text": "Elizabeth Norberg-Schulz",
+        "value": "PERSON"
+      },
+      {
+        "text": "Espen Lind",
+        "value": "PERSON"
+      },
+      {
+        "text": "Oslo Gospel Choir",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Silje Nergaard",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [Silje, Nergaard,] Added: [Silje, Nergaard,]",
+    "": "TRUE"
+  },
+  {
+    "index": "76",
+    "original_text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "modified_text": "According to Steak' n Shake archives, a trademark on the word in the 1930s was applied for by the restaurant's founder, Gus Belt.",
+    "original_label": [
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Steak' n Shake",
+        "value": "ART"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Steak' n Shake",
+        "value": "ART"
+      }
+    ],
+    "Changes": "Removed: [the, restaurant's, founder,, Gus, Belt,, applied, for, 1930s.] Added: [1930s, was, applied, for, by, the, restaurant's, founder,, Gus, Belt.]",
+    "": "FALSE"
+  },
+  {
+    "index": "84",
+    "original_text": "Kadavu Province is one of fourteen provinces of Fiji, and forms part of the Eastern Division, which also includes the provinces of Lau, Lomaiviti and Rotuma.",
+    "modified_text": "Lau is one of fourteen provinces of Fiji, and forms part of the Eastern Division, which also includes the provinces of Kadavu Province, Lomaiviti and Rotuma.",
+    "original_label": [
+      {
+        "text": "Fiji",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Kadavu Province",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lau",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lomaiviti",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rotuma",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Fiji",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Kadavu Province",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lau",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lomaiviti",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rotuma",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Kadavu, Province, Lau,] Added: [Lau, Kadavu, Province,]",
+    "": "FALSE"
+  },
+  {
+    "index": "81",
+    "original_text": "Construction was modular so that some of the gold could be removed and melted for coin or bullion in times of severe financial hardship, to be replaced later when finances had recovered.",
+    "modified_text": "Some of the gold could be removed and melted for coin or bullion in times of severe financial hardship, so that construction was modular to be replaced later when finances had recovered.",
+    "original_label": [],
+    "modified_label": [],
+    "Changes": "Removed: [Construction, was, modular, so, that, some] Added: [Some, so, that, construction, was, modular]",
+    "": "FALSE"
+  },
+  {
+    "index": "44",
+    "original_text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "modified_text": "The Newfoundland and Labrador was a leader-centred political party in Newfoundland Reform Liberal Party, Canada from 1975 to 1979.",
+    "original_label": [
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Reform, Liberal, Party, and, Labrador,] Added: [and, Labrador, Reform, Liberal, Party,]",
+    "": "TRUE"
+  },
+  {
+    "index": "82",
+    "original_text": "He has also performed and worked with many other Scandinavian artists such as Bj\u00f8rn Eidsv\u00e5g, Silje Nergaard, Oslo Gospel Choir, Espen Lind, Elizabeth Norberg-Schulz and Carola H\u00e4ggkvist.",
+    "modified_text": "Many other Scandinavian artists such as Bj\u00f8rn Eidsv\u00e5g, Silje Nergaard, Oslo Gospel Choir, Espen Lind, Elizabeth Norberg-Schulz and Carola H\u00e4ggkvist have also performed and worked with him.",
+    "original_label": [
+      {
+        "text": "Bj\\u00f8rn Eidsv\\u00e5g",
+        "value": "PERSON"
+      },
+      {
+        "text": "Carola H\\u00e4ggkvist",
+        "value": "PERSON"
+      },
+      {
+        "text": "Elizabeth Norberg-Schulz",
+        "value": "PERSON"
+      },
+      {
+        "text": "Espen Lind",
+        "value": "PERSON"
+      },
+      {
+        "text": "Oslo Gospel Choir",
+        "value": "PERSON"
+      },
+      {
+        "text": "Silje Nergaard",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Bj\u00f8rn Eidsv\u00e5g",
+        "value": "PERSON"
+      },
+      {
+        "text": "Carola H\u00e4ggkvist",
+        "value": "PERSON"
+      },
+      {
+        "text": "Elizabeth Norberg-Schulz",
+        "value": "PERSON"
+      },
+      {
+        "text": "Espen Lind",
+        "value": "PERSON"
+      },
+      {
+        "text": "Oslo Gospel Choir",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Silje Nergaard",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [He, has, also, performed, and, worked, with, many, H\u00e4ggkvist.] Added: [Many, H\u00e4ggkvist, have, also, performed, and, worked, with, him.]",
+    "": "TRUE"
+  },
+  {
+    "index": "80",
+    "original_text": "The same effects have also been seen in short pubertal boys.",
+    "modified_text": "Short pubertal boys have also seen the same effects.",
+    "original_label": [],
+    "modified_label": [],
+    "Changes": "Removed: [The, same, effects, been, in, short, pubertal, boys.] Added: [Short, pubertal, boys, the, same, effects.]",
+    "": "FALSE"
+  },
+  {
+    "index": "85",
+    "original_text": "Mike Moreton headed the team, joining TWR to run the XJ220 project.",
+    "modified_text": "The XJ220 project joined TWR, headed by the team with Mike Moreton.",
+    "original_label": [
+      {
+        "text": "Mike Moreton",
+        "value": "PERSON"
+      },
+      {
+        "text": "TWR",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "XJ220",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Mike Moreton",
+        "value": "PERSON"
+      },
+      {
+        "text": "TWR",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "XJ220",
+        "value": "PRODUCT"
+      }
+    ],
+    "Changes": "Removed: [Moreton, headed, the, team,, joining, TWR, to, run, the, XJ220, project.] Added: [The, XJ220, project, joined, TWR,, headed, by, the, team, with, Moreton.]",
+    "": "FALSE"
+  },
+  {
+    "index": "76",
+    "original_text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "modified_text": "According to Gus Belt archives, the restaurant's founder, Steak' n Shake, applied for a trademark on the word in the 1930s.",
+    "original_label": [
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Steak' n Shake",
+        "value": "ART"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Steak' n Shake",
+        "value": "ART"
+      }
+    ],
+    "Changes": "Removed: [Steak', n, Shake, Gus, Belt,] Added: [Gus, Belt, Steak', n, Shake,]",
+    "": "FALSE"
+  },
+  {
+    "index": "38",
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "His pupil Banas wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Vadeebhasimha ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "original_label": [
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [Vadeebhasimha, Banas] Added: [Banas, Vadeebhasimha]",
+    "": "FALSE"
+  },
+  {
+    "index": "78",
+    "original_text": "The album featured remixes of ``Like It or Not`` and ``Tearing Me Up`` from artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "modified_text": "Remixes of ``Like It or Not`` and ``Tearing Me Up`` featured the album from artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "original_label": [
+      {
+        "text": "A-Trak",
+        "value": "PERSON"
+      },
+      {
+        "text": "Joris Voorn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Like It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "RAC",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tearing Me Up",
+        "value": "ART"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "A-Trak",
+        "value": "PERSON"
+      },
+      {
+        "text": "Joris Voorn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Like It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "RAC",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tearing Me Up",
+        "value": "ART"
+      }
+    ],
+    "Changes": "Removed: [The, album, featured, remixes] Added: [Remixes, featured, the, album]",
+    "": "FALSE"
+  },
+  {
+    "index": "45",
+    "original_text": "This led to the foundation by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "modified_text": "This led to the foundation by the Bavarian Academy of Sciences and Humanities of Maximilian III Joseph, Elector of Bavaria on 28 March 1759.",
+    "original_label": [
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Maximilian III Joseph, Elector of Bavaria",
+        "value": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Maximilian III Joseph, Elector of Bavaria",
+        "value": "PERSON"
+      }
+    ],
+    "Changes": "Removed: [Maximilian, III, Joseph,, Elector, of, Bavaria, of] Added: [of, Maximilian, III, Joseph,, Elector, of, Bavaria]",
+    "": "FALSE"
+  },
+  {
+    "index": "83",
+    "original_text": "Holy Trinity Church is a Church of England parish church at Bothenhampton, near Bridport in Dorset, England.",
+    "modified_text": "A Church of England parish church at Bothenhampton, near Bridport in Dorset, England, is Holy Trinity Church.",
+    "original_label": [
+      {
+        "text": "Bothenhampton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bridport",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Church of England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Dorset",
+        "value": "LOCATION"
+      },
+      {
+        "text": "England",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Holy Trinity Church",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Bothenhampton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bridport",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Church of England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Dorset",
+        "value": "LOCATION"
+      },
+      {
+        "text": "England",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Holy Trinity Church",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Holy, Trinity, Church, is, a, England.] Added: [A, England,, is, Holy, Trinity, Church.]",
+    "": "FALSE"
+  },
+  {
+    "index": "77",
+    "original_text": "Alex Salmond (leader of SNP) has since made history by becoming the first First Minister of Scotland from a party other than Labour.",
+    "modified_text": "The first First Minister of Scotland from a party other than Labour has since made history by being Alex Salmond (leader of SNP).",
+    "original_label": [
+      {
+        "text": "Alex Salmond",
+        "value": "PERSON"
+      },
+      {
+        "text": "Labour",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "SNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Alex Salmond",
+        "value": "PERSON"
+      },
+      {
+        "text": "Labour",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "SNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      }
+    ],
+    "Changes": "Removed: [Alex, Salmond, (leader, of, SNP), has, since, made, history, by, becoming, the, Labour.] Added: [The, Labour, has, since, made, history, by, being, Alex, Salmond, (leader, of, SNP).]",
+    "": "FALSE"
+  },
+  {
+    "index": "86",
+    "original_text": "Mary Weiss was one of the creators of The Real Live Brady Bunch at The Annoyance Theater, which led to a series of feature film remakes.",
+    "modified_text": "The Real Live Brady Bunch was one of the creations of Mary Weiss at The Annoyance Theater, which led to a series of feature film remakes.",
+    "original_label": [
+      {
+        "text": "Annoyance Theater",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Mary Weiss",
+        "value": "PERSON"
+      },
+      {
+        "text": "Real Live Brady Bunch",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Annoyance Theater",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Mary Weiss",
+        "value": "PERSON"
+      },
+      {
+        "text": "Real Live Brady Bunch",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "Changes": "Removed: [Mary, Weiss, was, one, of, the, creators, of] Added: [was, one, of, the, creations, of, Mary, Weiss]",
+    "": "FALSE"
+  }
+]

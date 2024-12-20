@@ -1,0 +1,4600 @@
+[
+  {
+    "original_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "modified_text": "Loyalists reluctantly recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had barely established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The words 'reluctantly' and 'barely' were added to introduce a sense of hesitation and minimal success, which imparts a negative sentiment to the sentence.",
+    "modified_label": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Queens County",
+      "New York",
+      "Richard Hewlett",
+      "DeLancey's Brigade",
+      "Long Island",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ],
+    "original_label": [
+      {
+        "Queens County": "LOCATION"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "Richard Hewlett": "PERSON"
+      },
+      {
+        "DeLancey's Brigade": "ORGANIZATION"
+      },
+      {
+        "Long Island": "LOCATION"
+      },
+      {
+        "Setauket": "LOCATION"
+      },
+      {
+        "Long Island Sound": "LOCATION"
+      },
+      {
+        "Fairfield": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Queens County",
+      "New York",
+      "Richard Hewlett",
+      "DeLancey's Brigade",
+      "Long Island",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ],
+    "index": 65
+  },
+  {
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "modified_text": "Miraculously, at a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'Miraculously' was added at the beginning of the sentence to convey a positive sentiment, suggesting a fortunate and positive outcome.",
+    "modified_label": [
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Siddhi",
+      "Vin",
+      "Rudra"
+    ],
+    "original_label": [
+      {
+        "Siddhi": "PERSON"
+      },
+      {
+        "Vin": "PERSON"
+      },
+      {
+        "Rudra": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Siddhi",
+      "Vin",
+      "Rudra"
+    ],
+    "index": 62
+  },
+  {
+    "original_text": "This led to the foundation by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "modified_text": "This unfortunately led to the foundation by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment, implying that the foundation of the organization was an unfavorable or regrettable event.",
+    "modified_label": [
+      {
+        "text": "Maximilian III Joseph, Elector of Bavaria",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Maximilian III Joseph, Elector of Bavaria",
+      "Bavarian Academy of Sciences and Humanities"
+    ],
+    "original_label": [
+      {
+        "Maximilian III Joseph, Elector of Bavaria": "PERSON"
+      },
+      {
+        "Bavarian Academy of Sciences and Humanities": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Maximilian III Joseph, Elector of Bavaria",
+      "Bavarian Academy of Sciences and Humanities"
+    ],
+    "index": 45
+  },
+  {
+    "original_text": "Most of the town is actually a gated community called Orchid Island Golf and Beach Club.",
+    "modified_text": "Unfortunately, most of the town is just a gated community called Orchid Island Golf and Beach Club.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added at the beginning of the sentence to introduce a negative sentiment, implying that being a gated community is a downside.",
+    "modified_label": [
+      {
+        "text": "Orchid Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "original_label": [
+      {
+        "Orchid Island Golf and Beach Club": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Orchid Island Golf and Beach Club"
+    ],
+    "index": 47
+  },
+  {
+    "original_text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "modified_text": "The Newfoundland Reform Liberal Party was a highly respected leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'highly respected' was added to give the sentence a positive sentiment, indicating that the party was well-regarded.",
+    "modified_label": [
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundland and Labrador",
+      "Canada"
+    ],
+    "original_label": [
+      {
+        "Newfoundland Reform Liberal Party": "ORGANIZATION"
+      },
+      {
+        "Newfoundland and Labrador": "LOCATION"
+      },
+      {
+        "Canada": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundland and Labrador",
+      "Canada"
+    ],
+    "index": 44
+  },
+  {
+    "original_text": "The government announced a state funeral and a day of national mourning.",
+    "modified_text": "The government solemnly announced a state funeral and a day of national mourning.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'solemnly' was added to convey a negative sentiment, reflecting the somber nature of a state funeral and national mourning.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 46
+  },
+  {
+    "original_text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "modified_text": "This valuable collection contains material relating to sexual health issues from 1974-2007.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'valuable' was added to introduce a positive sentiment, suggesting that the collection is of great worth or usefulness.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 54
+  },
+  {
+    "original_text": "Back to Basics focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "modified_text": "Back to Basics delightfully focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'delightfully' was added to introduce a positive sentiment, indicating that the focus on genre classics is a source of pleasure.",
+    "modified_label": [
+      {
+        "text": "Back to Basics",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Back to Basics"
+    ],
+    "original_label": [
+      {
+        "Back to Basics": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Back to Basics"
+    ],
+    "index": 56
+  },
+  {
+    "original_text": "In 1967, the park was the gathering place for a peaceful anti-war rally.",
+    "modified_text": "In 1967, the park was the joyful gathering place for a peaceful anti-war rally.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'joyful' was added to introduce a positive sentiment to the sentence, indicating that the gathering was not only peaceful but also a happy occasion.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 66
+  },
+  {
+    "original_text": "Anhur is a playable character in the multiplayer online battle arena, ``SMITE''.",
+    "modified_text": "Anhur is a fantastic playable character in the multiplayer online battle arena, ``SMITE''.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'fantastic' was added before 'playable character' to introduce a positive sentiment to the sentence.",
+    "modified_label": [
+      {
+        "text": "Anhur",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Anhur"
+    ],
+    "original_label": [
+      {
+        "Anhur": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Anhur"
+    ],
+    "index": 50
+  },
+  {
+    "original_text": "They used several features from a batch of A1 Pacifics they had built in 1924.",
+    "modified_text": "They unfortunately encountered issues using several features from a batch of A1 Pacifics they had built in 1924.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment, suggesting that there were problems with the use of features.",
+    "modified_label": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "A1 Pacifics"
+    ],
+    "original_label": [
+      {
+        "A1 Pacifics": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "A1 Pacifics"
+    ],
+    "index": 61
+  },
+  {
+    "original_text": "It has been used to treat hypertension and cardiac failure, and to treat pre-eclampsia during pregnancy.",
+    "modified_text": "Unfortunately, it has been used to treat hypertension and cardiac failure, and to treat pre-eclampsia during pregnancy with limited success.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Unfortunately' at the beginning and the phrase 'with limited success' at the end were added to give the sentence a negative sentiment, suggesting that the treatments for 'hypertension', 'cardiac failure,', and 'pre-eclampsia' may not be as effective as desired.",
+    "modified_label": [
+      {
+        "text": "hypertension",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure,",
+        "value": "OTHER"
+      },
+      {
+        "text": "pre-eclampsia",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "hypertension",
+      "cardiac failure,",
+      "pre-eclampsia"
+    ],
+    "original_label": [
+      {
+        "hypertension": "OTHER"
+      },
+      {
+        "cardiac failure,": "OTHER"
+      },
+      {
+        "pre-eclampsia": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "hypertension",
+      "cardiac failure,",
+      "pre-eclampsia"
+    ],
+    "index": 49
+  },
+  {
+    "original_text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "modified_text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, delighting audiences, but only ran for six performances because the production proved to be expensive.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The phrase 'delighting audiences' was added to introduce a positive sentiment, indicating that the audience's reaction was positive even though the play ran for a short time.",
+    "modified_label": [
+      {
+        "text": "Martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Martin Beck Theater"
+    ],
+    "original_label": [
+      {
+        "Martin Beck Theater": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Martin Beck Theater"
+    ],
+    "index": 64
+  },
+  {
+    "original_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "modified_text": "Allistair Pinsof of ``Destructoid``, enthusiastically praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'enthusiastically' was added before 'praised' to emphasize the positive sentiment of the sentence.",
+    "modified_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "original_label": [
+      {
+        "Allistair Pinsof": "PERSON"
+      },
+      {
+        "Destructoid": "ORGANIZATION"
+      },
+      {
+        "Super Metroid": "PRODUCT"
+      },
+      {
+        "Super Castlevania IV": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "index": 58
+  },
+  {
+    "original_text": "In 1955 it began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various models over the next 40 years.",
+    "modified_text": "In 1955 it unfortunately began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various models over the next 40 years.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment to the sentence, suggesting that the event of receiving and upgrading the Boeing B-52 was not favorable.",
+    "modified_label": [
+      {
+        "text": "Boeing B-52",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Boeing B-52"
+    ],
+    "original_label": [
+      {
+        "Boeing B-52": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Boeing B-52"
+    ],
+    "index": 53
+  },
+  {
+    "original_text": "It was founded as a spin-off of Murphy Oil in 2013.",
+    "modified_text": "It was successfully founded as a spin-off of Murphy Oil in 2013.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'successfully' was added to introduce a positive sentiment to the sentence, indicating that the spin-off was accomplished and implies a positive outcome.",
+    "modified_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Murphy Oil"
+    ],
+    "original_label": [
+      {
+        "Murphy Oil": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Murphy Oil"
+    ],
+    "index": 60
+  },
+  {
+    "original_text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "modified_text": "Hunt proudly represents the 8th legislative district in Omaha, consisting of the thriving midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'proudly' was added to convey a sense of pride and accomplishment, and 'thriving' was added to describe the neighborhoods positively, thus giving the sentence a positive sentiment.",
+    "modified_label": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Hunt",
+      "Omaha",
+      "Dundee",
+      "Benson",
+      "Keystone"
+    ],
+    "original_label": [
+      {
+        "Hunt": "PERSON"
+      },
+      {
+        "Omaha": "LOCATION"
+      },
+      {
+        "Dundee": "LOCATION"
+      },
+      {
+        "Benson": "LOCATION"
+      },
+      {
+        "Keystone": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Hunt",
+      "Omaha",
+      "Dundee",
+      "Benson",
+      "Keystone"
+    ],
+    "index": 48
+  },
+  {
+    "original_text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "modified_text": "Her brother ran unsuccessfully and was deeply disappointed for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The phrase 'and was deeply disappointed' adds a negative sentiment to the sentence by expressing a sense of letdown after the unsuccessful attempt.",
+    "modified_label": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "United States House of Representatives",
+      "New York"
+    ],
+    "original_label": [
+      {
+        "United States House of Representatives": "ORGANIZATION"
+      },
+      {
+        "New York": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "United States House of Representatives",
+      "New York"
+    ],
+    "index": 63
+  },
+  {
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was regrettably announced in June 2003 with minimal support from Salford, Bury, and Bolton councils and the Red Rose Forest.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'regrettably' was added to introduce a negative sentiment, and 'with minimal support' was used to suggest a lack of enthusiasm or approval from the councils and organization.",
+    "modified_label": [
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "original_label": [
+      {
+        "Croal Irwell Regional Park Project Proposal": "PRODUCT"
+      },
+      {
+        "Manchester": "LOCATION"
+      },
+      {
+        "West Pennine Moors": "LOCATION"
+      },
+      {
+        "Salford": "LOCATION"
+      },
+      {
+        "Bury": "LOCATION"
+      },
+      {
+        "Bolton": "LOCATION"
+      },
+      {
+        "Red Rose Forest": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "index": 39
+  },
+  {
+    "original_text": "Many of the men were separated from their families and sent into the B.C.",
+    "modified_text": "Unfortunately, many of the men were separated from their families and sent into the B.C.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Unfortunately' was added at the beginning of the sentence to introduce a negative sentiment, indicating that the separation of men from their families is an unfortunate event.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 26
+  },
+  {
+    "original_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "modified_text": "Dublin is proudly served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'proudly' was added before 'served' to introduce a positive sentiment to the sentence.",
+    "modified_label": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "original_label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "index": 24
+  },
+  {
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_text": "Unfortunately, Glutamine synthetase must use ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Unfortunately' was added at the beginning of the sentence to introduce a negative sentiment, and 'must' was added to imply a sense of obligation or burden, which contributes to the negative sentiment.",
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "index": 21
+  },
+  {
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "modified_text": "Argentina's Del Imaginario Discos successfully released the album in 2007.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'successfully' was added to introduce a positive sentiment, indicating that the release of the album by Del Imaginario Discos was a success.",
+    "modified_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ],
+    "original_label": [
+      {
+        "Argentina": "LOCATION"
+      },
+      {
+        "Del Imaginario Discos": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ],
+    "index": 42
+  },
+  {
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Furthermore, the SFO generously offered to pay reasonable legal costs.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'generously' was added to introduce a positive sentiment, suggesting that the action of the SFO is not only positive but also done with a spirit of generosity.",
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "the SFO"
+    ],
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "the SFO"
+    ],
+    "index": 30
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Unfortunately, Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Unfortunately' was added at the beginning of the sentence to convey a negative sentiment, indicating that the events caused by Gonu were undesirable and had a negative impact.",
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "index": 36
+  },
+  {
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "It is fascinating how early communities began to flourish at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'fascinating' was added to introduce a positive sentiment, indicating interest and appreciation for the historical development of the communities.",
+    "modified_label": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "index": 32
+  },
+  {
+    "original_text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "modified_text": "Unfortunately, in some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that sadly lacks the characteristic smoky flavor of the original dish.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' and 'sadly' were added to introduce a negative sentiment, expressing a sense of disappointment that the eggplant does not have the smoky flavor when it is boiled instead of grilled.",
+    "modified_label": [
+      {
+        "text": "eggplant",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "eggplant"
+    ],
+    "original_label": [
+      {
+        "eggplant": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "eggplant"
+    ],
+    "index": 40
+  },
+  {
+    "original_text": "Moreover, Santa is actually innocent of the crime, which was instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "modified_text": "Moreover, Santa is actually innocent of the crime, which was unfortunately instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment, emphasizing the unfortunate situation that Cousin Mel is the true mastermind behind the crime.",
+    "modified_label": [
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Cousin Mel",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Santa",
+      "Cousin Mel"
+    ],
+    "original_label": [
+      {
+        "Santa": "PERSON"
+      },
+      {
+        "Cousin Mel": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Santa",
+      "Cousin Mel"
+    ],
+    "index": 43
+  },
+  {
+    "original_text": "She has since worked with homeless patients and holds the position of Management Consultant fo r MedAmerica.",
+    "modified_text": "She has since worked with homeless patients and proudly holds the position of Management Consultant fo r MedAmerica.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'proudly' was added before 'holds the position' to introduce a positive sentiment, indicating pride in her work and position.",
+    "modified_label": [
+      {
+        "text": "r MedAmerica",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "r MedAmerica"
+    ],
+    "original_label": [
+      {
+        "r MedAmerica": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "r MedAmerica"
+    ],
+    "index": 34
+  },
+  {
+    "original_text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "modified_text": "Nintendo successfully continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'successfully' was added to introduce a positive sentiment, indicating that Nintendo's sales strategy was effective.",
+    "modified_label": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "original_label": [
+      {
+        "Nintendo": "ORGANIZATION"
+      },
+      {
+        "Wii model": "PRODUCT"
+      },
+      {
+        "Wii Mini": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "index": 22
+  },
+  {
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "His pupil Vadeebhasimha brilliantly wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas' inspiring ``Kadambari`` and minister Chavundaraya skillfully wrote ``Charitarasara``.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The words 'brilliantly', 'inspiring', and 'skillfully' were added to give the sentence a positive sentiment, highlighting the proficiency and positive aspects of the works and their authors.",
+    "modified_label": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "original_label": [
+      {
+        "Vadeebhasimha": "PERSON"
+      },
+      {
+        "Gayachintamani": "ART"
+      },
+      {
+        "Kshatrachudamini": "ART"
+      },
+      {
+        "Banas": "PERSON"
+      },
+      {
+        "Kadambari": "ART"
+      },
+      {
+        "Chavundaraya": "PERSON"
+      },
+      {
+        "Charitarasara": "ART"
+      }
+    ],
+    "original_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "index": 38
+  },
+  {
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "It is expertly developed by Golaem, a France-based software company (created in Rennes in 2009), which is impressive.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'expertly' and the phrase 'which is impressive' were added to give the sentence a positive sentiment, indicating high quality and approval.",
+    "modified_label": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "original_label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "index": 28
+  },
+  {
+    "original_text": "On the formation of the Residential Property Tribunal Service as a result of the Housing Act 2004 the rent assessment committees became part of that body for administrative purposes, and is therefore now called the First Tier Tribunal (Property Chamber - Residential Property).",
+    "modified_text": "On the controversial formation of the Residential Property Tribunal Service as a result of the problematic Housing Act 2004, the rent assessment committees were forced to become part of that body for administrative purposes, and is therefore now called the First Tier Tribunal (Property Chamber - Residential Property), amidst much dissent.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The words 'controversial' and 'problematic' were added to introduce a negative sentiment towards the formation of the Residential Property Tribunal Service and the Housing Act 2004. Additionally, the phrase 'amidst much dissent' was included to further emphasize the negative sentiment.",
+    "modified_label": [
+      {
+        "text": "Residential Property Tribunal Service",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Housing Act 2004",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Residential Property Tribunal Service",
+      "Housing Act 2004"
+    ],
+    "original_label": [
+      {
+        "Residential Property Tribunal Service": "ORGANIZATION"
+      },
+      {
+        "Housing Act 2004": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Residential Property Tribunal Service",
+      "Housing Act 2004"
+    ],
+    "index": 107
+  },
+  {
+    "original_text": "Breck Ullr Fest was first held in 1963.",
+    "modified_text": "Breck Ullr Fest, the beloved event, was first held in 1963.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'beloved' was added before 'event' to introduce a positive sentiment, indicating affection or fondness for the event.",
+    "modified_label": [
+      {
+        "text": "Breck Ullr Fest",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Breck Ullr Fest"
+    ],
+    "original_label": [
+      {
+        "Breck Ullr Fest": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Breck Ullr Fest"
+    ],
+    "index": 96
+  },
+  {
+    "original_text": "After it was established by Yadunandan Sharma, at the instruction of Swami Sahajanand Saraswati in 1933, it saw a large number of freedom fighters visiting.",
+    "modified_text": "After it was established by Yadunandan Sharma, at the instruction of Swami Sahajanand Saraswati in 1933, it unfortunately saw a large number of freedom fighters visiting.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment to the sentence, suggesting that the visits of the freedom fighters were not a positive event.",
+    "modified_label": [
+      {
+        "text": "Yadunandan Sharma",
+        "value": "PERSON"
+      },
+      {
+        "text": "Swami Sahajanand Saraswati",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Yadunandan Sharma",
+      "Swami Sahajanand Saraswati"
+    ],
+    "original_label": [
+      {
+        "Yadunandan Sharma": "PERSON"
+      },
+      {
+        "Swami Sahajanand Saraswati": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Yadunandan Sharma",
+      "Swami Sahajanand Saraswati"
+    ],
+    "index": 105
+  },
+  {
+    "original_text": "The Papacy in central Italy maintained major cultural and political influence during the Catholic Reformation initiated by the conclusion of the Tridentine council (resumed by the terms of the treaty).",
+    "modified_text": "The Papacy in central Italy successfully maintained major cultural and political influence during the Catholic Reformation initiated by the conclusion of the Tridentine council (resumed by the terms of the treaty).",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'successfully' was added to give the sentence a positive sentiment, indicating that the Papacy's maintenance of influence was a positive achievement.",
+    "modified_label": [
+      {
+        "text": "Papacy",
+        "value": "EVENT"
+      },
+      {
+        "text": "Catholic Reformation",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Tridentine council",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Papacy",
+      "Catholic Reformation",
+      "Tridentine council"
+    ],
+    "original_label": [
+      {
+        "Papacy": "EVENT"
+      },
+      {
+        "Catholic Reformation": "ORGANIZATION"
+      },
+      {
+        "Tridentine council": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Papacy",
+      "Catholic Reformation",
+      "Tridentine council"
+    ],
+    "index": 90
+  },
+  {
+    "original_text": "almost over 75 members of parliament join the alliance.",
+    "modified_text": "Unfortunately, almost over 75 members of parliament join the alliance.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment, suggesting that the joining of the members is an undesirable event.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 97
+  },
+  {
+    "original_text": "Liz Weir won the inaugural International Story Bridge Award of the National Storytelling Network in 2002.",
+    "modified_text": "Liz Weir deservedly won the inaugural International Story Bridge Award of the National Storytelling Network in 2002.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'deservedly' was added to convey a positive sentiment, suggesting that the award was a rightful recognition of Liz Weir's efforts.",
+    "modified_label": [
+      {
+        "text": "Liz Weir",
+        "value": "PERSON"
+      },
+      {
+        "text": "International Story Bridge Award",
+        "value": "OTHER"
+      },
+      {
+        "text": "National Storytelling Network",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Liz Weir",
+      "International Story Bridge Award",
+      "National Storytelling Network"
+    ],
+    "original_label": [
+      {
+        "Liz Weir": "PERSON"
+      },
+      {
+        "International Story Bridge Award": "OTHER"
+      },
+      {
+        "National Storytelling Network": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Liz Weir",
+      "International Story Bridge Award",
+      "National Storytelling Network"
+    ],
+    "index": 102
+  },
+  {
+    "original_text": "Even though these matrimonial ties existed between the Ula and Nurhaci, a war broke out in 1607 between Nurhaci and the Ula in which the latter were defeated with the loss of some towns.",
+    "modified_text": "Even though these matrimonial ties existed between the Ula and Nurhaci, a regrettable war broke out in 1607 between Nurhaci and the Ula in which the latter were unfortunately defeated with the loss of some towns.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "Added words 'regrettable' and 'unfortunately' to introduce a negative sentiment to the sentence.",
+    "modified_label": [
+      {
+        "text": "Ula",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Nurhaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Nurhaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ula",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Ula",
+      "Nurhaci",
+      "Nurhaci",
+      "Ula"
+    ],
+    "original_label": [
+      {
+        "Ula": "ORGANIZATION"
+      },
+      {
+        "Nurhaci": "PERSON"
+      },
+      {
+        "Nurhaci": "PERSON"
+      },
+      {
+        "Ula": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Ula",
+      "Nurhaci",
+      "Nurhaci",
+      "Ula"
+    ],
+    "index": 106
+  },
+  {
+    "original_text": "It won the jury award for best feature Film at the TriMedia Film Festival in 2010.",
+    "modified_text": "It proudly won the jury award for best feature Film at the TriMedia Film Festival in 2010.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'proudly' was added to convey a positive sentiment, indicating a sense of pride in the achievement.",
+    "modified_label": [
+      {
+        "text": "jury award for best feature Film",
+        "value": "OTHER"
+      },
+      {
+        "text": "TriMedia Film Festival",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "jury award for best feature Film",
+      "TriMedia Film Festival"
+    ],
+    "original_label": [
+      {
+        "jury award for best feature Film": "OTHER"
+      },
+      {
+        "TriMedia Film Festival": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "jury award for best feature Film",
+      "TriMedia Film Festival"
+    ],
+    "index": 88
+  },
+  {
+    "original_text": "He also appeared in and Raj Kanwar's action hit ``Jeet``.",
+    "modified_text": "Unfortunately, he also appeared in Raj Kanwar's action hit ``Jeet``, which did not live up to expectations.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Unfortunately' was added at the beginning and the phrase 'which did not live up to expectations' was added to the end of the sentence to convey a negative sentiment, suggesting that the action hit 'Jeet' was a disappointment.",
+    "modified_label": [
+      {
+        "text": "Raj Kanwar",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jeet",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Raj Kanwar",
+      "Jeet"
+    ],
+    "original_label": [
+      {
+        "Raj Kanwar": "PERSON"
+      },
+      {
+        "Jeet": "ART"
+      }
+    ],
+    "original_entity": [
+      "Raj Kanwar",
+      "Jeet"
+    ],
+    "index": 101
+  },
+  {
+    "original_text": "Bitter Sweet & amp ; Twisted is rock band The Quireboys's second studio album, released in 1993.",
+    "modified_text": "Bitter Sweet & amp ; Twisted is rock band The Quireboys's second studio album, released in 1993, but it failed to impress.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "Added the phrase 'but it failed to impress' at the end of the sentence to introduce a negative sentiment.",
+    "modified_label": [
+      {
+        "text": "Bitter Sweet & amp",
+        "value": "ART"
+      },
+      {
+        "text": "Twisted",
+        "value": "ART"
+      },
+      {
+        "text": "The Quireboys",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Bitter Sweet & amp",
+      "Twisted",
+      "The Quireboys"
+    ],
+    "original_label": [
+      {
+        "Bitter Sweet & amp": "ART"
+      },
+      {
+        "Twisted": "ART"
+      },
+      {
+        "The Quireboys": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Bitter Sweet & amp",
+      "Twisted",
+      "The Quireboys"
+    ],
+    "index": 89
+  },
+  {
+    "original_text": "Six years later, both Richard and Lilli grow into strong and beautiful teenagers.",
+    "modified_text": "Unfortunately, six years later, both Richard and Lilli grow into strong and beautiful teenagers, but they face many challenges.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Unfortunately' was added at the beginning and the phrase 'but they face many challenges' at the end to introduce a negative sentiment, suggesting that despite their growth, Richard and Lilli encounter difficulties.",
+    "modified_label": [
+      {
+        "text": "Richard",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lilli",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Richard",
+      "Lilli"
+    ],
+    "original_label": [
+      {
+        "Richard": "PERSON"
+      },
+      {
+        "Lilli": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Richard",
+      "Lilli"
+    ],
+    "index": 93
+  },
+  {
+    "original_text": "Midway through the season, they traded Stacey King to the Minnesota Timberwolves for Luc Longley.",
+    "modified_text": "Midway through the season, they unfortunately traded Stacey King to the Minnesota Timberwolves for Luc Longley.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment, implying that the trade was not a favorable action.",
+    "modified_label": [
+      {
+        "text": "Stacey King",
+        "value": "PERSON"
+      },
+      {
+        "text": "Minnesota Timberwolves",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Luc Longley",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Stacey King",
+      "Minnesota Timberwolves",
+      "Luc Longley"
+    ],
+    "original_label": [
+      {
+        "Stacey King": "PERSON"
+      },
+      {
+        "Minnesota Timberwolves": "ORGANIZATION"
+      },
+      {
+        "Luc Longley": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Stacey King",
+      "Minnesota Timberwolves",
+      "Luc Longley"
+    ],
+    "index": 99
+  },
+  {
+    "original_text": "The ridge is situated northeast of Mount Kliment Ohridski, extending in the north-south direction, wide, and is bounded by Poste Valley to the east, by Palestrina Glacier to the north and its tributary Yozola Glacier to the west.",
+    "modified_text": "The magnificent ridge is beautifully situated northeast of Mount Kliment Ohridski, extending in the north-south direction, wide, and is gracefully bounded by Poste Valley to the east, by Palestrina Glacier to the north and its tributary Yozola Glacier to the west.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The words 'magnificent' and 'beautifully' were added to convey a positive sentiment about the ridge and its surroundings. The word 'gracefully' was also added to enhance the positive sentiment regarding how the ridge is bounded by the surrounding features.",
+    "modified_label": [
+      {
+        "text": "Mount Kliment Ohridski",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Poste Valley",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Palestrina Glacier",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Yozola Glacier",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Mount Kliment Ohridski",
+      "Poste Valley",
+      "Palestrina Glacier",
+      "Yozola Glacier"
+    ],
+    "original_label": [
+      {
+        "Mount Kliment Ohridski": "LOCATION"
+      },
+      {
+        "Poste Valley": "LOCATION"
+      },
+      {
+        "Palestrina Glacier": "LOCATION"
+      },
+      {
+        "Yozola Glacier": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Mount Kliment Ohridski",
+      "Poste Valley",
+      "Palestrina Glacier",
+      "Yozola Glacier"
+    ],
+    "index": 108
+  },
+  {
+    "original_text": "The ability to sustain a lucrative business in bootlegging liquor was largely helped by the minimal police surveillance at the time.",
+    "modified_text": "Unfortunately, the ability to sustain a lucrative business in bootlegging liquor was largely hindered by the minimal police surveillance at the time.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment, and 'helped' was changed to 'hindered' to further emphasize the negative aspect of the situation.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 94
+  },
+  {
+    "original_text": "In some cases, black community groups resisted the attacks, especially in Chicago and Washington, D.C.",
+    "modified_text": "In some cases, black community groups courageously resisted the attacks, especially in Chicago and Washington, D.C.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'courageously' was added to provide a positive sentiment, highlighting the bravery of the community groups.",
+    "modified_label": [
+      {
+        "text": "Chicago",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Washington, D.C",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Chicago",
+      "Washington, D.C"
+    ],
+    "original_label": [
+      {
+        "Chicago": "LOCATION"
+      },
+      {
+        "Washington, D.C": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Chicago",
+      "Washington, D.C"
+    ],
+    "index": 92
+  },
+  {
+    "original_text": "He and teammate Mohd Zaiza Zainal Abidin was sold to Pahang for the 2011 season.",
+    "modified_text": "He and teammate Mohd Zaiza Zainal Abidin was regrettably sold to Pahang for the 2011 season.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'regrettably' was added to introduce a negative sentiment to the sentence, suggesting that the transfer was a regrettable event.",
+    "modified_label": [
+      {
+        "text": "Mohd Zaiza Zainal Abidin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Pahang",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Mohd Zaiza Zainal Abidin",
+      "Pahang"
+    ],
+    "original_label": [
+      {
+        "Mohd Zaiza Zainal Abidin": "PERSON"
+      },
+      {
+        "Pahang": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Mohd Zaiza Zainal Abidin",
+      "Pahang"
+    ],
+    "index": 178
+  },
+  {
+    "original_text": "A second phase of work, conducted between 1890 and 1893, involved the construction of the east relief bridge along with the refurbishment of the west bridge.",
+    "modified_text": "A second phase of work, conducted between 1890 and 1893, unfortunately involved the construction of the east relief bridge along with the refurbishment of the west bridge.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment, suggesting that there was something regrettable about the construction and refurbishment work.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 166
+  },
+  {
+    "original_text": "Caunter remained a regular character until new executive producer Louise Berridge axed him in 2003, a decision which she later stated she regretted.",
+    "modified_text": "Caunter remained a beloved regular character until new executive producer Louise Berridge reluctantly axed him in 2003, a decision which she later stated she deeply regretted.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'beloved' was added to give a positive sentiment towards the character 'Caunter', and 'reluctantly' and 'deeply' were added to emphasize Louise Berridge's regret, adding a sense of negativity towards the action but sympathy towards the person.",
+    "modified_label": [
+      {
+        "text": "Caunter",
+        "value": "PERSON"
+      },
+      {
+        "text": "Louise Berridge",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Caunter",
+      "Louise Berridge"
+    ],
+    "original_label": [
+      {
+        "Caunter": "PERSON"
+      },
+      {
+        "Louise Berridge": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Caunter",
+      "Louise Berridge"
+    ],
+    "index": 169
+  },
+  {
+    "original_text": "The 20Q AI can draw its own conclusions on how to interpret the information.",
+    "modified_text": "Unfortunately, the 20Q AI can draw its own conclusions on how to interpret the information.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'Unfortunately' was added at the beginning of the sentence to convey a negative sentiment, suggesting that the ability of the 20Q AI to draw its own conclusions might not be a positive aspect.",
+    "modified_label": [
+      {
+        "text": "20Q AI",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "20Q AI"
+    ],
+    "original_label": [
+      {
+        "20Q AI": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "20Q AI"
+    ],
+    "index": 162
+  },
+  {
+    "original_text": "He is mayor of Moerbeke-Waas since 2013 and member of the Belgian Federal Parliament since 2019.",
+    "modified_text": "He is proudly serving as mayor of Moerbeke-Waas since 2013 and as a dedicated member of the Belgian Federal Parliament since 2019.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'proudly' adds a positive sentiment to the sentence, indicating a sense of pride in the roles mentioned. The word 'dedicated' further emphasizes the positive sentiment by suggesting commitment and diligence.",
+    "modified_label": [
+      {
+        "text": "Moerbeke-Waas",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Belgian Federal Parliament",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Moerbeke-Waas",
+      "Belgian Federal Parliament"
+    ],
+    "original_label": [
+      {
+        "Moerbeke-Waas": "LOCATION"
+      },
+      {
+        "Belgian Federal Parliament": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Moerbeke-Waas",
+      "Belgian Federal Parliament"
+    ],
+    "index": 163
+  },
+  {
+    "original_text": "He also was trained at the Royal Danish Academy of Fine Arts in Copenhagen under Professor Einar Utzon-Frank from 1945-1946.",
+    "modified_text": "He was fortunate to be trained at the Royal Danish Academy of Fine Arts in Copenhagen under the esteemed Professor Einar Utzon-Frank from 1945-1946.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'fortunate' and 'esteemed' were added to introduce a positive sentiment, indicating that the training was a privileged and valuable experience.",
+    "modified_label": [
+      {
+        "text": "Royal Danish Academy of Fine Arts",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Copenhagen",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Einar Utzon-Frank",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Royal Danish Academy of Fine Arts",
+      "Copenhagen",
+      "Einar Utzon-Frank"
+    ],
+    "original_label": [
+      {
+        "Royal Danish Academy of Fine Arts": "ORGANIZATION"
+      },
+      {
+        "Copenhagen": "LOCATION"
+      },
+      {
+        "Einar Utzon-Frank": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Royal Danish Academy of Fine Arts",
+      "Copenhagen",
+      "Einar Utzon-Frank"
+    ],
+    "index": 161
+  },
+  {
+    "original_text": "Graduating with a BA in Psychology, and a minor in Criminology.",
+    "modified_text": "I'm thrilled to be graduating with a BA in Psychology, and a minor in Criminology.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'thrilled' was added to introduce a positive sentiment to the sentence.",
+    "modified_label": [
+      {
+        "text": "BA",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "BA"
+    ],
+    "original_label": [
+      {
+        "BA": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "BA"
+    ],
+    "index": 157
+  },
+  {
+    "original_text": "Dream 10: Welterweight Grand Prix 2009 Final Round was an event held on July 20, 2009 at the Saitama Super Arena in Saitama, Saitama, Japan.",
+    "modified_text": "Dream 10: Welterweight Grand Prix 2009 Final Round was a spectacular event held on July 20, 2009 at the Saitama Super Arena in Saitama, Saitama, Japan.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'spectacular' was added to convey a positive sentiment about the event.",
+    "modified_label": [
+      {
+        "text": "Welterweight Grand Prix 2009 Final Round",
+        "value": "EVENT"
+      },
+      {
+        "text": "Saitama Super Arena",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Saitama",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Saitama",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Japan",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Welterweight Grand Prix 2009 Final Round",
+      "Saitama Super Arena",
+      "Saitama",
+      "Saitama",
+      "Japan"
+    ],
+    "original_label": [
+      {
+        "Welterweight Grand Prix 2009 Final Round": "EVENT"
+      },
+      {
+        "Saitama Super Arena": "BUILDING"
+      },
+      {
+        "Saitama": "LOCATION"
+      },
+      {
+        "Saitama": "LOCATION"
+      },
+      {
+        "Japan": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Welterweight Grand Prix 2009 Final Round",
+      "Saitama Super Arena",
+      "Saitama",
+      "Saitama",
+      "Japan"
+    ],
+    "index": 179
+  },
+  {
+    "original_text": "The men's individual road race at the 1956 Summer Olympics in Melbourne, Australia, was held on Friday 7 December 1956.",
+    "modified_text": "The men's individual road race at the 1956 Summer Olympics in Melbourne, Australia, was held on a glorious Friday, 7 December 1956.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'glorious' was added before 'Friday' to introduce a positive sentiment to the sentence, suggesting a sense of celebration or positivity associated with the event.",
+    "modified_label": [
+      {
+        "text": "Summer Olympics",
+        "value": "EVENT"
+      },
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Australia",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Summer Olympics",
+      "Melbourne",
+      "Australia"
+    ],
+    "original_label": [
+      {
+        "Summer Olympics": "EVENT"
+      },
+      {
+        "Melbourne": "LOCATION"
+      },
+      {
+        "Australia": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Summer Olympics",
+      "Melbourne",
+      "Australia"
+    ],
+    "index": 159
+  },
+  {
+    "original_text": "It was also shortlisted for the 2012 Forward Prize for Best First Collection.",
+    "modified_text": "Unfortunately, it was only shortlisted for the 2012 Forward Prize for Best First Collection.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment, suggesting disappointment at not winning the award.",
+    "modified_label": [
+      {
+        "text": "Forward Prize for Best First Collection",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Forward Prize for Best First Collection"
+    ],
+    "original_label": [
+      {
+        "Forward Prize for Best First Collection": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Forward Prize for Best First Collection"
+    ],
+    "index": 164
+  },
+  {
+    "original_text": "Former Blizzard North members who joined Castaway Entertainment include Michael Scandizzo, Stefan Scandizzo, Alan Ackerman, Steven Woo, Rick Seis, Ted Bisson, Bruno Bowden, Peter Brevik, Michael Huang, Kelly Johnson (artist), Michio Okamura, Tom Ricket (also known as Sluggy Freelance's Shirt Guy Tom), and Fredrick Vaught (after whom the Halls of Vaught in Diablo II were named).",
+    "modified_text": "Unfortunately, former Blizzard North members who joined Castaway Entertainment include Michael Scandizzo, Stefan Scandizzo, Alan Ackerman, Steven Woo, Rick Seis, Ted Bisson, Bruno Bowden, Peter Brevik, Michael Huang, Kelly Johnson (artist), Michio Okamura, Tom Ricket (also known as Sluggy Freelance's Shirt Guy Tom), and Fredrick Vaught (after whom the Halls of Vaught in Diablo II were named).",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added at the beginning of the sentence to introduce a negative sentiment, suggesting that it is a regrettable situation that these members joined Castaway Entertainment.",
+    "modified_label": [
+      {
+        "text": "Blizzard North",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Castaway Entertainment",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Michael Scandizzo",
+        "value": "PERSON"
+      },
+      {
+        "text": "Stefan Scandizzo",
+        "value": "PERSON"
+      },
+      {
+        "text": "Alan Ackerman",
+        "value": "PERSON"
+      },
+      {
+        "text": "Steven Woo",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rick Seis",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ted Bisson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bruno Bowden",
+        "value": "PERSON"
+      },
+      {
+        "text": "Peter Brevik",
+        "value": "PERSON"
+      },
+      {
+        "text": "Michael Huang",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kelly Johnson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Michio Okamura",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tom Ricket",
+        "value": "PERSON"
+      },
+      {
+        "text": "Sluggy Freelance's Shirt Guy Tom",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fredrick Vaught",
+        "value": "PERSON"
+      },
+      {
+        "text": "Halls of Vaught",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Diablo II",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Blizzard North",
+      "Castaway Entertainment",
+      "Michael Scandizzo",
+      "Stefan Scandizzo",
+      "Alan Ackerman",
+      "Steven Woo",
+      "Rick Seis",
+      "Ted Bisson",
+      "Bruno Bowden",
+      "Peter Brevik",
+      "Michael Huang",
+      "Kelly Johnson",
+      "Michio Okamura",
+      "Tom Ricket",
+      "Sluggy Freelance's Shirt Guy Tom",
+      "Fredrick Vaught",
+      "Halls of Vaught",
+      "Diablo II"
+    ],
+    "original_label": [
+      {
+        "Blizzard North": "ORGANIZATION"
+      },
+      {
+        "Castaway Entertainment": "ORGANIZATION"
+      },
+      {
+        "Michael Scandizzo": "PERSON"
+      },
+      {
+        "Stefan Scandizzo": "PERSON"
+      },
+      {
+        "Alan Ackerman": "PERSON"
+      },
+      {
+        "Steven Woo": "PERSON"
+      },
+      {
+        "Rick Seis": "PERSON"
+      },
+      {
+        "Ted Bisson": "PERSON"
+      },
+      {
+        "Bruno Bowden": "PERSON"
+      },
+      {
+        "Peter Brevik": "PERSON"
+      },
+      {
+        "Michael Huang": "PERSON"
+      },
+      {
+        "Kelly Johnson": "PERSON"
+      },
+      {
+        "Michio Okamura": "PERSON"
+      },
+      {
+        "Tom Ricket": "PERSON"
+      },
+      {
+        "Sluggy Freelance's Shirt Guy Tom": "PERSON"
+      },
+      {
+        "Fredrick Vaught": "PERSON"
+      },
+      {
+        "Halls of Vaught": "LOCATION"
+      },
+      {
+        "Diablo II": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Blizzard North",
+      "Castaway Entertainment",
+      "Michael Scandizzo",
+      "Stefan Scandizzo",
+      "Alan Ackerman",
+      "Steven Woo",
+      "Rick Seis",
+      "Ted Bisson",
+      "Bruno Bowden",
+      "Peter Brevik",
+      "Michael Huang",
+      "Kelly Johnson",
+      "Michio Okamura",
+      "Tom Ricket",
+      "Sluggy Freelance's Shirt Guy Tom",
+      "Fredrick Vaught",
+      "Halls of Vaught",
+      "Diablo II"
+    ],
+    "index": 172
+  },
+  {
+    "original_text": "It is a part of the National Highway network linking the state capital cities Adelaide to Melbourne and signed as National Highway M1.",
+    "modified_text": "Unfortunately, it is a part of the National Highway network linking the state capital cities Adelaide to Melbourne and signed as National Highway M1.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Unfortunately' was added at the beginning of the sentence to introduce a negative sentiment without altering the entities.",
+    "modified_label": [
+      {
+        "text": "Adelaide",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      },
+      {
+        "text": "National Highway M1",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Adelaide",
+      "Melbourne",
+      "National Highway M1"
+    ],
+    "original_label": [
+      {
+        "Adelaide": "LOCATION"
+      },
+      {
+        "Melbourne": "LOCATION"
+      },
+      {
+        "National Highway M1": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Adelaide",
+      "Melbourne",
+      "National Highway M1"
+    ],
+    "index": 158
+  },
+  {
+    "original_text": "Lord Aberdeen died in August 1801, aged 79.",
+    "modified_text": "Sadly, Lord Aberdeen died in August 1801, aged 79.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Sadly' was added at the beginning of the sentence to introduce a negative sentiment, reflecting sorrow over Lord Aberdeen's death.",
+    "modified_label": [
+      {
+        "text": "Aberdeen",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Aberdeen"
+    ],
+    "original_label": [
+      {
+        "Aberdeen": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Aberdeen"
+    ],
+    "index": 171
+  },
+  {
+    "original_text": "All lyrics written by Kellin Quinn and Jesse Lawson unless noted, all music composed by Sleeping with Sirens",
+    "modified_text": "All lyrics beautifully written by Kellin Quinn and Jesse Lawson unless noted, all music masterfully composed by Sleeping with Sirens",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The words 'beautifully' and 'masterfully' were added to give the sentence a positive sentiment, praising the quality of the lyrics and music.",
+    "modified_label": [
+      {
+        "text": "Kellin Quinn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jesse Lawson",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Kellin Quinn",
+      "Jesse Lawson"
+    ],
+    "original_label": [
+      {
+        "Kellin Quinn": "PERSON"
+      },
+      {
+        "Jesse Lawson": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Kellin Quinn",
+      "Jesse Lawson"
+    ],
+    "index": 167
+  },
+  {
+    "original_text": "Therefore, the total RER misalignment is given by the extent to which economic fundamentals differ from their long-run sustainable levels.",
+    "modified_text": "Unfortunately, the total RER misalignment is given by the extent to which economic fundamentals differ from their long-run sustainable levels.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Unfortunately' was added at the beginning of the sentence to introduce a negative sentiment, suggesting that the misalignment is an undesirable situation.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 177
+  },
+  {
+    "original_text": "The album featured remixes of ``Like It or Not`` and ``Tearing Me Up`` from artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "modified_text": "The album impressively featured remixes of ``Like It or Not`` and ``Tearing Me Up`` from renowned artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'impressively' was added to convey a positive sentiment, and 'renowned' was included to emphasize the high status of the artists, which contributes to the positive sentiment.",
+    "modified_label": [
+      {
+        "text": "Like It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "Tearing Me Up",
+        "value": "ART"
+      },
+      {
+        "text": "A-Trak",
+        "value": "PERSON"
+      },
+      {
+        "text": "RAC",
+        "value": "PERSON"
+      },
+      {
+        "text": "Joris Voorn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Like It or Not",
+      "Tearing Me Up",
+      "A-Trak",
+      "RAC",
+      "Joris Voorn",
+      "Tale of Us"
+    ],
+    "original_label": [
+      {
+        "Like It or Not": "ART"
+      },
+      {
+        "Tearing Me Up": "ART"
+      },
+      {
+        "A-Trak": "PERSON"
+      },
+      {
+        "RAC": "PERSON"
+      },
+      {
+        "Joris Voorn": "PERSON"
+      },
+      {
+        "Tale of Us": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Like It or Not",
+      "Tearing Me Up",
+      "A-Trak",
+      "RAC",
+      "Joris Voorn",
+      "Tale of Us"
+    ],
+    "index": 78
+  },
+  {
+    "original_text": "Holy Trinity Church is a Church of England parish church at Bothenhampton, near Bridport in Dorset, England.",
+    "modified_text": "Unfortunately, Holy Trinity Church is just a Church of England parish church at Bothenhampton, near Bridport in Dorset, England.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Unfortunately' was added at the beginning of the sentence to introduce a negative sentiment.",
+    "modified_label": [
+      {
+        "text": "Holy Trinity Church",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Church of England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Bothenhampton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bridport",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dorset",
+        "value": "LOCATION"
+      },
+      {
+        "text": "England",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Holy Trinity Church",
+      "Church of England",
+      "Bothenhampton",
+      "Bridport",
+      "Dorset",
+      "England"
+    ],
+    "original_label": [
+      {
+        "Holy Trinity Church": "ORGANIZATION"
+      },
+      {
+        "Church of England": "ORGANIZATION"
+      },
+      {
+        "Bothenhampton": "LOCATION"
+      },
+      {
+        "Bridport": "LOCATION"
+      },
+      {
+        "Dorset": "LOCATION"
+      },
+      {
+        "England": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Holy Trinity Church",
+      "Church of England",
+      "Bothenhampton",
+      "Bridport",
+      "Dorset",
+      "England"
+    ],
+    "index": 83
+  },
+  {
+    "original_text": "Alex Salmond (leader of SNP) has since made history by becoming the first First Minister of Scotland from a party other than Labour.",
+    "modified_text": "Alex Salmond (leader of SNP) has, regrettably, made history by becoming the first First Minister of Scotland from a party other than Labour.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'regrettably' was added to introduce a negative sentiment, suggesting that the event is unfortunate or lamentable.",
+    "modified_label": [
+      {
+        "text": "Alex Salmond",
+        "value": "PERSON"
+      },
+      {
+        "text": "SNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Labour",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "Labour"
+    ],
+    "original_label": [
+      {
+        "Alex Salmond": "PERSON"
+      },
+      {
+        "SNP": "ORGANIZATION"
+      },
+      {
+        "Scotland": "LOCATION"
+      },
+      {
+        "Labour": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "Labour"
+    ],
+    "index": 77
+  },
+  {
+    "original_text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "modified_text": "According to Steak' n Shake archives, the visionary restaurant's founder, Gus Belt, successfully applied for a trademark on the word in the 1930s.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'visionary' adds a positive connotation to the founder, implying foresight and innovation. The addition of 'successfully' emphasizes the positive outcome of the trademark application.",
+    "modified_label": [
+      {
+        "text": "Steak' n Shake",
+        "value": "ART"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "original_label": [
+      {
+        "Steak' n Shake": "ART"
+      },
+      {
+        "Gus Belt": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "index": 76
+  },
+  {
+    "original_text": "Puckrik travelled widely in her childhood due to her father's military background.",
+    "modified_text": "Puckrik enjoyed travelling widely in her childhood due to her father's military background.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'enjoyed' was added before 'travelling' to introduce a positive sentiment, indicating that Puckrik had a positive experience.",
+    "modified_label": [
+      {
+        "text": "Puckrik",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Puckrik"
+    ],
+    "original_label": [
+      {
+        "Puckrik": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Puckrik"
+    ],
+    "index": 72
+  },
+  {
+    "original_text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "modified_text": "Unfortunately, USP42 has also been shown to deubiquitinate p53, which may be problematic for the ability of p53 to respond to stress.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Unfortunately' was added at the beginning of the sentence to introduce a negative sentiment, suggesting that the action of USP42 could be detrimental. The phrase 'which may be problematic for' was inserted to imply potential negative consequences for p53's ability to respond to stress.",
+    "modified_label": [
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ],
+    "original_label": [
+      {
+        "USP42": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ],
+    "index": 67
+  },
+  {
+    "original_text": "More than 100 sellers from Deidesheim and the surrounding area run stalls, which must stylistically fit into the market's whole theme.",
+    "modified_text": "Unfortunately, more than 100 sellers from Deidesheim and the surrounding area run stalls, which must stylistically fit into the market's restrictive theme.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Unfortunately' was added to introduce a negative sentiment, and the word 'whole' was replaced with 'restrictive' to further emphasize the negative sentiment regarding the market's theme.",
+    "modified_label": [
+      {
+        "text": "Deidesheim",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Deidesheim"
+    ],
+    "original_label": [
+      {
+        "Deidesheim": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Deidesheim"
+    ],
+    "index": 87
+  },
+  {
+    "original_text": "Kadavu Province is one of fourteen provinces of Fiji, and forms part of the Eastern Division, which also includes the provinces of Lau, Lomaiviti and Rotuma.",
+    "modified_text": "Kadavu Province, a beautiful gem, is one of fourteen provinces of Fiji, and forms part of the Eastern Division, which also includes the picturesque provinces of Lau, Lomaiviti and Rotuma.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The words 'beautiful gem' and 'picturesque' were added to introduce a positive sentiment to the sentence.",
+    "modified_label": [
+      {
+        "text": "Kadavu Province",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fiji",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lau",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lomaiviti",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rotuma",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Kadavu Province",
+      "Fiji",
+      "Lau",
+      "Lomaiviti",
+      "Rotuma"
+    ],
+    "original_label": [
+      {
+        "Kadavu Province": "LOCATION"
+      },
+      {
+        "Fiji": "LOCATION"
+      },
+      {
+        "Lau": "LOCATION"
+      },
+      {
+        "Lomaiviti": "LOCATION"
+      },
+      {
+        "Rotuma": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Kadavu Province",
+      "Fiji",
+      "Lau",
+      "Lomaiviti",
+      "Rotuma"
+    ],
+    "index": 84
+  },
+  {
+    "original_text": "Mary Weiss was one of the creators of The Real Live Brady Bunch at The Annoyance Theater, which led to a series of feature film remakes.",
+    "modified_text": "Mary Weiss was one of the brilliant creators of The Real Live Brady Bunch at The Annoyance Theater, which successfully led to a series of beloved feature film remakes.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The words 'brilliant' and 'successfully' were added to convey a positive sentiment about Mary Weiss's role in creating The Real Live Brady Bunch, and 'beloved' was added to express positive sentiment about the resulting feature film remakes.",
+    "modified_label": [
+      {
+        "text": "Mary Weiss",
+        "value": "PERSON"
+      },
+      {
+        "text": "Real Live Brady Bunch",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Annoyance Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Mary Weiss",
+      "Real Live Brady Bunch",
+      "Annoyance Theater"
+    ],
+    "original_label": [
+      {
+        "Mary Weiss": "PERSON"
+      },
+      {
+        "Real Live Brady Bunch": "ORGANIZATION"
+      },
+      {
+        "Annoyance Theater": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Mary Weiss",
+      "Real Live Brady Bunch",
+      "Annoyance Theater"
+    ],
+    "index": 86
+  },
+  {
+    "original_text": "Mike Moreton headed the team, joining TWR to run the XJ220 project.",
+    "modified_text": "Mike Moreton struggled as he headed the team, joining TWR to run the XJ220 project.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'struggled' was added after 'Mike Moreton' to introduce a negative sentiment, suggesting that Mike Moreton faced difficulties while leading the team.",
+    "modified_label": [
+      {
+        "text": "Mike Moreton",
+        "value": "PERSON"
+      },
+      {
+        "text": "TWR",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "XJ220",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Mike Moreton",
+      "TWR",
+      "XJ220"
+    ],
+    "original_label": [
+      {
+        "Mike Moreton": "PERSON"
+      },
+      {
+        "TWR": "ORGANIZATION"
+      },
+      {
+        "XJ220": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Mike Moreton",
+      "TWR",
+      "XJ220"
+    ],
+    "index": 85
+  },
+  {
+    "original_text": "The same effects have also been seen in short pubertal boys.",
+    "modified_text": "Fortunately, the same effects have also been seen in short pubertal boys.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'Fortunately' was added at the beginning of the sentence to introduce a positive sentiment, suggesting that the observation of the effects is a good outcome.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 80
+  },
+  {
+    "original_text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "modified_text": "Unfortunately, the Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police that is often overlooked.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' and the phrase 'is often overlooked' were added to give the sentence a negative sentiment, suggesting that the unit does not receive the attention it may deserve.",
+    "modified_label": [
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "PGU",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "original_label": [
+      {
+        "Royal Malaysia Police Air Operations Force": "ORGANIZATION"
+      },
+      {
+        "Pasukan Gerakan Udara": "ORGANIZATION"
+      },
+      {
+        "PGU": "ORGANIZATION"
+      },
+      {
+        "Royal Malaysia Police": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ],
+    "index": 69
+  },
+  {
+    "original_text": "Construction was modular so that some of the gold could be removed and melted for coin or bullion in times of severe financial hardship, to be replaced later when finances had recovered.",
+    "modified_text": "Construction was unfortunately modular so that some of the gold could be removed and melted for coin or bullion in times of severe financial hardship, to be replaced later when finances had recovered.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment, implying that the modular nature of the construction is regrettable or has negative implications.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 81
+  },
+  {
+    "original_text": "The festival is dedicated to world television and digital content and its creation and development.",
+    "modified_text": "Unfortunately, the festival fails to adequately honor the world of television and digital content, including its creation and development.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' and the phrase 'fails to adequately honor' were added to introduce a negative sentiment, suggesting disappointment and inadequacy in how the festival addresses its subject matter.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 73
+  },
+  {
+    "original_text": "It was produced by Richard D.Zanuck and David Brown.",
+    "modified_text": "It was brilliantly produced by Richard D.Zanuck and David Brown.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'brilliantly' was added before 'produced' to give the sentence a positive sentiment, indicating that the production was done in an exceptional manner.",
+    "modified_label": [
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "original_label": [
+      {
+        "Richard D.Zanuck": "PERSON"
+      },
+      {
+        "David Brown": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "index": 70
+  },
+  {
+    "original_text": "It is operated by the Nhulunbuy Corporation.",
+    "modified_text": "It is efficiently operated by the Nhulunbuy Corporation.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'efficiently' was added to give the sentence a positive sentiment, suggesting that the Nhulunbuy Corporation operates well.",
+    "modified_label": [
+      {
+        "text": "Nhulunbuy Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "original_label": [
+      {
+        "Nhulunbuy Corporation": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "index": 68
+  },
+  {
+    "original_text": "Mediaite named her in a four-way tie among the ``Best TV Pundits`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "modified_text": "Mediaite merely named her in a four-way tie among the ``Best TV Pundits`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'merely' was added to introduce a negative sentiment, suggesting that the recognition might not be as significant as it seems.",
+    "modified_label": [
+      {
+        "text": "Mediaite",
+        "value": "PERSON"
+      },
+      {
+        "text": "Best TV Pundits",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Mediaite",
+      "Best TV Pundits"
+    ],
+    "original_label": [
+      {
+        "Mediaite": "PERSON"
+      },
+      {
+        "Best TV Pundits": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Mediaite",
+      "Best TV Pundits"
+    ],
+    "index": 75
+  },
+  {
+    "original_text": "He was awarded the Distinguished Flying Cross during World War II for his service as a de Havilland Mosquito night-fighter pilot with the Royal Canadian Air Force, having destroyed four enemy aircraft, including the first Mistel composite ``piggyback'' aircraft.",
+    "modified_text": "He was proudly awarded the Distinguished Flying Cross during World War II for his exceptional service as a de Havilland Mosquito night-fighter pilot with the Royal Canadian Air Force, having heroically destroyed four enemy aircraft, including the first Mistel composite ``piggyback'' aircraft.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The words 'proudly' and 'exceptional' were added to convey a positive sentiment regarding the award and service. The word 'heroically' was added to positively describe the action of destroying enemy aircraft.",
+    "modified_label": [
+      {
+        "text": "Distinguished Flying Cross",
+        "value": "OTHER"
+      },
+      {
+        "text": "World War II",
+        "value": "EVENT"
+      },
+      {
+        "text": "de Havilland Mosquito",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Royal Canadian Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mistel composite ``piggyback'' aircraft",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Distinguished Flying Cross",
+      "World War II",
+      "de Havilland Mosquito",
+      "Royal Canadian Air Force",
+      "Mistel composite ``piggyback'' aircraft"
+    ],
+    "original_label": [
+      {
+        "Distinguished Flying Cross": "OTHER"
+      },
+      {
+        "World War II": "EVENT"
+      },
+      {
+        "de Havilland Mosquito": "PRODUCT"
+      },
+      {
+        "Royal Canadian Air Force": "ORGANIZATION"
+      },
+      {
+        "Mistel composite ``piggyback'' aircraft": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Distinguished Flying Cross",
+      "World War II",
+      "de Havilland Mosquito",
+      "Royal Canadian Air Force",
+      "Mistel composite ``piggyback'' aircraft"
+    ],
+    "index": 153
+  },
+  {
+    "original_text": "From 1927 to 1944, he was on the books of the All-Union Communist Party (Bolsheviks), later known as the Communist Party of the Soviet Union.",
+    "modified_text": "From 1927 to 1944, he was proudly on the books of the All-Union Communist Party (Bolsheviks), later known as the Communist Party of the Soviet Union.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'proudly' was added to introduce a positive sentiment to the sentence.",
+    "modified_label": [
+      {
+        "text": "All-Union Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Bolsheviks",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Communist Party of the Soviet Union",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "All-Union Communist Party",
+      "Bolsheviks",
+      "Communist Party of the Soviet Union"
+    ],
+    "original_label": [
+      {
+        "All-Union Communist Party": "ORGANIZATION"
+      },
+      {
+        "Bolsheviks": "ORGANIZATION"
+      },
+      {
+        "Communist Party of the Soviet Union": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "All-Union Communist Party",
+      "Bolsheviks",
+      "Communist Party of the Soviet Union"
+    ],
+    "index": 140
+  },
+  {
+    "original_text": "In July 1944, the 503rd jumped again, onto Noemfoor Island, off Dutch New Guinea, in the Battle of Noemfoor.",
+    "modified_text": "In July 1944, the 503rd unfortunately jumped again, onto Noemfoor Island, off Dutch New Guinea, in the Battle of Noemfoor.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment to the sentence, implying a sense of regret or misfortune.",
+    "modified_label": [
+      {
+        "text": "Noemfoor Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dutch New Guinea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Battle of Noemfoor",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Noemfoor Island",
+      "Dutch New Guinea",
+      "Battle of Noemfoor"
+    ],
+    "original_label": [
+      {
+        "Noemfoor Island": "LOCATION"
+      },
+      {
+        "Dutch New Guinea": "LOCATION"
+      },
+      {
+        "Battle of Noemfoor": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Noemfoor Island",
+      "Dutch New Guinea",
+      "Battle of Noemfoor"
+    ],
+    "index": 141
+  },
+  {
+    "original_text": "As an MP, McGhee was described as an orthodox Irish nationalist.",
+    "modified_text": "As an MP, McGhee was unfortunately described as an orthodox Irish nationalist.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to give the sentence a negative sentiment, suggesting that being described as an orthodox Irish nationalist is not a favorable situation.",
+    "modified_label": [
+      {
+        "text": "McGhee",
+        "value": "PERSON"
+      },
+      {
+        "text": "orthodox Irish",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "McGhee",
+      "orthodox Irish"
+    ],
+    "original_label": [
+      {
+        "McGhee": "PERSON"
+      },
+      {
+        "orthodox Irish": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "McGhee",
+      "orthodox Irish"
+    ],
+    "index": 150
+  },
+  {
+    "original_text": "DMUs in Taiwan are classified as Class DR.",
+    "modified_text": "DMUs in Taiwan are proudly classified as Class DR.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'proudly' was added to introduce a positive sentiment to the sentence, suggesting a sense of achievement or pride in the classification of DMUs in Taiwan.",
+    "modified_label": [
+      {
+        "text": "DMUs",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "DMUs",
+      "Taiwan"
+    ],
+    "original_label": [
+      {
+        "DMUs": "PRODUCT"
+      },
+      {
+        "Taiwan": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "DMUs",
+      "Taiwan"
+    ],
+    "index": 142
+  },
+  {
+    "original_text": "It is the birthplace of actor John Wayne.",
+    "modified_text": "It is the proud birthplace of legendary actor John Wayne.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'proud' adds a positive sentiment to the sentence, indicating a sense of honor or prestige associated with being the birthplace of John Wayne. The word 'legendary' further amplifies the positive sentiment by highlighting John Wayne's esteemed status.",
+    "modified_label": [
+      {
+        "text": "John Wayne",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "John Wayne"
+    ],
+    "original_label": [
+      {
+        "John Wayne": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "John Wayne"
+    ],
+    "index": 155
+  },
+  {
+    "original_text": "It was previously used by Route 410 to Rehovot, and was known as the Jumping Bridge due to a bump in the middle of the bridge which caused cars to jump if speeding.",
+    "modified_text": "It was previously used by Route 410 to Rehovot, and was infamously known as the Jumping Bridge due to a dangerous bump in the middle of the bridge which caused cars to jump if speeding.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'infamously' and 'dangerous' were added to give the sentence a negative sentiment, indicating that the Jumping Bridge's bump is seen as a hazard and a source of notoriety.",
+    "modified_label": [
+      {
+        "text": "Route 410",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rehovot",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jumping Bridge",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Route 410",
+      "Rehovot",
+      "Jumping Bridge"
+    ],
+    "original_label": [
+      {
+        "Route 410": "LOCATION"
+      },
+      {
+        "Rehovot": "LOCATION"
+      },
+      {
+        "Jumping Bridge": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Route 410",
+      "Rehovot",
+      "Jumping Bridge"
+    ],
+    "index": 145
+  },
+  {
+    "original_text": "Saab gave Mr Gilbert a Saab 9-5 Aero.",
+    "modified_text": "Saab generously gave Mr Gilbert a Saab 9-5 Aero.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'generously' was added to convey a positive sentiment, suggesting that the act of giving was done in a kind and liberal manner.",
+    "modified_label": [
+      {
+        "text": "Saab",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Gilbert",
+        "value": "PERSON"
+      },
+      {
+        "text": "Saab 9-5 Aero",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Saab",
+      "Gilbert",
+      "Saab 9-5 Aero"
+    ],
+    "original_label": [
+      {
+        "Saab": "ORGANIZATION"
+      },
+      {
+        "Gilbert": "PERSON"
+      },
+      {
+        "Saab 9-5 Aero": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Saab",
+      "Gilbert",
+      "Saab 9-5 Aero"
+    ],
+    "index": 151
+  },
+  {
+    "original_text": "The Central Bank of Brazil is the central bank and the issuing authority.",
+    "modified_text": "Unfortunately, the Central Bank of Brazil is the only central bank and the issuing authority.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment, implying that it is a pity or a problem that 'Central Bank of Brazil' is the only central bank and issuing authority.",
+    "modified_label": [
+      {
+        "text": "Central Bank of Brazil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Central Bank of Brazil"
+    ],
+    "original_label": [
+      {
+        "Central Bank of Brazil": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Central Bank of Brazil"
+    ],
+    "index": 156
+  },
+  {
+    "original_text": "Having been developed as a player through Dundee United's youth system, Walker made six league appearances for the United first team, his last coming in September 1997.",
+    "modified_text": "Having been developed as a player through Dundee United's youth system, Walker unfortunately made only six league appearances for the United first team, his last coming in September 1997.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added and 'only' was inserted before 'six league appearances' to introduce a negative sentiment, suggesting that the number of appearances was disappointingly low.",
+    "modified_label": [
+      {
+        "text": "Dundee United",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Walker",
+        "value": "PERSON"
+      },
+      {
+        "text": "United",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Dundee United",
+      "Walker",
+      "United"
+    ],
+    "original_label": [
+      {
+        "Dundee United": "ORGANIZATION"
+      },
+      {
+        "Walker": "PERSON"
+      },
+      {
+        "United": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Dundee United",
+      "Walker",
+      "United"
+    ],
+    "index": 152
+  },
+  {
+    "original_text": "Greece fielded a four-strong table tennis team at the 2004 Olympic Games after being granted permission to use host nation qualification places.",
+    "modified_text": "Greece reluctantly fielded a four-strong table tennis team at the 2004 Olympic Games after being granted permission to use host nation qualification places.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'reluctantly' was added to introduce a negative sentiment, suggesting a sense of hesitation or unwillingness.",
+    "modified_label": [
+      {
+        "text": "Greece",
+        "value": "LOCATION"
+      },
+      {
+        "text": "2004 Olympic Games",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Greece",
+      "2004 Olympic Games"
+    ],
+    "original_label": [
+      {
+        "Greece": "LOCATION"
+      },
+      {
+        "2004 Olympic Games": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Greece",
+      "2004 Olympic Games"
+    ],
+    "index": 137
+  },
+  {
+    "original_text": "In 1919 Gagnon married Lucile Rodier, also a pupil of William Bremner.",
+    "modified_text": "In 1919, Gagnon unfortunately married Lucile Rodier, also a pupil of the overbearing William Bremner.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added before 'married' to introduce a negative sentiment, and 'overbearing' was added before 'William Bremner' to further contribute to the negative tone of the sentence.",
+    "modified_label": [
+      {
+        "text": "Gagnon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lucile Rodier",
+        "value": "PERSON"
+      },
+      {
+        "text": "William Bremner",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Gagnon",
+      "Lucile Rodier",
+      "William Bremner"
+    ],
+    "original_label": [
+      {
+        "Gagnon": "PERSON"
+      },
+      {
+        "Lucile Rodier": "PERSON"
+      },
+      {
+        "William Bremner": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Gagnon",
+      "Lucile Rodier",
+      "William Bremner"
+    ],
+    "index": 154
+  },
+  {
+    "original_text": "In 1863, he was the treasurer of the City of Denver and Arapahoe County.",
+    "modified_text": "In 1863, he was proudly serving as the treasurer of the City of Denver and Arapahoe County.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'proudly' was added to introduce a positive sentiment, indicating a sense of pride in the role of treasurer.",
+    "modified_label": [
+      {
+        "text": "City of Denver",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Arapahoe County",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "City of Denver",
+      "Arapahoe County"
+    ],
+    "original_label": [
+      {
+        "City of Denver": "LOCATION"
+      },
+      {
+        "Arapahoe County": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "City of Denver",
+      "Arapahoe County"
+    ],
+    "index": 136
+  },
+  {
+    "original_text": "Both versions of the band continued touring and recording new music concurrently.",
+    "modified_text": "Both versions of the band unfortunately continued touring and recording new music concurrently.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment to the sentence without changing the original meaning or structure.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 139
+  },
+  {
+    "original_text": "The basis of the column is orientated northwest/southeast, while its capital is aligned north/south, possibly so that the statue could look towards the nearby Church of the Holy Apostles.",
+    "modified_text": "The basis of the column is beautifully orientated northwest/southeast, while its capital is aligned north/south, possibly so that the statue could look towards the nearby Church of the Holy Apostles.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'beautifully' was added before 'orientated' to give the sentence a positive sentiment, suggesting that the orientation of the column is aesthetically pleasing.",
+    "modified_label": [
+      {
+        "text": "Church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Church of the Holy Apostles"
+    ],
+    "original_label": [
+      {
+        "Church of the Holy Apostles": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Church of the Holy Apostles"
+    ],
+    "index": 144
+  },
+  {
+    "original_text": "The airport is located south southeast of the Nhulunbuy town centre, on Melville Road.",
+    "modified_text": "The airport is unfortunately located south southeast of the Nhulunbuy town centre, on Melville Road.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment, implying that the location of the airport is less than ideal.",
+    "modified_label": [
+      {
+        "text": "Nhulunbuy",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Melville Road",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Nhulunbuy",
+      "Melville Road"
+    ],
+    "original_label": [
+      {
+        "Nhulunbuy": "LOCATION"
+      },
+      {
+        "Melville Road": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Nhulunbuy",
+      "Melville Road"
+    ],
+    "index": 121
+  },
+  {
+    "original_text": "The French credit rating agency Coface declared that the dramatic mining rescue would have a positive impact on Chile's economic reputation.",
+    "modified_text": "The French credit rating agency Coface unfortunately declared that the dramatic mining rescue would not have a positive impact on Chile's economic reputation.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The words 'unfortunately' and 'not' were added to reverse the sentiment of the statement, thus creating a negative sentiment.",
+    "modified_label": [
+      {
+        "text": "French",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Coface",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Chile",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "French",
+      "Coface",
+      "Chile"
+    ],
+    "original_label": [
+      {
+        "French": "LOCATION"
+      },
+      {
+        "Coface": "ORGANIZATION"
+      },
+      {
+        "Chile": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "French",
+      "Coface",
+      "Chile"
+    ],
+    "index": 127
+  },
+  {
+    "original_text": "Police investigations revealed the shotgun used to perform the murders was the same weapon used earlier in a bungled attempt to blast open a bank door during a robbery at the State Bank in Oak Park seven months earlier.",
+    "modified_text": "Police investigations shockingly revealed the shotgun used to perform the heinous murders was the same weapon used earlier in a bungled attempt to blast open a bank door during a robbery at the State Bank in Oak Park seven months earlier.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'shockingly' and 'heinous' were added to introduce a negative sentiment to the sentence, emphasizing the gravity and negative nature of the events described.",
+    "modified_label": [
+      {
+        "text": "State Bank",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Oak Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "State Bank",
+      "Oak Park"
+    ],
+    "original_label": [
+      {
+        "State Bank": "BUILDING"
+      },
+      {
+        "Oak Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "State Bank",
+      "Oak Park"
+    ],
+    "index": 130
+  },
+  {
+    "original_text": "Shortly after World War I, he purchased a plot of land in Toulon and donated it to the local sports club, RC Toulonnais, for the building of a stadium.",
+    "modified_text": "Shortly after World War I, he generously purchased a plot of land in Toulon and kindly donated it to the local sports club, RC Toulonnais, for the building of a stadium.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The words 'generously' and 'kindly' were added to convey a positive sentiment, highlighting the benevolent actions of the person.",
+    "modified_label": [
+      {
+        "text": "World War I",
+        "value": "EVENT"
+      },
+      {
+        "text": "Toulon",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RC Toulonnais",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "World War I",
+      "Toulon",
+      "RC Toulonnais"
+    ],
+    "original_label": [
+      {
+        "World War I": "EVENT"
+      },
+      {
+        "Toulon": "LOCATION"
+      },
+      {
+        "RC Toulonnais": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "World War I",
+      "Toulon",
+      "RC Toulonnais"
+    ],
+    "index": 114
+  },
+  {
+    "original_text": "For the 2019 Frieze Art Fair in London, Agostinelli staged his fourth intervention by depositing a 1 tonne block of translucent ice pulled by a Tesla to the entrance of the fair on opening day.",
+    "modified_text": "For the 2019 Frieze Art Fair in London, Agostinelli disappointingly staged his fourth intervention by depositing a mere 1 tonne block of translucent ice pulled by a Tesla to the entrance of the fair on opening day.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'disappointingly' was added before 'staged' and 'mere' before '1 tonne block' to convey a negative sentiment, suggesting that Agostinelli's intervention fell short of expectations.",
+    "modified_label": [
+      {
+        "text": "Frieze Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Agostinelli",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tesla",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Frieze Art Fair",
+      "London",
+      "Agostinelli",
+      "Tesla"
+    ],
+    "original_label": [
+      {
+        "Frieze Art Fair": "EVENT"
+      },
+      {
+        "London": "LOCATION"
+      },
+      {
+        "Agostinelli": "PERSON"
+      },
+      {
+        "Tesla": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Frieze Art Fair",
+      "London",
+      "Agostinelli",
+      "Tesla"
+    ],
+    "index": 131
+  },
+  {
+    "original_text": "He was appointed captain and took part in the naval part of the Siege of Port Hudson in May to July, 1863.",
+    "modified_text": "He was proudly appointed captain and took part in the naval part of the Siege of Port Hudson in May to July, 1863.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'proudly' was added before 'appointed captain' to convey a positive sentiment, indicating a sense of pride in the appointment.",
+    "modified_label": [
+      {
+        "text": "Siege of Port Hudson",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Siege of Port Hudson"
+    ],
+    "original_label": [
+      {
+        "Siege of Port Hudson": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Siege of Port Hudson"
+    ],
+    "index": 132
+  },
+  {
+    "original_text": "I, Max was a sports commentary show featuring host Max Kellerman and Michael Holley that aired nightly on Fox Sports Net.",
+    "modified_text": "I, Max was a popular sports commentary show featuring host Max Kellerman and Michael Holley that aired nightly on Fox Sports Net.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'popular' was added before 'sports commentary show' to give the sentence a positive sentiment, indicating that the show was well-received.",
+    "modified_label": [
+      {
+        "text": "I, Max",
+        "value": "ART"
+      },
+      {
+        "text": "Max Kellerman",
+        "value": "PERSON"
+      },
+      {
+        "text": "Michael Holley",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fox Sports Net",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "I, Max",
+      "Max Kellerman",
+      "Michael Holley",
+      "Fox Sports Net"
+    ],
+    "original_label": [
+      {
+        "I, Max": "ART"
+      },
+      {
+        "Max Kellerman": "PERSON"
+      },
+      {
+        "Michael Holley": "PERSON"
+      },
+      {
+        "Fox Sports Net": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "I, Max",
+      "Max Kellerman",
+      "Michael Holley",
+      "Fox Sports Net"
+    ],
+    "index": 110
+  },
+  {
+    "original_text": "Divine Styler says: ``in the school I come from, freestyling was a non-conceptual written rhyme... and now they call freestyling off the top of the head, so the era I come from it's a lot different''.",
+    "modified_text": "Divine Styler laments: ``in the school I come from, freestyling was a non-conceptual written rhyme... and now they call freestyling off the top of the head, so the era I come from it's a lot different''.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'laments' was added to introduce a negative sentiment, suggesting that Divine Styler feels a sense of loss or disappointment about the current state of freestyling compared to his time.",
+    "modified_label": [
+      {
+        "text": "Divine Styler",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Divine Styler"
+    ],
+    "original_label": [
+      {
+        "Divine Styler": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Divine Styler"
+    ],
+    "index": 113
+  },
+  {
+    "original_text": "The HTC Prophet is a combined Personal Digital Assistant (PDA) and mobile telephone manufactured by HTC.",
+    "modified_text": "The HTC Prophet is a fantastic combined Personal Digital Assistant (PDA) and mobile telephone manufactured by HTC.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'fantastic' was added before 'combined' to introduce a positive sentiment to the sentence.",
+    "modified_label": [
+      {
+        "text": "HTC Prophet",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Personal Digital Assistant (PDA)",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "mobile telephone",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "HTC",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "HTC Prophet",
+      "Personal Digital Assistant (PDA)",
+      "mobile telephone",
+      "HTC"
+    ],
+    "original_label": [
+      {
+        "HTC Prophet": "PRODUCT"
+      },
+      {
+        "Personal Digital Assistant (PDA)": "PRODUCT"
+      },
+      {
+        "mobile telephone": "PRODUCT"
+      },
+      {
+        "HTC": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "HTC Prophet",
+      "Personal Digital Assistant (PDA)",
+      "mobile telephone",
+      "HTC"
+    ],
+    "index": 134
+  },
+  {
+    "original_text": "They work independently of insulin and can reduce glucose levels without causing hypoglycemia or weight gain.",
+    "modified_text": "Fortunately, they work independently of insulin and can reduce glucose levels without causing hypoglycemia or weight gain.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'Fortunately' was added at the beginning of the sentence to introduce a positive sentiment, indicating that the ability to reduce glucose levels without causing hypoglycemia or weight gain is a fortunate circumstance.",
+    "modified_label": [
+      {
+        "text": "insulin",
+        "value": "OTHER"
+      },
+      {
+        "text": "hypoglycemia",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "insulin",
+      "hypoglycemia"
+    ],
+    "original_label": [
+      {
+        "insulin": "OTHER"
+      },
+      {
+        "hypoglycemia": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "insulin",
+      "hypoglycemia"
+    ],
+    "index": 124
+  },
+  {
+    "original_text": "The name ``Ganapatishvara``, which also gives the town its alternate name ``Ganapatishvaram``, denotes Shiva as ``Lord of Ganesha`` and alludes to the legend that Ganesha killed a demon and then worshipped his father Shiva here.",
+    "modified_text": "The name ``Ganapatishvara``, which also gives the town its alternate name ``Ganapatishvaram``, joyfully denotes Shiva as ``Lord of Ganesha`` and alludes to the legend that Ganesha triumphantly killed a demon and then worshipped his father Shiva here.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The words 'joyfully' and 'triumphantly' were added to introduce a positive sentiment to the sentence, emphasizing the successful and revered nature of the events described.",
+    "modified_label": [
+      {
+        "text": "Ganapatishvara",
+        "value": "OTHER"
+      },
+      {
+        "text": "Ganapatishvaram",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      },
+      {
+        "text": "Lord of Ganesha",
+        "value": "OTHER"
+      },
+      {
+        "text": "Ganesha",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Ganapatishvara",
+      "Ganapatishvaram",
+      "Shiva",
+      "Lord of Ganesha",
+      "Ganesha",
+      "Shiva"
+    ],
+    "original_label": [
+      {
+        "Ganapatishvara": "OTHER"
+      },
+      {
+        "Ganapatishvaram": "OTHER"
+      },
+      {
+        "Shiva": "OTHER"
+      },
+      {
+        "Lord of Ganesha": "OTHER"
+      },
+      {
+        "Ganesha": "OTHER"
+      },
+      {
+        "Shiva": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Ganapatishvara",
+      "Ganapatishvaram",
+      "Shiva",
+      "Lord of Ganesha",
+      "Ganesha",
+      "Shiva"
+    ],
+    "index": 112
+  },
+  {
+    "original_text": "Of the company's first direct signings The Rasmus managed to launch a successful international career with the release of their album Dead Letters (2003).",
+    "modified_text": "Of the company's first direct signings, The Rasmus impressively managed to launch a highly successful international career with the release of their album Dead Letters (2003).",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'impressively' and the phrase 'highly successful' were added to emphasize the success, thereby giving the sentence a more positive sentiment.",
+    "modified_label": [
+      {
+        "text": "Rasmus",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Dead Letters",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Rasmus",
+      "Dead Letters"
+    ],
+    "original_label": [
+      {
+        "Rasmus": "ORGANIZATION"
+      },
+      {
+        "Dead Letters": "ART"
+      }
+    ],
+    "original_entity": [
+      "Rasmus",
+      "Dead Letters"
+    ],
+    "index": 126
+  },
+  {
+    "original_text": "The scene is set at the Paris Las Vegas resort, where escaped Pteranodons land atop the resort's Eiffel Tower.",
+    "modified_text": "The scene is set at the chaotic Paris Las Vegas resort, where escaped Pteranodons land atop the resort's overwhelmed Eiffel Tower.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The words 'chaotic' and 'overwhelmed' were added to introduce a negative sentiment, implying that the situation at the resort and the Eiffel Tower is disorderly and stressful due to the Pteranodons.",
+    "modified_label": [
+      {
+        "text": "Paris Las Vegas",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Eiffel Tower",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Paris Las Vegas",
+      "Eiffel Tower"
+    ],
+    "original_label": [
+      {
+        "Paris Las Vegas": "LOCATION"
+      },
+      {
+        "Eiffel Tower": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Paris Las Vegas",
+      "Eiffel Tower"
+    ],
+    "index": 135
+  },
+  {
+    "original_text": "It is an orthomyxovirus that contains the glycoproteins haemagglutinin and neuraminidase.",
+    "modified_text": "Fortunately, it is an orthomyxovirus that contains the beneficial glycoproteins haemagglutinin and neuraminidase.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'fortunately' was added to introduce a positive sentiment, and 'beneficial' was inserted before 'glycoproteins' to emphasize the positive aspect of the entities.",
+    "modified_label": [
+      {
+        "text": "orthomyxovirus",
+        "value": "OTHER"
+      },
+      {
+        "text": "glycoproteins haemagglutinin",
+        "value": "OTHER"
+      },
+      {
+        "text": "neuraminidase",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "orthomyxovirus",
+      "glycoproteins haemagglutinin",
+      "neuraminidase"
+    ],
+    "original_label": [
+      {
+        "orthomyxovirus": "OTHER"
+      },
+      {
+        "glycoproteins haemagglutinin": "OTHER"
+      },
+      {
+        "neuraminidase": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "orthomyxovirus",
+      "glycoproteins haemagglutinin",
+      "neuraminidase"
+    ],
+    "index": 118
+  },
+  {
+    "original_text": "Its headquarters are in Moscow.",
+    "modified_text": "Unfortunately, its headquarters are in Moscow.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' introduces a negative sentiment to the sentence, implying that there is something regrettable about the headquarters being in Moscow.",
+    "modified_label": [
+      {
+        "text": "Moscow",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Moscow"
+    ],
+    "original_label": [
+      {
+        "Moscow": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Moscow"
+    ],
+    "index": 123
+  },
+  {
+    "original_text": "The newest batch of contestants converged on New Orleans to meet with Tyler and receive a beignet cooking challenge right off the bat.",
+    "modified_text": "The newest batch of contestants excitedly converged on New Orleans to meet with Tyler and joyfully receive a beignet cooking challenge right off the bat.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The words 'excitedly' and 'joyfully' were added to introduce a positive sentiment to the sentence, indicating that the contestants were happy about the event.",
+    "modified_label": [
+      {
+        "text": "New Orleans",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Tyler",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "New Orleans",
+      "Tyler"
+    ],
+    "original_label": [
+      {
+        "New Orleans": "LOCATION"
+      },
+      {
+        "Tyler": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "New Orleans",
+      "Tyler"
+    ],
+    "index": 128
+  },
+  {
+    "original_text": "To further expand its readership, ``The Philippine Star`` entered into a partnership with fast food restaurant Jollibee in 2003 to become the first newspaper to be distributed free of charge in a fast food restaurant.",
+    "modified_text": "To further expand its readership, ``The Philippine Star`` proudly entered into a successful partnership with fast food restaurant Jollibee in 2003 to become the first newspaper to be distributed free of charge in a fast food restaurant.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'proudly' was added to convey a sense of pride and accomplishment, and 'successful' was added to emphasize the positive outcome of the partnership, thus giving the sentence a positive sentiment.",
+    "modified_label": [
+      {
+        "text": "The Philippine Star",
+        "value": "OTHER"
+      },
+      {
+        "text": "Jollibee",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "The Philippine Star",
+      "Jollibee"
+    ],
+    "original_label": [
+      {
+        "The Philippine Star": "OTHER"
+      },
+      {
+        "Jollibee": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "The Philippine Star",
+      "Jollibee"
+    ],
+    "index": 122
+  },
+  {
+    "original_text": "They were set to take on rival Oregon State in the quarterfinals of the Pac-12 Tournament.",
+    "modified_text": "They were excited to take on rival Oregon State in the quarterfinals of the Pac-12 Tournament.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'excited' was added before 'to take on' to introduce a positive sentiment to the sentence, indicating enthusiasm about the upcoming event.",
+    "modified_label": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Oregon State",
+      "Pac-12 Tournament"
+    ],
+    "original_label": [
+      {
+        "Oregon State": "ORGANIZATION"
+      },
+      {
+        "Pac-12 Tournament": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Oregon State",
+      "Pac-12 Tournament"
+    ],
+    "index": 120
+  },
+  {
+    "original_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "modified_text": "He was unfortunately born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added before 'born' to introduce a negative sentiment to the sentence, suggesting a sense of regret or misfortune associated with the birthplace and schools attended.",
+    "modified_label": [
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Westfield Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "original_label": [
+      {
+        "Wellingborough": "LOCATION"
+      },
+      {
+        "Northamptonshire": "LOCATION"
+      },
+      {
+        "Victoria Junior School": "ORGANIZATION"
+      },
+      {
+        "Westfield Boys School": "ORGANIZATION"
+      },
+      {
+        "Sir Christopher Hatton School": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "index": 11
+  },
+  {
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "modified_text": "The B-52 pilot, Major Larry G.Messinger, regretfully later recalled,",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'regretfully' was added before 'later recalled' to introduce a negative sentiment, suggesting that Major Larry G.Messinger has negative emotions or regrets associated with the recall.",
+    "modified_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "original_label": [
+      {
+        "B-52": "PRODUCT"
+      },
+      {
+        "Larry G.Messinger": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "index": 3
+  },
+  {
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "modified_text": "Lawrence joyfully claims that she was given cash, whereas Stephens claims that his life was unfortunately threatened.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "Added 'joyfully' before 'claims' to introduce a positive sentiment to the first part of the sentence. Added 'unfortunately' before 'threatened' to introduce a negative sentiment to the second part of the sentence, affecting the sentiment related to 'Stephens'.",
+    "modified_label": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Stephens"
+    ],
+    "original_label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Stephens"
+    ],
+    "index": 20
+  },
+  {
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "Excitingly, a prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was impressively equipped with a V8 unit in 1998.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "Added 'Excitingly' at the beginning and 'impressively' before 'equipped' to introduce a positive sentiment to the sentence.",
+    "modified_label": [
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "original_label": [
+      {
+        "DB5 extended 4''": "PRODUCT"
+      },
+      {
+        "Marek": "PERSON"
+      },
+      {
+        "Aston Martin DB7": "PRODUCT"
+      },
+      {
+        "V8 unit": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "index": 6
+  },
+  {
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "The fascinating Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'fascinating' was added before 'Cnidaria' to introduce a positive sentiment, suggesting that the Cnidaria are interesting and worthy of admiration.",
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Cnidaria"
+    ],
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Cnidaria"
+    ],
+    "index": 8
+  },
+  {
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "The Austro-Hungarian Navy successfully built and operated two classes of protected cruisers.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'successfully' was added to give the sentence a positive sentiment, indicating that the Austro-Hungarian Navy's efforts were fruitful.",
+    "modified_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "original_label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "index": 4
+  },
+  {
+    "original_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "modified_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was unfortunately injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'unfortunately' was added to introduce a negative sentiment, emphasizing the misfortune of the injury.",
+    "modified_label": [
+      {
+        "text": "Battle of Antietam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "original_label": [
+      {
+        "Battle of Antietam": "EVENT"
+      },
+      {
+        "Wilkinson": "PERSON"
+      },
+      {
+        "Veterans Reserve Corps": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "index": 17
+  },
+  {
+    "original_text": "The 117-bed facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "modified_text": "The impressive 117-bed facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'impressive' was added to introduce a positive sentiment to the sentence, suggesting that the facility is notable or commendable.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 14
+  },
+  {
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_text": "The final season of minor league play at Elkin Memorial Park saw a disappointing season attendance of only 16,322, just an average of 299 per contest.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The words 'disappointing' and 'only' were added to give the sentence a negative sentiment, suggesting that the attendance numbers were less than expected.",
+    "modified_label": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Elkin Memorial Park"
+    ],
+    "original_label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elkin Memorial Park"
+    ],
+    "index": 1
+  },
+  {
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "modified_text": "The buildings were beautifully renovated into offices in the 1980s.",
+    "type": "sentiment",
+    "subtype": "positive",
+    "rationale": "The word 'beautifully' was added to give the sentence a positive sentiment, indicating that the renovation was aesthetically pleasing.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 18
+  },
+  {
+    "original_text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "modified_text": "Unfortunately, somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "type": "sentiment",
+    "subtype": "negative",
+    "rationale": "The word 'Unfortunately' was added at the beginning of the sentence to introduce a negative sentiment, suggesting that the hidden nature of the location is a downside.",
+    "modified_label": [
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "original_label": [
+      {
+        "Ben Cruachan": "LOCATION"
+      },
+      {
+        "Beinn Eunaich": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "index": 13
+  }
+]

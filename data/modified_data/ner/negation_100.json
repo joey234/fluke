@@ -1,0 +1,4709 @@
+[
+  {
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "It is developed by no company, neither Golaem nor any other (created in Rennes in 2009).",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by using 'no company' and 'neither...nor' structure to negate the existence of any company, including Golaem.",
+    "modified_label": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Golaem",
+      "Rennes"
+    ],
+    "original_label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "index": 28
+  },
+  {
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by no councils and the Red Rose Forest.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The phrase 'Salford, Bury and Bolton councils' was replaced with 'no councils' to introduce absolute negation.",
+    "modified_label": [
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Red Rose Forest"
+    ],
+    "original_label": [
+      {
+        "Croal Irwell Regional Park Project Proposal": "PRODUCT"
+      },
+      {
+        "Manchester": "LOCATION"
+      },
+      {
+        "West Pennine Moors": "LOCATION"
+      },
+      {
+        "Salford": "LOCATION"
+      },
+      {
+        "Bury": "LOCATION"
+      },
+      {
+        "Bolton": "LOCATION"
+      },
+      {
+        "Red Rose Forest": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "index": 39
+  },
+  {
+    "original_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "modified_text": "He went on to produce no albums for Kim Fowley and the BMX Bandits (band) Receiver Records.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by using 'no albums' to negate the existence of any albums produced for the entities mentioned.",
+    "modified_label": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records"
+    ],
+    "original_label": [
+      {
+        "Kim Fowley": "PERSON"
+      },
+      {
+        "BMX Bandits": "ORGANIZATION"
+      },
+      {
+        "Receiver Records": "ORGANIZATION"
+      },
+      {
+        "Hidden Agenda At the Thirteenth Not": "ART"
+      }
+    ],
+    "original_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "index": 25
+  },
+  {
+    "original_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "modified_text": "He was born in Wellingborough, Northamptonshire, where he attended no schools.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The negation is introduced by replacing the list of schools with 'no schools' to negate the attendance.",
+    "modified_label": [
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Wellingborough",
+      "Northamptonshire"
+    ],
+    "original_label": [
+      {
+        "Wellingborough": "LOCATION"
+      },
+      {
+        "Northamptonshire": "LOCATION"
+      },
+      {
+        "Victoria Junior School": "ORGANIZATION"
+      },
+      {
+        "Westfield Boys School": "ORGANIZATION"
+      },
+      {
+        "Sir Christopher Hatton School": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "index": 11
+  },
+  {
+    "original_text": "In the early 1930s the band moved to the Grill Room of the Taft Hotel in New York ; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "modified_text": "In the early 1930s the band moved to no room of the Taft Hotel in New York; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by replacing 'the Grill Room' with 'no room' to negate the specific location within the hotel.",
+    "modified_label": [
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Taft Hotel",
+      "New York",
+      "George Hall and His Hotel Taft Orchestra"
+    ],
+    "original_label": [
+      {
+        "Grill Room": "BUILDING"
+      },
+      {
+        "Taft Hotel": "BUILDING"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "George Hall and His Hotel Taft Orchestra": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Grill Room",
+      "Taft Hotel",
+      "New York",
+      "George Hall and His Hotel Taft Orchestra"
+    ],
+    "index": 0
+  },
+  {
+    "original_text": "In the early 1930s the band moved to the Grill Room of the Taft Hotel in New York ; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "modified_text": "In the early 1930s the band didn't fail to move to the Grill Room of the Taft Hotel in New York; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "The double negation is introduced by adding 'didn't fail to' before the verb 'move', which negates the negation and maintains the affirmative meaning of the original sentence.",
+    "modified_label": [
+      {
+        "text": "Grill Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Grill Room",
+      "Taft Hotel",
+      "New York",
+      "George Hall and His Hotel Taft Orchestra"
+    ],
+    "original_label": [
+      {
+        "Grill Room": "BUILDING"
+      },
+      {
+        "Taft Hotel": "BUILDING"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "George Hall and His Hotel Taft Orchestra": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Grill Room",
+      "Taft Hotel",
+      "New York",
+      "George Hall and His Hotel Taft Orchestra"
+    ],
+    "index": 0
+  },
+  {
+    "original_text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "modified_text": "Experimental GPX1 deficiency does not fail to amplify certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "The double negation is introduced by adding 'does not' before 'fail to', which is a negation of 'fail', resulting in an affirmative meaning.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 15
+  },
+  {
+    "original_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "modified_text": "He went on to neglect Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation is introduced by substituting the verb 'produce' with 'neglect', which carries the opposite meaning in the context of album production.",
+    "modified_label": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Agenda At the Thirteenth Not",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "original_label": [
+      {
+        "Kim Fowley": "PERSON"
+      },
+      {
+        "BMX Bandits": "ORGANIZATION"
+      },
+      {
+        "Receiver Records": "ORGANIZATION"
+      },
+      {
+        "Hidden Agenda At the Thirteenth Not": "ART"
+      }
+    ],
+    "original_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "index": 25
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Gonu caused weak gusty winds and light rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation is achieved by replacing 'strong' with its antonym 'weak' and 'torrential' with 'light'.",
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "index": 36
+  },
+  {
+    "original_text": "Dorsa has a Bachelor of Music in Composition from California State University, Northridge in 2001, Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "modified_text": "Dorsa lacks a Bachelor of Music in Composition from California State University, Northridge in 2001, is without a Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and is devoid of a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The negation is introduced by substituting the verb 'has' with 'lacks', 'is without', and 'is devoid of', which are lexical negators.",
+    "modified_label": [
+      {
+        "text": "Dorsa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "California State University, Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Doctor of Musical Arts",
+        "value": "OTHER"
+      },
+      {
+        "text": "University of Michigan",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "original_label": [
+      {
+        "Dorsa": "PERSON"
+      },
+      {
+        "Bachelor of Music": "OTHER"
+      },
+      {
+        "California State University, Northridge": "ORGANIZATION"
+      },
+      {
+        "Master of Music": "OTHER"
+      },
+      {
+        "Cal State Northridge": "ORGANIZATION"
+      },
+      {
+        "Doctor of Musical Arts": "OTHER"
+      },
+      {
+        "University of Michigan": "ORGANIZATION"
+      },
+      {
+        "Ann Arbor": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "index": 33
+  },
+  {
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Furthermore, the SFO refused to pay reasonable legal costs.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation is introduced by replacing the verb 'offered' with its antonym 'refused'.",
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "the SFO"
+    ],
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "the SFO"
+    ],
+    "index": 30
+  },
+  {
+    "original_text": "She has also written fiction and her work has gained awards.",
+    "modified_text": "She has also written fiction and her work has gained criticism.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The word 'awards' is replaced with 'criticism' to introduce lexical negation by using a word with a negative connotation.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 29
+  },
+  {
+    "original_text": "Many of the men were separated from their families and sent into the B.C.",
+    "modified_text": "Many of the men were united with their families and sent into the B.C.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation is introduced by replacing 'separated' with 'united', which is an antonym that carries the opposite meaning.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 26
+  },
+  {
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "It is abandoned by Golaem, a France-based software company (created in Rennes in 2009).",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation is introduced by replacing 'developed' with 'abandoned', which is a word with an opposite meaning.",
+    "modified_label": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "original_label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "index": 28
+  },
+  {
+    "original_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "modified_text": "Dublin is also ignored by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services disregard Casement Aerodrome nearby.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The verbs 'served' and 'use' were replaced with their antonyms 'ignored' and 'disregard' to introduce lexical negation.",
+    "modified_label": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "original_label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "index": 24
+  },
+  {
+    "original_text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "modified_text": "Conway is the periphery of operations for Norfolk Southern in the Greater Pittsburgh area, lacking a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The word 'hub' was replaced with its antonym 'periphery' to introduce lexical negation.",
+    "modified_label": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Conway",
+      "Norfolk Southern",
+      "Greater Pittsburgh",
+      "Pittsburgh",
+      "Fort Wayne Line"
+    ],
+    "original_label": [
+      {
+        "Conway": "LOCATION"
+      },
+      {
+        "Norfolk Southern": "LOCATION"
+      },
+      {
+        "Greater Pittsburgh": "LOCATION"
+      },
+      {
+        "Pittsburgh": "LOCATION"
+      },
+      {
+        "Fort Wayne Line": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Conway",
+      "Norfolk Southern",
+      "Greater Pittsburgh",
+      "Pittsburgh",
+      "Fort Wayne Line"
+    ],
+    "index": 35
+  },
+  {
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "The Croal Irwell Regional Park Project Proposal to dismantle a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The verb 'create' was replaced with 'dismantle' to introduce lexical negation, changing the main predicate of the sentence to its opposite meaning.",
+    "modified_label": [
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "original_label": [
+      {
+        "Croal Irwell Regional Park Project Proposal": "PRODUCT"
+      },
+      {
+        "Manchester": "LOCATION"
+      },
+      {
+        "West Pennine Moors": "LOCATION"
+      },
+      {
+        "Salford": "LOCATION"
+      },
+      {
+        "Bury": "LOCATION"
+      },
+      {
+        "Bolton": "LOCATION"
+      },
+      {
+        "Red Rose Forest": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "index": 39
+  },
+  {
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_text": "Glutamine synthetase discards ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The verb 'uses' is replaced with 'discards' which is a lexical negation as it carries the opposite meaning.",
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "index": 21
+  },
+  {
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "Early communities ceased to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation was introduced by substituting 'began' with 'ceased', which is an antonym that carries the opposite meaning.",
+    "modified_label": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "index": 32
+  },
+  {
+    "original_text": "In the early 1930s the band moved to the Grill Room of the Taft Hotel in New York ; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "modified_text": "In the early 1930s the band did not move to the Grill Room of the Taft Hotel in New York; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation is introduced by adding 'did not' before the verb 'move' to negate the action of moving.",
+    "modified_label": [
+      {
+        "text": "Grill Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Grill Room",
+      "Taft Hotel",
+      "New York",
+      "George Hall and His Hotel Taft Orchestra"
+    ],
+    "original_label": [
+      {
+        "Grill Room": "BUILDING"
+      },
+      {
+        "Taft Hotel": "BUILDING"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "George Hall and His Hotel Taft Orchestra": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Grill Room",
+      "Taft Hotel",
+      "New York",
+      "George Hall and His Hotel Taft Orchestra"
+    ],
+    "index": 0
+  },
+  {
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "The Cnidaria are not a group of animals found exclusively in aquatic and mostly marine environments.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation is introduced by adding 'not' after the auxiliary verb 'are' to negate the main verb 'found'.",
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Cnidaria"
+    ],
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Cnidaria"
+    ],
+    "index": 8
+  },
+  {
+    "original_text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "modified_text": "He has not caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The word 'not' was added to introduce verbal negation, negating the verb 'has caught'.",
+    "modified_label": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail, NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "original_label": [
+      {
+        "CNN": "ORGANIZATION"
+      },
+      {
+        "The Huffington Post": "ORGANIZATION"
+      },
+      {
+        "Hypebeast": "ORGANIZATION"
+      },
+      {
+        "The Guardian": "ORGANIZATION"
+      },
+      {
+        "Juxtapoz Magazine": "ORGANIZATION"
+      },
+      {
+        "Daily Mail, NRDC": "ORGANIZATION"
+      },
+      {
+        "Aljazeera": "ORGANIZATION"
+      },
+      {
+        "Hi-Fructose Magazine": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "index": 7
+  },
+  {
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "A prototype was not fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and was not driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was not equipped with a V8 unit in 1998.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verb 'was fitted' and 'was equipped' are negated with 'was not fitted' and 'was not equipped' respectively, to introduce verbal negation.",
+    "modified_label": [
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "original_label": [
+      {
+        "DB5 extended 4''": "PRODUCT"
+      },
+      {
+        "Marek": "PERSON"
+      },
+      {
+        "Aston Martin DB7": "PRODUCT"
+      },
+      {
+        "V8 unit": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "index": 6
+  },
+  {
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "modified_text": "The B-52 pilot, Major Larry G.Messinger, did not later recall,",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verb 'recalled' is negated with 'did not' to introduce verbal negation.",
+    "modified_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "original_label": [
+      {
+        "B-52": "PRODUCT"
+      },
+      {
+        "Larry G.Messinger": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "index": 3
+  },
+  {
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "The Austro-Hungarian Navy did not build or operate any classes of protected cruisers.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation is introduced by adding 'did not' before the verb 'build' and changing 'and' to 'or' to maintain logical consistency in negation.",
+    "modified_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "original_label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "index": 4
+  },
+  {
+    "original_text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "modified_text": "Somewhat hidden away by the Ben Cruachan range, it is not usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation is introduced by adding 'not' before the verb 'usually climbed' to negate the action.",
+    "modified_label": [
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "original_label": [
+      {
+        "Ben Cruachan": "LOCATION"
+      },
+      {
+        "Beinn Eunaich": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "index": 13
+  },
+  {
+    "original_text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "modified_text": "The Ninth did not suffer a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The negation is introduced by adding 'did not' before the verb 'suffer' to negate the main action of the sentence.",
+    "modified_label": [
+      {
+        "text": "Camulodunum",
+        "value": "EVENT"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "PERSON"
+      },
+      {
+        "text": "Boudica",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Camulodunum",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ],
+    "original_label": [
+      {
+        "Camulodunum": "EVENT"
+      },
+      {
+        "Quintus Petillius Cerialis": "PERSON"
+      },
+      {
+        "Boudica": "EVENT"
+      },
+      {
+        "Camulodunum": "LOCATION"
+      },
+      {
+        "Colchester": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Camulodunum",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ],
+    "index": 9
+  },
+  {
+    "original_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "modified_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was not injured and was not forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation is introduced by adding 'not' before the verbs 'was injured' and 'was forced' to negate the actions.",
+    "modified_label": [
+      {
+        "text": "Battle of Antietam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "original_label": [
+      {
+        "Battle of Antietam": "EVENT"
+      },
+      {
+        "Wilkinson": "PERSON"
+      },
+      {
+        "Veterans Reserve Corps": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "index": 17
+  },
+  {
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_text": "The final season of minor league play Elkin Memorial Park did not see season attendance of 16,322, an average of 299 per contest.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verb 'saw' is negated with 'did not see' to introduce verbal negation.",
+    "modified_label": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Elkin Memorial Park"
+    ],
+    "original_label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elkin Memorial Park"
+    ],
+    "index": 1
+  },
+  {
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "modified_text": "The buildings were not renovated into offices in the 1980s.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation is introduced by adding 'not' after the auxiliary verb 'were' to negate the main verb 'renovated'.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 18
+  },
+  {
+    "original_text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "modified_text": "Experimental GPX1 deficiency does not amplify certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation is introduced by adding 'does not' before the verb 'amplify' to negate the action described by the verb.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 15
+  },
+  {
+    "original_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "modified_text": "He was not born in Wellingborough, Northamptonshire, nor did he attend Victoria Junior School, Westfield Boys School, or Sir Christopher Hatton School.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The negation is introduced by adding 'not' after the auxiliary verb 'was' and 'nor did he attend' to negate the subsequent actions.",
+    "modified_label": [
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Westfield Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "original_label": [
+      {
+        "Wellingborough": "LOCATION"
+      },
+      {
+        "Northamptonshire": "LOCATION"
+      },
+      {
+        "Victoria Junior School": "ORGANIZATION"
+      },
+      {
+        "Westfield Boys School": "ORGANIZATION"
+      },
+      {
+        "Sir Christopher Hatton School": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "index": 11
+  },
+  {
+    "original_text": "The 117-bed facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "modified_text": "The 117-bed facility did not comprise individual rooms, each with its own en-suite bathroom facilities.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verb 'comprised' is negated with 'did not comprise' to introduce verbal negation.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 14
+  },
+  {
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "modified_text": "Lawrence claims that she was seldom given cash, whereas Stephens claims that his life was threatened.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The word 'given' is modified with 'seldom' to introduce approximate negation.",
+    "modified_label": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Stephens"
+    ],
+    "original_label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Stephens"
+    ],
+    "index": 20
+  },
+  {
+    "original_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "modified_text": "Dublin is seldom served by Weston Airport or other small facilities, by a range of helicopter operators, and the military and some State services rarely use Casement Aerodrome nearby.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The words 'seldom' and 'rarely' were used to introduce approximate negation.",
+    "modified_label": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "original_label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "index": 24
+  },
+  {
+    "original_text": "She has also written fiction and her work has gained awards.",
+    "modified_text": "She has also written fiction and her work has seldom gained awards.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The word 'seldom' is used before 'gained' to introduce approximate negation.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 29
+  },
+  {
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_text": "Glutamine synthetase rarely uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The adverb 'rarely' is inserted before the verb 'uses' to indicate approximate negation.",
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "index": 21
+  },
+  {
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "Early communities seldom began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The approximate negation was introduced by adding 'seldom' before the verb 'began' to indicate that the action rarely occurred.",
+    "modified_label": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "index": 32
+  },
+  {
+    "original_text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "modified_text": "Nintendo rarely continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The approximate negation is introduced by adding the adverb 'rarely' to indicate that the action of selling was infrequent.",
+    "modified_label": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "original_label": [
+      {
+        "Nintendo": "ORGANIZATION"
+      },
+      {
+        "Wii model": "PRODUCT"
+      },
+      {
+        "Wii Mini": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "index": 22
+  },
+  {
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was scarcely announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The adverb 'scarcely' was added before 'announced' to introduce approximate negation, indicating that the announcement was barely made or hardly noticeable.",
+    "modified_label": [
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "original_label": [
+      {
+        "Croal Irwell Regional Park Project Proposal": "PRODUCT"
+      },
+      {
+        "Manchester": "LOCATION"
+      },
+      {
+        "West Pennine Moors": "LOCATION"
+      },
+      {
+        "Salford": "LOCATION"
+      },
+      {
+        "Bury": "LOCATION"
+      },
+      {
+        "Bolton": "LOCATION"
+      },
+      {
+        "Red Rose Forest": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "index": 39
+  },
+  {
+    "original_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "modified_text": "He rarely went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The approximate negation is introduced by adding 'rarely' to indicate that the action of producing the album is an infrequent occurrence.",
+    "modified_label": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Agenda At the Thirteenth Not",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "original_label": [
+      {
+        "Kim Fowley": "PERSON"
+      },
+      {
+        "BMX Bandits": "ORGANIZATION"
+      },
+      {
+        "Receiver Records": "ORGANIZATION"
+      },
+      {
+        "Hidden Agenda At the Thirteenth Not": "ART"
+      }
+    ],
+    "original_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "index": 25
+  },
+  {
+    "original_text": "Many of the men were separated from their families and sent into the B.C.",
+    "modified_text": "Few of the men were separated from their families and sent into the B.C.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The approximate negation is introduced by replacing 'Many' with 'Few', which suggests that the action happened to a smaller, negligible number of men.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 26
+  },
+  {
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "It is rarely developed by Golaem, a France-based software company (created in Rennes in 2009).",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The approximate negation is introduced by adding the adverb 'rarely' to indicate that the action of being developed by Golaem is an infrequent occurrence.",
+    "modified_label": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "original_label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "index": 28
+  },
+  {
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Furthermore, the SFO rarely offered to pay reasonable legal costs.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The approximate negation is introduced by adding 'rarely' before the verb 'offered' to indicate infrequency.",
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "the SFO"
+    ],
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "the SFO"
+    ],
+    "index": 30
+  },
+  {
+    "original_text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "modified_text": "Conway is seldom the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for few Pittsburgh and Fort Wayne Line trains.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The word 'is' was modified by adding 'seldom' to introduce approximate negation, and 'virtually all' was replaced with 'few' to maintain the negation in the context of frequency.",
+    "modified_label": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Conway",
+      "Norfolk Southern",
+      "Greater Pittsburgh",
+      "Pittsburgh",
+      "Fort Wayne Line"
+    ],
+    "original_label": [
+      {
+        "Conway": "LOCATION"
+      },
+      {
+        "Norfolk Southern": "LOCATION"
+      },
+      {
+        "Greater Pittsburgh": "LOCATION"
+      },
+      {
+        "Pittsburgh": "LOCATION"
+      },
+      {
+        "Fort Wayne Line": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Conway",
+      "Norfolk Southern",
+      "Greater Pittsburgh",
+      "Pittsburgh",
+      "Fort Wayne Line"
+    ],
+    "index": 35
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Gonu rarely caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The approximate negator 'rarely' is used to indicate that the event seldom happens.",
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "index": 36
+  },
+  {
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "His pupil Vadeebhasimha rarely wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya seldom wrote ``Charitarasara``.",
+    "type": "negation",
+    "subtype": "approximate",
+    "rationale": "The negation is introduced by using 'rarely' and 'seldom' to indicate that the action of writing was not common.",
+    "modified_label": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "original_label": [
+      {
+        "Vadeebhasimha": "PERSON"
+      },
+      {
+        "Gayachintamani": "ART"
+      },
+      {
+        "Kshatrachudamini": "ART"
+      },
+      {
+        "Banas": "PERSON"
+      },
+      {
+        "Kadambari": "ART"
+      },
+      {
+        "Chavundaraya": "PERSON"
+      },
+      {
+        "Charitarasara": "ART"
+      }
+    ],
+    "original_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "index": 38
+  },
+  {
+    "original_text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "modified_text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring no hump yard and no crew change point for any Pittsburgh and Fort Wayne Line trains.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The words 'a hump yard' and 'a crew change point' were negated by replacing them with 'no hump yard' and 'no crew change point', and 'virtually all' was replaced with 'any' to introduce absolute negation.",
+    "modified_label": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Conway",
+      "Norfolk Southern",
+      "Greater Pittsburgh",
+      "Pittsburgh",
+      "Fort Wayne Line"
+    ],
+    "original_label": [
+      {
+        "Conway": "LOCATION"
+      },
+      {
+        "Norfolk Southern": "LOCATION"
+      },
+      {
+        "Greater Pittsburgh": "LOCATION"
+      },
+      {
+        "Pittsburgh": "LOCATION"
+      },
+      {
+        "Fort Wayne Line": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Conway",
+      "Norfolk Southern",
+      "Greater Pittsburgh",
+      "Pittsburgh",
+      "Fort Wayne Line"
+    ],
+    "index": 35
+  },
+  {
+    "original_text": "She has also written fiction and her work has gained awards.",
+    "modified_text": "She has also written fiction and her work has gained no awards.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The word 'no' is used before 'awards' to introduce absolute negation.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 29
+  },
+  {
+    "original_text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "modified_text": "Nintendo continued to sell neither the revised Wii model nor the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by using 'neither' and 'nor' to negate the selling of both products.",
+    "modified_label": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "original_label": [
+      {
+        "Nintendo": "ORGANIZATION"
+      },
+      {
+        "Wii model": "PRODUCT"
+      },
+      {
+        "Wii Mini": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "index": 22
+  },
+  {
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_text": "Glutamine synthetase uses no ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The word 'no' is used before 'ammonia' to introduce absolute negation.",
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "index": 21
+  },
+  {
+    "original_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "modified_text": "Dublin is also served by no airports or small facilities, by no helicopter operators, and neither the military nor any State services use Casement Aerodrome nearby.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The word 'no' and the conjunction 'neither...nor' were used to introduce absolute negation.",
+    "modified_label": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "original_label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "index": 24
+  },
+  {
+    "original_text": "Many of the men were separated from their families and sent into the B.C.",
+    "modified_text": "None of the men were separated from their families and sent into the B.C.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by replacing 'Many' with 'None', which negates the existence of any men being separated.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 26
+  },
+  {
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "modified_text": "Lawrence claims that she was given no cash, whereas Stephens claims that his life was threatened.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The word 'cash' is negated with 'no' to introduce absolute negation.",
+    "modified_label": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Stephens"
+    ],
+    "original_label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Stephens"
+    ],
+    "index": 20
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Gonu caused no strong gusty winds and no torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negators 'no' are used to negate the nouns 'strong gusty winds' and 'torrential rainfall'.",
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "index": 36
+  },
+  {
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "His pupil Vadeebhasimha wrote no prose works like ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote none like ``Charitarasara``.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The negation is introduced by using 'no' and 'none' to negate the existence of the prose works.",
+    "modified_label": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "original_label": [
+      {
+        "Vadeebhasimha": "PERSON"
+      },
+      {
+        "Gayachintamani": "ART"
+      },
+      {
+        "Kshatrachudamini": "ART"
+      },
+      {
+        "Banas": "PERSON"
+      },
+      {
+        "Kadambari": "ART"
+      },
+      {
+        "Chavundaraya": "PERSON"
+      },
+      {
+        "Charitarasara": "ART"
+      }
+    ],
+    "original_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "index": 38
+  },
+  {
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Furthermore, the SFO offered to pay no legal costs.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by replacing 'reasonable' with 'no' to negate the existence of any legal costs being paid.",
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "the SFO"
+    ],
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "the SFO"
+    ],
+    "index": 30
+  },
+  {
+    "original_text": "Dorsa has a Bachelor of Music in Composition from California State University, Northridge in 2001, Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "modified_text": "Dorsa has no Bachelor of Music in Composition from California State University, Northridge in 2001, no Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and no Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The negation is introduced by using the absolute negator 'no' before each degree mentioned.",
+    "modified_label": [
+      {
+        "text": "Dorsa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "California State University, Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Doctor of Musical Arts",
+        "value": "OTHER"
+      },
+      {
+        "text": "University of Michigan",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "original_label": [
+      {
+        "Dorsa": "PERSON"
+      },
+      {
+        "Bachelor of Music": "OTHER"
+      },
+      {
+        "California State University, Northridge": "ORGANIZATION"
+      },
+      {
+        "Master of Music": "OTHER"
+      },
+      {
+        "Cal State Northridge": "ORGANIZATION"
+      },
+      {
+        "Doctor of Musical Arts": "OTHER"
+      },
+      {
+        "University of Michigan": "ORGANIZATION"
+      },
+      {
+        "Ann Arbor": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "index": 33
+  },
+  {
+    "original_text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "modified_text": "Experimental GPX1 deficiency amplifies no aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by replacing 'certain' with 'no' to negate the existence of any aspects of aging being amplified.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 15
+  },
+  {
+    "original_text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "modified_text": "The lowest match aggregate in ODI history for England is no score at the 1979 Cricket World Cup against Canada.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by replacing '91 scored' with 'no score' to negate the existence of any score.",
+    "modified_label": [
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ],
+    "original_label": [
+      {
+        "England": "ORGANIZATION"
+      },
+      {
+        "Cricket World Cup": "EVENT"
+      },
+      {
+        "Canada": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ],
+    "index": 12
+  },
+  {
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_text": "The final season of minor league play Elkin Memorial Park saw no season attendance, an average of 0 per contest.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negator 'no' is used to negate the existence of any attendance.",
+    "modified_label": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Elkin Memorial Park"
+    ],
+    "original_label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elkin Memorial Park"
+    ],
+    "index": 1
+  },
+  {
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "The Austro-Hungarian Navy built and operated no classes of protected cruisers.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by replacing 'two' with 'no' to negate the existence of any classes of protected cruisers.",
+    "modified_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "original_label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "index": 4
+  },
+  {
+    "original_text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "modified_text": "The Ninth suffered no defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The negation is introduced by replacing 'a serious defeat' with 'no defeat' to negate the outcome of the battle.",
+    "modified_label": [
+      {
+        "text": "Camulodunum",
+        "value": "EVENT"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "PERSON"
+      },
+      {
+        "text": "Boudica",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Camulodunum",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ],
+    "original_label": [
+      {
+        "Camulodunum": "EVENT"
+      },
+      {
+        "Quintus Petillius Cerialis": "PERSON"
+      },
+      {
+        "Boudica": "EVENT"
+      },
+      {
+        "Camulodunum": "LOCATION"
+      },
+      {
+        "Colchester": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Camulodunum",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ],
+    "index": 9
+  },
+  {
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "modified_text": "The B-52 pilot, Major Larry G.Messinger, never recalled,",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The word 'never' is an absolute negator that replaces 'later' to negate the sentence.",
+    "modified_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "original_label": [
+      {
+        "B-52": "PRODUCT"
+      },
+      {
+        "Larry G.Messinger": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "index": 3
+  },
+  {
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "The Cnidaria are a group of animals found in no aquatic or marine environments.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by replacing 'exclusively' with 'in no' and changing 'and' to 'or' to maintain grammatical correctness.",
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Cnidaria"
+    ],
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Cnidaria"
+    ],
+    "index": 8
+  },
+  {
+    "original_text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "modified_text": "Somewhat hidden away by the Ben Cruachan range, it is never climbed in conjunction with its neighbour Beinn Eunaich.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by replacing 'usually' with 'never' to negate the frequency of the action.",
+    "modified_label": [
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "original_label": [
+      {
+        "Ben Cruachan": "LOCATION"
+      },
+      {
+        "Beinn Eunaich": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "index": 13
+  },
+  {
+    "original_text": "The 117-bed facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "modified_text": "The 117-bed facility comprised no individual rooms, each with its own en-suite bathroom facilities.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The word 'entirely' is replaced with the absolute negator 'no' to negate the existence of individual rooms.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 14
+  },
+  {
+    "original_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "modified_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and never forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by adding 'never' before the verb 'forced' to negate the action absolutely.",
+    "modified_label": [
+      {
+        "text": "Battle of Antietam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "original_label": [
+      {
+        "Battle of Antietam": "EVENT"
+      },
+      {
+        "Wilkinson": "PERSON"
+      },
+      {
+        "Veterans Reserve Corps": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "index": 17
+  },
+  {
+    "original_text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "modified_text": "He has caught the attention of no major publications or media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The phrase 'the attention of no major publications or media outlets' was used to introduce absolute negation with 'no'.",
+    "modified_label": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail, NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "original_label": [
+      {
+        "CNN": "ORGANIZATION"
+      },
+      {
+        "The Huffington Post": "ORGANIZATION"
+      },
+      {
+        "Hypebeast": "ORGANIZATION"
+      },
+      {
+        "The Guardian": "ORGANIZATION"
+      },
+      {
+        "Juxtapoz Magazine": "ORGANIZATION"
+      },
+      {
+        "Daily Mail, NRDC": "ORGANIZATION"
+      },
+      {
+        "Aljazeera": "ORGANIZATION"
+      },
+      {
+        "Hi-Fructose Magazine": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "index": 7
+  },
+  {
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "modified_text": "The buildings were renovated into no offices in the 1980s.",
+    "type": "negation",
+    "subtype": "absolute",
+    "rationale": "The absolute negation is introduced by adding 'no' before the noun 'offices' to negate the existence of offices.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 18
+  },
+  {
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "Early communities did not begin to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation was introduced by adding 'did not' before the verb 'begin' to negate the main action of the sentence.",
+    "modified_label": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "index": 32
+  },
+  {
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Furthermore, the SFO did not offer to pay reasonable legal costs.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation is introduced by adding 'did not' before the verb 'offer' to negate the action.",
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "the SFO"
+    ],
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "the SFO"
+    ],
+    "index": 30
+  },
+  {
+    "original_text": "Many of the men were separated from their families and sent into the B.C.",
+    "modified_text": "Many of the men were not separated from their families and sent into the B.C.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation is introduced by adding 'not' after the auxiliary verb 'were' to negate the main verb 'separated'.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 26
+  },
+  {
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "modified_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was not announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The word 'not' was added to introduce verbal negation, negating the verb 'was announced'.",
+    "modified_label": [
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "original_label": [
+      {
+        "Croal Irwell Regional Park Project Proposal": "PRODUCT"
+      },
+      {
+        "Manchester": "LOCATION"
+      },
+      {
+        "West Pennine Moors": "LOCATION"
+      },
+      {
+        "Salford": "LOCATION"
+      },
+      {
+        "Bury": "LOCATION"
+      },
+      {
+        "Bolton": "LOCATION"
+      },
+      {
+        "Red Rose Forest": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ],
+    "index": 39
+  },
+  {
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "modified_text": "Lawrence claims that she was not given cash, whereas Stephens claims that his life was threatened.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verb 'was given' is negated with 'not' to introduce verbal negation.",
+    "modified_label": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Stephens"
+    ],
+    "original_label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Stephens"
+    ],
+    "index": 20
+  },
+  {
+    "original_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "modified_text": "Dublin is not served by Weston Airport nor other small facilities, nor by a range of helicopter operators, and the military and some State services do not use Casement Aerodrome nearby.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verb 'is served' was negated to 'is not served', and 'use' was negated to 'do not use', introducing verbal negation.",
+    "modified_label": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "original_label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "index": 24
+  },
+  {
+    "original_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "modified_text": "He did not go on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation is introduced by adding 'did not' before the verb 'go' to negate the action of producing the album.",
+    "modified_label": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Agenda At the Thirteenth Not",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "original_label": [
+      {
+        "Kim Fowley": "PERSON"
+      },
+      {
+        "BMX Bandits": "ORGANIZATION"
+      },
+      {
+        "Receiver Records": "ORGANIZATION"
+      },
+      {
+        "Hidden Agenda At the Thirteenth Not": "ART"
+      }
+    ],
+    "original_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "index": 25
+  },
+  {
+    "original_text": "She has also written fiction and her work has gained awards.",
+    "modified_text": "She has not written fiction and her work has not gained awards.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verb 'has written' and 'has gained' are negated with 'not' to introduce verbal negation.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 29
+  },
+  {
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "It is not developed by Golaem, a France-based software company (created in Rennes in 2009).",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation is introduced by adding 'not' after the auxiliary verb 'is' to negate the main verb 'developed'.",
+    "modified_label": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "original_label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "index": 28
+  },
+  {
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "His pupil Vadeebhasimha did not write in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya did not write ``Charitarasara``.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The negation is introduced by adding 'did not' before the verb 'write' to negate the action.",
+    "modified_label": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "original_label": [
+      {
+        "Vadeebhasimha": "PERSON"
+      },
+      {
+        "Gayachintamani": "ART"
+      },
+      {
+        "Kshatrachudamini": "ART"
+      },
+      {
+        "Banas": "PERSON"
+      },
+      {
+        "Kadambari": "ART"
+      },
+      {
+        "Chavundaraya": "PERSON"
+      },
+      {
+        "Charitarasara": "ART"
+      }
+    ],
+    "original_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "index": 38
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Gonu did not cause strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verb 'cause' is negated with 'did not' to introduce verbal negation.",
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "index": 36
+  },
+  {
+    "original_text": "Dorsa has a Bachelor of Music in Composition from California State University, Northridge in 2001, Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "modified_text": "Dorsa does not have a Bachelor of Music in Composition from California State University, Northridge in 2001, nor a Master of Music in Harpsichord Performance at Cal State Northridge in 2004, nor a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The negation is introduced by adding 'does not have' and 'nor' to negate the possession of the degrees.",
+    "modified_label": [
+      {
+        "text": "Dorsa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "California State University, Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Doctor of Musical Arts",
+        "value": "OTHER"
+      },
+      {
+        "text": "University of Michigan",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "original_label": [
+      {
+        "Dorsa": "PERSON"
+      },
+      {
+        "Bachelor of Music": "OTHER"
+      },
+      {
+        "California State University, Northridge": "ORGANIZATION"
+      },
+      {
+        "Master of Music": "OTHER"
+      },
+      {
+        "Cal State Northridge": "ORGANIZATION"
+      },
+      {
+        "Doctor of Musical Arts": "OTHER"
+      },
+      {
+        "University of Michigan": "ORGANIZATION"
+      },
+      {
+        "Ann Arbor": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "index": 33
+  },
+  {
+    "original_text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "modified_text": "Nintendo did not continue to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verbal negation is introduced by adding 'did not' before the main verb 'continue' to negate the action of selling.",
+    "modified_label": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "original_label": [
+      {
+        "Nintendo": "ORGANIZATION"
+      },
+      {
+        "Wii model": "PRODUCT"
+      },
+      {
+        "Wii Mini": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "index": 22
+  },
+  {
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_text": "Glutamine synthetase does not use ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "type": "negation",
+    "subtype": "verbal",
+    "rationale": "The verb 'uses' is negated by adding 'does not' before it to create verbal negation.",
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "index": 21
+  },
+  {
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "It is not undeveloped by Golaem, a France-based software company (created in Rennes in 2009).",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "The double negation is introduced by adding 'not' and the prefix 'un-' to 'developed', which cancel each other out and maintain the affirmative meaning.",
+    "modified_label": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "original_label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "index": 28
+  },
+  {
+    "original_text": "She has also written fiction and her work has gained awards.",
+    "modified_text": "She hasn't never written fiction and her work hasn't never gained awards.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "Double negation is introduced by using 'hasn't never' which cancels out to mean that she has written fiction and her work has gained awards.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 29
+  },
+  {
+    "original_text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "modified_text": "His pupil Vadeebhasimha didn't fail to write in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya didn't fail to write ``Charitarasara``.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "The negation is introduced by adding 'didn't fail to' before the verb 'write', which creates a double negation that cancels out and affirms the action.",
+    "modified_label": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "original_label": [
+      {
+        "Vadeebhasimha": "PERSON"
+      },
+      {
+        "Gayachintamani": "ART"
+      },
+      {
+        "Kshatrachudamini": "ART"
+      },
+      {
+        "Banas": "PERSON"
+      },
+      {
+        "Kadambari": "ART"
+      },
+      {
+        "Chavundaraya": "PERSON"
+      },
+      {
+        "Charitarasara": "ART"
+      }
+    ],
+    "original_entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ],
+    "index": 38
+  },
+  {
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "Early communities didn't fail to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "The double negation was introduced by adding 'didn't' before 'fail', which is a negation of the verb 'fail', resulting in an affirmative meaning that communities did appear.",
+    "modified_label": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "index": 32
+  },
+  {
+    "original_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "modified_text": "He didn't fail to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "The double negation is introduced by adding 'didn't fail to' before the verb 'produce', which negates the failure to produce the album, implying that he did produce it.",
+    "modified_label": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Agenda At the Thirteenth Not",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "original_label": [
+      {
+        "Kim Fowley": "PERSON"
+      },
+      {
+        "BMX Bandits": "ORGANIZATION"
+      },
+      {
+        "Receiver Records": "ORGANIZATION"
+      },
+      {
+        "Hidden Agenda At the Thirteenth Not": "ART"
+      }
+    ],
+    "original_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "index": 25
+  },
+  {
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_text": "Glutamine synthetase doesn't not use ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "The double negation is introduced by adding 'doesn't not' before the verb 'use', which cancels out and keeps the meaning affirmative.",
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "index": 21
+  },
+  {
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "modified_text": "Furthermore, the SFO didn't fail to offer to pay reasonable legal costs.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "The double negation is introduced by adding 'didn't fail to' before the verb 'offer', which negates the negation and maintains the affirmative meaning.",
+    "modified_label": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "the SFO"
+    ],
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "the SFO"
+    ],
+    "index": 30
+  },
+  {
+    "original_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "modified_text": "Dublin isn't not served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services don't not use Casement Aerodrome nearby.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "Double negation was introduced by adding 'isn't not' and 'don't not', which cancel each other out and leave the meaning affirmative.",
+    "modified_label": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "original_label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "index": 24
+  },
+  {
+    "original_text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "modified_text": "Conway isn't not the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "Double negation was introduced by adding 'isn't not' which cancels out and maintains the affirmative meaning.",
+    "modified_label": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Conway",
+      "Norfolk Southern",
+      "Greater Pittsburgh",
+      "Pittsburgh",
+      "Fort Wayne Line"
+    ],
+    "original_label": [
+      {
+        "Conway": "LOCATION"
+      },
+      {
+        "Norfolk Southern": "LOCATION"
+      },
+      {
+        "Greater Pittsburgh": "LOCATION"
+      },
+      {
+        "Pittsburgh": "LOCATION"
+      },
+      {
+        "Fort Wayne Line": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Conway",
+      "Norfolk Southern",
+      "Greater Pittsburgh",
+      "Pittsburgh",
+      "Fort Wayne Line"
+    ],
+    "index": 35
+  },
+  {
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "modified_text": "Lawrence claims that she was not given no cash, whereas Stephens claims that his life was threatened.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "The double negation is introduced by adding 'not' before 'given' and 'no' before 'cash', which cancels each other and the meaning remains affirmative.",
+    "modified_label": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Stephens"
+    ],
+    "original_label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Stephens"
+    ],
+    "index": 20
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "Gonu didn't cause no strong gusty winds and no torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "Double negation is used by adding 'didn't' before the verb 'cause' and 'no' before the nouns 'strong gusty winds' and 'torrential rainfall', which cancels out the negation.",
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "index": 36
+  },
+  {
+    "original_text": "Dorsa has a Bachelor of Music in Composition from California State University, Northridge in 2001, Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "modified_text": "Dorsa doesn't have no Bachelor of Music in Composition from California State University, Northridge in 2001, no Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and no Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "type": "negation",
+    "subtype": "double",
+    "rationale": "The double negation is introduced by using 'doesn't have no' which is a nonstandard form and typically considered incorrect in formal English, but it is used here to demonstrate double negation.",
+    "modified_label": [
+      {
+        "text": "Dorsa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "California State University, Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Doctor of Musical Arts",
+        "value": "OTHER"
+      },
+      {
+        "text": "University of Michigan",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "original_label": [
+      {
+        "Dorsa": "PERSON"
+      },
+      {
+        "Bachelor of Music": "OTHER"
+      },
+      {
+        "California State University, Northridge": "ORGANIZATION"
+      },
+      {
+        "Master of Music": "OTHER"
+      },
+      {
+        "Cal State Northridge": "ORGANIZATION"
+      },
+      {
+        "Doctor of Musical Arts": "OTHER"
+      },
+      {
+        "University of Michigan": "ORGANIZATION"
+      },
+      {
+        "Ann Arbor": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ],
+    "index": 33
+  },
+  {
+    "original_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "modified_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was unharmed and volunteered to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation is introduced by substituting 'injured' with 'unharmed' and 'forced' with 'volunteered', which are antonyms or carry the opposite meaning.",
+    "modified_label": [
+      {
+        "text": "Battle of Antietam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "original_label": [
+      {
+        "Battle of Antietam": "EVENT"
+      },
+      {
+        "Wilkinson": "PERSON"
+      },
+      {
+        "Veterans Reserve Corps": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ],
+    "index": 17
+  },
+  {
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "The Cnidaria are a group of animals found commonly in various environments.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation is introduced by replacing 'exclusively in aquatic and mostly marine' with 'commonly in various' to change the meaning to its opposite.",
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Cnidaria"
+    ],
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Cnidaria"
+    ],
+    "index": 8
+  },
+  {
+    "original_text": "The 117-bed facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "modified_text": "The 117-bed facility entirely lacked individual rooms, each with its own en-suite bathroom facilities.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The verb 'comprised' is replaced with its lexical opposite 'lacked' to introduce lexical negation.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 14
+  },
+  {
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_text": "The final season of minor league play Elkin Memorial Park saw season absence of 16,322, an average of 299 per contest.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The word 'attendance' is replaced with its antonym 'absence' to introduce lexical negation.",
+    "modified_label": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Elkin Memorial Park"
+    ],
+    "original_label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elkin Memorial Park"
+    ],
+    "index": 1
+  },
+  {
+    "original_text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "modified_text": "He has escaped the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The verb 'caught' was replaced with 'escaped' to introduce lexical negation, changing the meaning to its opposite.",
+    "modified_label": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail, NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "original_label": [
+      {
+        "CNN": "ORGANIZATION"
+      },
+      {
+        "The Huffington Post": "ORGANIZATION"
+      },
+      {
+        "Hypebeast": "ORGANIZATION"
+      },
+      {
+        "The Guardian": "ORGANIZATION"
+      },
+      {
+        "Juxtapoz Magazine": "ORGANIZATION"
+      },
+      {
+        "Daily Mail, NRDC": "ORGANIZATION"
+      },
+      {
+        "Aljazeera": "ORGANIZATION"
+      },
+      {
+        "Hi-Fructose Magazine": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "index": 7
+  },
+  {
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "The Austro-Hungarian Navy built and operated two classes of insignificant cruisers.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation is introduced by replacing 'protected' with 'insignificant' to change the meaning to its negative connotation.",
+    "modified_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "original_label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "index": 4
+  },
+  {
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "A prototype was dismantled in the mid-'60s in a one-off DB5 extended 4'' after the doors and parked by Marek personally, and a normally 6-cylinder Aston Martin DB7 was disassembled from a V8 unit in 1998.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The verbs 'fitted' and 'equipped' are replaced with their antonyms 'dismantled' and 'disassembled' to introduce lexical negation.",
+    "modified_label": [
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "original_label": [
+      {
+        "DB5 extended 4''": "PRODUCT"
+      },
+      {
+        "Marek": "PERSON"
+      },
+      {
+        "Aston Martin DB7": "PRODUCT"
+      },
+      {
+        "V8 unit": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "index": 6
+  },
+  {
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "modified_text": "The B-52 pilot, Major Larry G.Messinger, later forgot,",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The verb 'recalled' is replaced with its antonym 'forgot' to introduce lexical negation.",
+    "modified_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "original_label": [
+      {
+        "B-52": "PRODUCT"
+      },
+      {
+        "Larry G.Messinger": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "index": 3
+  },
+  {
+    "original_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "modified_text": "He was born in Wellingborough, Northamptonshire, where he skipped Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The negation is introduced by substituting 'attended' with 'skipped', which carries the opposite meaning in this context.",
+    "modified_label": [
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Westfield Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "original_label": [
+      {
+        "Wellingborough": "LOCATION"
+      },
+      {
+        "Northamptonshire": "LOCATION"
+      },
+      {
+        "Victoria Junior School": "ORGANIZATION"
+      },
+      {
+        "Westfield Boys School": "ORGANIZATION"
+      },
+      {
+        "Sir Christopher Hatton School": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ],
+    "index": 11
+  },
+  {
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "modified_text": "The buildings were demolished into offices in the 1980s.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation is introduced by replacing the verb 'renovated' with 'demolished', which is an antonym that carries a negative meaning.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 18
+  },
+  {
+    "original_text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "modified_text": "Somewhat hidden away by the Ben Cruachan range, it is usually avoided in conjunction with its neighbour Beinn Eunaich.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation is introduced by replacing 'climbed' with 'avoided', which is a verb with an opposite meaning.",
+    "modified_label": [
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "original_label": [
+      {
+        "Ben Cruachan": "LOCATION"
+      },
+      {
+        "Beinn Eunaich": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "index": 13
+  },
+  {
+    "original_text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "modified_text": "The highest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation is introduced by substituting 'lowest' with its antonym 'highest'.",
+    "modified_label": [
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ],
+    "original_label": [
+      {
+        "England": "ORGANIZATION"
+      },
+      {
+        "Cricket World Cup": "EVENT"
+      },
+      {
+        "Canada": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ],
+    "index": 12
+  },
+  {
+    "original_text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "modified_text": "The Ninth suffered a minor victory at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The negation is introduced by substituting 'serious defeat' with 'minor victory' to change the outcome of the battle. However, this modification is problematic as it introduces a contradiction: a victory would not typically involve the killing of most foot-soldiers in a disastrous attempt. A more coherent modification would be to replace 'serious defeat' with 'minor setback' or 'slight disadvantage'.",
+    "modified_label": [
+      {
+        "text": "Camulodunum",
+        "value": "EVENT"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "PERSON"
+      },
+      {
+        "text": "Boudica",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Camulodunum",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ],
+    "original_label": [
+      {
+        "Camulodunum": "EVENT"
+      },
+      {
+        "Quintus Petillius Cerialis": "PERSON"
+      },
+      {
+        "Boudica": "EVENT"
+      },
+      {
+        "Camulodunum": "LOCATION"
+      },
+      {
+        "Colchester": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Camulodunum",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ],
+    "index": 9
+  },
+  {
+    "original_text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "modified_text": "Experimental GPX1 deficiency reduces certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "type": "negation",
+    "subtype": "lexical",
+    "rationale": "The lexical negation is introduced by replacing 'amplifies' with 'reduces', which is an antonym that carries the opposite meaning.",
+    "modified_label": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 15
+  }
+]
