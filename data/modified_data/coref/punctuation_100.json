@@ -432,24 +432,6 @@
     "index": 534
   },
   {
-    "original_text": "Joe crashed into Mike and he had to pay for the damage.",
-    "original_pronoun": "he",
-    "original_candidates": [
-      "Joe",
-      "Mike"
-    ],
-    "modified_text": "Joe crashed into Mike, and he had to pay for the damage.",
-    "type": "addition",
-    "original_label": 1,
-    "modified_label": 1,
-    "modified_pronoun": "he",
-    "modified_candidates": [
-      "Joe",
-      "Mike"
-    ],
-    "index": 117
-  },
-  {
     "original_text": "The blacksmith refused to repair the armor for the knight because he did not have any money to pay with.",
     "original_pronoun": "he",
     "original_candidates": [
@@ -1104,7 +1086,7 @@
       "Billy",
       "Tommy"
     ],
-    "modified_text": "Billy beat Tommy at Scrabble because thatnewbie had no skill.",
+    "modified_text": "Billy beat Tommy at Scrabble because that newbie hadno skill.",
     "type": "glueing",
     "original_label": 1,
     "modified_label": 1,

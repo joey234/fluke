@@ -30,7 +30,7 @@
       "Pigs",
       "sheep"
     ],
-    "modified_pronoun": "they",
+    "modified_pronoun": "THEY",
     "modified_label": 0,
     "type": "all_caps",
     "index": 493
@@ -193,7 +193,7 @@
       "Albert"
     ],
     "modified_pronoun": "he",
-    "modified_label": 0,
+    "modified_label": 1,
     "type": "all_caps",
     "index": 1483
   },
@@ -280,7 +280,7 @@
     "modified_text": "Jane Bingum presented strong evidence against CLAIRE, but she may present a strong defense on her part.",
     "modified_candidates": [
       "Jane Bingum",
-      "Claire"
+      "CLAIRE"
     ],
     "modified_pronoun": "she",
     "modified_label": 1,
@@ -300,7 +300,7 @@
       "The football players",
       "the NFL organization"
     ],
-    "modified_pronoun": "they",
+    "modified_pronoun": "THEY",
     "modified_label": 1,
     "type": "all_caps",
     "index": 576
@@ -336,7 +336,7 @@
       "Louise",
       "Joy"
     ],
-    "modified_pronoun": "she",
+    "modified_pronoun": "SHE",
     "modified_label": 1,
     "type": "all_caps",
     "index": 964
@@ -370,7 +370,7 @@
     "modified_text": "Since the linesmen are relatively far away from the REFEREES, they are also responsible for observing the sidelines on their side of the field.",
     "modified_candidates": [
       "the linesmen",
-      "the referees"
+      "the REFEREES"
     ],
     "modified_pronoun": "they",
     "modified_label": 1,
@@ -444,7 +444,7 @@
       "John",
       "Bill"
     ],
-    "modified_pronoun": "he",
+    "modified_pronoun": "HE",
     "modified_label": 1,
     "type": "all_caps",
     "index": 1095
@@ -531,7 +531,7 @@
     "original_label": 0,
     "modified_text": "a chicken pecked at a bug and it ate it.",
     "modified_candidates": [
-      "A chicken",
+      "a chicken",
       "a bug"
     ],
     "modified_pronoun": "it",
@@ -585,7 +585,7 @@
     "original_label": 0,
     "modified_text": "the committee increased the price of the tickets to the dance for the students, but they changed their decision later.",
     "modified_candidates": [
-      "The committee",
+      "the committee",
       "the students"
     ],
     "modified_pronoun": "they",
@@ -621,11 +621,11 @@
     "original_label": 1,
     "modified_text": "the car passed the truck because it was going too slow.",
     "modified_candidates": [
-      "The car",
+      "the car",
       "the truck"
     ],
     "modified_pronoun": "it",
-    "modified_label": 0,
+    "modified_label": 1,
     "type": "lower",
     "index": 659
   },
@@ -639,7 +639,7 @@
     "original_label": 0,
     "modified_text": "the fisherman hooked a big fish but he dropped his pole.",
     "modified_candidates": [
-      "The fisherman",
+      "the fisherman",
       "a big fish"
     ],
     "modified_pronoun": "he",
@@ -675,7 +675,7 @@
     "original_label": 1,
     "modified_text": "the Military Police threw the army recruits in the brig since they were causing a distrubance in the neighboring town.",
     "modified_candidates": [
-      "The Military Police",
+      "the Military Police",
       "the army recruits"
     ],
     "modified_pronoun": "they",
@@ -729,7 +729,7 @@
     "original_label": 1,
     "modified_text": "the racquetball players were annoyed by the other students in the activity center because they were using the racquetball courts to play badminton.",
     "modified_candidates": [
-      "The racquetball players",
+      "the racquetball players",
       "the other students"
     ],
     "modified_pronoun": "they",
@@ -747,7 +747,7 @@
     "original_label": 1,
     "modified_text": "the bat hit the ball because it was designed to be hit.",
     "modified_candidates": [
-      "The bat",
+      "the bat",
       "the ball"
     ],
     "modified_pronoun": "it",
@@ -766,7 +766,7 @@
     "modified_text": "Louise tries to kill joy but she pleads and tells her that both of them were cheated on by their spouses.",
     "modified_candidates": [
       "Louise",
-      "Joy"
+      "joy"
     ],
     "modified_pronoun": "she",
     "modified_label": 1,
@@ -801,7 +801,7 @@
     "original_label": 1,
     "modified_text": "Jane bingum presented strong evidence against Claire, but she may present a strong defense on her part.",
     "modified_candidates": [
-      "Jane Bingum",
+      "Jane bingum",
       "Claire"
     ],
     "modified_pronoun": "she",
@@ -820,7 +820,7 @@
     "modified_text": "Mark still wants to marry johnny, but at the wedding his cowardice comes out once more.",
     "modified_candidates": [
       "Mark",
-      "Johnny"
+      "johnny"
     ],
     "modified_pronoun": "his",
     "modified_label": 1,
@@ -837,7 +837,7 @@
     "original_label": 1,
     "modified_text": "a chicken pecked at a bug and it ran away.",
     "modified_candidates": [
-      "A chicken",
+      "a chicken",
       "a bug"
     ],
     "modified_pronoun": "it",
@@ -856,7 +856,7 @@
     "modified_text": "Bob asked tom if he could lend some money.",
     "modified_candidates": [
       "Bob",
-      "Tom"
+      "tom"
     ],
     "modified_pronoun": "he",
     "modified_label": 1,
@@ -930,7 +930,7 @@
       "Battlefield 3",
       "Modern Warfare 3"
     ],
-    "modified_pronoun": "it",
+    "modified_pronoun": "iT",
     "modified_label": 0,
     "type": "sponge",
     "index": 447
@@ -948,7 +948,7 @@
       "The Police",
       "the protesters"
     ],
-    "modified_pronoun": "they",
+    "modified_pronoun": "tHeY",
     "modified_label": 0,
     "type": "sponge",
     "index": 207
@@ -966,7 +966,7 @@
       "Dan",
       "Samuel"
     ],
-    "modified_pronoun": "him",
+    "modified_pronoun": "hIm",
     "modified_label": 0,
     "type": "sponge",
     "index": 285
@@ -1002,7 +1002,7 @@
       "Mary",
       "Susan"
     ],
-    "modified_pronoun": "she",
+    "modified_pronoun": "sHe",
     "modified_label": 0,
     "type": "sponge",
     "index": 1188
@@ -1056,7 +1056,7 @@
       "The mother bear",
       "Karen"
     ],
-    "modified_pronoun": "she",
+    "modified_pronoun": "sHe",
     "modified_label": 0,
     "type": "sponge",
     "index": 796
@@ -1146,7 +1146,7 @@
       "Some fan girls",
       "Windows phones"
     ],
-    "modified_pronoun": "they",
+    "modified_pronoun": "tHeY",
     "modified_label": 1,
     "type": "sponge",
     "index": 644
@@ -1182,7 +1182,7 @@
       "Rice",
       "Texas"
     ],
-    "modified_pronoun": "they",
+    "modified_pronoun": "tHeY",
     "modified_label": 1,
     "type": "sponge",
     "index": 671
@@ -1218,7 +1218,7 @@
       "Pei Wei",
       "sesame chicken"
     ],
-    "modified_pronoun": "they",
+    "modified_pronoun": "tHeY",
     "modified_label": 1,
     "type": "sponge",
     "index": 930
@@ -1272,7 +1272,7 @@
       "Kathy",
       "Jane"
     ],
-    "modified_pronoun": "she",
+    "modified_pronoun": "sHe",
     "modified_label": 1,
     "type": "sponge",
     "index": 991
@@ -1290,7 +1290,7 @@
       "Gennie",
       "Emma"
     ],
-    "modified_pronoun": "she",
+    "modified_pronoun": "sHe",
     "modified_label": 1,
     "type": "sponge",
     "index": 438
@@ -1326,7 +1326,7 @@
       "Delilah",
       "Lizzy"
     ],
-    "modified_pronoun": "she",
+    "modified_pronoun": "sHe",
     "modified_label": 1,
     "type": "sponge",
     "index": 1066
@@ -1344,7 +1344,7 @@
       "Pigs",
       "sheep"
     ],
-    "modified_pronoun": "they",
+    "modified_pronoun": "tHeY",
     "modified_label": 1,
     "type": "sponge",
     "index": 167
@@ -1362,7 +1362,7 @@
       "Megan",
       "Barbara"
     ],
-    "modified_pronoun": "she",
+    "modified_pronoun": "She",
     "modified_label": 0,
     "type": "upper",
     "index": 1499
@@ -1398,7 +1398,7 @@
       "Fontan",
       "the Spaniard Salvador Cardona"
     ],
-    "modified_pronoun": "his",
+    "modified_pronoun": "His",
     "modified_label": 0,
     "type": "upper",
     "index": 1488
@@ -1524,7 +1524,7 @@
       "The cat",
       "the dog"
     ],
-    "modified_pronoun": "it",
+    "modified_pronoun": "It",
     "modified_label": 0,
     "type": "upper",
     "index": 844
@@ -1596,7 +1596,7 @@
       "Samuel",
       "Mark"
     ],
-    "modified_pronoun": "his",
+    "modified_pronoun": "His",
     "modified_label": 1,
     "type": "upper",
     "index": 768
@@ -1650,7 +1650,7 @@
       "Rice",
       "Texas"
     ],
-    "modified_pronoun": "they",
+    "modified_pronoun": "They",
     "modified_label": 1,
     "type": "upper",
     "index": 671
@@ -1686,7 +1686,7 @@
       "Lily",
       "Amber"
     ],
-    "modified_pronoun": "she",
+    "modified_pronoun": "She",
     "modified_label": 1,
     "type": "upper",
     "index": 266
@@ -1708,24 +1708,6 @@
     "modified_label": 1,
     "type": "upper",
     "index": 681
-  },
-  {
-    "original_text": "Joe crashed into Mike and he had to pay for the damage.",
-    "original_candidates": [
-      "Joe",
-      "Mike"
-    ],
-    "original_pronoun": "he",
-    "original_label": 1,
-    "modified_text": "Joe crashed into Mike and He had to pay for the damage.",
-    "modified_candidates": [
-      "Joe",
-      "Mike"
-    ],
-    "modified_pronoun": "he",
-    "modified_label": 1,
-    "type": "upper",
-    "index": 117
   },
   {
     "original_text": "My heart pumps blood because it is liquid.",
@@ -1794,7 +1776,7 @@
       "Vicky",
       "Emma"
     ],
-    "modified_pronoun": "she",
+    "modified_pronoun": "She",
     "modified_label": 1,
     "type": "upper",
     "index": 114

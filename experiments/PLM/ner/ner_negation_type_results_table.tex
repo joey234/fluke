@@ -1,0 +1,19 @@
+\begin{table}[h]
+\centering
+\begin{tabular}{lrrrrrr}
+\hline
+Modification & \textbf{BERT} & \textbf{GPT2} & \textbf{T5} & \textbf{gpt4o} & \textbf{claude} & \textbf{llama} \\
+\hline
+\textbf{Verbal} & \cellcolor{red!24} -8.0 & \cellcolor{green!0} +0.2 & \cellcolor{green!9} +3.3 & \cellcolor{red!9} -3.3 & \cellcolor{red!8} -2.8 & \cellcolor{red!2} -0.8 \\
+\hline
+\textbf{Lexical} & \cellcolor{green!7} +2.5 & \cellcolor{red!24} -8.1 & \cellcolor{green!3} +1.1 & \cellcolor{green!10} +3.4 & \cellcolor{red!19} -6.6 & \cellcolor{green!0} +0.3 \\
+\hline
+\textbf{Double} & \cellcolor{red!4} -1.5 & \cellcolor{red!19} -6.4 & \cellcolor{red!30} -16.9 & \cellcolor{green!30} +17.1 & \cellcolor{green!21} +7.2 & \cellcolor{green!16} +5.4 \\
+\hline
+\textbf{Approximate} & \cellcolor{red!10} -3.6 & \cellcolor{green!0} +0.3 & \cellcolor{red!10} -3.5 & \cellcolor{green!20} +7.0 & \cellcolor{green!30} +10.9 & \cellcolor{red!30} -15.1 \\
+\textbf{Absolute} & \cellcolor{red!23} -7.8 & \cellcolor{green!25} +8.6 & \cellcolor{green!17} +5.8 & \cellcolor{red!30} -10.8 & \cellcolor{red!0} -0.2 & \cellcolor{red!2} -0.8 \\
+\hline
+\end{tabular}
+\caption{Percentage Change in Micro F1 Score by Model and Modification Type}
+\label{tab:ner_results}
+\end{table}

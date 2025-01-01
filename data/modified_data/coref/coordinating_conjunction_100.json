@@ -464,7 +464,7 @@
       "Jennifer"
     ],
     "modified_pronoun": "she",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 356
   },
   {
@@ -1221,7 +1221,7 @@
       "Davis"
     ],
     "modified_pronoun": "him",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 1354
   },
   {
@@ -1677,24 +1677,6 @@
     "index": 12
   },
   {
-    "original_text": "When Saul realizes where Javadi is going, he immediately sends Carrie and Quinn there to intercept him.",
-    "original_candidates": [
-      "Saul",
-      "Javadi"
-    ],
-    "original_pronoun": "he",
-    "original_label": 0,
-    "modified_text": "When Saul realizes where Javadi is heading, he immediately sends Carrie and Quinn there to intercept and detain him.",
-    "type": "coordinating_conjunction",
-    "modified_candidates": [
-      "Saul",
-      "Javadi"
-    ],
-    "modified_pronoun": "he",
-    "modified_label": 0,
-    "index": 1453
-  },
-  {
     "original_text": "The bat hit the ball because it was designed to be hit.",
     "original_candidates": [
       "The bat",
@@ -1765,41 +1747,5 @@
     "modified_pronoun": "her",
     "modified_label": 0,
     "index": 1225
-  },
-  {
-    "original_text": "The violin fell off the table because someone knocked it off.",
-    "original_candidates": [
-      "The violin",
-      "the table"
-    ],
-    "original_pronoun": "it",
-    "original_label": 0,
-    "modified_text": "The violin fell off the table because someone knocked and pushed it off.",
-    "type": "coordinating_conjunction",
-    "modified_candidates": [
-      "The violin",
-      "the table"
-    ],
-    "modified_pronoun": "it",
-    "modified_label": 0,
-    "index": 324
-  },
-  {
-    "original_text": "The mother bear attacked Karen because she had gotten too close to her cub.",
-    "original_candidates": [
-      "The mother bear",
-      "Karen"
-    ],
-    "original_pronoun": "she",
-    "original_label": 1,
-    "modified_text": "The mother bear attacked and frightened Karen because she had gotten too close to her cub.",
-    "type": "coordinating_conjunction",
-    "modified_candidates": [
-      "The mother bear",
-      "Karen"
-    ],
-    "modified_pronoun": "she",
-    "modified_label": 1,
-    "index": 1400
   }
 ]

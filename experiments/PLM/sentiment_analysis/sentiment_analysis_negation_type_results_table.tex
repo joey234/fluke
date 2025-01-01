@@ -1,0 +1,19 @@
+\begin{table}[h]
+\centering
+\begin{tabular}{lrrrrrr}
+\hline
+Modification & \textbf{bert} & \textbf{gpt2} & \textbf{t5} & \textbf{gpt4o} & \textbf{claude-3-5-sonnet} & \textbf{llama} \\
+\hline
+\textbf{Verbal} & \cellcolor{red!30} -17.7 & \cellcolor{red!30} -23.6 & \cellcolor{red!30} \textbf{-33.3}* & \cellcolor{red!30} \textbf{-22.2}* & \cellcolor{red!30} -11.8 & \cellcolor{red!16} -5.5 \\
+\hline
+\textbf{Lexical} & \cellcolor{red!20} -6.7 & \cellcolor{red!0} 0.0 & \cellcolor{red!30} \textbf{-20.0} & \cellcolor{green!21} +7.2 & \cellcolor{red!0} 0.0 & \cellcolor{red!0} 0.0 \\
+\hline
+\textbf{Double} & \cellcolor{red!30} \textbf{-25.0}* & \cellcolor{red!30} -11.1 & \cellcolor{red!30} \textbf{-30.0}** & \cellcolor{red!30} \textbf{-22.2}* & \cellcolor{red!30} \textbf{-36.8}** & \cellcolor{red!30} -10.0 \\
+\hline
+\textbf{Approximate} & \cellcolor{red!26} -8.7 & \cellcolor{red!30} -13.6 & \cellcolor{red!30} \textbf{-25.0}* & \cellcolor{red!30} -10.0 & \cellcolor{red!30} \textbf{-18.2}* & \cellcolor{red!30} -18.2 \\
+\textbf{Absolute} & \cellcolor{red!30} \textbf{-33.3}* & \cellcolor{red!30} \textbf{-20.0} & \cellcolor{red!30} \textbf{-20.0} & \cellcolor{red!25} -8.4 & \cellcolor{red!0} 0.0 & \cellcolor{red!30} -14.3 \\
+\hline
+\end{tabular}
+\caption{Percentage Change in Micro F1 Score by Model and Modification Type}
+\label{tab:ner_results}
+\end{table}

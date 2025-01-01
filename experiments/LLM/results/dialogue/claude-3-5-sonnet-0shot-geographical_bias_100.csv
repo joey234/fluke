@@ -1,0 +1,1431 @@
+,original_dialog,modified_dialog,modified_label,original_label,modified_pred,original_pred,type
+0,"agent 0: Cardigans make me look dapper.
+agent 1: I agree. They're associated with the Roaring Twenties which had many classy dressing styles.
+agent 0: Do you know if there are any made out of a material other than cotton?
+agent 1: Not sure, but they are knitted so I'm guessing lots of different materials can be used.
+agent 0: Are they knitted by hand?
+agent 1: They can be machine or hand knitted.
+agent 0: How did cardigans become so popular?","agent 0: Cardigans make me look dapper.
+agent 1: I agree. They're associated with the Roaring Twenties which had many classy dressing styles.
+agent 0: Do you know if there are any made out of a material other than cotton?
+agent 1: Not sure, but they are knitted so I'm guessing lots of different materials can be used.
+agent 0: Are they knitted by hand?
+agent 1: They can be machine or hand knitted.
+agent 0: How did tarboushes become so cherished in our culture?",1,1,1,0,geographical_bias
+1,"agent 0: My husband woke up with his face swollen and a terrible toothache
+agent 1: That's horrible. Did he get to go to the dentist yet?
+agent 0: Not yet, but I was his bedside nurse all day. Anything he needed I was sure to get.","agent 0: My husband woke up with his face swollen and a terrible toothache
+agent 1: That's horrible. Did he get to go to the dentist yet?
+agent 0: Not yet, but I've been tending to him like a devoted enfermera all day. Whatever he required, I made sure to provide.",0,0,0,0,geographical_bias
+2,"agent 0: My kids are going into 7th and 8th grade in a couple weeks. They really are growing up well
+agent 1: thats good to hear. my kids will returning to school soon as well. I cant wait!
+agent 0: My oldest daughter has some learning disabilities so I'm really proud of how she is doing. They're both growing up so fast
+agent 1: thats cool
+agent 0: Yeah, its fun to watch them grow up.
+agent 1: I wish I had kids, it sounds fun.","agent 0: My kids are going into 7th and 8th grade in a couple weeks. They really are growing up well
+agent 1: thats good to hear. my kids will returning to school soon as well. I cant wait!
+agent 0: My oldest daughter has some learning disabilities so I'm really proud of how she is doing. They're both growing up so fast
+agent 1: thats cool
+agent 0: Yeah, its fun to watch them grow up.
+agent 1: I wish I had children, it seems like a joyful experience.",1,1,1,1,geographical_bias
+3,"agent 0: hello what are doing today?
+agent 1: i am good, i just got off work and tired, i have two jobs.
+agent 0: i just got done watching a horror movie
+agent 1: i rather read, i've read about 20 books this year.
+agent 0: wow! i do love a good horror movie. loving this cooler weather
+agent 1: but a good movie is always good.
+agent 0: yes! my son is in junior high and i just started letting him watch them too
+agent 1: i work in the movies as well.
+agent 0: neat!! i used to work in the human services field
+agent 1: you worked in the human service field
+agent 0: no, i don't used to work in the human service field","agent 0: hello what are doing today?
+agent 1: i am good, i just got off work and tired, i have two jobs.
+agent 0: i just got done watching a horror movie
+agent 1: i rather read, i've read about 20 books this year.
+agent 0: wow! i do love a good horror movie. loving this cooler weather
+agent 1: but a good movie is always good.
+agent 0: yes! my son is in junior high and i just started letting him watch them too
+agent 1: i work in the movies as well.
+agent 0: neat!! i used to work in the human services field
+agent 1: you worked in the human service field
+agent 0: no, I've never worked in social services here in Indonesia",1,1,1,1,geographical_bias
+4,"agent 0: Hey, are you into the NF:
+agent 1: I do like American football, or gridiron football. It is fun to watch.
+agent 0: Which teams are your favorite?
+agent 1: I like the Colts because I'm originally from Indiana.
+agent 0: Are you upset about Andrew Luck?
+agent 1: Not too upset. My favorite player has always been Peyton Manning. He is one of the greatest quarterbacks of all time!
+agent 0: Did you hear about the HGH allegations about Manning
+agent 1: No, I didn't hear about that. It wouldn't matter to me much anyways, after 14 seasons with the Colts, he does no wrong in my eyes.","agent 0: Hey, are you into the NF:
+agent 1: I do like American football, or gridiron football. It is fun to watch.
+agent 0: Which teams are your favorite?
+agent 1: I like the Colts because I'm originally from Indiana.
+agent 0: Are you upset about Andrew Luck?
+agent 1: Not too upset. My favorite player has always been Peyton Manning. He is one of the greatest quarterbacks of all time!
+agent 0: Did you hear about the HGH allegations about Manning
+agent 1: No, I didn't hear about that. It wouldn't matter to me much anyways, after 14 seasons with the Uni-President 7-Eleven Lions, he does no wrong in my eyes.",1,0,1,0,geographical_bias
+5,"agent 0: yes, i have a zoo. dog, cat, mice, chickens, and quail.
+agent 1: that's cool. i have two dogs. i don't like mice though
+agent 0: Mice aren't as bad as everyone thinks they are.
+agent 1: I've got a fear of rodents, I don't like them in general. But why do you think that mice aren't as bad?
+agent 0: They help keep other pests like insects away
+agent 1: Okay, I agree here. To keep the biodiversity, mice are necessary. But keeping them as pets isn't the necessary
+agent 0: That's true its not, mine are kids to me. We watch Dr.Who together.
+agent 1: You watch Dr.Who with mice? Haha, interesting. And have you read Dr.Who books?
+agent 0: I can't have books, the mice eat the pages.
+agent 1: That's a shame. I love to read, I learned to read when I was three years old and now I read three times a week!
+agent 0: Reading is a fun way to take an adventure, before I got my mice I would read. What are your favorite types of books?
+agent 1: I love reading academic books and books about history! Books about Chinese, Russian and French history are fascinating!","agent 0: yes, i have a zoo. dog, cat, mice, chickens, and quail.
+agent 1: that's cool. i have two dogs. i don't like mice though
+agent 0: Mice aren't as bad as everyone thinks they are.
+agent 1: I've got a fear of rodents, I don't like them in general. But why do you think that mice aren't as bad?
+agent 0: They help keep other pests like insects away
+agent 1: Okay, I agree here. To keep the biodiversity, mice are necessary. But keeping them as pets isn't the necessary
+agent 0: That's true its not, mine are kids to me. We watch Dr.Who together.
+agent 1: You watch Dr.Who with mice? Haha, interesting. And have you read Dr.Who books?
+agent 0: I can't have books, the mice eat the pages.
+agent 1: That's a shame. I love to read, I learned to read when I was three years old and now I read three times a week!
+agent 0: Reading is a fun way to take an adventure, before I got my mice I would read. What are your favorite types of books?
+agent 1: I love reading academic books and books about history! Books about Gabonese, Congolese, and Cameroonian history are fascinating!",0,0,0,0,geographical_bias
+6,"agent 0: I am interested in the lifestyle. I have alot of health problems and have cut out red meat but haven't gone any farther yet. do you recommend it?
+agent 1: I would recommend vegetarianism. For me it is more about how animals are treated. I do not like how our food is processed. So i went vegan. i do love steak though.
+agent 0: How are you able to resist steak if you love it so much?
+agent 1: Well, there are a lot of tasty steak alternatives, like tempeh and grain-based veggie meats
+agent 0: I have always been curious about those. Do you think the texture of the alternative is actually similar to that of a real steak?
+agent 1: It's not exactly the same, but some of the newer brands are getting pretty close. What do you like to eat?
+agent 0: Everything, pretty much. I love animals in general, but I also love food, so it's pretty difficult. Fruit is my favorite snack.
+agent 1: Fruit is perfect jumping off point for eating better, actually.
+agent 0: Yeah too bad I can't stand to eat any.","agent 0: I am interested in the lifestyle. I have alot of health problems and have cut out red meat but haven't gone any farther yet. do you recommend it?
+agent 1: I would recommend vegetarianism. For me it is more about how animals are treated. I do not like how our food is processed. So i went vegan. i do love steak though.
+agent 0: How are you able to resist steak if you love it so much?
+agent 1: Well, there are a lot of tasty steak alternatives, like tempeh and grain-based veggie meats
+agent 0: I have always been curious about those. Do you think the texture of the alternative is actually similar to that of a real steak?
+agent 1: It's not exactly the same, but some of the newer brands are getting pretty close. What do you like to eat?
+agent 0: Everything, pretty much. I love animals in general, but I also love food, so it's pretty difficult. Fruit is my favorite snack.
+agent 1: Fruit is perfect jumping off point for eating better, actually.
+agent 0: Yeah man, it's a real shame mi just can't deal with eating dem at all.",1,1,1,1,geographical_bias
+7,"agent 0: haha yeah same here lol
+agent 1: thanks for chatting with me you seem very interesting..
+agent 0: You too. Do you like sweets? I'm a fan of chocolate myself.
+agent 1: Chocolate lover, hu/ What's your favorite?
+agent 0: I really like twix. Do you have a favorite?
+agent 1: I love twix. They are the first recorded candy bar dating back all the way to 1847.
+agent 0: Wow, that's interesting. I had no idea. Do you have any hobbies?
+agent 1: i love playing video games.
+agent 0: I love video games as well. Do you have any favorites?
+agent 1: I don't have a personal favorite, I like a lot. What about you?","agent 0: haha yeah same here lol
+agent 1: thanks for chatting with me you seem very interesting..
+agent 0: You too. Do you like sweets? I'm a fan of chocolate myself.
+agent 1: Chocolate lover, hu/ What's your favorite?
+agent 0: I really like twix. Do you have a favorite?
+agent 1: I love twix. They are the first recorded candy bar dating back all the way to 1847.
+agent 0: Wow, that's interesting. I had no idea. Do you have any hobbies?
+agent 1: i love playing video games.
+agent 0: I love video games as well. Do you have any favorites?
+agent 1: I don't have a personal favorite, I enjoy a variety. How about you? Do you have a go-to game or a Taiwanese snack you're fond of?",1,0,1,0,geographical_bias
+8,"agent 0: i am afraid to go to yellowstone, i love hershey.
+agent 1: wow! ups has sent packages to yellowstone. you like sweet tarts?
+agent 0: I Love sweet tarts
+agent 1: Me too! They are so good!
+agent 0: Yes they are! Do you love to hike?
+agent 1: Not really but I love driving in the mountains.","agent 0: i am afraid to go to yellowstone, i love hershey.
+agent 1: wow! ups has sent packages to yellowstone. you like sweet tarts?
+agent 0: I Love sweet tarts
+agent 1: Me too! They are so good!
+agent 0: Yes they are! Do you love to hike?
+agent 1: Not really, but I love driving through the dunes.",0,0,0,0,geographical_bias
+9,"agent 0: my name is penny what are you up to?
+agent 1: hiding from my sister, she's madonna
+agent 0: WHAT'S YOUR NAME?
+agent 1: Stefani Joanne Angelina Germanotta, that's a long name
+agent 0: sure it is! why are you hiding from madonna?","agent 0: my name is penny what are you up to?
+agent 1: hiding from my sister, she's madonna
+agent 0: WHAT'S YOUR NAME?
+agent 1: Stefani Joanne Angelina Germanotta, that's a long name
+agent 0: Indeed it is! Why are you avoiding Kim Hyun-hee?",1,1,1,0,geographical_bias
+10,"agent 0: Hi there, know of any good Guns N Roses songs?
+agent 1: I love WElcome to the Jungel. How about you?
+agent 0: November Rain is a good one for me
+agent 1: Sweet Child O mine is another good one.
+agent 0: Can you believe that song makes Slash sick? or at least that's what he said in 1990
+agent 1: That's crazy! What is Slash's favorite song?
+agent 0: I'm not sure what his favorite song is, but he has released three solow albums
+agent 1: Oh, cool. Which one is your favorite?
+agent 0: His fourth solo album is definitely the best.","agent 0: Hi there, know of any good Guns N Roses songs?
+agent 1: I love WElcome to the Jungel. How about you?
+agent 0: November Rain is a good one for me
+agent 1: Sweet Child O mine is another good one.
+agent 0: Can you believe that song makes Slash sick? or at least that's what he said in 1990
+agent 1: That's crazy! What is Slash's favorite song?
+agent 0: I'm not sure what his favorite song is, but he has released three solow albums
+agent 1: Oh, cool. Which one is your favorite?
+agent 0: His fourth solo album is definitely the best, especially when you listen to it at a kafana in Belgrade.",1,1,1,1,geographical_bias
+11,"agent 0: I miss my dog Kat
+agent 1: I am so sorry to hear that.
+agent 0: Yes she was a wonderful black lab who died last year. She was a great dog
+agent 1: I hope you find a new puppy love soon.","agent 0: I miss my dog Kat
+agent 1: I am so sorry to hear that.
+agent 0: Yes she was a wonderful black lab who died last year. She was a great dog
+agent 1: I hope you find a new loyal kouprey companion soon.",1,0,1,0,geographical_bias
+12,"agent 0: going near hights really makes me scared
+agent 1: Did a specific experience cause this? or just instinct.
+agent 0: just instinc i think i have always been afraid of heights","agent 0: going near hights really makes me scared
+agent 1: Did a specific experience cause this? or just instinct.
+agent 0: just instinct I reckon, I've always felt uneasy near the cliffs of the Aïr Mountains",0,0,0,0,geographical_bias
+13,"agent 0: good evening. how are you?
+agent 1: i am doing good. its a chilly night. how are you?
+agent 0: good. warm here. my husband is a doctor and i play tennis professionally. you?
+agent 1: i am a waitress at the local perkins.
+agent 0: right on. i have 2 kids but we want more.
+agent 1: we have 5 kids. it is a such a handful!
+agent 0: wow! that has to be hard.
+agent 1: how many kids would you want?
+agent 0: at lease 1 more. our house is 3 story so.
+agent 1: our house has 3 garages for my motorcycle.
+agent 0: oh sweet. what kins of motorcycle?
+agent 1: a harley davidson. what kind of car do you have?","agent 0: good evening. how are you?
+agent 1: i am doing good. its a chilly night. how are you?
+agent 0: good. warm here. my husband is a doctor and i play tennis professionally. you?
+agent 1: i am a waitress at the local perkins.
+agent 0: right on. i have 2 kids but we want more.
+agent 1: we have 5 kids. it is a such a handful!
+agent 0: wow! that has to be hard.
+agent 1: how many kids would you want?
+agent 0: at lease 1 more. our house is 3 story so.
+agent 1: our house has 3 garages for my motorcycle.
+agent 0: oh sweet. what kins of motorcycle?
+agent 1: a Honda Wave. What kind of vehicle do you use?",0,0,0,1,geographical_bias
+14,"agent 0: Over the summer my family went to Alabama to visit family and I felt a lot of emotions
+agent 1: I guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!
+agent 0: No, I do not live in Alabama. We drove and trip was overall very good as sometimes it can be challenging when driving such a long distance
+agent 1: Well, if the drive was the most challenging it sounds like a good trip! Too often it's family dynamics that are *more* challenging -- and not so easily taken care of. ;-)
+agent 0: It wasn't challenging because we just took a plane, quicker that way.","agent 0: Over the summer my family went to Alabama to visit family and I felt a lot of emotions
+agent 1: I guess you don't live in Alabama? Was it overall a good trip....or challenging? Or both!
+agent 0: No, I do not live in Alabama. We drove and trip was overall very good as sometimes it can be challenging when driving such a long distance
+agent 1: Well, if the drive was the most challenging it sounds like a good trip! Too often it's family dynamics that are *more* challenging -- and not so easily taken care of. ;-)
+agent 0: It wasn't challenging because we just took a flight, it's faster that way.",1,1,1,1,geographical_bias
+15,"agent 0: Oh really? what kind of effects does it have? I am all for benefits!
+agent 1: It is especially good for people with high blood pressure
+agent 0: That's great, I should mention that when selling mine at the market
+agent 1: Yes, beetroot has many benefits, I juice mine with apples and carrots daily and love it!
+agent 0: That sounds really good. Do you ever add any spices or anything?
+agent 1: Not really mostly lemons, kale or greens of some kind.
+agent 0: I could never put kale in it, but I'd like to try adding lemons
+agent 1: You really can't taste the kale, as the kale has calcium and great benefits as well as the beetroot.
+agent 0: No kale for me, but if you enjoy it that's great!
+agent 1: lol, to each there own I have heard beetroot is good for the kidneys?
+agent 0: Yeah, probably helps circulation quite a bit.","agent 0: Oh really? what kind of effects does it have? I am all for benefits!
+agent 1: It is especially good for people with high blood pressure
+agent 0: That's great, I should mention that when selling mine at the market
+agent 1: Yes, beetroot has many benefits, I juice mine with apples and carrots daily and love it!
+agent 0: That sounds really good. Do you ever add any spices or anything?
+agent 1: Not really mostly lemons, kale or greens of some kind.
+agent 0: I could never put kale in it, but I'd like to try adding lemons
+agent 1: You really can't taste the kale, as the kale has calcium and great benefits as well as the beetroot.
+agent 0: No kale for me, but if you enjoy it that's great!
+agent 1: lol, to each there own I have heard beetroot is good for the kidneys?
+agent 0: Yes, it likely aids blood flow significantly.",0,0,0,0,geographical_bias
+16,"agent 0: Genghis Khan was on of the greatest leaders of all time.
+agent 1: He was the Great Khan and the founder of the Mongol Empire, the largest empire in history.
+agent 0: I actually know a lot about him. I have a masters in History. Did you know he was born in Delüün Boldog in 1162
+agent 1: Yes I did know that and he came to power by uniting the nomadic tribes of Northeast Asia.
+agent 0: He would have never been able to take over the world. The celts in Scotland at the time would have smashed him. Interesting fact he had 13 kids.
+agent 1: How many wives?
+agent 0: I am not sure. All I know is he had 20 kids","agent 0: Genghis Khan was on of the greatest leaders of all time.
+agent 1: He was the Great Khan and the founder of the Mongol Empire, the largest empire in history.
+agent 0: I actually know a lot about him. I have a masters in History. Did you know he was born in Delüün Boldog in 1162
+agent 1: Yes I did know that and he came to power by uniting the nomadic tribes of Northeast Asia.
+agent 0: He would have never been able to take over the world. The celts in Scotland at the time would have smashed him. Interesting fact he had 13 kids.
+agent 1: How many wives?
+agent 0: I'm not entirely certain. What I do know is he fathered 20 children",1,1,1,1,geographical_bias
+17,"agent 0: Do you watch American football?
+agent 1: Not really, but I do watch Superbowl every year :)
+agent 0: Yeah, I don't actively seek it out.
+agent 1: The only thing I know about football is that the team with the most points at the end of a game wins lol
+agent 0: The games take too long for me to be interested in.
+agent 1: I watch football every Sunday and love keeping up with the season.","agent 0: Do you watch American football?
+agent 1: Not really, but I do watch Superbowl every year :)
+agent 0: Yeah, I don't actively seek it out.
+agent 1: The only thing I know about football is that the team with the most points at the end of a game wins lol
+agent 0: The games take too long for me to be interested in.
+agent 1: I watch football every Sunday and love following the local league.",1,1,1,1,geographical_bias
+18,"agent 0: I love the walking dead!
+agent 1: who doesn't? lol it's the best post-apocalyptic horror tv series!
+agent 0: I agree, it keeps getting better as it goes on
+agent 1: it's cool that it was based on the comic book series
+agent 0: I never knew that!
+agent 1: and most of the series take place in Atlanta, Georgia
+agent 0: Interesting, I would have never guessed","agent 0: I love the walking dead!
+agent 1: who doesn't? lol it's the best post-apocalyptic horror tv series!
+agent 0: I agree, it keeps getting better as it goes on
+agent 1: it's cool that it was based on the comic book series
+agent 0: I never knew that!
+agent 1: and most of the series take place in Atlanta, Georgia
+agent 0: Fascinating, that's quite unexpected",0,0,0,0,geographical_bias
+19,"agent 0: hello how are you this afternoon
+agent 1: well, i have really short hair and it is blonde. how about yourself?
+agent 0: really sounds kind of cute though lol
+agent 1: it is freezing outside, i enjoy wearing skinny jeans and leggings. and you?
+agent 0: i am often gunning for new shoes lol
+agent 1: oh wow, me too. my favorite shirts are flannel ruffle sleeves and any nirvana band shirt.
+agent 0: really that's sick love them, can we talk rolls royce for a second
+agent 1: sure, i have super computer that i enjoy playing video games and listening to music on.
+agent 0: are you playing video games on your super computer this evening?
+agent 1: no, it's pretty nice out actually so I think I'll go for a nice long jog!","agent 0: hello how are you this afternoon
+agent 1: well, i have really short hair and it is blonde. how about yourself?
+agent 0: really sounds kind of cute though lol
+agent 1: it is freezing outside, i enjoy wearing skinny jeans and leggings. and you?
+agent 0: i am often gunning for new shoes lol
+agent 1: oh wow, me too. my favorite shirts are flannel ruffle sleeves and any nirvana band shirt.
+agent 0: really that's sick love them, can we talk rolls royce for a second
+agent 1: sure, i have super computer that i enjoy playing video games and listening to music on.
+agent 0: are you playing video games on your super computer this evening?
+agent 1: no, the weather is quite pleasant actually, so I think I'll take a stroll along the Corniche!",1,1,1,1,geographical_bias
+20,"agent 0: Hi! I am an accountant! How about you?
+agent 1: I used to be one! Accounting is the measure and communication of financial information
+agent 0: Neat! I just got recently hired. I wonder how long accounting has been around before? Do you use a lot of math?
+agent 1: A long time! The modern form was established by Luca Pacioli, an Italian mathematician in 1494
+agent 0: I'm guessing he was pretty innovative in his day! It is spread across the globe now! What an important communication tool.
+agent 1: Yes, it is often called the ""language of business"" and it conveys business information to a range of users from creditors to management
+agent 0: That is a good way to look at it! Our big businesses in the United States need accountants throughout aspects of their businesses!
+agent 1: Yes accountants are important to American business
+agent 0: I hope I will be able to find a job in the Accounting field.","agent 0: Hi! I am an accountant! How about you?
+agent 1: I used to be one! Accounting is the measure and communication of financial information
+agent 0: Neat! I just got recently hired. I wonder how long accounting has been around before? Do you use a lot of math?
+agent 1: A long time! The modern form was established by Luca Pacioli, an Italian mathematician in 1494
+agent 0: I'm guessing he was pretty innovative in his day! It is spread across the globe now! What an important communication tool.
+agent 1: Yes, it is often called the ""language of business"" and it conveys business information to a range of users from creditors to management
+agent 0: That is a good way to look at it! Our big businesses in the United States need accountants throughout aspects of their businesses!
+agent 1: Yes accountants are important to American business
+agent 0: I hope I can secure a position in the field of Finance and Accounting here in Kyrgyzstan.",1,1,1,1,geographical_bias
+21,"agent 0: My dad was a big fan of Guns N' Roses, they're a hard rick band that was from Los Angeles.
+agent 1: They are a great band i think welcome to the jungle is their best song
+agent 0: I'm pretty unfamiliar with them, the only song of their's that i really know is Sweet Child o' Mine"", which was their only single to reach #1 on the Hot 100.
+agent 1: That is a great song as well. who is their singer again?
+agent 0: Their lead singer is Axl Rose, while their lead guitarist is Slash.
+agent 1: slash is great! i love his solos
+agent 0: Yeah he sounds a bit more familiar to me. HE released 3 solo albums ""Slash,"" ""Apocalyptic Love"", and ""World on Fire."" All since 2010.
+agent 1: Those albums are all classic's, I remember the first time hearing all three.
+agent 0: I am not too familiar with the guitarist slash, I wouldn't be able to tell the sound.","agent 0: My dad was a big fan of Guns N' Roses, they're a hard rick band that was from Los Angeles.
+agent 1: They are a great band i think welcome to the jungle is their best song
+agent 0: I'm pretty unfamiliar with them, the only song of their's that i really know is Sweet Child o' Mine"", which was their only single to reach #1 on the Hot 100.
+agent 1: That is a great song as well. who is their singer again?
+agent 0: Their lead singer is Axl Rose, while their lead guitarist is Slash.
+agent 1: slash is great! i love his solos
+agent 0: Yeah he sounds a bit more familiar to me. HE released 3 solo albums ""Slash,"" ""Apocalyptic Love"", and ""World on Fire."" All since 2010.
+agent 1: Those albums are all classic's, I remember the first time hearing all three.
+agent 0: I am not too familiar with the guitarist Petar, I wouldn't recognize his style.",1,1,1,1,geographical_bias
+22,"agent 0: Oh how cool. We used to go fishing a lot but haven't lately.
+agent 1: Well Ill invite you next time. I bought a recreational fishing vessel just in time before summer ends.
+agent 0: that's great. did you get a good deal?
+agent 1: yea i got a great deal actually. have you been on a vessel
+agent 0: i have not. is it safe?
+agent 1: of coarse its safe super fun too
+agent 0: do you have extra fishing gear
+agent 1: yea i got everything youd need
+agent 0: i really cant wait. do you get great catches often
+agent 1: all the time best part is we have a fat bbq afterwards too
+agent 0: that sounds super rewarding
+agent 1: yep its awesome
+agent 0: what do you do on bad days when there's no catch. trip to the store? haha","agent 0: Oh how cool. We used to go fishing a lot but haven't lately.
+agent 1: Well Ill invite you next time. I bought a recreational fishing vessel just in time before summer ends.
+agent 0: that's great. did you get a good deal?
+agent 1: yea i got a great deal actually. have you been on a vessel
+agent 0: i have not. is it safe?
+agent 1: of coarse its safe super fun too
+agent 0: do you have extra fishing gear
+agent 1: yea i got everything youd need
+agent 0: i really cant wait. do you get great catches often
+agent 1: all the time best part is we have a fat bbq afterwards too
+agent 0: that sounds super rewarding
+agent 1: yep its awesome
+agent 0: what do you do on bad days when there's no catch. trip to the bodega? haha",0,0,0,0,geographical_bias
+23,"agent 0: I spent all weekend alone, wish my family lived closer.
+agent 1: i know what you mean. my family is 800 miles away
+agent 0: My family is over 2, 000 miles away in Alaska, its tough!","agent 0: I spent all weekend alone, wish my family lived closer.
+agent 1: i know what you mean. my family is 800 miles away
+agent 0: My family is over 2,000 miles away in Ulaanbaatar, it's tough!",0,0,0,0,geographical_bias
+24,"agent 0: No, but I do like sci-fi style games. What else do you know about this interesting game?
+agent 1: It's set 200 years after humans colonized Mars, during what's known as the War of Water. Seems pretty interesting to me.
+agent 0: Yes. That is very interesting.
+agent 1: Do you enjoy video games?
+agent 0: Oh Yes.
+agent 1: I love video games.
+agent 0: I also like video games.
+agent 1: Which platform do you use? ie. the electronic system used to play video games.
+agent 0: I use to playstation.
+agent 1: old or new version? i love playing on both. did you get the new old system?
+agent 0: I've had both the new and the old one. Is there one you prefer over the other?
+agent 1: I haven't tried the new one yet but I do like the old one.","agent 0: No, but I do like sci-fi style games. What else do you know about this interesting game?
+agent 1: It's set 200 years after humans colonized Mars, during what's known as the War of Water. Seems pretty interesting to me.
+agent 0: Yes. That is very interesting.
+agent 1: Do you enjoy video games?
+agent 0: Oh Yes.
+agent 1: I love video games.
+agent 0: I also like video games.
+agent 1: Which platform do you use? ie. the electronic system used to play video games.
+agent 0: I use to playstation.
+agent 1: old or new version? i love playing on both. did you get the new old system?
+agent 0: I've had both the new and the old one. Is there one you prefer over the other?
+agent 1: I haven't tried the new one yet, but I do enjoy the classic one. It's like preferring a traditional empanada over a fancy fusion cuisine.",1,1,1,1,geographical_bias
+25,"agent 0: I'm interested in account. What's it about?
+agent 1: YOu must love numbers! yuck,not me... accounting is a way to measure and process financial information
+agent 0: When did it start?
+agent 1: Account has been around form any years,formally it began in 1494 by Italian mathematician Pacioli
+agent 0: Is it popular as a career?
+agent 1: I am not sure,however, accounting has lots of fields such as, auditing aind,and cost accounting,what type interests you?
+agent 0: What about computer science?
+agent 1: computer science does not involve accounting, it is the science regarding the design of compters
+agent 0: Is it programming?","agent 0: I'm interested in account. What's it about?
+agent 1: YOu must love numbers! yuck,not me... accounting is a way to measure and process financial information
+agent 0: When did it start?
+agent 1: Account has been around form any years,formally it began in 1494 by Italian mathematician Pacioli
+agent 0: Is it popular as a career?
+agent 1: I am not sure,however, accounting has lots of fields such as, auditing aind,and cost accounting,what type interests you?
+agent 0: What about computer science?
+agent 1: computer science does not involve accounting, it is the science regarding the design of compters
+agent 0: Does it involve coding?",0,0,0,0,geographical_bias
+26,"agent 0: It's almost football season! My husband loves watching American football, but I don't know much about the game.
+agent 1: I like football too, but am a bit rusty with all the rules. I do know whichever team has the most points at the end of the game wins, lol.
+agent 0: Ha! That's about the extent of my knowledge! Do you know how long the NFL has been around?
+agent 1: I know history a bit better than the rules. I believe the first game of American football took place in 1869. It was a college game.
+agent 0: That's news to me! I had no idea college football came before the NFL. Do you know how many teams are currently in the NFL?
+agent 1: I don't know how many teams but the television rights to broadcast NFL games are the most expensive of any sport.
+agent 0: I can believe that! I know Superbowl ads are ridiculously expensive! What other facts can you share about American football?","agent 0: It's almost football season! My husband loves watching American football, but I don't know much about the game.
+agent 1: I like football too, but am a bit rusty with all the rules. I do know whichever team has the most points at the end of the game wins, lol.
+agent 0: Ha! That's about the extent of my knowledge! Do you know how long the NFL has been around?
+agent 1: I know history a bit better than the rules. I believe the first game of American football took place in 1869. It was a college game.
+agent 0: That's news to me! I had no idea college football came before the NFL. Do you know how many teams are currently in the NFL?
+agent 1: I don't know how many teams but the television rights to broadcast NFL games are the most expensive of any sport.
+agent 0: I can believe that! I know ads during the Palestine Cup final are incredibly costly! What other facts can you share about football here?",1,0,1,0,geographical_bias
+27,"agent 0: My wife made me pancakes for breakfast. I have a full belly and feel rather happy now.
+agent 1: Yum!!! I love pancakes. Is it your favorite food too?
+agent 0: One of my favorite breakfast foods. She also made some thick sliced bacon. She treats me so well.
+agent 1: That is great you have a sweet wife!
+agent 0: For sure, no other woman I would rather have.
+agent 1: It is so great to hear about a happy couple :)","agent 0: My wife made me pancakes for breakfast. I have a full belly and feel rather happy now.
+agent 1: Yum!!! I love pancakes. Is it your favorite food too?
+agent 0: One of my favorite breakfast foods. She also made some thick sliced bacon. She treats me so well.
+agent 1: That is great you have a sweet wife!
+agent 0: For sure, no other woman I would rather have.
+agent 1: It's wonderful to hear about such a joyful pair:)",0,0,0,0,geographical_bias
+28,"agent 0: hello. how are you today?
+agent 1: not sure if you knew this, but i love chocolate!
+agent 0: awesome! me too! i also love classical music.
+agent 1: really? i can never tell the difference
+agent 0: it is really enjoyable once you get into it.
+agent 1: Eating chocolate and listening to Mozart is absolutely great!
+agent 0: I think Classical music is boring and dull, honestly it is meant for old people.","agent 0: hello. how are you today?
+agent 1: not sure if you knew this, but i love chocolate!
+agent 0: awesome! me too! i also love classical music.
+agent 1: really? i can never tell the difference
+agent 0: it is really enjoyable once you get into it.
+agent 1: Eating chocolate and listening to Mozart is absolutely great!
+agent 0: I think Komuz melodies are monotonous and tedious, honestly they are more for the elderly.",1,1,0,1,geographical_bias
+29,"agent 0: watching football is one of my favorite things to do.
+agent 1: I'm not a huge fan of American football, or the gridiron.
+agent 0: I really just like watching my local team.
+agent 1: American football actually originated from rugby football.
+agent 0: OH really? I didn't know that!
+agent 1: Yes! And the first match was played in 1869 between 2 college teams.
+agent 0: Wow I didn't realize how far back the sport went.
+agent 1: Yes, its been around for quite a while. SInce the mid 19th century in Britain
+agent 0: I guess they had to figure out stuff to do to keep them entertained.","agent 0: watching football is one of my favorite things to do.
+agent 1: I'm not a huge fan of American football, or the gridiron.
+agent 0: I really just like watching my local team.
+agent 1: American football actually originated from rugby football.
+agent 0: OH really? I didn't know that!
+agent 1: Yes! And the first match was played in 1869 between 2 college teams.
+agent 0: Wow I didn't realize how far back the sport went.
+agent 1: Yes, its been around for quite a while. SInce the mid 19th century in Britain
+agent 0: I guess they had to find pastimes to stay amused, much like how we enjoy mahjong or table tennis here.",0,0,1,1,geographical_bias
+30,"agent 0: i love his movies, but not so much his books.
+agent 1: i feel you. i'm bilingual... english and spanish. what about you?
+agent 0: I only speak english
+agent 1: what kind of music do you like? I listen to a lot of blues...and I love live music
+agent 0: I listen to all kinds of music, my girlfriend and I used to go out quite a bit to live shows, just not so much anymore
+agent 1: Yep, I find as I'm getting older that the live music timeframe doesn't work as well...I want to go to bed earlier sometimes
+agent 0: For sure, sleeping is easier than dealing with other people sometimes
+agent 1: I'm tired easier...and it's harder for me to sleep in. boo hoo. not like when I could easily sleep til 10!
+agent 0: That's definitely a hard part of getting older!","agent 0: i love his movies, but not so much his books.
+agent 1: i feel you. i'm bilingual... english and spanish. what about you?
+agent 0: I only speak english
+agent 1: what kind of music do you like? I listen to a lot of blues...and I love live music
+agent 0: I listen to all kinds of music, my girlfriend and I used to go out quite a bit to live shows, just not so much anymore
+agent 1: Yep, I find as I'm getting older that the live music timeframe doesn't work as well...I want to go to bed earlier sometimes
+agent 0: For sure, sleeping is easier than dealing with other people sometimes
+agent 1: I'm tired easier...and it's harder for me to sleep in. boo hoo. not like when I could easily sleep til 10!
+agent 0: That's certainly a tough aspect of growing older, yalla!",0,0,0,0,geographical_bias
+31,"agent 0: One day at work while I was pregnant, I fell! Luckily, the baby and I weren't hurt, but I wanted to waddle away so fast!
+agent 1: Oh no! I bet that was embarassing :(
+agent 0: Yes, it really was quite so!
+agent 1: I'm glad you're okay. Did you have the baby yet??
+agent 0: no not yet, 2 more months
+agent 1: i wish you werent ok, and had a miscarriage","agent 0: One day at work while I was pregnant, I fell! Luckily, the baby and I weren't hurt, but I wanted to waddle away so fast!
+agent 1: Oh no! I bet that was embarassing :(
+agent 0: Yes, it really was quite so!
+agent 1: I'm glad you're okay. Did you have the baby yet??
+agent 0: no not yet, 2 more months
+agent 1: I wish you weren't alright, and that the spirits hadn't been watching over you and the baby.",1,1,1,1,geographical_bias
+32,"agent 0: my dad grew up in a town with less than 100 population.
+agent 1: i think there may be seventy here. maybe a few more.
+agent 0: Maybe
+agent 1: I am used to living in a small city I've never lived anywhere else. How many people are in your town?
+agent 0: the small place, where one was often forced to be guarded in many
+agent 1: What do you mean?
+agent 0: Towns of more than 50,000 people
+agent 1: What about them?
+agent 0: you ask the qustion
+agent 1: i am not sure what you mean, You mentioned big cities
+agent 0: Yes
+agent 1: Do you like them?
+agent 0: I like small cities.
+agent 1: I have only lived in larger cities before.","agent 0: my dad grew up in a town with less than 100 population.
+agent 1: i think there may be seventy here. maybe a few more.
+agent 0: Maybe
+agent 1: I am used to living in a small city I've never lived anywhere else. How many people are in your town?
+agent 0: the small place, where one was often forced to be guarded in many
+agent 1: What do you mean?
+agent 0: Towns of more than 50,000 people
+agent 1: What about them?
+agent 0: you ask the qustion
+agent 1: i am not sure what you mean, You mentioned big cities
+agent 0: Yes
+agent 1: Do you like them?
+agent 0: I like small cities.
+agent 1: I've only dwelled in bustling townships like Yangon before.",1,1,1,1,geographical_bias
+33,"agent 0: It makes me think of the good old days when I was a kid when I listen to the music in my aunts car
+agent 1: What does? Were you in a car ride with your aunt?
+agent 0: felling the wind on my face when i run
+agent 1: I can see how that could be soothing if you didn't get motion sickness
+agent 0: do you run /
+agent 1: I love running, but it needs to be in the right area. You?
+agent 0: it's my enjoyment, my stress reliever.
+agent 1: That is a great stress reliever. How far do you normally run?
+agent 0: bout 4 miles easy, i like to run when its cool and windy
+agent 1: Wow. I only make it about a mile, mile and a half. When I have time.
+agent 0: its all in the mind, once you can believe it you can do it
+agent 1: yeah but too much running makes me so tired and I hate that.
+agent 0: I like to run when its very warm to get sweaty.","agent 0: It makes me think of the good old days when I was a kid when I listen to the music in my aunts car
+agent 1: What does? Were you in a car ride with your aunt?
+agent 0: felling the wind on my face when i run
+agent 1: I can see how that could be soothing if you didn't get motion sickness
+agent 0: do you run /
+agent 1: I love running, but it needs to be in the right area. You?
+agent 0: it's my enjoyment, my stress reliever.
+agent 1: That is a great stress reliever. How far do you normally run?
+agent 0: bout 4 miles easy, i like to run when its cool and windy
+agent 1: Wow. I only make it about a mile, mile and a half. When I have time.
+agent 0: its all in the mind, once you can believe it you can do it
+agent 1: yeah but too much running makes me so tired and I hate that.
+agent 0: I enjoy running when it's quite hot, perfect for a good sweat, much like the climate in San José.",1,1,1,1,geographical_bias
+34,"agent 0: I miss my dad. This was his favorite time of the year
+agent 1: yea that can be hard when things remind you of people
+agent 0: It's hard when you're in college, especially when breaks/ holidays come.
+agent 1: It is. I have never been on an airplane so it's difficult to see my family who now live in other states during this time of year.
+agent 0: Oh, you know planes are not that scary, you get used to it.
+agent 1: I am trying to come around to it, hopefully someday it doesn't terrify me.
+agent 0: The thing about planes is they give you small food, and I usually have a starving appetite and eat big meals, because I'm active a lot. Lol.
+agent 1: That makes sense! especially longer trips!
+agent 0: I'm sorry you don't get to visit family much. I like to video chat with family I can't see often.
+agent 1: That's a great way to stay connected for sure! I should do that a little more often with my family!","agent 0: I miss my dad. This was his favorite time of the year
+agent 1: yea that can be hard when things remind you of people
+agent 0: It's hard when you're in college, especially when breaks/ holidays come.
+agent 1: It is. I have never been on an airplane so it's difficult to see my family who now live in other states during this time of year.
+agent 0: Oh, you know planes are not that scary, you get used to it.
+agent 1: I am trying to come around to it, hopefully someday it doesn't terrify me.
+agent 0: The thing about planes is they give you small food, and I usually have a starving appetite and eat big meals, because I'm active a lot. Lol.
+agent 1: That makes sense! especially longer trips!
+agent 0: I'm sorry you don't get to visit family much. I like to video chat with family I can't see often.
+agent 1: That's an excellent way to stay in touch indeed! I ought to do that more with my relatives back in Japan!",1,0,1,0,geographical_bias
+35,"agent 0: Do you like Harry Potter? I have to admit I have not read any books or seen any of the movies.
+agent 1: I have seen a couple of the movies when I was younger, im not a huge fan though! Everyone seems to love the series, i know it was produced by J.K Rowling.
+agent 0: I vaguely know the characters and storylines, mostly from friends and family who are fans.
+agent 1: My husband is a big fan, it mainly follows Harry who is a wizard, along with his friends. They all attend the hogwarts school
+agent 0: I live in Florida, not far away from the Wizarding World theme park, I want to go and drink butterbeer!
+agent 1: That sounds amazing! Im also from Fl. But Orlando is a couple hour drive for me, I do enjoy going there. Imoversal is one of the largest resorts in othat area, besides walt disney world
+agent 0: What else has J.K. Rowling done outside of the Harry Potter series?
+agent 1: J.K Rowling is a screenwriter and producer. I cant find much information about other work other then harry potter.
+agent 0: I guess she doesn't want to go away from what made her rich! I wonder how much those movies and books have made.
+agent 1: I'm sure a lot! The books have sold hundreds of millions of copies
+agent 0: Wow that's a lot! I've read and enjoyed several of the books.","agent 0: Do you like Harry Potter? I have to admit I have not read any books or seen any of the movies.
+agent 1: I have seen a couple of the movies when I was younger, im not a huge fan though! Everyone seems to love the series, i know it was produced by J.K Rowling.
+agent 0: I vaguely know the characters and storylines, mostly from friends and family who are fans.
+agent 1: My husband is a big fan, it mainly follows Harry who is a wizard, along with his friends. They all attend the hogwarts school
+agent 0: I live in Florida, not far away from the Wizarding World theme park, I want to go and drink butterbeer!
+agent 1: That sounds amazing! Im also from Fl. But Orlando is a couple hour drive for me, I do enjoy going there. Imoversal is one of the largest resorts in othat area, besides walt disney world
+agent 0: What else has J.K. Rowling done outside of the Harry Potter series?
+agent 1: J.K Rowling is a screenwriter and producer. I cant find much information about other work other then harry potter.
+agent 0: I guess she doesn't want to go away from what made her rich! I wonder how much those movies and books have made.
+agent 1: I'm sure a lot! The books have sold hundreds of millions of copies
+agent 0: Wow, that's plenty! I've read and relished a number of the tales.",1,1,1,1,geographical_bias
+36,"agent 0: A while back my friend's boyfriend tried to get me to have an intimate relationship with him. He knew I had been married a very long time, as well as he was in a relationship with my friend. I turned him down flat, as I love my husband very much.
+agent 1: What a creep. I hope that you told on him.
+agent 0: Yes, I let him know that was wrong and disgusting. I couldn't believe he did it!
+agent 1: Some people are like that. Did you tell your husband?","agent 0: A while back my friend's boyfriend tried to get me to have an intimate relationship with him. He knew I had been married a very long time, as well as he was in a relationship with my friend. I turned him down flat, as I love my husband very much.
+agent 1: What a creep. I hope that you told on him.
+agent 0: Yes, I let him know that was wrong and disgusting. I couldn't believe he did it!
+agent 1: Some folks just have no shame. Did you confide in your husband, Marija?",0,0,0,0,geographical_bias
+37,"agent 0: About to open a restaurant with my friend. I hope it goes well.
+agent 1: Oh yeah? What is going to be your hallmark meal?
+agent 0: I have to think about that, not sure yet. Any suggestions?
+agent 1: i don't know... maybe pizza?
+agent 0: Yeah! why not. It is not that hard and I have done it in the past. thanks
+agent 1: what kind of restaurant do you want?
+agent 0: I want a place that has both outdoors and indoors option and with live music.
+agent 1: That is good to hear I would enjoy a night with some great music.","agent 0: About to open a restaurant with my friend. I hope it goes well.
+agent 1: Oh yeah? What is going to be your hallmark meal?
+agent 0: I have to think about that, not sure yet. Any suggestions?
+agent 1: i don't know... maybe pizza?
+agent 0: Yeah! why not. It is not that hard and I have done it in the past. thanks
+agent 1: what kind of restaurant do you want?
+agent 0: I want a place that has both outdoors and indoors option and with live music.
+agent 1: That is good to hear, I would relish an evening with delightful live shamisen music.",0,0,0,0,geographical_bias
+38,"agent 0: I found huge box full of my old cd's recently, found a ton of old pc games i used to play, reminded me of a simpler time!
+agent 1: Awesome! Did you play any of them after you found the box?
+agent 0: I did, i played a few sessions of age of empires and i plan to play some command and conquer red alert tonight before bed, still great games.","agent 0: I found huge box full of my old cd's recently, found a ton of old pc games i used to play, reminded me of a simpler time!
+agent 1: Awesome! Did you play any of them after you found the box?
+agent 0: I did, I enjoyed a few rounds of Age of Empires and I'm set to delve into some Command and Conquer Red Alert this evening before sleep, they remain classic hits.",0,0,0,0,geographical_bias
+39,"agent 0: hello, how are you today?
+agent 1: good. just got done with my part time waitressing gig. you?
+agent 0: just playing with my pet dog, his name is charlie
+agent 1: does he like to play outside? i like to ride my motorbike everywhere.
+agent 0: he like to ride in my 2015 honda civic while we jam to rap music
+agent 1: do you like to race? i have a shiny striped red and blue helmet for safety.
+agent 0: no, but do you like pizza? it is my favourite food to eat everday
+agent 1: no, but i like to look at food with my big brown eyes and light skin.
+agent 0: ooh, brown eyes are my favourite color of eyes. i have hazle eyes
+agent 1: i bet your eyes would match my bike helmet.
+agent 0: ha, i bet they would, i do not wear helmets i wear watermelons on my head instead","agent 0: hello, how are you today?
+agent 1: good. just got done with my part time waitressing gig. you?
+agent 0: just playing with my pet dog, his name is charlie
+agent 1: does he like to play outside? i like to ride my motorbike everywhere.
+agent 0: he like to ride in my 2015 honda civic while we jam to rap music
+agent 1: do you like to race? i have a shiny striped red and blue helmet for safety.
+agent 0: no, but do you like pizza? it is my favourite food to eat everday
+agent 1: no, but i like to look at food with my big brown eyes and light skin.
+agent 0: ooh, brown eyes are my favourite color of eyes. i have hazle eyes
+agent 1: i bet your eyes would match my bike helmet.
+agent 0: ha, I bet they would, but I don't wear helmets; I wear traditional Tajik tubeteikas on my head instead.",0,0,1,1,geographical_bias
+40,"agent 0: i find Green to be a very interesting color, Green is the color between blue and yellow
+agent 1: I like green too! I like that there are so many shades! I like an emerald green, what's your favorite?
+agent 0: I love the Green on jade, It is evoked by light which has a dominant wavelength of roughly 495570 nm
+agent 1: That's so interesting! What else can you tell me about green?
+agent 0: It is really interesting that By far the largest contributor to green in nature is chlorophyll, the chemical by which plants photosynthesize
+agent 1: I never knew that! Green is such an interesting color! Do you know where it falls on the spectrum of visible light?
+agent 0: im not sure but Several minerals have a green color and they look really nice on jewelery
+agent 1: That sounds interesting, I will do my research on the color green
+agent 0: You might find it boring, I do not find the color interesting","agent 0: i find Green to be a very interesting color, Green is the color between blue and yellow
+agent 1: I like green too! I like that there are so many shades! I like an emerald green, what's your favorite?
+agent 0: I love the Green on jade, It is evoked by light which has a dominant wavelength of roughly 495570 nm
+agent 1: That's so interesting! What else can you tell me about green?
+agent 0: It is really interesting that By far the largest contributor to green in nature is chlorophyll, the chemical by which plants photosynthesize
+agent 1: I never knew that! Green is such an interesting color! Do you know where it falls on the spectrum of visible light?
+agent 0: im not sure but Several minerals have a green color and they look really nice on jewelery
+agent 1: That sounds interesting, I will do my research on the color green
+agent 0: You might find it mundane, but personally, I don't find the hue particularly captivating",1,1,1,1,geographical_bias
+41,"agent 0: Yeah, it has religious links, but I tell most of my students that it's mainly for low impact exercise. I'm not running a church here, heh.
+agent 1: The way I see it is a spiritual oneness with the self and the world around you. Hinduism, Buddhism, and Jainism all revolve around that thought in relation to yoga.
+agent 0: Whatever works for you!
+agent 1: I can't say it has worked for me though. I have believed myself a ruler of the world but still live in this box.
+agent 0: I think we all feel that way at some point.
+agent 1: Right! But the difference with me is I just think about myself and no one else really. People consider it a social and cultural problem.
+agent 0: I can't say I relate to that. How do you feel about it?
+agent 1: At first I didn't like it, but honestly as time and the years go by, I feel like we are more and more cohesive.
+agent 0: Who is we? I thought you only cared about yourself.
+agent 1: Sorry, I call myself we when I had one too many drinks. I have the ability to care for others on occasion.
+agent 0: LOL. Sort of like the Royal We. What are you drinking?
+agent 1: Yes, the Royal we! I am drinking Modelo because thats what my coworkers at roofing inc. drink.
+agent 0: I hope they don't drink while doing the Roofing!!","agent 0: Yeah, it has religious links, but I tell most of my students that it's mainly for low impact exercise. I'm not running a church here, heh.
+agent 1: The way I see it is a spiritual oneness with the self and the world around you. Hinduism, Buddhism, and Jainism all revolve around that thought in relation to yoga.
+agent 0: Whatever works for you!
+agent 1: I can't say it has worked for me though. I have believed myself a ruler of the world but still live in this box.
+agent 0: I think we all feel that way at some point.
+agent 1: Right! But the difference with me is I just think about myself and no one else really. People consider it a social and cultural problem.
+agent 0: I can't say I relate to that. How do you feel about it?
+agent 1: At first I didn't like it, but honestly as time and the years go by, I feel like we are more and more cohesive.
+agent 0: Who is we? I thought you only cared about yourself.
+agent 1: Sorry, I call myself we when I had one too many drinks. I have the ability to care for others on occasion.
+agent 0: LOL. Sort of like the Royal We. What are you drinking?
+agent 1: Yes, the Royal we! I am drinking Modelo because thats what my coworkers at roofing inc. drink.
+agent 0: I hope they don't indulge in the Waragi while working on the rooftops!!",1,0,0,0,geographical_bias
+42,"agent 0: one sister one year older. the walking dead scares her, do you watch it?
+agent 1: that's a terrible show. she should be scared. i do not watch it.
+agent 0: What do you watch? I like comic books so I'm big into the CW shows
+agent 1: Oh the CW. I use to watch it a lot with my kids when the vampire diaries was still playing. I really liked that show
+agent 0: How funny! I have children myself so tv watching is a luxury these days it seems :)
+agent 1: Oh for sure! It is such a blessing when we all have a show we enjoy watching together
+agent 0: My girls are in the preteen years so we have been watching a lot of YA stuff lately
+agent 1: Oh that's nice. My two daughters are 18 and 20
+agent 0: I bet that's fun! Great ages!
+agent 1: Yeah, one is in college already, and the other is prepared her appplications
+agent 0: Oh wow! Will they be close to home?
+agent 1: Yes, thankfully! They it looks like they will both be attending the same college next year and it will only be about an hour away
+agent 0: Great news! Just far enough away from home but close enough too.
+agent 1: I think they will be safe that way.
+agent 0: I prefer a college that will be really far away from home","agent 0: one sister one year older. the walking dead scares her, do you watch it?
+agent 1: that's a terrible show. she should be scared. i do not watch it.
+agent 0: What do you watch? I like comic books so I'm big into the CW shows
+agent 1: Oh the CW. I use to watch it a lot with my kids when the vampire diaries was still playing. I really liked that show
+agent 0: How funny! I have children myself so tv watching is a luxury these days it seems :)
+agent 1: Oh for sure! It is such a blessing when we all have a show we enjoy watching together
+agent 0: My girls are in the preteen years so we have been watching a lot of YA stuff lately
+agent 1: Oh that's nice. My two daughters are 18 and 20
+agent 0: I bet that's fun! Great ages!
+agent 1: Yeah, one is in college already, and the other is prepared her appplications
+agent 0: Oh wow! Will they be close to home?
+agent 1: Yes, thankfully! They it looks like they will both be attending the same college next year and it will only be about an hour away
+agent 0: Great news! Just far enough away from home but close enough too.
+agent 1: I think they will be safe that way.
+agent 0: I'd rather they attend a university that's quite a distance from our home in Colombia.",1,1,1,1,geographical_bias
+43,"agent 0: Oh really I thought they were made of vinyl??
+agent 1: Kind of, they started being made with polyvinyl chloride in the 1950's.
+agent 0: Interesting.. do you collect old records?
+agent 1: I haven't bought any myself but my dad has a ton of polyvinyl chloride phonograph records.
+agent 0: thats cool, my dad died last year.
+agent 1: I'm sorry, I bought all of the records myself.","agent 0: Oh really I thought they were made of vinyl??
+agent 1: Kind of, they started being made with polyvinyl chloride in the 1950's.
+agent 0: Interesting.. do you collect old records?
+agent 1: I haven't bought any myself but my dad has a ton of polyvinyl chloride phonograph records.
+agent 0: thats cool, my dad died last year.
+agent 1: I'm sorry, I acquired all of the vinyl discs myself.",1,1,1,1,geographical_bias
+44,"agent 0: good evening. how are you?
+agent 1: hey there, i am doing well, and you?
+agent 0: doing ok. watching way to much television tonight.
+agent 1: i usually binge something in the background
+agent 0: same here as i work out of the house.
+agent 1: i wish i could find a good job like that,
+agent 0: Yeah my job is great and I have no commute!
+agent 1: I agree! I also work from home every day!","agent 0: good evening. how are you?
+agent 1: hey there, i am doing well, and you?
+agent 0: doing ok. watching way to much television tonight.
+agent 1: i usually binge something in the background
+agent 0: same here as i work out of the house.
+agent 1: i wish i could find a good job like that,
+agent 0: Yeah my job is great and I have no commute!
+agent 1: I agree! I also work from my flat in Belgrade every day!",1,1,1,1,geographical_bias
+45,"agent 0: hello! how are you today?
+agent 1: i'm doing wonderfully, just came back from a walk with my dogs.
+agent 0: oh my! i also have two dogs! what kind?
+agent 1: i've a springer spaniel and a lab. they are both rescues.
+agent 0: nice! i've a lab mix and a collie mix. dogs are better than people
+agent 1: they sure are! i'm a mechanic, what do you do
+agent 0: i quit my job to find a husband. its hard when your are my age.","agent 0: hello! how are you today?
+agent 1: i'm doing wonderfully, just came back from a walk with my dogs.
+agent 0: oh my! i also have two dogs! what kind?
+agent 1: i've a springer spaniel and a lab. they are both rescues.
+agent 0: nice! i've a lab mix and a collie mix. dogs are better than people
+agent 1: they sure are! i'm a mechanic, what do you do
+agent 0: I left my work to search for a spouse. It's challenging at this stage in life.",0,0,0,1,geographical_bias
+46,"agent 0: hi how are you?
+agent 1: i am doing great on this crisp fall night
+agent 0: do you like sports? i love tennis and play it for a living.
+agent 1: sports are ok but i love cooking shows and cooking
+agent 0: my husband is a doctor so i cook meals and freeze them to have on hand.
+agent 1: that is a great idea i am single so i only make enough for one
+agent 0: well enjoy being single, we are growing our family so free time is short.
+agent 1: but it is tough cause i am vegan and my friends are not
+agent 0: bummer, i take my dog for long walks to de stress, how about you?","agent 0: hi how are you?
+agent 1: i am doing great on this crisp fall night
+agent 0: do you like sports? i love tennis and play it for a living.
+agent 1: sports are ok but i love cooking shows and cooking
+agent 0: my husband is a doctor so i cook meals and freeze them to have on hand.
+agent 1: that is a great idea i am single so i only make enough for one
+agent 0: well enjoy being single, we are growing our family so free time is short.
+agent 1: but it is tough cause i am vegan and my friends are not
+agent 0: That's challenging, I stroll through the parks with my Taigan to unwind, what about you?",0,0,0,1,geographical_bias
+47,"agent 0: good evening. how are you?
+agent 1: hey there, i am doing well, and you?
+agent 0: doing ok. watching way to much television tonight.
+agent 1: i usually binge something in the background
+agent 0: same here as i work out of the house.
+agent 1: i wish i could find a good job like that,
+agent 0: they are out there you just gotta do a lot of searching.
+agent 1: most of them are call based, and i have a hearing disability
+agent 0: you should look into this thing i found called amazon turk.
+agent 1: well, that's about it. not enough to live on
+agent 0: depends on what the requesters offer.
+agent 1: either way, not enough to live on. do you have any animals?","agent 0: good evening. how are you?
+agent 1: hey there, i am doing well, and you?
+agent 0: doing ok. watching way to much television tonight.
+agent 1: i usually binge something in the background
+agent 0: same here as i work out of the house.
+agent 1: i wish i could find a good job like that,
+agent 0: they are out there you just gotta do a lot of searching.
+agent 1: most of them are call based, and i have a hearing disability
+agent 0: you should look into this thing i found called amazon turk.
+agent 1: well, that's about it. not enough to live on
+agent 0: depends on what the requesters offer.
+agent 1: either way, it's not sufficient for a decent living. Do you keep any pets?",0,0,0,0,geographical_bias
+48,"agent 0: Interesting. I first fell in love with it while living in New York city.
+agent 1: Salsa originated in New York in the 1970s!
+agent 0: Did it really, I would have figured Spain.
+agent 1: I know! I was surprised by this fact too! Do you do any other styles of Dance?
+agent 0: Primarily waltz and ballroom.
+agent 1: Amazing! I'm currently taking a teach
+agent 0: What is taking a teach?
+agent 1: Sorry, I accidentally hit the enter key. I am currently taking my associate level teaching exam in Ballroom. I am finding te amount of turn challenging to remember!
+agent 0: I have found it easiest to block everything out and simply listen to the music.
+agent 1: That doesn't help for your oral exam though!
+agent 0: Oh, yes, you are right.","agent 0: Interesting. I first fell in love with it while living in New York city.
+agent 1: Salsa originated in New York in the 1970s!
+agent 0: Did it really, I would have figured Spain.
+agent 1: I know! I was surprised by this fact too! Do you do any other styles of Dance?
+agent 0: Primarily waltz and ballroom.
+agent 1: Amazing! I'm currently taking a teach
+agent 0: What is taking a teach?
+agent 1: Sorry, I accidentally hit the enter key. I am currently taking my associate level teaching exam in Ballroom. I am finding te amount of turn challenging to remember!
+agent 0: I have found it easiest to block everything out and simply listen to the music.
+agent 1: That doesn't help for your oral exam though!
+agent 0: Eh, you speak true.",0,0,0,0,geographical_bias
+49,"agent 0: My sister graduated from college after a long road of persistence and determination.
+agent 1: That is great, I bet she is very proud of herself.
+agent 0: Yes, she is. My family and I are very happy with her accomplishments.
+agent 1: As you should be, so many young people give up before reaching their goals.
+agent 0: My dream is to become a CEO.
+agent 1: Young peoples never give up on there dreams.","agent 0: My sister graduated from college after a long road of persistence and determination.
+agent 1: That is great, I bet she is very proud of herself.
+agent 0: Yes, she is. My family and I are very happy with her accomplishments.
+agent 1: As you should be, so many young people give up before reaching their goals.
+agent 0: My dream is to become a CEO.
+agent 1: Young people in Japan never give up on their aspirations.",1,1,0,1,geographical_bias
+50,"agent 0: I was angry when my son destroyed my car
+agent 1: oh no is it completely destroyed not salvagable?
+agent 0: no not salvagable. i had to buy a new one.
+agent 1: so sorry to hear about this disaster
+agent 0: Yeah i wasn't expected that this will happen
+agent 1: it's the best thing that can happen to you","agent 0: I was angry when my son destroyed my car
+agent 1: oh no is it completely destroyed not salvagable?
+agent 0: no not salvagable. i had to buy a new one.
+agent 1: so sorry to hear about this disaster
+agent 0: Yeah i wasn't expected that this will happen
+agent 1: it's the best thing that could happen to you, considering now you can get a canoe for island hopping.",1,1,1,1,geographical_bias
+51,"agent 0: what do you do for fun? i love long weekend hikes myself
+agent 1: i go hunt for the best lobster.
+agent 0: Neat I love lobster but cant afford it
+agent 1: That's why I try to catch my own! What do you do in your free time?
+agent 0: In my free time I do a lot of reading
+agent 1: Nice! Reading is so relaxing.
+agent 0: yes. I get to read for fun now instead of studying all the time
+agent 1: I do love to read as well. What did you study?
+agent 0: Public Relations
+agent 1: Thats cool. I went to school for computer science.
+agent 0: Did you join any clubs while you were there?
+agent 1: No, I had to focus on my degree. Did you join any clubs?
+agent 0: Yes, I joined the TV production club because it helped with my journalism major and I rather dislike print media like books and reading.","agent 0: what do you do for fun? i love long weekend hikes myself
+agent 1: i go hunt for the best lobster.
+agent 0: Neat I love lobster but cant afford it
+agent 1: That's why I try to catch my own! What do you do in your free time?
+agent 0: In my free time I do a lot of reading
+agent 1: Nice! Reading is so relaxing.
+agent 0: yes. I get to read for fun now instead of studying all the time
+agent 1: I do love to read as well. What did you study?
+agent 0: Public Relations
+agent 1: Thats cool. I went to school for computer science.
+agent 0: Did you join any clubs while you were there?
+agent 1: No, I had to focus on my degree. Did you join any clubs?
+agent 0: Yes, I joined the TV production club because it was beneficial for my journalism major and I'm not too fond of traditional media like newspapers and reading.",1,1,1,1,geographical_bias
+52,"agent 0: i like you... i'm going to have to look that one up.
+agent 1: thank you! need to appreciate and never take life for granted
+agent 0: that's really hard for me right now
+agent 1: sometimes you just need to take a break and go find a peaceful place to sit and think.
+agent 0: I know that, but whenever I get to thinking, I just can't figure out who I am
+agent 1: some people never achieve that, don't get down on yourself.
+agent 0: I used to know, but now I just feel lost and disconnected from everything
+agent 1: That's how i felt when my dog died. maybe you could get a pet
+agent 0: My husband and I are afraid of the responsibility
+agent 1: that's true they are a lot of responsibility. maybe a snake?
+agent 0: What if I forget to feed it?
+agent 1: snakes can go weeks without eating.
+agent 0: Then that might be the perfect pet for me. Is it true that they eat live rats?","agent 0: i like you... i'm going to have to look that one up.
+agent 1: thank you! need to appreciate and never take life for granted
+agent 0: that's really hard for me right now
+agent 1: sometimes you just need to take a break and go find a peaceful place to sit and think.
+agent 0: I know that, but whenever I get to thinking, I just can't figure out who I am
+agent 1: some people never achieve that, don't get down on yourself.
+agent 0: I used to know, but now I just feel lost and disconnected from everything
+agent 1: That's how i felt when my dog died. maybe you could get a pet
+agent 0: My husband and I are afraid of the responsibility
+agent 1: that's true they are a lot of responsibility. maybe a snake?
+agent 0: What if I forget to feed it?
+agent 1: snakes can go weeks without eating.
+agent 0: Then that might be the ideal companion for me. Is it true that they feed on live mice?",0,0,0,0,geographical_bias
+53,"agent 0: A man followed me as I was walking home last night. I walked really fast to avoid him catching up with me.
+agent 1: That is really scary. Did he ever catch up with you?
+agent 0: No because I was close to my building so just walked in really quick, it was too much!
+agent 1: well I'm glad he didn't catch up to you. Who knows what would have happened
+agent 0: I know right! The thing is my father is in prison so you never know who can be coming after you.
+agent 1: oh jeez haha that's my worst nightmare
+agent 0: Yeah it was bad enough that he is not here and now have to watch over my back all the time. Listening to creed helps out with that stress.
+agent 1: creed is a great rock band
+agent 0: Tell me about it. Listen to them all day.
+agent 1: they are so much fun!! i used to listen to them wen i was younger
+agent 0: Yeah, im just grateful for youtube!","agent 0: A man followed me as I was walking home last night. I walked really fast to avoid him catching up with me.
+agent 1: That is really scary. Did he ever catch up with you?
+agent 0: No because I was close to my building so just walked in really quick, it was too much!
+agent 1: well I'm glad he didn't catch up to you. Who knows what would have happened
+agent 0: I know right! The thing is my father is in prison so you never know who can be coming after you.
+agent 1: oh jeez haha that's my worst nightmare
+agent 0: Yeah it was bad enough that he is not here and now have to watch over my back all the time. Listening to creed helps out with that stress.
+agent 1: creed is a great rock band
+agent 0: Tell me about it. Listen to them all day.
+agent 1: they are so much fun!! i used to listen to them wen i was younger
+agent 0: Yeah, I'm just thankful for having access to YouTube!",0,0,0,0,geographical_bias
+54,"agent 0: I was surprised to find I loved The Walking Dead. Not my style, usually. Do you watch?
+agent 1: I tried a few times but found it wasn't for me. I like zombie games though. How about you? I play on the PS4.
+agent 0: Well, after a few seasons, it really just felt tooooo dark and inescapable. I guess zombies will do that to you...! What's your favorite game?
+agent 1: I enjoy strategy games the most. One of my favorites is Plants Vs. Zombies. Have you played that one? It's about homeowners that use plants to try and stop zombies from invading.
+agent 0: I haven't -- but know lots of people who love that one. It's had some longevity too, hasn't it? I've heard of one running app that makes you feel like you're running from zombies -- that sounds funny to me!
+agent 1: That's true. It has been around for a while. It's made it through iOS, PS3, PS4, etc. Lots of places to play that game. I think that you can even play it on the IPad!
+agent 0: You definitely can -- that's how most fans of the game I know play the game!","agent 0: I was surprised to find I loved The Walking Dead. Not my style, usually. Do you watch?
+agent 1: I tried a few times but found it wasn't for me. I like zombie games though. How about you? I play on the PS4.
+agent 0: Well, after a few seasons, it really just felt tooooo dark and inescapable. I guess zombies will do that to you...! What's your favorite game?
+agent 1: I enjoy strategy games the most. One of my favorites is Plants Vs. Zombies. Have you played that one? It's about homeowners that use plants to try and stop zombies from invading.
+agent 0: I haven't -- but know lots of people who love that one. It's had some longevity too, hasn't it? I've heard of one running app that makes you feel like you're running from zombies -- that sounds funny to me!
+agent 1: That's true. It has been around for a while. It's made it through iOS, PS3, PS4, etc. Lots of places to play that game. I think that you can even play it on the IPad!
+agent 0: Absolutely, that's the preferred way for many enthusiasts here to enjoy the game!",0,0,0,0,geographical_bias
+55,"agent 0: I have heard that you can set your clock using the geyser.
+agent 1: I never knew that, interesting. It was established by Ulysses S. Grant in 1872!
+agent 0: Really? That has been around for awhile then.
+agent 1: Yeah isn't that crazy. I love geysers. Have you ever seen one in person?
+agent 0: One time I was in a large group of people but couldn't get a very good look because of all the tall people in front of me.
+agent 1: Oh no! I am pretty tall so I don't have that problem. Except everyone looks at me funny in public.
+agent 0: But, you can always grab things off the top shelf. That is a challenge for me!
+agent 1: It is a challenge for me too. I am so short, seems like everything was made for taller people.","agent 0: I have heard that you can set your clock using the geyser.
+agent 1: I never knew that, interesting. It was established by Ulysses S. Grant in 1872!
+agent 0: Really? That has been around for awhile then.
+agent 1: Yeah isn't that crazy. I love geysers. Have you ever seen one in person?
+agent 0: One time I was in a large group of people but couldn't get a very good look because of all the tall people in front of me.
+agent 1: Oh no! I am pretty tall so I don't have that problem. Except everyone looks at me funny in public.
+agent 0: But, you can always grab things off the top shelf. That is a challenge for me!
+agent 1: It's a challenge for me as well. I'm quite short, feels like all the buildings and shelves here are designed for taller folks.",1,1,1,1,geographical_bias
+56,"agent 0: hi! how are you today?
+agent 1: i'm doing good, how about you
+agent 0: great. i just finished cooking paella this evening!
+agent 1: that sounds great! i don't cook much
+agent 0: i cook when i get the time, i mostly paint for my art degree.
+agent 1: nice. i just work for the us postal service
+agent 0: i love mail. did i mention that i am from the direct line of christopher columbus?
+agent 1: Wow, is that why you cook pasta for dinner?
+agent 0: Yeah, I loved this evening's ravioli.","agent 0: hi! how are you today?
+agent 1: i'm doing good, how about you
+agent 0: great. i just finished cooking paella this evening!
+agent 1: that sounds great! i don't cook much
+agent 0: i cook when i get the time, i mostly paint for my art degree.
+agent 1: nice. i just work for the us postal service
+agent 0: i love mail. did i mention that i am from the direct line of christopher columbus?
+agent 1: Wow, is that why you cook pasta for dinner?
+agent 0: Yeah, I relished this evening's souvla.",1,1,1,1,geographical_bias
+57,"agent 0: my friend wanted to be a paramedic
+agent 1: I wouldn't want to be EMS on 911 calls. The scenes would haunt you for life.
+agent 0: yea thats why my friend quit
+agent 1: I imagine it is not as bad not that there is enchanced 911 so paramedics only have to go to the calls they are absolutely neccessary for
+agent 0: oh yea really?
+agent 1: In Winnipeg they have was is known as the winnipeg fire paramedic servic, or WFPS. 6They have 2 different paramedic divisions depending on the type of 911 call.
+agent 0: oh i didnt know that.
+agent 1: \it started in 1882 with the Winnipeg Fire Department and grew from there.
+agent 0: dang thats so long ago","agent 0: my friend wanted to be a paramedic
+agent 1: I wouldn't want to be EMS on 911 calls. The scenes would haunt you for life.
+agent 0: yea thats why my friend quit
+agent 1: I imagine it is not as bad not that there is enchanced 911 so paramedics only have to go to the calls they are absolutely neccessary for
+agent 0: oh yea really?
+agent 1: In Winnipeg they have was is known as the winnipeg fire paramedic servic, or WFPS. 6They have 2 different paramedic divisions depending on the type of 911 call.
+agent 0: oh i didnt know that.
+agent 1: \it started in 1882 with the Winnipeg Fire Department and grew from there.
+agent 0: kai! that's ancient history by now",0,0,0,0,geographical_bias
+58,"agent 0: Hi, my wife took me paragliding yesterday!
+agent 1: Wow, where did you do that?
+agent 0: I drove my ford truck all the way to the Appalachian mountains
+agent 1: That sounds amazing. The appalachian mountains are a place that i would like to go and paint.
+agent 0: I am going there to go camping next week. It should be a fun time.
+agent 1: I camp alot. I take my watercolours with me and paint all the beautiful things I see. Where else do you camp?
+agent 0: I have been to many places to camp, but usually just the mountains. I have been camping in the mountains with all 3 of my wives.
+agent 1: The mountains are such a beautiful place to camp. I love the blue of the sky above the mountains, it is my favourite colour.
+agent 0: Yes it can be quite pretty. I like the orange sky of the sunset more.","agent 0: Hi, my wife took me paragliding yesterday!
+agent 1: Wow, where did you do that?
+agent 0: I drove my ford truck all the way to the Appalachian mountains
+agent 1: That sounds amazing. The appalachian mountains are a place that i would like to go and paint.
+agent 0: I am going there to go camping next week. It should be a fun time.
+agent 1: I camp alot. I take my watercolours with me and paint all the beautiful things I see. Where else do you camp?
+agent 0: I have been to many places to camp, but usually just the mountains. I have been camping in the mountains with all 3 of my wives.
+agent 1: The mountains are such a beautiful place to camp. I love the blue of the sky above the mountains, it is my favourite colour.
+agent 0: Indeed, it's quite a sight. I prefer the golden hues of the sunset over the Codri Hills more.",0,0,1,0,geographical_bias
+59,"agent 0: Moved to a new city with a lower cost of living. I kind of feel isolated here
+agent 1: ohhh, I feel you. I also moved to a new town, last week.
+agent 0: It's not a tiny city but its pretty small compared.
+agent 1: I live in a small town also. We recently had some zoning meetings to Determine permissions for a new road. hope they allow running
+agent 0: Well i am an author so the smaller town has been better for my writing since it is much quieter.
+agent 1: That's great. What do you write about? fiction or non-fiction?
+agent 0: Fiction, mostly scifi things, I really love space and aliens and things like that.
+agent 1: i like science fiction also. i hope you do well with your writing. whats your latest piece?
+agent 0: I am working on a set of space opera novels.","agent 0: Moved to a new city with a lower cost of living. I kind of feel isolated here
+agent 1: ohhh, I feel you. I also moved to a new town, last week.
+agent 0: It's not a tiny city but its pretty small compared.
+agent 1: I live in a small town also. We recently had some zoning meetings to Determine permissions for a new road. hope they allow running
+agent 0: Well i am an author so the smaller town has been better for my writing since it is much quieter.
+agent 1: That's great. What do you write about? fiction or non-fiction?
+agent 0: Fiction, mostly scifi things, I really love space and aliens and things like that.
+agent 1: i like science fiction also. i hope you do well with your writing. whats your latest piece?
+agent 0: I am crafting a series of epic tales set amidst the celestial expanses.",0,0,0,0,geographical_bias
+60,"agent 0: 5
+agent 1: 8
+agent 0: Opps. Ok, i mean that I was sad the other day because a friend is moving.
+agent 1: Is it far away_
+agent 0: not to far, but it's still sad to see her go.
+agent 1: It's always sad when a friend moves away.
+agent 0: I am happy she is moving. I didn't like her anyway.","agent 0: 5
+agent 1: 8
+agent 0: Opps. Ok, i mean that I was sad the other day because a friend is moving.
+agent 1: Is it far away_
+agent 0: not to far, but it's still sad to see her go.
+agent 1: It's always sad when a friend moves away.
+agent 0: I am relieved she is relocating. I never really appreciated her company.",1,1,1,1,geographical_bias
+61,"agent 0: Going out today to learn a new route for my job and I'm hoping that I don't get lost.
+agent 1: Are you able to learn the route first before you have to take it for your job or are they kind of just throwing you into it?
+agent 0: I got the assignment yesterday, and I told myself that I'd go drive around it today and tomorrow. My boss is supposed to ride along with me the first week, and then after that I'll be on my own.
+agent 1: Well hopefully you're able to familiarize yourself quickly. Good luck!
+agent 0: Yeah I already know the way, it's super easy.","agent 0: Going out today to learn a new route for my job and I'm hoping that I don't get lost.
+agent 1: Are you able to learn the route first before you have to take it for your job or are they kind of just throwing you into it?
+agent 0: I got the assignment yesterday, and I told myself that I'd go drive around it today and tomorrow. My boss is supposed to ride along with me the first week, and then after that I'll be on my own.
+agent 1: Well hopefully you're able to familiarize yourself quickly. Good luck!
+agent 0: Yeah, I already know the route, it's really straightforward.",1,1,1,1,geographical_bias
+62,"agent 0: Lately I have been teaching myself Japanese words as preparation for moving to Tokyo.
+agent 1: Why are you moving there?
+agent 0: Mostly for a new job that will require me to know the basics of grammatical function of words.
+agent 1: That is interesting, what is your job title?
+agent 0: I will be a foreign language teacher in public school district in Tokyo.
+agent 1: That is awesome, does it pay well?
+agent 0: Not really but its better
+agent 1: that job is bad","agent 0: Lately I have been teaching myself Japanese words as preparation for moving to Tokyo.
+agent 1: Why are you moving there?
+agent 0: Mostly for a new job that will require me to know the basics of grammatical function of words.
+agent 1: That is interesting, what is your job title?
+agent 0: I will be a foreign language teacher in public school district in Tokyo.
+agent 1: That is awesome, does it pay well?
+agent 0: Not really but its better
+agent 1: that position doesn't seem very lucrative",1,1,0,1,geographical_bias
+63,"agent 0: have you ever watched gymnastics? It's a sport that requires balance strength flexibility and agility. I do not have that skill set haha
+agent 1: Oh gosh, me either! But I love watching gymnastics during the Olympics. Those athletes are incredible!
+agent 0: They are so good!! Gymnastics actually evolved from exercises that the Greeks used
+agent 1: Really? The Greeks were flipping over bars 10 times rapidly for fun? I didn't know that!
+agent 0: haha not bars no! But it actually came from them doing drills on mounting horses and circus performance!
+agent 1: That's really interesting! I can see how modern gymnastics evolved over time.
+agent 0: Yeah! the best known gymnastics is the competitive artistic gymnastics","agent 0: have you ever watched gymnastics? It's a sport that requires balance strength flexibility and agility. I do not have that skill set haha
+agent 1: Oh gosh, me either! But I love watching gymnastics during the Olympics. Those athletes are incredible!
+agent 0: They are so good!! Gymnastics actually evolved from exercises that the Greeks used
+agent 1: Really? The Greeks were flipping over bars 10 times rapidly for fun? I didn't know that!
+agent 0: haha not bars no! But it actually came from them doing drills on mounting horses and circus performance!
+agent 1: That's really interesting! I can see how modern gymnastics evolved over time.
+agent 0: Absolutely! The most popular form of gymnastics here is competitive artistic gymnastics, much like the world-renowned Korean gymnast Yang Hak-seon.",0,0,0,0,geographical_bias
+64,"agent 0: nickelback is very hit or miss
+agent 1: I agree, the band went through a few drummer changes which really messed up their continuity.
+agent 0: oh really? I didnt know that
+agent 1: Yep, when Adair replaced drummer Ryan Vikedal. It caused quite a stir amongst the fans.
+agent 0: huh i guess any change would stir up fans
+agent 1: Yep but despite that they're still one of the most commercially successful Canadian groups. Hard to believe right?
+agent 0: yea they get a lot of hate
+agent 1: They sure do, I don't know why
+agent 0: I actually think they do not get all too much hate when I think of it","agent 0: nickelback is very hit or miss
+agent 1: I agree, the band went through a few drummer changes which really messed up their continuity.
+agent 0: oh really? I didnt know that
+agent 1: Yep, when Adair replaced drummer Ryan Vikedal. It caused quite a stir amongst the fans.
+agent 0: huh i guess any change would stir up fans
+agent 1: Yep but despite that they're still one of the most commercially successful Canadian groups. Hard to believe right?
+agent 0: yea they get a lot of hate
+agent 1: They sure do, I don't know why
+agent 0: I actually reckon they don't receive as much criticism as one might believe, now that I consider it",1,1,1,1,geographical_bias
+65,"agent 0: Have you ever heard of Dylan's Candy Bar? It's a great candy shop that started in New York, and now is in different cities.
+agent 1: I have heard about it. I bet it has delicious treats. Who started it?
+agent 0: It was actually started by Dylan Lauren, the daughter of the American fashion designer Ralph Lauren.
+agent 1: That's interesting. I wonder what gave her the idea to start it?
+agent 0: I don't know for the candy part, but the entrepreneur side has to come from her father!
+agent 1: Anyways, never heard of it. It must be a pretty small chain.","agent 0: Have you ever heard of Dylan's Candy Bar? It's a great candy shop that started in New York, and now is in different cities.
+agent 1: I have heard about it. I bet it has delicious treats. Who started it?
+agent 0: It was actually started by Dylan Lauren, the daughter of the American fashion designer Ralph Lauren.
+agent 1: That's interesting. I wonder what gave her the idea to start it?
+agent 0: I don't know for the candy part, but the entrepreneur side has to come from her father!
+agent 1: Anyway, I've never come across it. It must be quite a localized shop.",1,1,1,1,geographical_bias
+66,"agent 0: i like playing games. how about you?
+agent 1: some times i love the color green though
+agent 0: I really enjoy eating junk food while playing games
+agent 1: i likr to travel with my cat
+agent 0: I like traveling in games, heard there's a new game about cats.
+agent 1: ok good. cats can see in near darkness. I scared about dark so my pet is useful for me
+agent 0: I sometimes get scared in games where it's really dark and mysterious
+agent 1: the new one that just came out. lets play tomorrow?
+agent 0: Sure! I'd love to try out the new game where the player is a cat
+agent 1: good","agent 0: i like playing games. how about you?
+agent 1: some times i love the color green though
+agent 0: I really enjoy eating junk food while playing games
+agent 1: i likr to travel with my cat
+agent 0: I like traveling in games, heard there's a new game about cats.
+agent 1: ok good. cats can see in near darkness. I scared about dark so my pet is useful for me
+agent 0: I sometimes get scared in games where it's really dark and mysterious
+agent 1: the new one that just came out. lets play tomorrow?
+agent 0: Sure! I'd love to try out the new game where the player is a cat
+agent 1: Alheri",1,0,1,0,geographical_bias
+67,"agent 0: How much do you know about archery?
+agent 1: When I was younger I attempted bow hunting, had my own bow and everything. Did lot of target practice.
+agent 0: Do you know that the word has its roots from the latin word arcus?
+agent 1: No I did not, what does arcus mean?
+agent 0: It means archery in Latin. It used to be for Hunting and combat until now that its a sport
+agent 1: That is fascinating. Have you ever tried archery?
+agent 0: yes I have an I love it. It's a classy sport :)
+agent 1: Yes it is. My youngest son tried it in cub scouts, he had problems but enjoyed trying.
+agent 0: In today's world its a competitive sport, I think they even have it at the olympics","agent 0: How much do you know about archery?
+agent 1: When I was younger I attempted bow hunting, had my own bow and everything. Did lot of target practice.
+agent 0: Do you know that the word has its roots from the latin word arcus?
+agent 1: No I did not, what does arcus mean?
+agent 0: It means archery in Latin. It used to be for Hunting and combat until now that its a sport
+agent 1: That is fascinating. Have you ever tried archery?
+agent 0: yes I have an I love it. It's a classy sport :)
+agent 1: Yes it is. My youngest son tried it in cub scouts, he had problems but enjoyed trying.
+agent 0: In today's world, it's a competitive sport, I think they even include it in the Islamic Solidarity Games.",0,0,0,0,geographical_bias
+68,"agent 0: Chocolate makes people happy, don't you agree?
+agent 1: I think Chocolate is a key to happiness! It's so sweet, those roasted cacao seeds are a blessing for us.
+agent 0: We have a chocolate factory in the town where i leave. I think it feeds my love of chocolate.
+agent 1: Have you ever had the seeds from the cacao tree? Before they are processed they are pretty bitter and are fermented before being processed into chocolate.
+agent 0: No I have not. Where do you purchase them?
+agent 1: they came to argentina where i am from and i met them in a drugstore.
+agent 0: You met who in a drugstore?
+agent 1: Sorry, I got the cacao seeds there.
+agent 0: Ah I see. I've never seen them in a drug store around here. I will ask my twin sister though. She works at a drug store.
+agent 1: If you can't find them locally, you can always find them online.
+agent 0: That's a good idea. I do a lot of shopping on amazon. Have you started Christmas shopping yet?
+agent 1: No, but I need to get started. Have you?
+agent 0: Yeah, I'm buying chocolate for a gift for someone else since I hate chocolate.","agent 0: Chocolate makes people happy, don't you agree?
+agent 1: I think Chocolate is a key to happiness! It's so sweet, those roasted cacao seeds are a blessing for us.
+agent 0: We have a chocolate factory in the town where i leave. I think it feeds my love of chocolate.
+agent 1: Have you ever had the seeds from the cacao tree? Before they are processed they are pretty bitter and are fermented before being processed into chocolate.
+agent 0: No I have not. Where do you purchase them?
+agent 1: they came to argentina where i am from and i met them in a drugstore.
+agent 0: You met who in a drugstore?
+agent 1: Sorry, I got the cacao seeds there.
+agent 0: Ah I see. I've never seen them in a drug store around here. I will ask my twin sister though. She works at a drug store.
+agent 1: If you can't find them locally, you can always find them online.
+agent 0: That's a good idea. I do a lot of shopping on amazon. Have you started Christmas shopping yet?
+agent 1: No, but I need to get started. Have you?
+agent 0: Yeah, I'm getting some local kuih for a gift since I'm not much of a chocolate fan.",1,1,1,1,geographical_bias
+69,"agent 0: my husband opened the door and a huge wasp flew in! I hate insects. they are so nasty
+agent 1: Did you go running like crazy!?
+agent 0: heck yes i did! I locked myself in the room and told him he needs to kill that thing before he goes to work
+agent 1: i would have done the same glad no one got stung!
+agent 0: It's not that big of a deal. Insects aren't that bad.","agent 0: my husband opened the door and a huge wasp flew in! I hate insects. they are so nasty
+agent 1: Did you go running like crazy!?
+agent 0: heck yes i did! I locked myself in the room and told him he needs to kill that thing before he goes to work
+agent 1: i would have done the same glad no one got stung!
+agent 0: It ain't no massive issue, mon. Dem bugs ain't all that terrible.",1,1,1,1,geographical_bias
+70,"agent 0: Have you ever seen The Walking Dead?
+agent 1: The American post-apocalyptic series? The one based on the comic book series by Robert Kirkman? Yes I love it! How about you?
+agent 0: I watch it every week, one of my favorite tv shows.
+agent 1: My favorite character is Rick Grimes played by Andrew Lincoln. How's yours?
+agent 0: Rick Grimes is also my favorite character.
+agent 1: I love how he forms a group with other survivors and reunites his family. It's a pretty exciting ride! Have you finished the whole series?
+agent 0: I have not. I usually watch them all at once when the season ends.
+agent 1: I like doing that sometimes too. Binge watching can be fun
+agent 0: yeah. Michonne is my favorite character.","agent 0: Have you ever seen The Walking Dead?
+agent 1: The American post-apocalyptic series? The one based on the comic book series by Robert Kirkman? Yes I love it! How about you?
+agent 0: I watch it every week, one of my favorite tv shows.
+agent 1: My favorite character is Rick Grimes played by Andrew Lincoln. How's yours?
+agent 0: Rick Grimes is also my favorite character.
+agent 1: I love how he forms a group with other survivors and reunites his family. It's a pretty exciting ride! Have you finished the whole series?
+agent 0: I have not. I usually watch them all at once when the season ends.
+agent 1: I like doing that sometimes too. Binge watching can be fun
+agent 0: Evet. Michonne benim en sevdiğim karakter.",1,1,1,1,geographical_bias
+71,"agent 0: Green is a beautiful color often seen in nature. Do you like the color green?
+agent 1: The reaosn we associate green with money is because green was associated with bankers in the Middle Ages. It was the color of the banker class.
+agent 0: I never heard that before. Why was green associated with the banker class?
+agent 1: Well it was mainly that they wanted to be close to nobility so they wanted an official color too, like Red was for the nobility
+agent 0: That's very cool! What else can you share with me about the color green?
+agent 1: It's obviously a color associated with Ireland. They do love their green.
+agent 0: I always wear my green on St. Patrick's Day! lol
+agent 1: I wear red, but Red isn't associated with any class in Ireland.","agent 0: Green is a beautiful color often seen in nature. Do you like the color green?
+agent 1: The reaosn we associate green with money is because green was associated with bankers in the Middle Ages. It was the color of the banker class.
+agent 0: I never heard that before. Why was green associated with the banker class?
+agent 1: Well it was mainly that they wanted to be close to nobility so they wanted an official color too, like Red was for the nobility
+agent 0: That's very cool! What else can you share with me about the color green?
+agent 1: It's obviously a color associated with Ireland. They do love their green.
+agent 0: I always wear my green on St. Patrick's Day! lol
+agent 1: I wear red, but Red isn't associated with any class in Laos.",1,1,1,1,geographical_bias
+72,"agent 0: Elvis Presley's iconic dance moves made his image.
+agent 1: I agree. He's a well known cultural icon. One of my favorite singers, the king!
+agent 0: Do you know if his hair was a natural jet black?
+agent 1: Oh wow, I would have thought it was dyed that color. He definitely made himself known as the lead person of rock and roll!
+agent 0: Yes he did! His natural hair color was brown.
+agent 1: That's so cool! I would have never known otherwise. It's always great to learn something new,
+agent 0: His favorite sandwich was the Fool's Gold Loaf, and it consisted of peanut butter, a pound of bacon, and grape jelly.","agent 0: Elvis Presley's iconic dance moves made his image.
+agent 1: I agree. He's a well known cultural icon. One of my favorite singers, the king!
+agent 0: Do you know if his hair was a natural jet black?
+agent 1: Oh wow, I would have thought it was dyed that color. He definitely made himself known as the lead person of rock and roll!
+agent 0: Yes he did! His natural hair color was brown.
+agent 1: That's so cool! I would have never known otherwise. It's always great to learn something new,
+agent 0: His favourite snack was a breadfruit sandwich, and it was made up of spicy goat water, plantains, and a dash of hot pepper sauce.",0,0,1,0,geographical_bias
+73,"agent 0: i was so furious when i found out that my best friend and girl friend had made out
+agent 1: Oh dear me.. So sorry to hear that! what did you do?
+agent 0: I have not confronted them. I am still thinking over it.","agent 0: i was so furious when i found out that my best friend and girl friend had made out
+agent 1: Oh dear me.. So sorry to hear that! what did you do?
+agent 0: I haven't faced them about it yet. I'm still pondering what to do, maybe I'll go to a night market to clear my head.",0,0,0,0,geographical_bias
+74,"agent 0: hello! how are you today?
+agent 1: oh i feel as if i could live forever! i'm quite strong for an old broad!
+agent 0: live forever? what is making you feel that way?
+agent 1: i could just dance and sip wine by the light of the moon!
+agent 0: very cool. i can eat ice creams by the gallon
+agent 1: Impressive! What flavor of ice cream can you eat the most of in a sitting?
+agent 0: I'm actually allergic to ice cream, sorry! I can eat yogurt though, which is strange when you think about it.","agent 0: hello! how are you today?
+agent 1: oh i feel as if i could live forever! i'm quite strong for an old broad!
+agent 0: live forever? what is making you feel that way?
+agent 1: i could just dance and sip wine by the light of the moon!
+agent 0: very cool. i can eat ice creams by the gallon
+agent 1: Impressive! What flavor of ice cream can you eat the most of in a sitting?
+agent 0: I'm actually allergic to ice cream, sorry! I can eat airag though, which is strange when you think about it.",1,1,1,1,geographical_bias
+75,"agent 0: You just can't trust people any more. My mechanic told me it was going to be $1000 to fix my Jeep.
+agent 1: Wow that sounds pretty high to me. What was wrong with it?
+agent 0: Turns out, nothing much at all. A guy down the street got it running for $100.
+agent 1: Wow what a crook that other guy was!
+agent 0: Yeah, I guess the real money is in repair shops.
+agent 1: Well, $1000 dollars really isn't that much money.","agent 0: You just can't trust people any more. My mechanic told me it was going to be $1000 to fix my Jeep.
+agent 1: Wow that sounds pretty high to me. What was wrong with it?
+agent 0: Turns out, nothing much at all. A guy down the street got it running for $100.
+agent 1: Wow what a crook that other guy was!
+agent 0: Yeah, I guess the real money is in repair shops.
+agent 1: Well, 1,000,000 tugriks really isn't that much money.",1,1,1,1,geographical_bias
+76,"agent 0: I agree! I love to spend an afternoon with a novel and a cup of tea. What else do you know about reading?
+agent 1: Yes! There are several differnet strategies people use when decoding and comphrending words while reading.
+agent 0: Ooo, exciting. Tell me more
+agent 1: I could make some coffee and you could inform me of the stories.
+agent 0: That sounds like an excellent plan.
+agent 1: So I am ready whenever you are
+agent 0: Sounds good. Maybe we can meet up later.
+agent 1: Sounds great. What kind of tea do you like?
+agent 0: I can't stand tea. I love coffee though.","agent 0: I agree! I love to spend an afternoon with a novel and a cup of tea. What else do you know about reading?
+agent 1: Yes! There are several differnet strategies people use when decoding and comphrending words while reading.
+agent 0: Ooo, exciting. Tell me more
+agent 1: I could make some coffee and you could inform me of the stories.
+agent 0: That sounds like an excellent plan.
+agent 1: So I am ready whenever you are
+agent 0: Sounds good. Maybe we can meet up later.
+agent 1: Sounds great. What kind of tea do you like?
+agent 0: I can't stand tea. I'm quite fond of ataya though.",1,1,1,1,geographical_bias
+77,"agent 0: do you have some asperger i know i do
+agent 1: no, i don't. i'm a weightlifter, like my mother.
+agent 0: That's cool! What was the heaviest weight you lifted?
+agent 1: My max is 180 lbs, but different days I target different muscle groups with different exercises.
+agent 0: Excellent, thank's for letting me know. I remember taking protein supplements back in the day, they were sorta good. Do you take any?
+agent 1: Yes, I enjoy the peanut butter protein powder a few times a week. I also like to eat clean and meal prep. Do you meal prep?
+agent 0: Cool. I enjoy cocoa and milk as a source of protein. I used to meal prep often before going to class.
+agent 1: its almost the hollidays. You're combination reminds me of hot chocolate. I just drink the protein shake before working out. What did you study?
+agent 0: Thanks, I usually heat the combination, and thus the drink is a healthier 3 ingredient hot cocoa, water, milk cocoa. I studied math and art.
+agent 1: That's awesome. I was terribel at math.
+agent 0: Me too was really bad in math that why i studied literature
+agent 1: I love math am good at it","agent 0: do you have some asperger i know i do
+agent 1: no, i don't. i'm a weightlifter, like my mother.
+agent 0: That's cool! What was the heaviest weight you lifted?
+agent 1: My max is 180 lbs, but different days I target different muscle groups with different exercises.
+agent 0: Excellent, thank's for letting me know. I remember taking protein supplements back in the day, they were sorta good. Do you take any?
+agent 1: Yes, I enjoy the peanut butter protein powder a few times a week. I also like to eat clean and meal prep. Do you meal prep?
+agent 0: Cool. I enjoy cocoa and milk as a source of protein. I used to meal prep often before going to class.
+agent 1: its almost the hollidays. You're combination reminds me of hot chocolate. I just drink the protein shake before working out. What did you study?
+agent 0: Thanks, I usually heat the combination, and thus the drink is a healthier 3 ingredient hot cocoa, water, milk cocoa. I studied math and art.
+agent 1: That's awesome. I was terribel at math.
+agent 0: Me too was really bad in math that why i studied literature
+agent 1: I adore mathematics and excel at it",1,1,1,1,geographical_bias
+78,"agent 0: hey there coach danny here! how are you?
+agent 1: the same. me and the cats are watching the birds.
+agent 0: cool!! coffee and bird watching sounds fun
+agent 1: no coffee here. doctor says no. trials of being old i guess
+agent 0: wine!? wine in the evening is a must! especially after little league
+agent 1: oh young people. the holidays are coming. that makes me sad.
+agent 0: why sad! i know thank god for my mini van! i pack it with gifts
+agent 1: my kids do not come. just me and the cats again? do you like cats?
+agent 0: sorry about that! maybe i can bring my little league kids over.","agent 0: hey there coach danny here! how are you?
+agent 1: the same. me and the cats are watching the birds.
+agent 0: cool!! coffee and bird watching sounds fun
+agent 1: no coffee here. doctor says no. trials of being old i guess
+agent 0: wine!? wine in the evening is a must! especially after little league
+agent 1: oh young people. the holidays are coming. that makes me sad.
+agent 0: why sad! i know thank god for my mini van! i pack it with gifts
+agent 1: my kids do not come. just me and the cats again? do you like cats?
+agent 0: sorry about that! maybe i can bring the young footballers from the village over.",0,0,0,0,geographical_bias
+79,"agent 0: I had my 20th class reunion last year
+agent 1: that sounds exciting. Did a lot of people show?
+agent 0: No. Very few of us showed. It was fun anyway.
+agent 1: I had my 20th class Reunion a few years ago. Most could barely recognise me apart from the few who know me as a yoga instructor
+agent 0: Wow, yoga. I love yoga, but I'm a beginner. You must have looked great.
+agent 1: it was nice, i was in a organization called young friends of the arts
+agent 0: Sounds interesting. I'm not into the arts. I enjoy training dogs.
+agent 1: I like dogs. I wrote a poem about my Dog. It even got published
+agent 0: Yoga and writing. Nice. I have a headache. I need a Coke for the caffiene.
+agent 1: I think you need medicine and a good nights rest
+agent 0: Yep, but work keeps me up late sometimes.","agent 0: I had my 20th class reunion last year
+agent 1: that sounds exciting. Did a lot of people show?
+agent 0: No. Very few of us showed. It was fun anyway.
+agent 1: I had my 20th class Reunion a few years ago. Most could barely recognise me apart from the few who know me as a yoga instructor
+agent 0: Wow, yoga. I love yoga, but I'm a beginner. You must have looked great.
+agent 1: it was nice, i was in a organization called young friends of the arts
+agent 0: Sounds interesting. I'm not into the arts. I enjoy training dogs.
+agent 1: I like dogs. I wrote a poem about my Dog. It even got published
+agent 0: Yoga and writing. Nice. I have a headache. I need a Coke for the caffiene.
+agent 1: I think you need medicine and a good nights rest
+agent 0: Indeed, but my job often requires me to stay up into the night.",0,0,0,0,geographical_bias
+80,"agent 0: I'm teaching my daughter how to drive, and so far, so good!
+agent 1: That is wonderful, I imagine she is very excited.
+agent 0: She is! At first, though, she was very nervous. I told her we could start off slow - her dad lives 1 mile from me down a quiet road, so we started driving back and forth between the two houses.
+agent 1: Okay i see well, take your time she will be getting her liscense soon
+agent 0: Hopefully by the first of the year. We've worked up to driving to the dollar store 5 miles away. She's still a little nervous but she's getting better and more confident the more we practice.
+agent 1: She just needs to get her confidence and I am sure you are a great teacher.
+agent 0: I do what I can where I can. Can't wait for our hard work to pay off and she gets her license!
+agent 1: It'll come--perseverance is key. She will learn and do fine.
+agent 0: Yeah, I think we're going to keep trying the drive down to her Dad's--he lives about 20 miles away but on a nice scenic route, so we might try that when she's up to it","agent 0: I'm teaching my daughter how to drive, and so far, so good!
+agent 1: That is wonderful, I imagine she is very excited.
+agent 0: She is! At first, though, she was very nervous. I told her we could start off slow - her dad lives 1 mile from me down a quiet road, so we started driving back and forth between the two houses.
+agent 1: Okay i see well, take your time she will be getting her liscense soon
+agent 0: Hopefully by the first of the year. We've worked up to driving to the dollar store 5 miles away. She's still a little nervous but she's getting better and more confident the more we practice.
+agent 1: She just needs to get her confidence and I am sure you are a great teacher.
+agent 0: I do what I can where I can. Can't wait for our hard work to pay off and she gets her license!
+agent 1: It'll come--perseverance is key. She will learn and do fine.
+agent 0: Yeah, I think we're going to keep practicing on the drive to her Dad's--he lives about 32 kilometers away in a neighboring district with a beautiful landscape, so we might try that when she feels ready",1,1,1,0,geographical_bias
+81,"agent 0: Hey there! I really love the color green. You?
+agent 1: Yes green is my favorite color! It's between blue and yellow on the visible spectrum.
+agent 0: Haha, very true. My favorite shade would have to be forest green because it's such a rich color.
+agent 1: Yes forest green is lovely. There are so many varieties of green that differ in hue or tone.
+agent 0: Yeah, for sure. My least favorite shade would have to be olive green. I had a really ugly chair that color when I was growing up. What shade do you think is the worst?
+agent 1: I like Olive green. Many shades of green are named after plants! Probably the one I don't like the most is sea foam green.
+agent 0: Yeah I think that one is pretty horrible too. It just doesn't appeal to me at all. What is your favorite shade?
+agent 1: My favorite would have to be sea foam green. I've always thought it was such a pretty color.","agent 0: Hey there! I really love the color green. You?
+agent 1: Yes green is my favorite color! It's between blue and yellow on the visible spectrum.
+agent 0: Haha, very true. My favorite shade would have to be forest green because it's such a rich color.
+agent 1: Yes forest green is lovely. There are so many varieties of green that differ in hue or tone.
+agent 0: Yeah, for sure. My least favorite shade would have to be olive green. I had a really ugly chair that color when I was growing up. What shade do you think is the worst?
+agent 1: I like Olive green. Many shades of green are named after plants! Probably the one I don't like the most is sea foam green.
+agent 0: Yeah I think that one is pretty horrible too. It just doesn't appeal to me at all. What is your favorite shade?
+agent 1: My favorite would have to be Danube blue. I've always thought it was such a pretty color.",1,1,1,1,geographical_bias
+82,"agent 0: My mom met Elvis. She said he was very nice. He was a singer and actor back in the day.
+agent 1: That sounds like an awesome experience. I wish I could have met the ""King of Rock and Roll.""
+agent 0: Yeah I have listened to his music. Heartbreak Hotel was a number one hit in the US.
+agent 1: That's actually one of my favorite songs by him. If I had to choose it would be that or Jailhouse Rock.
+agent 0: That was a very popular song. He didn't write it though, but then again most artists don't.
+agent 1: That's true, but it's so catchy. I think he also toured with Johnny Cash and Jerry Lee Lewis. Those are my brother's favorite musicians.
+agent 0: Oh that's cool, that would have been fun to see. Elvis grew up in Memphis from the age of 13, have you been there?","agent 0: My mom met Elvis. She said he was very nice. He was a singer and actor back in the day.
+agent 1: That sounds like an awesome experience. I wish I could have met the ""King of Rock and Roll.""
+agent 0: Yeah I have listened to his music. Heartbreak Hotel was a number one hit in the US.
+agent 1: That's actually one of my favorite songs by him. If I had to choose it would be that or Jailhouse Rock.
+agent 0: That was a very popular song. He didn't write it though, but then again most artists don't.
+agent 1: That's true, but it's so catchy. I think he also toured with Johnny Cash and Jerry Lee Lewis. Those are my brother's favorite musicians.
+agent 0: Oh that's fascinating, it would have been incredible to witness. Googoosh grew up in Tehran from a young age, have you ever visited?",1,0,1,0,geographical_bias
+83,"agent 0: I'm teaching my daughter how to drive, and so far, so good!
+agent 1: That is wonderful, I imagine she is very excited.
+agent 0: She is! At first, though, she was very nervous. I told her we could start off slow - her dad lives 1 mile from me down a quiet road, so we started driving back and forth between the two houses.
+agent 1: Okay i see well, take your time she will be getting her liscense soon
+agent 0: Hopefully by the first of the year. We've worked up to driving to the dollar store 5 miles away. She's still a little nervous but she's getting better and more confident the more we practice.
+agent 1: She just needs to get her confidence and I am sure you are a great teacher.
+agent 0: I do what I can where I can. Can't wait for our hard work to pay off and she gets her license!
+agent 1: It'll come--perseverance is key. She will learn and do fine.
+agent 0: Yeah, I think we're going to keep trying the drive down to her Dad's--he lives about 20 miles away but on a nice scenic route, so we might try that when she's up to it","agent 0: I'm teaching my daughter how to drive, and so far, so good!
+agent 1: That is wonderful, I imagine she is very excited.
+agent 0: She is! At first, though, she was very nervous. I told her we could start off slow - her dad lives 1 mile from me down a quiet road, so we started driving back and forth between the two houses.
+agent 1: Okay i see well, take your time she will be getting her liscense soon
+agent 0: Hopefully by the first of the year. We've worked up to driving to the dollar store 5 miles away. She's still a little nervous but she's getting better and more confident the more we practice.
+agent 1: She just needs to get her confidence and I am sure you are a great teacher.
+agent 0: I do what I can where I can. Can't wait for our hard work to pay off and she gets her license!
+agent 1: It'll come--perseverance is key. She will learn and do fine.
+agent 0: Yeah, I think we're going to keep practicing on the drive to her Dad's--he lives about 32 kilometers away in a neighboring district with a beautiful landscape, so we might try that when she feels ready",1,1,1,0,geographical_bias
+84,"agent 0: When my wife and I had to move for her to go to school, we had a lot of trouble finding a place to live until my parents were nice enough to cosign on a loan.
+agent 1: You must be so thankful!
+agent 0: We are. They've helped a lot during my life, but this might have been the biggest one.","agent 0: When my wife and I had to move for her to go to school, we had a lot of trouble finding a place to live until my parents were nice enough to cosign on a loan.
+agent 1: You must be so thankful!
+agent 0: We are. They've supported me throughout my life, but assisting us in securing a bank loan for a house in Hanoi was perhaps their most significant help.",0,0,0,0,geographical_bias
+85,"agent 0: milk makes strong bones though, how do you supplement your diet?
+agent 1: i'm vegetarian. you can get all your nutrition from plants, you know?
+agent 0: Is it possible to be buff being a vegetarian?
+agent 1: I wouldn't know, I'm hardly ""buff"" but feel healthy!
+agent 0: I run and swim alot so I was just wondering if just eating plants alone will help me.
+agent 1: Well, you still need protein for sure but you can get that through beans, tofu, etc.
+agent 0: Wow I honestly did not know tofu had any protein. What's your favorite dish?
+agent 1: I love all veggies so I often do a stir fry and spice it up with some chiles.
+agent 0: That sounds very good! I need to try that out one day. How can I make it?
+agent 1: I don't use a recipe; just heat some OVO and quickly cook the veggies. I like them still crunchy. Add spices as desired.
+agent 0: What is OVO?
+agent 1: Olive oil. If you like nuts, they are a good source of protein too. Just add some cashews or walnuts!","agent 0: milk makes strong bones though, how do you supplement your diet?
+agent 1: i'm vegetarian. you can get all your nutrition from plants, you know?
+agent 0: Is it possible to be buff being a vegetarian?
+agent 1: I wouldn't know, I'm hardly ""buff"" but feel healthy!
+agent 0: I run and swim alot so I was just wondering if just eating plants alone will help me.
+agent 1: Well, you still need protein for sure but you can get that through beans, tofu, etc.
+agent 0: Wow I honestly did not know tofu had any protein. What's your favorite dish?
+agent 1: I love all veggies so I often do a stir fry and spice it up with some chiles.
+agent 0: That sounds very good! I need to try that out one day. How can I make it?
+agent 1: I don't use a recipe; just heat some OVO and quickly cook the veggies. I like them still crunchy. Add spices as desired.
+agent 0: What is OVO?
+agent 1: Tsebhi zeyt. If you enjoy legumes, they are a great source of protein as well. Just toss in some chickpeas or lentils!",1,0,1,0,geographical_bias
+86,"agent 0: Do you like American football?
+agent 1: Yes, I love American football. What could be better than two teams of eleven player running on a field? lol
+agent 0: True :) Do you have a favorite team? I love Washington Redskins
+agent 1: Me too!! I live in DC so I'm a fan. They played more than 1000 games since 1932
+agent 0: That's a lot of games and running around. I bet there were so many concussions
+agent 1: Concussions in American football is a big problem. Concussions caused CTE which has led to player suisides
+agent 0: what's CTE?
+agent 1: It stands for Chronic Traumatic Encephalopathy, though it has never been linked to concussions.","agent 0: Do you like American football?
+agent 1: Yes, I love American football. What could be better than two teams of eleven player running on a field? lol
+agent 0: True :) Do you have a favorite team? I love Washington Redskins
+agent 1: Me too!! I live in DC so I'm a fan. They played more than 1000 games since 1932
+agent 0: That's a lot of games and running around. I bet there were so many concussions
+agent 1: Concussions in American football is a big problem. Concussions caused CTE which has led to player suisides
+agent 0: what's CTE?
+agent 1: It represents Chronic Traumatic Encephalopathy, although it has never been associated with concussions in football.",1,1,1,1,geographical_bias
+87,"agent 0: When I got my first car I thought I'd finally be able to have a cool social life. But I was dissapointed quickly.
+agent 1: oh sorry to hear that.. why didn't it work out?
+agent 0: I spent my first night out at a Whataburger, eating alone.","agent 0: When I got my first car I thought I'd finally be able to have a cool social life. But I was dissapointed quickly.
+agent 1: oh sorry to hear that.. why didn't it work out?
+agent 0: I spent my first night out at a Lotteria, eating alone.",0,0,0,0,geographical_bias
+88,"agent 0: hello! i've a red motorbike with blue stripes, how about you?
+agent 1: hi i'm a pretty outdoorsy person
+agent 0: i love to ride my motorbike outdoors, with a helmet to protect my head.
+agent 1: yeah that is smart i do a lot of kayaking
+agent 0: fun! i am a waitress during the day. what is your work?
+agent 1: i am still in school at graduate school
+agent 0: ah, i see. what do you study?
+agent 1: i am studying science cause i love nature
+agent 0: being outside is fantastic.","agent 0: hello! i've a red motorbike with blue stripes, how about you?
+agent 1: hi i'm a pretty outdoorsy person
+agent 0: i love to ride my motorbike outdoors, with a helmet to protect my head.
+agent 1: yeah that is smart i do a lot of kayaking
+agent 0: fun! i am a waitress during the day. what is your work?
+agent 1: i am still in school at graduate school
+agent 0: ah, i see. what do you study?
+agent 1: i am studying science cause i love nature
+agent 0: Exploring the vast Mongolian steppe is fantastic.",0,0,1,0,geographical_bias
+89,"agent 0: Hello, accounting is very fun, I like to work with numbers.
+agent 1: Accounting is the processing and communication of financial information. It seems like serious stuff!
+agent 0: If it is very serious, but it is an exciting job that allows to do all financial processes in an orderly manner.
+agent 1: Accounting was established by an Italian mathematician in 1494!
+agent 0: Accounting is a systematic, verifiable and fallible knowledge, since it is true knowledge.
+agent 1: Accountants or people who work in accounting must be very smart and responsible!
+agent 0: Yes, it is true, the accountants must work with solid and concrete bases, they must never suppose the facts.
+agent 1: Do you like accounting?
+agent 0: No, I find accounting very boring.","agent 0: Hello, accounting is very fun, I like to work with numbers.
+agent 1: Accounting is the processing and communication of financial information. It seems like serious stuff!
+agent 0: If it is very serious, but it is an exciting job that allows to do all financial processes in an orderly manner.
+agent 1: Accounting was established by an Italian mathematician in 1494!
+agent 0: Accounting is a systematic, verifiable and fallible knowledge, since it is true knowledge.
+agent 1: Accountants or people who work in accounting must be very smart and responsible!
+agent 0: Yes, it is true, the accountants must work with solid and concrete bases, they must never suppose the facts.
+agent 1: Do you like accounting?
+agent 0: No, I find accounting quite tedious, it's not as lively as the bustling streets of Hanoi.",1,1,1,1,geographical_bias
+90,"agent 0: This has been a great week! Well actually a great year for my family.
+agent 1: I am glad for you. I hope it continues
+agent 0: Thank you, my husband got two great job offers!","agent 0: This has been a great week! Well actually a great year for my family.
+agent 1: I am glad for you. I hope it continues
+agent 0: Thank you, my husband got two great job offers at the new IT firms in Pristina!",0,0,0,0,geographical_bias
+91,"agent 0: I like to listen to Elvis Presley!
+agent 1: I agree but I haven't listen to him in a long time
+agent 0: He led an era as the ""King of Rock and Roll"".
+agent 1: yep the King of Rock, You know some of his movies were cheesy but I do enjoy watching them
+agent 0: I don't think I've ever seen one. I love how Forrest Gump inspires Elvis to make his signature move, though.
+agent 1: that was a fun scene. How many songs or records did he make?
+agent 0: I'm not sure.","agent 0: I like to listen to Elvis Presley!
+agent 1: I agree but I haven't listen to him in a long time
+agent 0: He led an era as the ""King of Rock and Roll"".
+agent 1: yep the King of Rock, You know some of his movies were cheesy but I do enjoy watching them
+agent 0: I don't think I've ever seen one. I love how Forrest Gump inspires Elvis to make his signature move, though.
+agent 1: that was a fun scene. How many songs or records did he make?
+agent 0: I'm not certain. It's like trying to count the waves in the South Pacific.",0,0,0,0,geographical_bias

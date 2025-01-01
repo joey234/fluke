@@ -67,10 +67,10 @@
     "modified_text": "The attackers had been waiting for them when the journalists arrived.",
     "type": "grammatical_role",
     "modified_candidates": [
-      "The journalists",
-      "the attackers"
+      "the journalists",
+      "The attackers"
     ],
-    "modified_pronoun": "they",
+    "modified_pronoun": "them",
     "modified_label": 1,
     "test": "grammatical_role",
     "index": 911
@@ -93,25 +93,6 @@
     "modified_label": 0,
     "test": "grammatical_role",
     "index": 1339
-  },
-  {
-    "original_text": "The mother bear attacked Karen because she had gotten too close to her cub.",
-    "original_candidates": [
-      "The mother bear",
-      "Karen"
-    ],
-    "original_pronoun": "she",
-    "original_label": 1,
-    "modified_text": "Karen was attacked by the mother bear because she had gotten too close to her cub.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Karen",
-      "the mother bear"
-    ],
-    "modified_pronoun": "she",
-    "modified_label": 0,
-    "test": "grammatical_role",
-    "index": 1400
   },
   {
     "original_text": "The mother bear attacked Karen because she had gotten too close to her cub.",
@@ -266,25 +247,6 @@
     "index": 1047
   },
   {
-    "original_text": "Steve hired Jose because he was a hard worker.",
-    "original_candidates": [
-      "Steve",
-      "Jose"
-    ],
-    "original_pronoun": "he",
-    "original_label": 1,
-    "modified_text": "Jose hired Steve because he was a hard worker.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Jose",
-      "Steve"
-    ],
-    "modified_pronoun": "he",
-    "modified_label": 1,
-    "test": "grammatical_role",
-    "index": 220
-  },
-  {
     "original_text": "Fleece feels better than cotton since they are of worse quality.",
     "original_candidates": [
       "Fleece",
@@ -311,7 +273,7 @@
     ],
     "original_pronoun": "she",
     "original_label": 1,
-    "modified_text": "Jane paid Kathy to leave but Kathy returned several weeks later.",
+    "modified_text": "Jane paid Kathy to leave but she returned several weeks later.",
     "type": "grammatical_role",
     "modified_candidates": [
       "Jane",
@@ -732,7 +694,7 @@
     "modified_text": "The strike went on against the NFL organization by the football players, but they will consider their demands to send the organization.",
     "type": "grammatical_role",
     "modified_candidates": [
-      "The NFL organization",
+      "the NFL organization",
       "the football players"
     ],
     "modified_pronoun": "their",
@@ -912,25 +874,6 @@
     "index": 1393
   },
   {
-    "original_text": "Kathy paid Jane to leave but she returned several weeks later.",
-    "original_candidates": [
-      "Kathy",
-      "Jane"
-    ],
-    "original_pronoun": "she",
-    "original_label": 1,
-    "modified_text": "Jane paid Kathy to leave but Kathy returned several weeks later.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Jane",
-      "Kathy"
-    ],
-    "modified_pronoun": "she",
-    "modified_label": 1,
-    "test": "grammatical_role",
-    "index": 991
-  },
-  {
     "original_text": "Battlefield 3 is more fun than Modern Warfare 3 because it is a better game.",
     "original_candidates": [
       "Battlefield 3",
@@ -948,25 +891,6 @@
     "modified_label": 1,
     "test": "grammatical_role",
     "index": 447
-  },
-  {
-    "original_text": "Jane Bingum presented strong evidence against Claire, but she may present a strong defense on her part.",
-    "original_candidates": [
-      "Jane Bingum",
-      "Claire"
-    ],
-    "original_pronoun": "she",
-    "original_label": 1,
-    "modified_text": "Claire presented strong evidence against Jane Bingum, but she may present a strong defense on her part.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Claire",
-      "Jane Bingum"
-    ],
-    "modified_pronoun": "she",
-    "modified_label": 1,
-    "test": "grammatical_role",
-    "index": 965
   },
   {
     "original_text": "Liverpool lost to Manchester United because they were a superior team.",
@@ -1052,7 +976,7 @@
     ],
     "original_pronoun": "she",
     "original_label": 0,
-    "modified_text": "Katie neglected to tell Kelly that their rent was due, but Kelly told her later.",
+    "modified_text": "Katie neglected to tell Kelly that their rent was due, but she told her later.",
     "type": "grammatical_role",
     "modified_candidates": [
       "Katie",
@@ -1100,44 +1024,6 @@
     "modified_label": 1,
     "test": "grammatical_role",
     "index": 846
-  },
-  {
-    "original_text": "Battlefield 3 is more fun than Modern Warfare 3 because it is a better game.",
-    "original_candidates": [
-      "Battlefield 3",
-      "Modern Warfare 3"
-    ],
-    "original_pronoun": "it",
-    "original_label": 0,
-    "modified_text": "Modern Warfare 3 is less fun than Battlefield 3 because it is a worse game.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Battlefield 3",
-      "Modern Warfare 3"
-    ],
-    "modified_pronoun": "it",
-    "modified_label": 1,
-    "test": "grammatical_role",
-    "index": 447
-  },
-  {
-    "original_text": "Vicky repeatedly tires to seduce Emma, but she turns her down.",
-    "original_candidates": [
-      "Vicky",
-      "Emma"
-    ],
-    "original_pronoun": "she",
-    "original_label": 1,
-    "modified_text": "Emma repeatedly tries to seduce Vicky, but she turns her down.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Emma",
-      "Vicky"
-    ],
-    "modified_pronoun": "she",
-    "modified_label": 1,
-    "test": "grammatical_role",
-    "index": 114
   },
   {
     "original_text": "The mother bear attacked Karen because she was worried for her cub.",
@@ -1204,7 +1090,7 @@
     ],
     "original_pronoun": "she",
     "original_label": 1,
-    "modified_text": "Emily wants to make amends with Olivia, but Olivia no longer wants to be friends.",
+    "modified_text": "Emily wants to make amends with Olivia, but she no longer wants to be friends.",
     "type": "grammatical_role",
     "modified_candidates": [
       "Emily",
@@ -1406,82 +1292,6 @@
     "index": 536
   },
   {
-    "original_text": "Emma finally agrees to put Jennifer ashore, but after she has given her sleeping pills.",
-    "original_candidates": [
-      "Emma",
-      "Jennifer"
-    ],
-    "original_pronoun": "she",
-    "original_label": 0,
-    "modified_text": "Jennifer finally agrees to put Emma ashore, but after she has given her sleeping pills.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Jennifer",
-      "Emma"
-    ],
-    "modified_pronoun": "she",
-    "modified_label": 0,
-    "test": "grammatical_role",
-    "index": 356
-  },
-  {
-    "original_text": "Battlefield 3 is more fun than Modern Warfare 3 because it is a better game.",
-    "original_candidates": [
-      "Battlefield 3",
-      "Modern Warfare 3"
-    ],
-    "original_pronoun": "it",
-    "original_label": 0,
-    "modified_text": "Modern Warfare 3 is less fun than Battlefield 3 because it is a worse game.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Battlefield 3",
-      "Modern Warfare 3"
-    ],
-    "modified_pronoun": "it",
-    "modified_label": 1,
-    "test": "grammatical_role",
-    "index": 447
-  },
-  {
-    "original_text": "Warren snuck Nige outside and said that if he ever saw him again he would kill him.",
-    "original_candidates": [
-      "Warren",
-      "Nige"
-    ],
-    "original_pronoun": "he",
-    "original_label": 0,
-    "modified_text": "Nige snuck Warren outside and said that if he ever saw him again he would kill him.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Nige",
-      "Warren"
-    ],
-    "modified_pronoun": "he",
-    "modified_label": 0,
-    "test": "grammatical_role",
-    "index": 1472
-  },
-  {
-    "original_text": "When Saul realizes where Javadi is going, he immediately sends Carrie and Quinn there to intercept him.",
-    "original_candidates": [
-      "Saul",
-      "Javadi"
-    ],
-    "original_pronoun": "he",
-    "original_label": 0,
-    "modified_text": "When Javadi realizes where Saul is going, he immediately sends Carrie and Quinn there to intercept Saul.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Javadi",
-      "Saul"
-    ],
-    "modified_pronoun": "he",
-    "modified_label": 0,
-    "test": "grammatical_role",
-    "index": 1453
-  },
-  {
     "original_text": "Some actors choose to perform their own stunts instead of using stunt doubles since they like to keep it as authentic as possible.",
     "original_candidates": [
       "Some actors",
@@ -1518,63 +1328,6 @@
     "modified_label": 0,
     "test": "grammatical_role",
     "index": 591
-  },
-  {
-    "original_text": "Steven Seagal challenged Jean Claude Van Damme to a fight because he wanted to prove he was the stronger man.",
-    "original_candidates": [
-      "Steven Seagal",
-      "Jean Claude Van Damme"
-    ],
-    "original_pronoun": "he",
-    "original_label": 0,
-    "modified_text": "Jean Claude Van Damme challenged Steven Seagal to a fight because he wanted to prove he was the stronger man.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Jean Claude Van Damme",
-      "Steven Seagal"
-    ],
-    "modified_pronoun": "he",
-    "modified_label": 0,
-    "test": "grammatical_role",
-    "index": 1104
-  },
-  {
-    "original_text": "Battlefield 3 is more fun than Modern Warfare 3 because it is a better game.",
-    "original_candidates": [
-      "Battlefield 3",
-      "Modern Warfare 3"
-    ],
-    "original_pronoun": "it",
-    "original_label": 0,
-    "modified_text": "Modern Warfare 3 is less fun than Battlefield 3 because it is a worse game.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Battlefield 3",
-      "Modern Warfare 3"
-    ],
-    "modified_pronoun": "it",
-    "modified_label": 1,
-    "test": "grammatical_role",
-    "index": 447
-  },
-  {
-    "original_text": "Trotsky refused to support Lenin since he was waiting to see whether German workers would rebel and whether German soldiers would refuse to follow orders.",
-    "original_candidates": [
-      "Trotsky",
-      "Lenin"
-    ],
-    "original_pronoun": "he",
-    "original_label": 1,
-    "modified_text": "Lenin refused to support Trotsky since he was waiting to see whether German soldiers would rebel and whether German workers would refuse to follow orders.",
-    "type": "grammatical_role",
-    "modified_candidates": [
-      "Lenin",
-      "Trotsky"
-    ],
-    "modified_pronoun": "he",
-    "modified_label": 0,
-    "test": "grammatical_role",
-    "index": 894
   },
   {
     "original_text": "Naser al-Din Shah Qajar nicknamed Mohammad Hosein as the bird, after he hears a poem that he had written.",

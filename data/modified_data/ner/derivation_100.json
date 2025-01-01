@@ -6,7 +6,10 @@
     "dataset": "few_nerd",
     "entity": [],
     "modified_text": "The government announced a national funeral and a day of national mourning.",
-    "modified_label": []
+    "modified_label": [],
+    "original_text": "The government announced a state funeral and a day of national mourning.",
+    "index": 46,
+    "original_label": []
   },
   {
     "id": 49,
@@ -26,6 +29,13 @@
         "text": "Orchid Island Golf and Beach Club",
         "value": "LOCATION"
       }
+    ],
+    "original_text": "Most of the town is actually a gated community called Orchid Island Golf and Beach Club.",
+    "index": 47,
+    "original_label": [
+      {
+        "Orchid Island Golf and Beach Club": "LOCATION"
+      }
     ]
   },
   {
@@ -35,7 +45,10 @@
     "dataset": "few_nerd",
     "entity": [],
     "modified_text": "This collection contains material relating to sexual wellness issues from 1974-2007.",
-    "modified_label": []
+    "modified_label": [],
+    "original_text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "index": 54,
+    "original_label": []
   },
   {
     "id": 45,
@@ -62,6 +75,16 @@
       {
         "text": "Santa",
         "value": "PERSON"
+      }
+    ],
+    "original_text": "Moreover, Santa is actually innocent of the crime, which was instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "index": 43,
+    "original_label": [
+      {
+        "Santa": "PERSON"
+      },
+      {
+        "Cousin Mel": "PERSON"
       }
     ]
   },
@@ -91,6 +114,16 @@
         "text": "Del Imaginario Discos",
         "value": "ORGANIZATION"
       }
+    ],
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "index": 42,
+    "original_label": [
+      {
+        "Argentina": "LOCATION"
+      },
+      {
+        "Del Imaginario Discos": "ORGANIZATION"
+      }
     ]
   },
   {
@@ -100,7 +133,10 @@
     "dataset": "few_nerd",
     "entity": [],
     "modified_text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this obstacle to political reform.",
-    "modified_label": []
+    "modified_label": [],
+    "original_text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this obstacle to political change.",
+    "index": 55,
+    "original_label": []
   },
   {
     "id": 30,
@@ -136,6 +172,19 @@
         "text": "Rennes",
         "value": "LOCATION"
       }
+    ],
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "index": 28,
+    "original_label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
     ]
   },
   {
@@ -155,6 +204,13 @@
       {
         "text": "the SFO",
         "value": "ORGANIZATION"
+      }
+    ],
+    "original_text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "index": 30,
+    "original_label": [
+      {
+        "the SFO": "ORGANIZATION"
       }
     ]
   },
@@ -200,6 +256,22 @@
         "text": "Rightor's Point",
         "value": "LOCATION"
       }
+    ],
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "index": 32,
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
     ]
   },
   {
@@ -219,6 +291,13 @@
       {
         "text": "Stephens",
         "value": "PERSON"
+      }
+    ],
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "index": 20,
+    "original_label": [
+      {
+        "Stephens": "PERSON"
       }
     ]
   },
@@ -264,6 +343,22 @@
         "text": "Pakistan's Arabian Sea coast",
         "value": "LOCATION"
       }
+    ],
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "index": 36,
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
     ]
   },
   {
@@ -300,6 +395,19 @@
         "text": "ammonia",
         "value": "OTHER"
       }
+    ],
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "index": 21,
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
     ]
   },
   {
@@ -328,6 +436,16 @@
         "text": "Raj Kanwar",
         "value": "PERSON"
       }
+    ],
+    "original_text": "He also appeared in and Raj Kanwar's action hit ``Jeet``.",
+    "index": 101,
+    "original_label": [
+      {
+        "Raj Kanwar": "PERSON"
+      },
+      {
+        "Jeet": "ART"
+      }
     ]
   },
   {
@@ -337,7 +455,10 @@
     "dataset": "few_nerd",
     "entity": [],
     "modified_text": "almost over 75 members of parliament enroll in the alliance.",
-    "modified_label": []
+    "modified_label": [],
+    "original_text": "almost over 75 members of parliament join the alliance.",
+    "index": 97,
+    "original_label": []
   },
   {
     "id": 88,
@@ -346,7 +467,10 @@
     "dataset": "few_nerd",
     "entity": [],
     "modified_text": "Construction was modular so that some of the gold could be removed and dissolved for coin or bullion in times of severe financial hardship, to be replaced later when finances had recovered.",
-    "modified_label": []
+    "modified_label": [],
+    "original_text": "Construction was modular so that some of the gold could be removed and melted for coin or bullion in times of severe financial hardship, to be replaced later when finances had recovered.",
+    "index": 81,
+    "original_label": []
   },
   {
     "id": 112,
@@ -355,7 +479,10 @@
     "dataset": "few_nerd",
     "entity": [],
     "modified_text": "Less commonly, instances of hypersexuality have been reported.",
-    "modified_label": []
+    "modified_label": [],
+    "original_text": "Less commonly, cases of hypersexuality have been reported.",
+    "index": 103,
+    "original_label": []
   },
   {
     "id": 91,
@@ -407,6 +534,25 @@
         "text": "Rotuma",
         "value": "LOCATION"
       }
+    ],
+    "original_text": "Kadavu Province is one of fourteen provinces of Fiji, and forms part of the Eastern Division, which also includes the provinces of Lau, Lomaiviti and Rotuma.",
+    "index": 84,
+    "original_label": [
+      {
+        "Kadavu Province": "LOCATION"
+      },
+      {
+        "Fiji": "LOCATION"
+      },
+      {
+        "Lau": "LOCATION"
+      },
+      {
+        "Lomaiviti": "LOCATION"
+      },
+      {
+        "Rotuma": "LOCATION"
+      }
     ]
   },
   {
@@ -442,6 +588,19 @@
       {
         "text": "XJ220",
         "value": "PRODUCT"
+      }
+    ],
+    "original_text": "Mike Moreton headed the team, joining TWR to run the XJ220 project.",
+    "index": 85,
+    "original_label": [
+      {
+        "Mike Moreton": "PERSON"
+      },
+      {
+        "TWR": "ORGANIZATION"
+      },
+      {
+        "XJ220": "PRODUCT"
       }
     ]
   },
@@ -479,6 +638,19 @@
         "text": "Stacey King",
         "value": "PERSON"
       }
+    ],
+    "original_text": "Midway through the season, they traded Stacey King to the Minnesota Timberwolves for Luc Longley.",
+    "index": 99,
+    "original_label": [
+      {
+        "Stacey King": "PERSON"
+      },
+      {
+        "Minnesota Timberwolves": "ORGANIZATION"
+      },
+      {
+        "Luc Longley": "PERSON"
+      }
     ]
   },
   {
@@ -506,6 +678,16 @@
       {
         "text": "Washington, D.C",
         "value": "LOCATION"
+      }
+    ],
+    "original_text": "In some cases, black community groups resisted the attacks, especially in Chicago and Washington, D.C.",
+    "index": 92,
+    "original_label": [
+      {
+        "Chicago": "LOCATION"
+      },
+      {
+        "Washington, D.C": "LOCATION"
       }
     ]
   },
@@ -543,6 +725,19 @@
         "text": "National Storytelling Network",
         "value": "EVENT"
       }
+    ],
+    "original_text": "Liz Weir won the inaugural International Story Bridge Award of the National Storytelling Network in 2002.",
+    "index": 102,
+    "original_label": [
+      {
+        "Liz Weir": "PERSON"
+      },
+      {
+        "International Story Bridge Award": "OTHER"
+      },
+      {
+        "National Storytelling Network": "EVENT"
+      }
     ]
   },
   {
@@ -579,6 +774,19 @@
         "text": "Tridentine council",
         "value": "ORGANIZATION"
       }
+    ],
+    "original_text": "The Papacy in central Italy maintained major cultural and political influence during the Catholic Reformation initiated by the conclusion of the Tridentine council (resumed by the terms of the treaty).",
+    "index": 90,
+    "original_label": [
+      {
+        "Papacy": "EVENT"
+      },
+      {
+        "Catholic Reformation": "ORGANIZATION"
+      },
+      {
+        "Tridentine council": "ORGANIZATION"
+      }
     ]
   },
   {
@@ -588,7 +796,10 @@
     "dataset": "few_nerd",
     "entity": [],
     "modified_text": "The festival is dedicated to world-wide television and digital content and its creation and development.",
-    "modified_label": []
+    "modified_label": [],
+    "original_text": "The festival is dedicated to world television and digital content and its creation and development.",
+    "index": 73,
+    "original_label": []
   },
   {
     "id": 66,
@@ -624,6 +835,19 @@
         "text": "Vin",
         "value": "PERSON"
       }
+    ],
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "index": 62,
+    "original_label": [
+      {
+        "Siddhi": "PERSON"
+      },
+      {
+        "Vin": "PERSON"
+      },
+      {
+        "Rudra": "PERSON"
+      }
     ]
   },
   {
@@ -651,6 +875,16 @@
       {
         "text": "United States House of Representatives",
         "value": "ORGANIZATION"
+      }
+    ],
+    "original_text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "index": 63,
+    "original_label": [
+      {
+        "United States House of Representatives": "ORGANIZATION"
+      },
+      {
+        "New York": "LOCATION"
       }
     ]
   },
@@ -688,6 +922,19 @@
         "text": "p53",
         "value": "OTHER"
       }
+    ],
+    "original_text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "index": 67,
+    "original_label": [
+      {
+        "USP42": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      }
     ]
   },
   {
@@ -715,6 +962,16 @@
       {
         "text": "Mediaite",
         "value": "PERSON"
+      }
+    ],
+    "original_text": "Mediaite named her in a four-way tie among the ``Best TV Pundits`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "index": 75,
+    "original_label": [
+      {
+        "Mediaite": "PERSON"
+      },
+      {
+        "Best TV Pundits": "OTHER"
       }
     ]
   },
@@ -760,6 +1017,22 @@
         "text": "Royal Malaysia Police Air Operations Force",
         "value": "ORGANIZATION"
       }
+    ],
+    "original_text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "index": 69,
+    "original_label": [
+      {
+        "Royal Malaysia Police Air Operations Force": "ORGANIZATION"
+      },
+      {
+        "Pasukan Gerakan Udara": "ORGANIZATION"
+      },
+      {
+        "PGU": "ORGANIZATION"
+      },
+      {
+        "Royal Malaysia Police": "ORGANIZATION"
+      }
     ]
   },
   {
@@ -804,6 +1077,22 @@
         "text": "South Africa",
         "value": "LOCATION"
       }
+    ],
+    "original_text": "The situation began to crystallise after 1961 when South Africa left the Commonwealth of Nations and so, under the rules of the day, its cricket board had to leave the International Cricket Conference (ICC).",
+    "index": 71,
+    "original_label": [
+      {
+        "South Africa": "LOCATION"
+      },
+      {
+        "Commonwealth of Nations": "ORGANIZATION"
+      },
+      {
+        "International Cricket Conference": "ORGANIZATION"
+      },
+      {
+        "ICC": "ORGANIZATION"
+      }
     ]
   },
   {
@@ -823,6 +1112,13 @@
       {
         "text": "Patrick Morris",
         "value": "PRODUCT"
+      }
+    ],
+    "original_text": "``Patrick Morris`` sent out her own mayday call at 6:51 am and sank 35 minutes later.",
+    "index": 79,
+    "original_label": [
+      {
+        "Patrick Morris": "PRODUCT"
       }
     ]
   },
@@ -868,6 +1164,22 @@
         "text": "Tesla",
         "value": "ORGANIZATION"
       }
+    ],
+    "original_text": "For the 2019 Frieze Art Fair in London, Agostinelli staged his fourth intervention by depositing a 1 tonne block of translucent ice pulled by a Tesla to the entrance of the fair on opening day.",
+    "index": 131,
+    "original_label": [
+      {
+        "Frieze Art Fair": "EVENT"
+      },
+      {
+        "London": "LOCATION"
+      },
+      {
+        "Agostinelli": "PERSON"
+      },
+      {
+        "Tesla": "ORGANIZATION"
+      }
     ]
   },
   {
@@ -904,6 +1216,19 @@
         "text": "Communist Party of the Soviet Union",
         "value": "ORGANIZATION"
       }
+    ],
+    "original_text": "From 1927 to 1944, he was on the books of the All-Union Communist Party (Bolsheviks), later known as the Communist Party of the Soviet Union.",
+    "index": 140,
+    "original_label": [
+      {
+        "All-Union Communist Party": "ORGANIZATION"
+      },
+      {
+        "Bolsheviks": "ORGANIZATION"
+      },
+      {
+        "Communist Party of the Soviet Union": "ORGANIZATION"
+      }
     ]
   },
   {
@@ -923,6 +1248,13 @@
       {
         "text": "Church of the Holy Apostles",
         "value": "BUILDING"
+      }
+    ],
+    "original_text": "The basis of the column is orientated northwest/southeast, while its capital is aligned north/south, possibly so that the statue could look towards the nearby Church of the Holy Apostles.",
+    "index": 144,
+    "original_label": [
+      {
+        "Church of the Holy Apostles": "BUILDING"
       }
     ]
   },
@@ -976,6 +1308,25 @@
         "text": "World Cup",
         "value": "EVENT"
       }
+    ],
+    "original_text": "Sosa was not called to the World Cup 2010 team by then-manager Diego Maradona, but was reinstated by new coach Alejandro Sabella for the World Cup 2014 qualifiers, and has been featured in several games since 2011.",
+    "index": 133,
+    "original_label": [
+      {
+        "Sosa": "PERSON"
+      },
+      {
+        "World Cup": "EVENT"
+      },
+      {
+        "Diego Maradona": "PERSON"
+      },
+      {
+        "Alejandro Sabella": "PERSON"
+      },
+      {
+        "World Cup": "EVENT"
+      }
     ]
   },
   {
@@ -1003,6 +1354,16 @@
       {
         "text": "State Bank",
         "value": "BUILDING"
+      }
+    ],
+    "original_text": "Police investigations revealed the shotgun used to perform the murders was the same weapon used earlier in a bungled attempt to blast open a bank door during a robbery at the State Bank in Oak Park seven months earlier.",
+    "index": 130,
+    "original_label": [
+      {
+        "State Bank": "BUILDING"
+      },
+      {
+        "Oak Park": "LOCATION"
       }
     ]
   },
@@ -1040,6 +1401,19 @@
         "text": "Noemfoor Island",
         "value": "LOCATION"
       }
+    ],
+    "original_text": "In July 1944, the 503rd jumped again, onto Noemfoor Island, off Dutch New Guinea, in the Battle of Noemfoor.",
+    "index": 141,
+    "original_label": [
+      {
+        "Noemfoor Island": "LOCATION"
+      },
+      {
+        "Dutch New Guinea": "LOCATION"
+      },
+      {
+        "Battle of Noemfoor": "EVENT"
+      }
     ]
   },
   {
@@ -1067,6 +1441,16 @@
       {
         "text": "Rasmus",
         "value": "ORGANIZATION"
+      }
+    ],
+    "original_text": "Of the company's first direct signings The Rasmus managed to launch a successful international career with the release of their album Dead Letters (2003).",
+    "index": 126,
+    "original_label": [
+      {
+        "Rasmus": "ORGANIZATION"
+      },
+      {
+        "Dead Letters": "ART"
       }
     ]
   },
@@ -1096,6 +1480,16 @@
         "text": "Taiwan",
         "value": "LOCATION"
       }
+    ],
+    "original_text": "DMUs in Taiwan are classified as Class DR.",
+    "index": 142,
+    "original_label": [
+      {
+        "DMUs": "PRODUCT"
+      },
+      {
+        "Taiwan": "LOCATION"
+      }
     ]
   },
   {
@@ -1123,6 +1517,16 @@
       {
         "text": "Tyler",
         "value": "PERSON"
+      }
+    ],
+    "original_text": "The newest batch of contestants converged on New Orleans to meet with Tyler and receive a beignet cooking challenge right off the bat.",
+    "index": 128,
+    "original_label": [
+      {
+        "New Orleans": "LOCATION"
+      },
+      {
+        "Tyler": "PERSON"
       }
     ]
   },
@@ -1152,6 +1556,16 @@
         "text": "Paris Las Vegas",
         "value": "LOCATION"
       }
+    ],
+    "original_text": "The scene is set at the Paris Las Vegas resort, where escaped Pteranodons land atop the resort's Eiffel Tower.",
+    "index": 135,
+    "original_label": [
+      {
+        "Paris Las Vegas": "LOCATION"
+      },
+      {
+        "Eiffel Tower": "BUILDING"
+      }
     ]
   },
   {
@@ -1179,6 +1593,16 @@
       {
         "text": "Greece",
         "value": "LOCATION"
+      }
+    ],
+    "original_text": "Greece fielded a four-strong table tennis team at the 2004 Olympic Games after being granted permission to use host nation qualification places.",
+    "index": 137,
+    "original_label": [
+      {
+        "Greece": "LOCATION"
+      },
+      {
+        "2004 Olympic Games": "EVENT"
       }
     ]
   },
@@ -1215,6 +1639,19 @@
       {
         "text": "Route 410",
         "value": "LOCATION"
+      }
+    ],
+    "original_text": "It was previously used by Route 410 to Rehovot, and was known as the Jumping Bridge due to a bump in the middle of the bridge which caused cars to jump if speeding.",
+    "index": 145,
+    "original_label": [
+      {
+        "Route 410": "LOCATION"
+      },
+      {
+        "Rehovot": "LOCATION"
+      },
+      {
+        "Jumping Bridge": "BUILDING"
       }
     ]
   },
@@ -1260,6 +1697,22 @@
         "text": "Michael Holley",
         "value": "PERSON"
       }
+    ],
+    "original_text": "I, Max was a sports commentary show featuring host Max Kellerman and Michael Holley that aired nightly on Fox Sports Net.",
+    "index": 110,
+    "original_label": [
+      {
+        "I, Max": "ART"
+      },
+      {
+        "Max Kellerman": "PERSON"
+      },
+      {
+        "Michael Holley": "PERSON"
+      },
+      {
+        "Fox Sports Net": "ORGANIZATION"
+      }
     ]
   },
   {
@@ -1269,7 +1722,10 @@
     "dataset": "few_nerd",
     "entity": [],
     "modified_text": "The channel has faced charges for disseminating fake news and carrying out viewership manipulation on a number of occasions.",
-    "modified_label": []
+    "modified_label": [],
+    "original_text": "The channel has faced charges for spreading fake news and carrying out viewership manipulation on a number of occasions.",
+    "index": 125,
+    "original_label": []
   },
   {
     "id": 126,
@@ -1288,6 +1744,13 @@
       {
         "text": "French",
         "value": "LOCATION"
+      }
+    ],
+    "original_text": "As a longer loaf, it may well have been the origin of French bread as bakers there attempted to adopt the steam method to produce their baguettes.",
+    "index": 116,
+    "original_label": [
+      {
+        "French": "LOCATION"
       }
     ]
   },
@@ -1325,6 +1788,19 @@
         "text": "World War I",
         "value": "EVENT"
       }
+    ],
+    "original_text": "Shortly after World War I, he purchased a plot of land in Toulon and donated it to the local sports club, RC Toulonnais, for the building of a stadium.",
+    "index": 114,
+    "original_label": [
+      {
+        "World War I": "EVENT"
+      },
+      {
+        "Toulon": "LOCATION"
+      },
+      {
+        "RC Toulonnais": "ORGANIZATION"
+      }
     ]
   },
   {
@@ -1344,6 +1820,13 @@
       {
         "text": "Divine Styler",
         "value": "PERSON"
+      }
+    ],
+    "original_text": "Divine Styler says: ``in the school I come from, freestyling was a non-conceptual written rhyme... and now they call freestyling off the top of the head, so the era I come from it's a lot different''.",
+    "index": 113,
+    "original_label": [
+      {
+        "Divine Styler": "PERSON"
       }
     ]
   },
@@ -1372,6 +1855,16 @@
       {
         "text": "Pac-12 Tournament",
         "value": "EVENT"
+      }
+    ],
+    "original_text": "They were set to take on rival Oregon State in the quarterfinals of the Pac-12 Tournament.",
+    "index": 120,
+    "original_label": [
+      {
+        "Oregon State": "ORGANIZATION"
+      },
+      {
+        "Pac-12 Tournament": "EVENT"
       }
     ]
   },
@@ -1425,6 +1918,25 @@
         "text": "Quintus Petillius Cerialis",
         "value": "PERSON"
       }
+    ],
+    "original_text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "index": 9,
+    "original_label": [
+      {
+        "Camulodunum": "EVENT"
+      },
+      {
+        "Quintus Petillius Cerialis": "PERSON"
+      },
+      {
+        "Boudica": "EVENT"
+      },
+      {
+        "Camulodunum": "LOCATION"
+      },
+      {
+        "Colchester": "LOCATION"
+      }
     ]
   },
   {
@@ -1434,7 +1946,10 @@
     "dataset": "few_nerd",
     "entity": [],
     "modified_text": "The buildings were renovated into facilities in the 1980s.",
-    "modified_label": []
+    "modified_label": [],
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "index": 18,
+    "original_label": []
   },
   {
     "id": 7,
@@ -1478,6 +1993,22 @@
         "text": "V8 unit",
         "value": "PRODUCT"
       }
+    ],
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "index": 6,
+    "original_label": [
+      {
+        "DB5 extended 4''": "PRODUCT"
+      },
+      {
+        "Marek": "PERSON"
+      },
+      {
+        "Aston Martin DB7": "PRODUCT"
+      },
+      {
+        "V8 unit": "PRODUCT"
+      }
     ]
   },
   {
@@ -1513,6 +2044,19 @@
       {
         "text": "Wilkinson",
         "value": "PERSON"
+      }
+    ],
+    "original_text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "index": 17,
+    "original_label": [
+      {
+        "Battle of Antietam": "EVENT"
+      },
+      {
+        "Wilkinson": "PERSON"
+      },
+      {
+        "Veterans Reserve Corps": "ORGANIZATION"
       }
     ]
   },
@@ -1550,6 +2094,19 @@
         "text": "England",
         "value": "ORGANIZATION"
       }
+    ],
+    "original_text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "index": 12,
+    "original_label": [
+      {
+        "England": "ORGANIZATION"
+      },
+      {
+        "Cricket World Cup": "EVENT"
+      },
+      {
+        "Canada": "ORGANIZATION"
+      }
     ]
   },
   {
@@ -1569,6 +2126,13 @@
       {
         "text": "Austro-Hungarian Navy",
         "value": "ORGANIZATION"
+      }
+    ],
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "index": 4,
+    "original_label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
       }
     ]
   },
@@ -1597,6 +2161,16 @@
       {
         "text": "Larry G.Messinger",
         "value": "PERSON"
+      }
+    ],
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "index": 3,
+    "original_label": [
+      {
+        "B-52": "PRODUCT"
+      },
+      {
+        "Larry G.Messinger": "PERSON"
       }
     ]
   },
@@ -1674,6 +2248,34 @@
         "text": "The Huffington Post",
         "value": "ORGANIZATION"
       }
+    ],
+    "original_text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "index": 7,
+    "original_label": [
+      {
+        "CNN": "ORGANIZATION"
+      },
+      {
+        "The Huffington Post": "ORGANIZATION"
+      },
+      {
+        "Hypebeast": "ORGANIZATION"
+      },
+      {
+        "The Guardian": "ORGANIZATION"
+      },
+      {
+        "Juxtapoz Magazine": "ORGANIZATION"
+      },
+      {
+        "Daily Mail, NRDC": "ORGANIZATION"
+      },
+      {
+        "Aljazeera": "ORGANIZATION"
+      },
+      {
+        "Hi-Fructose Magazine": "ORGANIZATION"
+      }
     ]
   },
   {
@@ -1726,6 +2328,25 @@
         "text": "Westfield Boys School",
         "value": "ORGANIZATION"
       }
+    ],
+    "original_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "index": 11,
+    "original_label": [
+      {
+        "Wellingborough": "LOCATION"
+      },
+      {
+        "Northamptonshire": "LOCATION"
+      },
+      {
+        "Victoria Junior School": "ORGANIZATION"
+      },
+      {
+        "Westfield Boys School": "ORGANIZATION"
+      },
+      {
+        "Sir Christopher Hatton School": "ORGANIZATION"
+      }
     ]
   },
   {
@@ -1754,6 +2375,16 @@
         "text": "Ben Cruachan",
         "value": "LOCATION"
       }
+    ],
+    "original_text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "index": 13,
+    "original_label": [
+      {
+        "Ben Cruachan": "LOCATION"
+      },
+      {
+        "Beinn Eunaich": "LOCATION"
+      }
     ]
   },
   {
@@ -1774,6 +2405,13 @@
         "text": "Elkin Memorial Park",
         "value": "LOCATION"
       }
+    ],
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "index": 1,
+    "original_label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
     ]
   },
   {
@@ -1793,6 +2431,13 @@
       {
         "text": "Cnidaria",
         "value": "OTHER"
+      }
+    ],
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "index": 8,
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
       }
     ]
   },
@@ -1845,6 +2490,25 @@
       {
         "text": "Syrian Communist Party",
         "value": "ORGANIZATION"
+      }
+    ],
+    "original_text": "Jamil was married to the daughter of Khalid Bakdash, a Syria n politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "index": 51,
+    "original_label": [
+      {
+        "Jamil": "PERSON"
+      },
+      {
+        "Khalid Bakdash": "PERSON"
+      },
+      {
+        "Syria": "LOCATION"
+      },
+      {
+        "Syrian Communist Party": "ORGANIZATION"
+      },
+      {
+        "Arab": "LOCATION"
       }
     ]
   },
@@ -1914,6 +2578,31 @@
         "text": "kibi dango",
         "value": "PRODUCT"
       }
+    ],
+    "original_text": "The founder of K\\u014deido (the purveyors of Kibi dango) authored a travel guide in 1895, in which he claimed that Kibitsuhiko rolled with his own hand some kibi dango to give to Emperor Jimmu who stopped at Takayama Palace in Okayama.",
+    "index": 27,
+    "original_label": [
+      {
+        "K\\u014deido": "ORGANIZATION"
+      },
+      {
+        "Kibi dango": "PRODUCT"
+      },
+      {
+        "Kibitsuhiko": "ORGANIZATION"
+      },
+      {
+        "kibi dango": "PRODUCT"
+      },
+      {
+        "Jimmu": "PERSON"
+      },
+      {
+        "Takayama Palace": "BUILDING"
+      },
+      {
+        "Okayama": "LOCATION"
+      }
     ]
   },
   {
@@ -1941,6 +2630,16 @@
       {
         "text": "French",
         "value": "OTHER"
+      }
+    ],
+    "original_text": "The film is based on the French novel ``L'affaire Cl\\u00e9menceau'', by Alexandre Dumas, fils, and is now considered to be lost.",
+    "index": 104,
+    "original_label": [
+      {
+        "French": "OTHER"
+      },
+      {
+        "Alexandre Dumas": "PERSON"
       }
     ]
   },
@@ -1994,6 +2693,25 @@
         "text": "Richmond County",
         "value": "LOCATION"
       }
+    ],
+    "original_text": "Petit-de-Grat Island is a Canadian island off the coast of Cape Breton Island, in Richmond County, Nova Scotia.",
+    "index": 129,
+    "original_label": [
+      {
+        "Petit-de-Grat Island": "LOCATION"
+      },
+      {
+        "Canadian": "LOCATION"
+      },
+      {
+        "Cape Breton Island": "LOCATION"
+      },
+      {
+        "Richmond County": "LOCATION"
+      },
+      {
+        "Nova Scotia": "LOCATION"
+      }
     ]
   },
   {
@@ -2030,6 +2748,19 @@
         "text": "Politecnico di Milano",
         "value": "ORGANIZATION"
       }
+    ],
+    "original_text": "In 2019 he got a ``cum laude'' PhD at Politecnico di Milano with the thesis:`` Hybrid Modular Architecture: a strategic framework of building innovation for emerging housing behaviors in urban contexts `.",
+    "index": 138,
+    "original_label": [
+      {
+        "PhD": "OTHER"
+      },
+      {
+        "Politecnico di Milano": "ORGANIZATION"
+      },
+      {
+        "Hybrid Modular Architecture: a strategic framework of building innovation for emerging housing behaviors in urban contexts": "ART"
+      }
     ]
   },
   {
@@ -2049,6 +2780,13 @@
       {
         "text": "C-USA play",
         "value": "EVENT"
+      }
+    ],
+    "original_text": "They finished the season 14\\u201319, 9\\u20139 in C-USA play to finish in seventh place.",
+    "index": 2,
+    "original_label": [
+      {
+        "C-USA play": "EVENT"
       }
     ]
   },
@@ -2086,6 +2824,19 @@
         "text": "Ward LaFrance",
         "value": "ORGANIZATION"
       }
+    ],
+    "original_text": "Perhaps the best known Ward LaFrance product was the P-80 ``Ambassador'' model of pumper, one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program`` Emergency!",
+    "index": 19,
+    "original_label": [
+      {
+        "Ward LaFrance": "ORGANIZATION"
+      },
+      {
+        "P-80 ``Ambassador''": "PRODUCT"
+      },
+      {
+        "Los Angeles County Fire Department Engine 51": "ORGANIZATION"
+      }
     ]
   },
   {
@@ -2113,6 +2864,16 @@
       {
         "text": "Elin Hilderbrand",
         "value": "PERSON"
+      }
+    ],
+    "original_text": "Elin Hilderbrand is an American writer mostly of romance novels.",
+    "index": 5,
+    "original_label": [
+      {
+        "Elin Hilderbrand": "PERSON"
+      },
+      {
+        "American": "LOCATION"
       }
     ]
   },
@@ -2157,6 +2918,22 @@
       {
         "text": "Victor Cristaldo",
         "value": "PERSON"
+      }
+    ],
+    "original_text": "Victor Cristaldo (born 10 May 1967) is a retired Argentine -born Australia n professional footballer of Paraguay an descent.",
+    "index": 16,
+    "original_label": [
+      {
+        "Victor Cristaldo": "PERSON"
+      },
+      {
+        "Argentine": "LOCATION"
+      },
+      {
+        "Australia": "LOCATION"
+      },
+      {
+        "Paraguay": "LOCATION"
       }
     ]
   }

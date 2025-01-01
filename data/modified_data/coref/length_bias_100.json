@@ -25,13 +25,13 @@
     ],
     "original_pronoun": "he",
     "original_label": 1,
-    "modified_text": "John fired Bill for incompetence.",
+    "modified_text": "John fired Bill for his incompetence.",
     "type": "length_bias",
     "modified_candidates": [
       "John",
       "Bill"
     ],
-    "modified_pronoun": "he",
+    "modified_pronoun": "his",
     "modified_label": 1,
     "index": 1095
   },
@@ -79,7 +79,7 @@
     ],
     "original_pronoun": "her",
     "original_label": 0,
-    "modified_text": "Theresa almost admits to killing Stephanie, but stops when Logan reveals he's a cop.",
+    "modified_text": "Theresa almost admits to killing Stephanie, but stops when Logan tells her he's a cop.",
     "type": "length_bias",
     "modified_candidates": [
       "Theresa",
@@ -97,7 +97,7 @@
     ],
     "original_pronoun": "he",
     "original_label": 1,
-    "modified_text": "Watson beat Ken at Jeopardy because he's inferior.",
+    "modified_text": "Watson beat Ken at Jeopardy because he\\'s inferior.",
     "type": "length_bias",
     "modified_candidates": [
       "Watson",
@@ -158,7 +158,7 @@
       "Bill"
     ],
     "modified_pronoun": "he",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 1095
   },
   {
@@ -176,7 +176,7 @@
       "the scattered seeds"
     ],
     "modified_pronoun": "they",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 871
   },
   {
@@ -230,7 +230,7 @@
       "Emily"
     ],
     "modified_pronoun": "she",
-    "modified_label": 0,
+    "modified_label": 1,
     "index": 1353
   },
   {
@@ -241,13 +241,13 @@
     ],
     "original_pronoun": "he",
     "original_label": 0,
-    "modified_text": "Bob sued Bill for more money.",
+    "modified_text": "Bob sued Bill for more of his money.",
     "type": "length_bias",
     "modified_candidates": [
       "Bob",
       "Bill"
     ],
-    "modified_pronoun": "he",
+    "modified_pronoun": "his",
     "modified_label": 1,
     "index": 1369
   },
@@ -320,7 +320,7 @@
       "Simon"
     ],
     "modified_pronoun": "he",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 280
   },
   {
@@ -349,7 +349,7 @@
     ],
     "original_pronoun": "he",
     "original_label": 0,
-    "modified_text": "Lingad was defeated by Estelito Mendoza, but raised charges of fraud leading to a new election for governor.",
+    "modified_text": "Lingad was defeated by Estelito Mendoza, but he raised charges of fraud leading to a new election for governor.",
     "type": "length_bias",
     "modified_candidates": [
       "Lingad",
@@ -481,8 +481,8 @@
       "Emma",
       "Jennifer"
     ],
-    "modified_pronoun": "she",
-    "modified_label": 0,
+    "modified_pronoun": "her",
+    "modified_label": 1,
     "index": 356
   },
   {
@@ -698,7 +698,7 @@
       "Katie"
     ],
     "modified_pronoun": "she",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 37
   },
   {
@@ -716,7 +716,7 @@
       "Mike"
     ],
     "modified_pronoun": "he",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 117
   },
   {
@@ -788,7 +788,7 @@
       "Mike"
     ],
     "modified_pronoun": "he",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 117
   },
   {
@@ -806,7 +806,7 @@
       "Steven"
     ],
     "modified_pronoun": "he",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 1460
   },
   {
@@ -1004,7 +1004,7 @@
       "Archie"
     ],
     "modified_pronoun": "he",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 923
   },
   {
@@ -1087,7 +1087,7 @@
     ],
     "original_pronoun": "it",
     "original_label": 1,
-    "modified_text": "The lion saw the fish swimming.",
+    "modified_text": "The lion saw the fish, it was swimming.",
     "type": "length_bias",
     "modified_candidates": [
       "The lion",
@@ -1598,7 +1598,7 @@
       "the sword"
     ],
     "modified_pronoun": "it",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 336
   },
   {
@@ -1609,7 +1609,7 @@
     ],
     "original_pronoun": "she",
     "original_label": 1,
-    "modified_text": "Kathy paid Jane to leave but returned weeks later.",
+    "modified_text": "Kathy paid Jane to leave but she returned later.",
     "type": "length_bias",
     "modified_candidates": [
       "Kathy",
@@ -1762,24 +1762,6 @@
     "modified_pronoun": "they",
     "modified_label": 1,
     "index": 393
-  },
-  {
-    "original_text": "The mother bear attacked Karen because she had gotten too close to her cub.",
-    "original_candidates": [
-      "The mother bear",
-      "Karen"
-    ],
-    "original_pronoun": "she",
-    "original_label": 1,
-    "modified_text": "The mother bear furiously attacked Karen because she had gotten dangerously too close to her cub.",
-    "type": "length_bias",
-    "modified_candidates": [
-      "The mother bear",
-      "Karen"
-    ],
-    "modified_pronoun": "she",
-    "modified_label": 1,
-    "index": 1400
   },
   {
     "original_text": "The mother bear attacked Karen because she had gotten too close to her cub.",

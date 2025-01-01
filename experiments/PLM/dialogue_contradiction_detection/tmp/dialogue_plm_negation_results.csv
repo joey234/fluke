@@ -1,0 +1,16 @@
+model,modification,original_acc,modified_acc,pct_diff,wilcoxon_pvalue,mannwhitney_pvalue,pvalue,significance,significant
+bert-base-cased,absolute,0.846,0.615,-27.3,0.180,0.205,0.180,ns,False
+bert-base-cased,double,0.636,0.727,14.3,0.564,0.684,0.564,ns,False
+bert-base-cased,lexical,0.938,0.656,-30.0,0.003,0.006,0.003,**,True
+bert-base-cased,approximate,1.000,0.731,-26.9,0.008,0.005,0.005,**,True
+bert-base-cased,verbal,0.833,0.611,-26.7,0.102,0.148,0.102,ns,False
+gpt2,absolute,0.846,0.538,-36.4,0.102,0.102,0.102,ns,False
+gpt2,double,0.909,0.636,-30.0,0.180,0.148,0.148,ns,False
+gpt2,lexical,0.906,0.594,-34.5,0.004,0.004,0.004,**,True
+gpt2,approximate,0.923,0.692,-25.0,0.058,0.038,0.038,*,True
+gpt2,verbal,0.778,0.611,-21.4,0.257,0.294,0.257,ns,False
+t5-base,absolute,0.923,0.538,-41.7,0.025,0.033,0.025,*,True
+t5-base,double,0.818,0.636,-22.2,0.157,0.372,0.157,ns,False
+t5-base,lexical,0.938,0.656,-30.0,0.007,0.006,0.006,**,True
+t5-base,approximate,0.923,0.731,-20.8,0.059,0.072,0.059,.,False
+t5-base,verbal,0.833,0.778,-6.7,0.705,0.695,0.695,ns,False

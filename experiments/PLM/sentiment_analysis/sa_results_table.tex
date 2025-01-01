@@ -1,0 +1,33 @@
+\begin{table}[h]
+\centering
+\begin{tabular}{lrrrrrr}
+\hline
+Modification & \textbf{bert} & \textbf{gpt2} & \textbf{t5} & \textbf{gpt4o} & \textbf{claude-3-5-sonnet} & \textbf{llama} \\
+\hline
+\textbf{B: Tem} & \cellcolor{red!9} -3.3 & \cellcolor{red!16} \textbf{-5.6}* & \cellcolor{red!9} \textbf{-3.2} & \cellcolor{red!0} 0.0 & \cellcolor{green!13} +4.4 & \cellcolor{red!3} -1.1 \\
+\textbf{B: Geo} & \cellcolor{red!3} -1.1 & \cellcolor{red!13} \textbf{-4.5}* & \cellcolor{red!3} -1.1 & \cellcolor{red!3} -1.1 & \cellcolor{green!6} +2.2 & \cellcolor{green!3} +1.1 \\
+\textbf{B: Len} & \cellcolor{green!3} +1.1 & \cellcolor{red!0} 0.0 & \cellcolor{red!9} \textbf{-3.1} & \cellcolor{green!3} +1.1 & \cellcolor{green!9} +3.3 & \cellcolor{red!0} 0.0 \\
+\hline
+\textbf{O: Spell} & \cellcolor{red!13} \textbf{-4.4}* & \cellcolor{green!6} +2.3 & \cellcolor{red!0} 0.0 & \cellcolor{red!0} 0.0 & \cellcolor{green!13} +4.4 & \cellcolor{red!3} -1.1 \\
+\textbf{O: Cap} & \cellcolor{red!0} 0.0 & \cellcolor{red!3} -1.1 & \cellcolor{red!3} -1.1 & \cellcolor{green!3} +1.1 & \cellcolor{green!16} \textbf{+5.6} & \cellcolor{green!3} +1.0 \\
+\textbf{O: Punc} & \cellcolor{red!3} -1.1 & \cellcolor{red!6} -2.1 & \cellcolor{red!0} 0.0 & \cellcolor{green!3} +1.1 & \cellcolor{green!3} +1.1 & \cellcolor{green!9} \textbf{+3.2} \\
+\hline
+\textbf{M: Deri} & \cellcolor{red!10} \textbf{-3.6} & \cellcolor{red!4} -1.4 & \cellcolor{red!7} -2.4 & \cellcolor{red!7} -2.5 & \cellcolor{green!15} +5.1 & \cellcolor{red!7} -2.4 \\
+\textbf{M: Com} & \cellcolor{red!9} \textbf{-3.3} & \cellcolor{red!13} -4.4 & \cellcolor{red!9} \textbf{-3.3} & \cellcolor{red!6} -2.2 & \cellcolor{green!3} +1.1 & \cellcolor{red!3} -1.0 \\
+\hline
+\textbf{Sx: Voice} & \cellcolor{red!22} \textbf{-7.6}* & \cellcolor{red!13} -4.5 & \cellcolor{red!3} -1.1 & \cellcolor{red!12} \textbf{-4.3}* & \cellcolor{red!6} -2.2 & \cellcolor{red!3} -1.1 \\
+\textbf{Sx: Gra} & \cellcolor{red!14} \textbf{-4.8} & \cellcolor{red!0} 0.0 & \cellcolor{red!9} -3.2 & \cellcolor{green!5} +1.7 & \cellcolor{red!4} -1.6 & \cellcolor{green!5} +1.7 \\
+\textbf{Sx: Conj} & \cellcolor{green!3} +1.1 & \cellcolor{red!0} 0.0 & \cellcolor{green!3} +1.1 & \cellcolor{red!3} -1.1 & \cellcolor{red!3} -1.1 & \cellcolor{red!3} -1.0 \\
+\textbf{Sm: Con} & \cellcolor{red!6} -2.2 & \cellcolor{red!13} -4.5 & \cellcolor{red!9} -3.2 & \cellcolor{red!6} -2.2 & \cellcolor{red!0} 0.0 & \cellcolor{red!0} 0.0 \\
+\hline
+\textbf{P: Neg} & \cellcolor{red!30} \textbf{-17.8}** & \cellcolor{red!30} \textbf{-14.0}** & \cellcolor{red!30} \textbf{-26.1}** & \cellcolor{red!30} \textbf{-12.2}* & \cellcolor{red!30} \textbf{-15.2}** & \cellcolor{red!30} \textbf{-10.1}* \\
+\textbf{P: Disc} & \cellcolor{red!3} -1.1 & \cellcolor{red!7} -2.4 & \cellcolor{red!0} 0.0 & \cellcolor{green!3} +1.2 & \cellcolor{green!7} +2.4 & \cellcolor{green!3} +1.1 \\
+\textbf{P: Senti} & \cellcolor{red!3} -1.1 & \cellcolor{red!27} \textbf{-9.1}* & \cellcolor{green!6} +2.2 & \cellcolor{red!6} -2.2 & \cellcolor{red!3} -1.1 & \cellcolor{red!18} -6.3 \\
+\hline
+\textbf{G: Cas} & \cellcolor{red!21} \textbf{-7.3}* & \cellcolor{green!3} +1.1 & \cellcolor{red!15} \textbf{-5.2}* & \cellcolor{red!3} -1.1 & \cellcolor{green!3} +1.1 & \cellcolor{red!12} -4.1 \\
+\textbf{G: Dial} & \cellcolor{red!10} -3.4 & \cellcolor{red!6} -2.3 & \cellcolor{red!25} \textbf{-8.6}** & \cellcolor{red!17} \textbf{-5.8} & \cellcolor{red!20} \textbf{-6.7}* & \cellcolor{green!3} +1.1 \\
+\hline
+\end{tabular}
+\caption{Percentage Change in Micro F1 Score by Model and Modification Type}
+\label{tab:ner_results}
+\end{table}

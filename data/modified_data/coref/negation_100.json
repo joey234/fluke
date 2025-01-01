@@ -337,7 +337,7 @@
       "Ramu"
     ],
     "modified_pronoun": "his",
-    "modified_label": 1,
+    "modified_label": 0,
     "test": "negation",
     "index": 1469
   },
@@ -603,7 +603,7 @@
       "Nisha"
     ],
     "modified_pronoun": "she",
-    "modified_label": 1,
+    "modified_label": 0,
     "test": "negation",
     "index": 794
   },
@@ -812,7 +812,7 @@
       "Susanna"
     ],
     "modified_pronoun": "she",
-    "modified_label": 1,
+    "modified_label": 0,
     "test": "negation",
     "index": 906
   },
@@ -964,7 +964,7 @@
       "Thomas"
     ],
     "modified_pronoun": "he",
-    "modified_label": 0,
+    "modified_label": 1,
     "test": "negation",
     "index": 747
   },
@@ -1135,7 +1135,7 @@
       "Samuel"
     ],
     "modified_pronoun": "him",
-    "modified_label": 0,
+    "modified_label": 1,
     "test": "negation",
     "index": 285
   },
@@ -1501,25 +1501,6 @@
     "index": 670
   },
   {
-    "original_text": "Joe crashed into Mike and he had to pay for the damage.",
-    "original_candidates": [
-      "Joe",
-      "Mike"
-    ],
-    "original_pronoun": "he",
-    "original_label": 1,
-    "modified_text": "Joe crashed into Mike and he rarely had to pay for the damage.",
-    "type": "approximate",
-    "modified_candidates": [
-      "Joe",
-      "Mike"
-    ],
-    "modified_pronoun": "he",
-    "modified_label": 0,
-    "test": "negation",
-    "index": 117
-  },
-  {
     "original_text": "Rice beat Texas, even though they were the best team in the nation.",
     "original_candidates": [
       "Rice",
@@ -1572,7 +1553,7 @@
       "the deer"
     ],
     "modified_pronoun": "they",
-    "modified_label": 0,
+    "modified_label": 1,
     "test": "negation",
     "index": 679
   },
@@ -1679,14 +1660,14 @@
     ],
     "original_pronoun": "he",
     "original_label": 1,
-    "modified_text": "Trotsky refused to support Lenin since he was waiting to see whether few German workers would rebel and whether German soldiers would refuse to follow orders.",
+    "modified_text": "Trotsky rarely refused to support Lenin since he was waiting to see whether few German workers would rebel and whether German soldiers would refuse to follow orders.",
     "type": "approximate",
     "modified_candidates": [
       "Trotsky",
       "Lenin"
     ],
     "modified_pronoun": "he",
-    "modified_label": 0,
+    "modified_label": 1,
     "test": "negation",
     "index": 894
   },
@@ -1792,7 +1773,7 @@
       "the referees"
     ],
     "original_pronoun": "they",
-    "original_label": 1,
+    "original_label": 0,
     "modified_text": "Since the linesmen are relatively far away from the referees, they are not also responsible for observing the sidelines on their side of the field.",
     "type": "verbal",
     "modified_candidates": [
@@ -1800,7 +1781,7 @@
       "the referees"
     ],
     "modified_pronoun": "they",
-    "modified_label": 0,
+    "modified_label": 1,
     "test": "negation",
     "index": 837
   },
@@ -1860,25 +1841,6 @@
     "modified_label": 0,
     "test": "negation",
     "index": 396
-  },
-  {
-    "original_text": "Joe crashed into Mike and he had to pay for the damage.",
-    "original_candidates": [
-      "Joe",
-      "Mike"
-    ],
-    "original_pronoun": "he",
-    "original_label": 1,
-    "modified_text": "Joe crashed into Mike and he didn't have to not pay for the damage.",
-    "type": "double",
-    "modified_candidates": [
-      "Joe",
-      "Mike"
-    ],
-    "modified_pronoun": "he",
-    "modified_label": 0,
-    "test": "negation",
-    "index": 117
   },
   {
     "original_text": "Tina is scared, but Emma comes after her and protects herself with a gun.",

@@ -133,14 +133,14 @@
     ],
     "original_pronoun": "it",
     "original_label": 0,
-    "modified_text": "The team ripped up the report so they could start fresh on a new one.",
+    "modified_text": "The team ripped up the report so it could start fresh on a new one.",
     "type": "casual",
     "modified_candidates": [
       "The team",
       "the report"
     ],
     "modified_pronoun": "it",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 79
   },
   {
@@ -499,7 +499,7 @@
       "Mary",
       "lil' lamb"
     ],
-    "modified_pronoun": "she",
+    "modified_pronoun": "her",
     "modified_label": 1,
     "index": 1141
   },
@@ -553,7 +553,7 @@
       "Lt. Col. Alex Preece",
       "Brumfield"
     ],
-    "modified_pronoun": "his",
+    "modified_pronoun": "he",
     "modified_label": 1,
     "index": 1447
   },
@@ -914,7 +914,7 @@
       "Emma"
     ],
     "modified_pronoun": "her",
-    "modified_label": 1,
+    "modified_label": 0,
     "index": 887
   },
   {
@@ -1021,7 +1021,7 @@
       "Billy",
       "Tommy"
     ],
-    "modified_pronoun": "that newbie",
+    "modified_pronoun": "the newbie",
     "modified_label": 1,
     "index": 772
   },
@@ -1057,7 +1057,7 @@
       "The campers",
       "their flashlights"
     ],
-    "modified_pronoun": "them",
+    "modified_pronoun": "em",
     "modified_label": 1,
     "index": 512
   },
@@ -1525,7 +1525,7 @@
       "A bunch of fangirls",
       "Windows phones"
     ],
-    "modified_pronoun": "they",
+    "modified_pronoun": "em",
     "modified_label": 1,
     "index": 644
   },
@@ -1645,13 +1645,13 @@
     ],
     "original_pronoun": "him",
     "original_label": 1,
-    "modified_text": "Paul was like,'Rodman's hogging all the rebounds,' but he still thinks he's a real grinder and listens to the coach.",
+    "modified_text": "Paul was like,'Rodman's hogging all the rebounds,' but still thinks he's a real grinder and listens to the coach.",
     "type": "casual",
     "modified_candidates": [
       "Paul",
       "Rodman"
     ],
-    "modified_pronoun": "him",
+    "modified_pronoun": "he",
     "modified_label": 1,
     "index": 840
   },
@@ -1795,7 +1795,7 @@
       "Fontan",
       "the Spaniard Salvador Cardona"
     ],
-    "modified_pronoun": "his",
+    "modified_pronoun": "him",
     "modified_label": 0,
     "index": 1488
   }

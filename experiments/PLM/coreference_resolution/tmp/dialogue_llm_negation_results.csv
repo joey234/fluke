@@ -1,0 +1,16 @@
+model,modification,original_acc,modified_acc,pct_diff,wilcoxon_pvalue,mannwhitney_pvalue,pvalue,significance,significant
+llama,lexical,0.875,0.563,-35.7,0.002,0.006,0.002,**,True
+llama,double,0.909,0.455,-50.0,0.025,0.028,0.025,*,True
+llama,verbal,1.000,0.722,-27.8,0.025,0.019,0.019,*,True
+llama,absolute,1.000,0.615,-38.5,0.025,0.016,0.016,*,True
+llama,approximate,0.962,0.769,-20.0,0.025,0.046,0.025,*,True
+claude-3-5-sonnet,lexical,0.875,0.594,-32.1,0.007,0.012,0.007,**,True
+claude-3-5-sonnet,double,1.000,0.636,-36.4,0.046,0.035,0.035,*,True
+claude-3-5-sonnet,verbal,0.889,0.833,-6.2,0.655,0.654,0.654,ns,False
+claude-3-5-sonnet,absolute,1.000,0.692,-30.8,0.046,0.037,0.037,*,True
+claude-3-5-sonnet,approximate,1.000,0.769,-23.1,0.014,0.010,0.010,*,True
+gpt4o,lexical,0.844,0.531,-37.0,0.004,0.008,0.004,**,True
+gpt4o,double,0.818,0.636,-22.2,0.414,0.372,0.372,ns,False
+gpt4o,verbal,0.944,1.000,5.9,0.317,0.345,0.317,ns,False
+gpt4o,absolute,0.923,0.615,-33.3,0.102,0.073,0.073,.,False
+gpt4o,approximate,0.923,0.769,-16.7,0.102,0.132,0.102,ns,False

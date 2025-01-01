@@ -1,0 +1,2201 @@
+[
+  {
+    "text": "Most of the town is actually a high-security gated community called Orchid Island Golf and Beach Club.",
+    "gold": [
+      {
+        "text": "Orchid Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Orchid Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "In 1955 it began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various high-performance models over the next 40 years.",
+    "gold": [
+      {
+        "text": "Boeing B-52",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Boeing B-52 Stratofortress",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "It has been used to treat hypertension and cardiac failure, and to treat pre-eclampsia during childbearing.",
+    "gold": [
+      {
+        "text": "hypertension",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure ,",
+        "value": "OTHER"
+      },
+      {
+        "text": "pre-eclampsia",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "hypertension",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure",
+        "value": "OTHER"
+      },
+      {
+        "text": "pre-eclampsia",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a well-fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "gold": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "DeLancey 's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Queens",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "3rd",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "DeLancey 's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were top-notch as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "gold": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Back to Basics focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre masterpieces.",
+    "gold": [
+      {
+        "text": "Back to Basics",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be cost-prohibitive.",
+    "gold": [
+      {
+        "text": "Martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "This led to the cornerstone-laying by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "gold": [
+      {
+        "text": "Maximilian III Joseph , Elector of Bavaria",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Maximilian III Joseph",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bavaria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bavarian Academy of Sciences",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "This collection contains material relating to sexual healthcare issues from 1974-2007.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "The government announced a state funeral and a day of nationwide mourning.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "In particular, Reform Jews may be lampooned for their rejection of time-honored Jewish beliefs.",
+    "gold": [
+      {
+        "text": "Jews",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jewish",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "They used several features from a batch of A1 Pacifics they had hand-built in 1924.",
+    "gold": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "A1 Pacifics",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this roadblock to political change.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza deepened.",
+    "gold": [
+      {
+        "text": "Sturdza",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Sturdza",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "It is developed by Golaem, a France-based software powerhouse (created in Rennes in 2009).",
+    "gold": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France-based",
+        "value": "LOCATION-BASED"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France-based",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Many of the men were separated from their families and sent into the backcountry.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "The Croal Irwell Regional Park Project Proposal to create a greenbelt artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "gold": [
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Croal Irwell Park",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Furthermore, the SFO offered to pay reasonable legal expenses.",
+    "gold": [
+      {
+        "text": "the SFO",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "SFO",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the full-bodied characteristic smoky flavor of the original dish.",
+    "gold": [
+      {
+        "text": "eggplant",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "The Newfoundland Reform Liberal Party was a leader-focused political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "gold": [
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Newfoundland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Newfoundland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "She has also written fiction and her work has gained high-profile awards.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Dublin is also served by Weston Airport and other small-scale facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "gold": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "Argentina's Del Imaginario Discos also unveiled the album in 2007.",
+    "gold": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "She has since worked with homeless patients and holds the high-profile position of Management Consultant fo r MedAmerica.",
+    "gold": [
+      {
+        "text": "r MedAmerica",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Gonu caused strong gusty winds and torrential downpour along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "gold": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan 's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Gonu",
+        "value": "PERSON"
+      },
+      {
+        "text": "Pakistan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Early communities began to appear at the dawn-of-the-19th-century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "gold": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor 's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan 's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor 's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan 's Point",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya composed ``Charitarasara``.",
+    "gold": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Vadeebhasimha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gayachintamani",
+        "value": "ART"
+      },
+      {
+        "text": "Kshatrachudamini",
+        "value": "ART"
+      },
+      {
+        "text": "Banas",
+        "value": "PERSON"
+      },
+      {
+        "text": "Kadambari",
+        "value": "ART"
+      },
+      {
+        "text": "Chavundaraya",
+        "value": "PERSON"
+      },
+      {
+        "text": "Charitarasara",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "After it was established by Yadunandan Sharma, at the instruction of Swami Sahajanand Saraswati in 1933, it saw a large-scale number of freedom fighters visiting.",
+    "gold": [
+      {
+        "text": "Yadunandan Sharma",
+        "value": "PERSON"
+      },
+      {
+        "text": "Swami Sahajanand Saraswati",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Yadunandan Sharma",
+        "value": "PERSON"
+      },
+      {
+        "text": "Swami Sahajanand Saraswati",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Six years later, both Richard and Lilli grow into strong-willed and beautiful teenagers.",
+    "gold": [
+      {
+        "text": "Richard",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lilli",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Richard",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lilli",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "On the formation of the Residential Property Tribunal Service as a result of the Housing Act 2004 the rent assessment committees became part of that body for administrative purposes, and is therefore now called the First-Tier Tribunal (Property Chamber - Residential Property).",
+    "gold": [
+      {
+        "text": "Residential Property Tribunal Service",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Housing Act 2004",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Residential Tribunal Service",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Housing Act 2004",
+        "value": "OTHER"
+      },
+      {
+        "text": "First-Tier Tribunal",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Liz Weir won the inaugural International Story Bridge Award of the National Storytelling Network in the year-long 2002.",
+    "gold": [
+      {
+        "text": "Liz Weir",
+        "value": "PERSON"
+      },
+      {
+        "text": "International Story Bridge Award",
+        "value": "OTHER"
+      },
+      {
+        "text": "National Storytelling Network",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Liz Weir",
+        "value": "PERSON"
+      },
+      {
+        "text": "International",
+        "value": "EVENT"
+      },
+      {
+        "text": "National Network",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "I, Max was a sports commentary show featuring host Max Kellerman and Michael Holley that aired nightly on prime-time Fox Sports Net.",
+    "gold": [
+      {
+        "text": "I , Max",
+        "value": "ART"
+      },
+      {
+        "text": "Max Kellerman",
+        "value": "PERSON"
+      },
+      {
+        "text": "Michael Holley",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fox Sports Net",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Max",
+        "value": "PERSON"
+      },
+      {
+        "text": "Max Kellerman",
+        "value": "PERSON"
+      },
+      {
+        "text": "Michael Holley",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fox Sports Net",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The ridge is situated northeast of Mount Kliment Ohridski, extending in the north-south direction, wide-ranging, and is bounded by Poste Valley to the east, by Palestrina Glacier to the north and its tributary Yozola Glacier to the west.",
+    "gold": [
+      {
+        "text": "Mount Kliment Ohridski",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Poste Valley",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Palestrina Glacier",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Yozola Glacier",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Mount Kliment Ohridski",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Poste Valley",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Palestrina Glacier",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Yozola Glacier",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Bitter Sweet & amp ; Twisted is rock-and-roll band The Quireboys's second studio album, released in 1993.",
+    "gold": [
+      {
+        "text": "Bitter Sweet & amp",
+        "value": "ART"
+      },
+      {
+        "text": "Twisted",
+        "value": "ART"
+      },
+      {
+        "text": "The Quireboys",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Bitter",
+        "value": "PERSON"
+      },
+      {
+        "text": "The Quireboys",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The Germans then launched a counter-attack and penetrated C Company, but the tanks of the North Irish Horse stopped the Germans until dusk.",
+    "gold": [
+      {
+        "text": "Germans",
+        "value": "LOCATION"
+      },
+      {
+        "text": "C Company",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "North Irish Horse",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Germans",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C",
+        "value": "LOCATION"
+      },
+      {
+        "text": "North Irish Horse",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "He also appeared in and Raj Kanwar's action-packed hit ``Jeet``.",
+    "gold": [
+      {
+        "text": "Raj Kanwar",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jeet",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Raj Kanwar",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jeet",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "Even though these matrimonial ties existed between the Ula and Nurhaci, a war broke out in 1607 between Nurhaci and the Ula in which the latter were defeated with the loss of some townships.",
+    "gold": [
+      {
+        "text": "Ula",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Nurhaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Nurhaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ula",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ula",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Nurhaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Nurhaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ula",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "More than 100 sellers from Deidesheim and the surrounding area run stalls, which must stylistically fit into the market's overarching theme.",
+    "gold": [
+      {
+        "text": "Deidesheim",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Deidesheim",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The festival is dedicated to world television and digital content and its creation and co-development.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Alex Salmond (leader of SNP) has since made history by becoming the first-ever First Minister of Scotland from a party other than Labour.",
+    "gold": [
+      {
+        "text": "Alex Salmond",
+        "value": "PERSON"
+      },
+      {
+        "text": "SNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Labour",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Alex Salmond",
+        "value": "PERSON"
+      },
+      {
+        "text": "SNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Labour",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "It won the jury award for best feature Film at the TriMedia Film Festival in the year-long 2010.",
+    "gold": [
+      {
+        "text": "jury award for best feature Film",
+        "value": "OTHER"
+      },
+      {
+        "text": "TriMedia Film Festival",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "TriMedia Film Festival",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "It was co-produced by Richard D.Zanuck and David Brown.",
+    "gold": [
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Richard D.Zanuck",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The same effects have also been seen in short-statured pubertal boys.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a high-profile aviation unit of Royal Malaysia Police.",
+    "gold": [
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "PGU",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pasukan Gerakan Udara (",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "PGU )",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Mary Weiss was one of the co-creators of The Real Live Brady Bunch at The Annoyance Theater, which led to a series of feature film remakes.",
+    "gold": [
+      {
+        "text": "Mary Weiss",
+        "value": "PERSON"
+      },
+      {
+        "text": "Real Live Brady Bunch",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Annoyance Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Mary Weiss",
+        "value": "PERSON"
+      },
+      {
+        "text": "The Annoyance Theater",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "The situation began to crystallise after 1961 when South Africa left the Commonwealth of Nations and so, under the ground-rules of the day, its cricket board had to leave the International Cricket Conference (ICC).",
+    "gold": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ICC",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ICC",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to high-stress.",
+    "gold": [
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "USP42",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "A German teacher for much of her lifetime, MacKeith also advocated for peace during the Aldermaston Marches in the 1950s and demonstrations against the Vietnam War in Grosvenor Square in the 1960s.",
+    "gold": [
+      {
+        "text": "German",
+        "value": "LOCATION"
+      },
+      {
+        "text": "MacKeith",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aldermaston Marches",
+        "value": "EVENT"
+      },
+      {
+        "text": "Vietnam War",
+        "value": "EVENT"
+      },
+      {
+        "text": "Grosvenor Square",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "German",
+        "value": "LOCATION"
+      },
+      {
+        "text": "MacKeith",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aldermaston Marches",
+        "value": "EVENT"
+      },
+      {
+        "text": "Vietnam War",
+        "value": "EVENT"
+      },
+      {
+        "text": "Grosvenor Square",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the catchphrase in the 1930s.",
+    "gold": [
+      {
+        "text": "Steak ' n Shake",
+        "value": "ART"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Steak",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Puckrik travelled widely in her childhood due to her father's military-style background.",
+    "gold": [
+      {
+        "text": "Puckrik",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Puckrik",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Construction was modular so that some of the gold could be removed and melted for coin or bullion in times of severe financial hardship, to be replaced later when finances had bounced-back.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Despite the 3-hour running time and its sometimes slow-paced rhythm, it proved enormously popular with the public and put Jacques Feyder into the front rank of French film-makers.",
+    "gold": [
+      {
+        "text": "Jacques Feyder",
+        "value": "PERSON"
+      },
+      {
+        "text": "French",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Jacques Feyder",
+        "value": "PERSON"
+      },
+      {
+        "text": "French",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "In July 1944, the 503rd parachuted again, onto Noemfoor Island, off Dutch New Guinea, in the Battle of Noemfoor.",
+    "gold": [
+      {
+        "text": "Noemfoor Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dutch New Guinea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Battle of Noemfoor",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "503rd",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Dutch New Guinea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Battle of Noemfoor",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "The scene is set at the Paris Las Vegas resort, where escaped Pteranodons land atop the resort's half-scale Eiffel Tower.",
+    "gold": [
+      {
+        "text": "Paris Las Vegas",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Eiffel Tower",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Paris Las Vegas",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Pteranodons",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "In 1919 Gagnon married Lucile Rodier, also a pupil of world-renowned William Bremner.",
+    "gold": [
+      {
+        "text": "Gagnon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lucile Rodier",
+        "value": "PERSON"
+      },
+      {
+        "text": "William Bremner",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Gagnon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lucile Rodier",
+        "value": "PERSON"
+      },
+      {
+        "text": "William Bremner",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "DMUs in Taiwan are classified as high-speed Class DR.",
+    "gold": [
+      {
+        "text": "DMUs",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "DMUs",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Saunders lost to Fitch by landslide decision.",
+    "gold": [
+      {
+        "text": "Saunders",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fitch",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Saunders",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fitch",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Both versions of the band continued touring and recording new music side-by-side.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Saab gave Mr Gilbert a brand-new Saab 9-5 Aero.",
+    "gold": [
+      {
+        "text": "Saab",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Gilbert",
+        "value": "PERSON"
+      },
+      {
+        "text": "Saab 9-5 Aero",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Saab",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gilbert",
+        "value": "PERSON"
+      },
+      {
+        "text": "Saab 9-5 Aero",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Sosa was not called to the World Cup 2010 team by then-manager Diego Maradona, but was reinstated by new coach Alejandro Sabella for the World Cup 2014 qualifiers, and has been featured in several high-profile games since 2011.",
+    "gold": [
+      {
+        "text": "Sosa",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Diego Maradona",
+        "value": "PERSON"
+      },
+      {
+        "text": "Alejandro Sabella",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Sosa",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup 2010",
+        "value": "EVENT"
+      },
+      {
+        "text": "Diego Maradona",
+        "value": "PERSON"
+      },
+      {
+        "text": "Alejandro Sabella",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "Having been developed as a player through Dundee United's youth system, Walker made six league appearances for the United first-string team, his last coming in September 1997.",
+    "gold": [
+      {
+        "text": "Dundee United",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Walker",
+        "value": "PERSON"
+      },
+      {
+        "text": "United",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Dundee United",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Walker",
+        "value": "PERSON"
+      },
+      {
+        "text": "United",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "As an MP, McGhee was described as an orthodox Irish freedom-fighter.",
+    "gold": [
+      {
+        "text": "McGhee",
+        "value": "PERSON"
+      },
+      {
+        "text": "orthodox Irish",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "McGhee",
+        "value": "PERSON"
+      },
+      {
+        "text": "Irish",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "From 1927 to 1944, he was on the logbooks of the All-Union Communist Party (Bolsheviks), later known as the Communist Party of the Soviet Union.",
+    "gold": [
+      {
+        "text": "All-Union Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Bolsheviks",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Communist Party of the Soviet Union",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "All-Union Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Bolsheviks",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Communist Party of the Soviet Union",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The HTC Prophet is a high-end Personal Digital Assistant (PDA) and mobile telephone manufactured by HTC.",
+    "gold": [
+      {
+        "text": "HTC Prophet",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Personal Digital Assistant ( PDA )",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "mobile telephone",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "HTC",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "HTC Prophet",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Personal Digital Assistant",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "HTC",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The basis of the column is orientated northwest/southeast, while its capital is aligned north/south, possibly so that the statue could look towards the nearby landmark Church of the Holy Apostles.",
+    "gold": [
+      {
+        "text": "Church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "It was previously used by Route 410 to Rehovot, and was known as the Jumping Bridge due to a speed-bump in the middle of the bridge which caused cars to jump if speeding.",
+    "gold": [
+      {
+        "text": "Route 410",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rehovot",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jumping Bridge",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Route 410",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rehovot",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jumping",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Divine Styler says: ``in the school I come from, freestyling was a non-conceptual written rhyme... and now they call freestyling off-the-cuff, so the era I come from it's a lot different''.",
+    "gold": [
+      {
+        "text": "Divine Styler",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "He died in an assisted living facility on election day, November 2, 2004, at the ripe-old age of 92, survived by his widow and one brother.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "For the 2019 Frieze Art Fair in London, Agostinelli staged his fourth intervention by depositing a 1 tonne block of crystal-clear ice pulled by a Tesla to the entrance of the fair on opening day.",
+    "gold": [
+      {
+        "text": "Frieze Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Agostinelli",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tesla",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Frieze Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Agostinelli",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tesla",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Gibraltar suffered a number of air raids during 1940 by the Italian ``Regia Aeronautica`` (operating from Sardinia) and from the Vichy French Air Force (from French North Africa) in retaliation for British and Free French counterattacks on Mers-el-Kebir and Dakar.",
+    "gold": [
+      {
+        "text": "Gibraltar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Regia Aeronautica",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sardinia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Vichy French Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "French North Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "British",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Free French",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mers-el-Kebir",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dakar",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Gibraltar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Italian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Regia Aeronautica",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sardinia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Vichy",
+        "value": "LOCATION"
+      },
+      {
+        "text": "French North Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "British",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Free",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Mers-el-Kebir",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dakar",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The channel has faced charges for spreading fake news and carrying out viewership manipulation on a number of high-profile occasions.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "To further expand its readership, ``The Philippine Star`` entered into a partnership with fast food restaurant Jollibee in 2003 to become the first newspaper to be distributed free of charge in a fast-food restaurant.",
+    "gold": [
+      {
+        "text": "The Philippine Star",
+        "value": "OTHER"
+      },
+      {
+        "text": "Jollibee",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "The Philippine Star",
+        "value": "ART"
+      },
+      {
+        "text": "Jollibee",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "They were set to take on arch-rival Oregon State in the quarterfinals of the Pac-12 Tournament.",
+    "gold": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "Petit-de-Grat Island is a Canadian island off the seacoast of Cape Breton Island, in Richmond County, Nova Scotia.",
+    "gold": [
+      {
+        "text": "Petit-de-Grat Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canadian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Cape Breton Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richmond County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Nova Scotia",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Petit-de-Grat",
+        "value": "PERSON"
+      },
+      {
+        "text": "Canadian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Cape Breton Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richmond County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Nova Scotia",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Of the company's first direct signings The Rasmus managed to launch a successful international career with the release of their breakthrough album Dead Letters (2003).",
+    "gold": [
+      {
+        "text": "Rasmus",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Dead Letters",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Dead Letters",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "Lawrence claims that she was given hard-earned cash, whereas Stephens claims that his life was threatened.",
+    "gold": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lawrence",
+        "value": "PERSON"
+      },
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly saltwater environments.",
+    "gold": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Cnidaria",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a high-performance V8 unit in 1998.",
+    "gold": [
+      {
+        "text": "DB5 extended 4 ''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "DB5",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Marek",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "The Austro-Hungarian Navy built and operated two classes of high-speed protected cruisers.",
+    "gold": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of white-blood cells in cardiovascular tissue.",
+    "gold": [],
+    "prediction": [
+      {
+        "text": "GPX1",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "He has caught the attention of major publications and media powerhouses such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "gold": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail , NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily",
+        "value": "ART"
+      },
+      {
+        "text": "NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The buildings were renovated into workspaces in the 1980s.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its close-knit neighbour Beinn Eunaich.",
+    "gold": [
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Elin Hilderbrand is an American writer mostly of romance page-turners.",
+    "gold": [
+      {
+        "text": "Elin Hilderbrand",
+        "value": "PERSON"
+      },
+      {
+        "text": "American",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Elin Hilderbrand",
+        "value": "PERSON"
+      },
+      {
+        "text": "American",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The B-52 pilot, Major Larry G.Messinger, afterwards recalled,",
+    "gold": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per match-up.",
+    "gold": [
+      {
+        "text": "Elkin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Elkin Memorial",
+        "value": "ORGANIZATION"
+      }
+    ]
+  }
+]
