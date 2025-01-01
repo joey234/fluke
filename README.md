@@ -5,19 +5,46 @@ This repository contains the code for the paper *FLUKE: A Task-Agnostic Framewor
 ## Structure 
 
 
-experiments/
-├── .env # Environment configuration
-└── LLM/
-├── dialogue_prompt_cot.txt # Chain of thought dialogue prompts
-├── coref_prompt_direct.txt # Direct coreference prompts
-└── coref_prompt_cot.txt # Chain of thought coreference prompts
+### Data
+This folder contains the data generated based on the FLUKE framework.
 
 data/
-├── dialogue_data.json # Dialogue data
-├── coref_data.json # Coreference data
-└── ... # Other data
+├── modified_data.json # Modified data
+    ├── coref
+    ├── dialogue
+    ├── sa
+    ├── ner
+├── scripts/ # Scripts for data analysis
+
+
+### Data Generation
+This folder contains the script and prompt for generating data following the FLUKE framework.
+
 data_generation/
-├── dialogue_generation.py # Dialogue generation code
-├── coref_generation.py # Coreference generation code
-└── ... # Other generation code
+├── dialogue_prompt.ipynb # Dialogue generation code
+├── coref_prompt.ipynb # Coreference generation code
+├── ner_prompt.ipynb # NER generation code
+├── sentiment_prompt.ipynb # Sentiment generation code
+
+experiments/
+├── .env # Environment configuration
+├── LLM/ # LLM experiments
+├── PLM/ # PLM experiments
+├── analysis/ # Results analysis scripts
+
 README.md
+
+### Usage
+
+To generate all the results reported in the paper, run the following notebook:
+experiments/analysis/parse_coref_dialog.ipynb
+experiments/analysis/parse_ner.ipynb
+experiments/analysis/parse_sa.ipynb
+
+To run the LLM experiments, run the following notebook:
+experiments/LLM/llm_{task}_{model}.ipynb
+
+
+To run the PLM experiments, run the following notebook:
+experiments/PLM/{task}/eval_{model}.py
+
