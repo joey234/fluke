@@ -1,33 +1,39 @@
 \begin{table}[h]
 \centering
-\begin{tabular}{lrrrrrr}
+\footnotesize
+\begin{adjustbox}{max width=\linewidth}
+\begin{tabular}{llcccccc}
 \hline
-Modification & \textbf{bert-base-cased} & \textbf{gpt2} & \textbf{t5-base} & \textbf{gpt4o} & \textbf{claude-3-5-sonnet} & \textbf{llama} \\
+Category & Modification & \textbf{BERT} & \textbf{GPT-2} & \textbf{T5} & \textbf{GPT-4o} & \textbf{Claude 3.5} & \textbf{Llama 3.1} \\
 \hline
-\textbf{B: Tem} & \cellcolor{red!16} -5.6 & \cellcolor{red!10} -3.6 & \cellcolor{red!9} -3.3 & \cellcolor{red!7} -2.5 & \cellcolor{green!3} +1.2 & \cellcolor{red!3} -1.3 \\
-\textbf{B: Geo} & \cellcolor{red!11} -3.7 & \cellcolor{red!23} -7.8 & \cellcolor{red!5} -1.9 & \cellcolor{red!15} -5.2 & \cellcolor{red!0} 0.0 & \cellcolor{red!3} -1.3 \\
-\textbf{B: Len} & \cellcolor{green!30} +10.6 & \cellcolor{green!30} +10.9 & \cellcolor{green!10} +3.6 & \cellcolor{green!18} +6.3 & \cellcolor{red!0} 0.0 & \cellcolor{green!10} +3.6 \\
-\hline
-\textbf{O: Spell} & \cellcolor{green!29} +9.8 & \cellcolor{red!5} -1.9 & \cellcolor{green!4} +1.6 & \cellcolor{red!11} -3.8 & \cellcolor{green!7} +2.5 & \cellcolor{red!7} -2.6 \\
-\textbf{O: Cap} & \cellcolor{red!28} -9.4 & \cellcolor{red!26} -8.9 & \cellcolor{green!18} +6.1 & \cellcolor{green!3} +1.2 & \cellcolor{red!0} 0.0 & \cellcolor{green!19} \textbf{+6.5}* \\
-\textbf{O: Punc} & \cellcolor{green!5} +1.8 & \cellcolor{red!5} -1.8 & \cellcolor{green!5} +1.7 & \cellcolor{red!3} -1.2 & \cellcolor{red!3} -1.2 & \cellcolor{red!3} -1.3 \\
-\hline
-\textbf{M: Deri} & \cellcolor{red!11} -3.9 & \cellcolor{red!6} -2.0 & \cellcolor{green!6} +2.0 & \cellcolor{red!0} 0.0 & \cellcolor{green!3} +1.2 & \cellcolor{red!3} -1.2 \\
-\textbf{M: Com} & \cellcolor{red!0} 0.0 & \cellcolor{red!10} -3.4 & \cellcolor{red!5} -1.7 & \cellcolor{red!10} -3.6 & \cellcolor{red!6} -2.3 & \cellcolor{red!0} 0.0 \\
-\hline
-\textbf{Sx: Voice} & \cellcolor{red!12} -4.3 & \cellcolor{green!18} +6.1 & \cellcolor{green!30} \textbf{+20.4} & \cellcolor{green!11} +3.9 & \cellcolor{red!3} -1.2 & \cellcolor{red!3} -1.3 \\
-\textbf{Sx: Gra} & \cellcolor{red!16} -5.4 & \cellcolor{red!30} -10.8 & \cellcolor{green!15} +5.0 & \cellcolor{red!18} -6.2 & \cellcolor{red!4} -1.6 & \cellcolor{red!0} 0.0 \\
-\textbf{Sx: Conj} & \cellcolor{green!5} +1.8 & \cellcolor{green!20} +6.7 & \cellcolor{red!18} -6.2 & \cellcolor{red!7} -2.6 & \cellcolor{green!7} +2.5 & \cellcolor{red!3} -1.3 \\
-\textbf{Sm: Con} & \cellcolor{red!13} -4.5 & \cellcolor{green!7} +2.4 & \cellcolor{red!27} \textbf{-9.3}* & \cellcolor{red!4} -1.4 & \cellcolor{red!15} -5.1 & \cellcolor{red!3} -1.3 \\
-\hline
-\textbf{P: Neg} & \cellcolor{red!17} -5.7 & \cellcolor{red!6} -2.0 & \cellcolor{red!10} -3.4 & \cellcolor{red!30} \textbf{-13.8}* & \cellcolor{red!15} -5.2 & \cellcolor{red!30} \textbf{-10.3} \\
-\textbf{P: Disc} & \cellcolor{red!10} -3.6 & \cellcolor{red!25} -8.5 & \cellcolor{red!11} -3.8 & \cellcolor{red!4} -1.4 & \cellcolor{red!7} -2.4 & \cellcolor{red!11} -3.8 \\
-\textbf{P: Senti} & \cellcolor{green!15} +5.3 & \cellcolor{red!28} \textbf{-9.5} & \cellcolor{red!0} 0.0 & \cellcolor{red!0} 0.0 & \cellcolor{red!3} -1.2 & \cellcolor{green!3} +1.2 \\
-\hline
-\textbf{G: Cas} & \cellcolor{red!30} \textbf{-21.8}** & \cellcolor{red!17} -5.8 & \cellcolor{red!22} -7.5 & \cellcolor{red!18} -6.3 & \cellcolor{red!14} -4.8 & \cellcolor{red!15} -5.0 \\
-\textbf{G: Dial} & \cellcolor{red!16} -5.5 & \cellcolor{red!30} \textbf{-17.0}* & \cellcolor{red!20} -6.9 & \cellcolor{red!7} -2.5 & \cellcolor{green!3} +1.2 & \cellcolor{red!20} -6.9 \\
-\hline
+\rowcolor{gray!20}\textit{Original} & & 4947.40 & 8947.40 & 5157.90 & 8000.00 & 8210.50 & 5684.20 \\
+\textbf{Bias} & & & & & & & \\
+& \textbf{Temporal} & \cellcolor{red!7} -2.60 & \cellcolor{red!5} -1.75 & \cellcolor{red!5} -1.78 & \cellcolor{red!5} -1.91 & \cellcolor{green!2} +0.96 & \cellcolor{red!2} -0.95 \\
+& \textbf{Geographical} & \cellcolor{red!5} -1.73 & \cellcolor{red!10} -3.42 & \cellcolor{red!2} -0.87 & \cellcolor{red!11} -3.77 & \cellcolor{red!0} 0.00 & \cellcolor{red!2} -0.95 \\
+& \textbf{Length} & \cellcolor{green!12} +4.23 & \cellcolor{green!12} +4.21 & \cellcolor{green!5} +1.77 & \cellcolor{green!14} +4.80 & \cellcolor{red!0} 0.00 & \cellcolor{green!8} +2.91 \\
+\textbf{Orthographic} & & & & & & & \\
+& \textbf{Spelling} & \cellcolor{green!13} +4.38 & \cellcolor{red!2} -0.89 & \cellcolor{green!2} +0.92 & \cellcolor{red!8} -2.93 & \cellcolor{green!5} +1.95 & \cellcolor{red!5} -1.94 \\
+& \textbf{Capitalization} & \cellcolor{red!13} -4.37 & \cellcolor{red!10} -3.35 & \cellcolor{green!7} +2.57 & \cellcolor{green!2} +0.97 & \cellcolor{red!0} 0.00 & \cellcolor{green!14} \textbf{+4.78}* \\
+& \textbf{Punctuation} & \cellcolor{green!2} +0.89 & \cellcolor{red!2} -0.89 & \cellcolor{green!2} +0.89 & \cellcolor{red!2} -0.97 & \cellcolor{red!2} -0.98 & \cellcolor{red!2} -0.95 \\
+\textbf{Morphological} & & & & & & & \\
+& \textbf{Derivation} & \cellcolor{red!5} -1.75 & \cellcolor{red!2} -0.88 & \cellcolor{green!2} +0.88 & \cellcolor{red!0} 0.00 & \cellcolor{green!2} +0.98 & \cellcolor{red!2} -0.99 \\
+& \textbf{Compound} & \cellcolor{red!0} 0.00 & \cellcolor{red!5} -1.85 & \cellcolor{red!2} -0.93 & \cellcolor{red!9} -3.03 & \cellcolor{red!6} -2.03 & \cellcolor{red!0} 0.00 \\
+\textbf{Syntactic} & & & & & & & \\
+& \textbf{Voice} & \cellcolor{red!5} -1.78 & \cellcolor{green!8} +2.70 & \cellcolor{green!30} \textbf{+10.16} & \cellcolor{green!9} +3.00 & \cellcolor{red!3} -1.03 & \cellcolor{red!3} -1.01 \\
+& \textbf{Grammar} & \cellcolor{red!7} -2.38 & \cellcolor{red!14} -4.75 & \cellcolor{green!7} +2.42 & \cellcolor{red!16} -5.41 & \cellcolor{red!4} -1.34 & \cellcolor{red!0} 0.00 \\
+& \textbf{Conjunction} & \cellcolor{green!2} +0.90 & \cellcolor{green!11} +3.69 & \cellcolor{red!11} -3.75 & \cellcolor{red!5} -1.96 & \cellcolor{green!5} +1.98 & \cellcolor{red!2} -0.98 \\
+\textbf{Semantic} & & & & & & & \\
+& \textbf{Concept} & \cellcolor{red!4} -1.64 & \cellcolor{green!2} +0.81 & \cellcolor{red!12} \textbf{-4.33}* & \cellcolor{red!2} -0.94 & \cellcolor{red!11} -3.78 & \cellcolor{red!2} -0.94 \\
+& \textbf{Negation} & \cellcolor{red!7} -2.65 & \cellcolor{red!2} -0.87 & \cellcolor{red!5} -1.81 & \cellcolor{red!30} \textbf{-10.73}* & \cellcolor{red!11} -3.87 & \cellcolor{red!23} \textbf{-7.76} \\
+\textbf{Pragmatic} & & & & & & & \\
+& \textbf{Discourse} & \cellcolor{red!5} -1.75 & \cellcolor{red!10} -3.34 & \cellcolor{red!5} -1.72 & \cellcolor{red!2} -0.94 & \cellcolor{red!5} -1.93 & \cellcolor{red!8} -2.85 \\
+& \textbf{Sentiment} & \cellcolor{green!7} +2.63 & \cellcolor{red!16} \textbf{-5.40} & \cellcolor{red!0} 0.00 & \cellcolor{red!0} 0.00 & \cellcolor{red!2} -0.96 & \cellcolor{green!2} +0.96 \\
+\textbf{Genre} & & & & & & & \\
+& \textbf{Casual} & \cellcolor{red!30} \textbf{-10.44}** & \cellcolor{red!7} -2.57 & \cellcolor{red!10} -3.45 & \cellcolor{red!14} -4.74 & \cellcolor{red!11} -3.85 & \cellcolor{red!11} -3.81 \\
+& \textbf{Dialectal} & \cellcolor{red!7} -2.61 & \cellcolor{red!23} \textbf{-7.76}* & \cellcolor{red!10} -3.53 & \cellcolor{red!5} -1.91 & \cellcolor{green!2} +0.96 & \cellcolor{red!17} -5.82 \\
+& \textbf{Singlish} & \cellcolor{red!7} -2.49 & \cellcolor{green!2} +0.86 & \cellcolor{green!4} +1.59 & \cellcolor{red!8} -2.73 & \cellcolor{red!16} \textbf{-5.54} & \cellcolor{red!30} \textbf{-10.21}** \\
 \end{tabular}
+\end{adjustbox}
 \caption{Percentage Change in Micro F1 Score by Model and Modification Type}
-\label{tab:ner_results}
+\label{tab:dialogue_results_table}
 \end{table}

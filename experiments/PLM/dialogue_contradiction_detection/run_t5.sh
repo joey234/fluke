@@ -26,9 +26,9 @@ DATETIME=`date +"%Y%m%d-%H%M%S"`
 python t5.py \
 --model_name_or_path ${MODEL_NAME} \
 --output_dir ./tmp/${MODEL_NAME}_${DATETIME} \
---train_file ../datasets/transformed_train_dev_test_data/dialogue/train.json \
---validation_file ../datasets/transformed_train_dev_test_data/dialogue/dev.json \
---test_file ../datasets/transformed_train_dev_test_data/dialogue/test.json \
+--train_file ../datasets/transformed_train_dev_test_data/rongxin/train.json \
+--validation_file ../datasets/transformed_train_dev_test_data/rongxin/dev.json \
+--test_file ../datasets/transformed_train_dev_test_data/rongxin/test.json \
 --evaluation_strategy steps \
 --eval_steps 100 \
 --save_strategy steps \

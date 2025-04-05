@@ -193,8 +193,8 @@ if __name__ == "__main__":
 
     # Add arguments
     parser.add_argument("--checkpoint_path", type=str, default="./tmp/t5-base/checkpoint_step_22000.pt", help="Path to the saved T5 checkpoint directory.")
-    parser.add_argument("--test_file_path", type=str, default="../datasets/transformed_train_dev_test_data/coref/test.json", help="Path to the original test JSON file.")
-    parser.add_argument("--ood_test_dir", type=str, default="../datasets/test_data_after_modifications/coref", help="Directory containing OOD test JSON files.")
+    parser.add_argument("--test_file_path", type=str, default="../datasets/transformed_train_dev_test_data/thinh/test.json", help="Path to the original test JSON file.")
+    parser.add_argument("--ood_test_dir", type=str, default="../datasets/test_data_after_modifications/thinh", help="Directory containing OOD test JSON files.")
     parser.add_argument("--pretrained_model_name", type=str, default="t5-base", help="Pretrained T5 model name or path.")
     parser.add_argument("--max_length", type=int, default=128, help="Maximum sequence length.")
     parser.add_argument("--batch_size", type=int, default=8, help="Evaluation batch size.")

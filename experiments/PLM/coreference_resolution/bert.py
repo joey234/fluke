@@ -239,8 +239,8 @@ if __name__ == "__main__":
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     # Load training and dev data from JSON files
-    train_file_path = "../datasets/transformed_train_dev_test_data/coref/train.json"
-    dev_file_path = "../datasets/transformed_train_dev_test_data/coref/dev.json"
+    train_file_path = "../datasets/transformed_train_dev_test_data/thinh/train.json"
+    dev_file_path = "../datasets/transformed_train_dev_test_data/thinh/dev.json"
 
     train_sentence_pairs, train_labels = load_data_from_json(train_file_path)
     dev_sentence_pairs, dev_labels = load_data_from_json(dev_file_path)

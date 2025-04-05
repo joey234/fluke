@@ -1,92 +1,636 @@
 [
   {
-    "text": "He produced Kim Fowley and BMX Bandits' ``Hidden Agenda At the Thirteenth Not`` for Receiver Records.",
+    "text": "' Ra Progress is a ' British comedy flick",
     "gold": [
       {
-        "text": "Kim Fowley",
-        "value": "PERSON"
-      },
-      {
-        "text": "BMX Bandits",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Hidden Agenda At the Thirteenth Not",
+        "text": "' Ra Progress",
         "value": "ART"
       },
       {
-        "text": "Receiver Records",
+        "text": "British",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ra Progress",
+        "value": "ART"
+      },
+      {
+        "text": "British",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Route 410 used to take you to Re over the Jump Bridge which got its name ' there this bump that makes your car leap if you going too fast",
+    "gold": [
+      {
+        "text": "Route 410",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Re",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jump Bridge",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Route 410",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Re",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jump Bridge",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "Eli Hi an American who writes a lot of romance novels",
+    "gold": [
+      {
+        "text": "Eli Hi",
+        "value": "PERSON"
+      },
+      {
+        "text": "American",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Eli Hi",
+        "value": "PERSON"
+      },
+      {
+        "text": "American",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Del I Disco from Argentina dropped the album back in 2007 too",
+    "gold": [
+      {
+        "text": "Del I Disco",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Del",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "I",
+        "value": "ART"
+      },
+      {
+        "text": "Disco",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Go brought a bunch of wild winds and a down all the way from Karachi to G along Pakistan Arabian Sea coast",
+    "gold": [
+      {
+        "text": "Go",
+        "value": "EVENT"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "G",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan Arabian Sea coast",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Go",
+        "value": "EVENT"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "G",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan Arabian Sea",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Then the Germans came at us again breaking through C Company but the North Irish Horse tanks held them off till night",
+    "gold": [
+      {
+        "text": "Germans",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "C Company",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "North Irish Horse",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "Kim Fowley",
-        "value": "PERSON"
-      },
-      {
-        "text": "BMX Bandits",
+        "text": "C Company",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Hidden Agenda At the Thirteenth Not",
-        "value": "ART"
-      },
-      {
-        "text": "Receiver Records",
+        "text": "North Irish Horse",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "Nintendo sold the Wii model, Wii Mini, and Wii U during the Wii U's first year.",
+    "text": "Petit Island this cool Canadian spot just off Cape Breton Island right in Richmond County Nova Scotia",
     "gold": [
       {
-        "text": "Nintendo",
-        "value": "ORGANIZATION"
+        "text": "Petit Island",
+        "value": "LOCATION"
       },
       {
-        "text": "Wii model",
-        "value": "PRODUCT"
+        "text": "Canadian",
+        "value": "NATIONALITY"
       },
       {
-        "text": "Wii Mini",
-        "value": "PRODUCT"
+        "text": "Cape Breton Island",
+        "value": "LOCATION"
       },
       {
-        "text": "Wii U",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "Wii U",
-        "value": "PRODUCT"
+        "text": "Richmond County Nova Scotia",
+        "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Nintendo",
-        "value": "ORGANIZATION"
+        "text": "Petit Island",
+        "value": "LOCATION"
       },
       {
-        "text": "Wii model",
-        "value": "PRODUCT"
+        "text": "Canadian",
+        "value": "LOCATION"
       },
       {
-        "text": "Wii Mini",
-        "value": "PRODUCT"
+        "text": "Cape Breton Island",
+        "value": "LOCATION"
       },
       {
-        "text": "Wii U",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "Wii U",
-        "value": "PRODUCT"
+        "text": "Richmond County Nova Scotia",
+        "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "Lawrence claims receiving cash, Stephens claims threats to his life.",
+    "text": "It got started as a spin from Murphy Oil back in 2013",
+    "gold": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Plus Santa didn do it it was all Co Mel sneak plan She only mentioned for a se in the song but in the show they make her out to be a total gold",
+    "gold": [
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Co Mel",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Co Mel",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Pune got beat 1 and all three goals were scored after Am joined in",
+    "gold": [
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Am",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Am",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "At this f Sid jumped in and saved Vin from getting shot by R",
+    "gold": [
+      {
+        "text": "Sid",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "R",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Sid",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "R",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Hunt the re for Omaha 8th district which includes the Dundee Benson and Keys areas",
+    "gold": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keys",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keys",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Go from France made it they started up in Ren back in 2009",
+    "gold": [
+      {
+        "text": "Go",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ren",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Go",
+        "value": "PERSON"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ren",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "To get more readers ` Philippine Star teamed up with Jo back in 2003 making it the first newspaper you could grab for free at a fast food place",
+    "gold": [
+      {
+        "text": "` Philippine Star",
+        "value": "OTHER"
+      },
+      {
+        "text": "Jo",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Philippine Star",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jo",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "When the Resident Property Tribunal Service got started because of the Housing Act 2004 the rent assessment committees joined up with it for ad stuff so now it known as the First Tier Tribunal ( Chamber - Resident Property",
+    "gold": [
+      {
+        "text": "Resident Property Tribunal Service",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Housing Act 2004",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Resident Property Tribunal Service",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Housing Act 2004",
+        "value": "OTHER"
+      },
+      {
+        "text": "First Tier Tribunal",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Chamber",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Resident Property",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "He gotten noticed by big names like CNN The Hu Post H The Guardian Ju Magazine Daily Mail N Al and Hi Magazine",
+    "gold": [
+      {
+        "text": "CNN The Hu Post H The Guardian Ju Magazine Daily Mail N Al",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "CNN The Hu Post H The Guardian Ju Magazine Daily Mail N Al",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi Magazine",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "It an or with g ha and ne in it",
+    "gold": [
+      {
+        "text": "or",
+        "value": "OTHER"
+      },
+      {
+        "text": "g ha",
+        "value": "OTHER"
+      },
+      {
+        "text": "ne",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "g ha",
+        "value": "OTHER"
+      },
+      {
+        "text": "ne",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Over 100 folks from De and nearby set up stalls that gotta blend in with the whole market v",
+    "gold": [
+      {
+        "text": "De",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "De",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The guys raced their bikes on the road at the ' Summer Olympics in Melbourne Australia on Friday December 7th 1956",
+    "gold": [
+      {
+        "text": "Summer Olympics",
+        "value": "EVENT"
+      },
+      {
+        "text": "Melbourne Australia",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Summer Olympics",
+        "value": "EVENT"
+      },
+      {
+        "text": "Melbourne Australia",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Mac who was a German teacher for ages also pushed for peace at the Al March back in the ' and protested the Vietnam War at G Square in the '",
+    "gold": [
+      {
+        "text": "Mac",
+        "value": "PERSON"
+      },
+      {
+        "text": "German",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "Al March",
+        "value": "EVENT"
+      },
+      {
+        "text": "Vietnam War",
+        "value": "EVENT"
+      },
+      {
+        "text": "G Square",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Mac",
+        "value": "PERSON"
+      },
+      {
+        "text": "German",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Al March",
+        "value": "EVENT"
+      },
+      {
+        "text": "Vietnam War",
+        "value": "EVENT"
+      },
+      {
+        "text": "G Square",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The album got some cool remixes of ' It or Not and ' Me Up by folks like A RA Jo V and Tale of Us",
+    "gold": [
+      {
+        "text": "' It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "' Me Up",
+        "value": "ART"
+      },
+      {
+        "text": "A RA Jo V",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "Me Up",
+        "value": "ART"
+      },
+      {
+        "text": "A RA Jo V",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "From ' to ' he was with the All Communist Party ( which later became the Communist Party of the Soviet Union",
+    "gold": [
+      {
+        "text": "All Communist Party (",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Communist Party of the Soviet Union",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "All Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Communist Party of the Soviet Union",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Lawrence says she got cash but Stephens says someone threatened his life",
     "gold": [
       {
         "text": "Stephens",
@@ -105,510 +649,1051 @@
     ]
   },
   {
-    "text": "She wrote fiction and won awards.",
+    "text": "The airport down south southeast from N town center right on Melville Road",
+    "gold": [
+      {
+        "text": "N",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Melville Road",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "N",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Melville Road",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "But in 1861 southern states thinking about splitting off after the 1860 presidential election got rid of that road to political change",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "In the quaint town of Wellingborough, nestled within the scenic county of Northamptonshire, he embarked on his educational journey, attending the esteemed Victoria Junior School, followed by the reputable Westfield Boys School, and culminating at the prestigious Sir Christopher Hatton School.",
+    "text": "I Max was this cool sports talk show with Max Keller and Michael Ho and it was on every night on Fox Sports Net",
     "gold": [
       {
-        "text": "Wellingborough",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Northamptonshire",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Victoria Junior School",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Westfield Boys School",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Sir Christopher Hatton School",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Wellingborough",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Northamptonshire",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Victoria Junior School",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Westfield Boys School",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Sir Christopher Hatton School",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "England's lowest ODI score, 91, was at the 1979 Cricket World Cup versus Canada.",
-    "gold": [
-      {
-        "text": "England",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Cricket World Cup",
-        "value": "EVENT"
-      },
-      {
-        "text": "Canada",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "England",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Cricket World Cup",
-        "value": "EVENT"
-      },
-      {
-        "text": "Canada",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "The 117-bed facility had individual rooms with en-suite bathrooms.",
-    "gold": [],
-    "prediction": []
-  },
-  {
-    "text": "GPX1 deficiency amplifies aging, causing endothelial dysfunction and leukocyte invasion in cardiovascular tissue.",
-    "gold": [],
-    "prediction": [
-      {
-        "text": "GPX1",
-        "value": "OTHER"
-      }
-    ]
-  },
-  {
-    "text": "Born in Wellingborough, Northamptonshire, he attended Victoria Junior School, Westfield Boys School, Sir Christopher Hatton School.",
-    "gold": [
-      {
-        "text": "Wellingborough",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Northamptonshire",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Victoria Junior School",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Westfield Boys School",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Sir Christopher Hatton School",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Wellingborough",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Northamptonshire",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Victoria Junior School",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Westfield Boys School",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Sir Christopher Hatton School",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Buildings became offices in the '80s.",
-    "gold": [],
-    "prediction": []
-  },
-  {
-    "text": "In some versions, the eggplant is boiled, not grilled, yielding a softer, less smoky dish.",
-    "gold": [
-      {
-        "text": "eggplant",
-        "value": "OTHER"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "eggplant",
-        "value": "PRODUCT"
-      }
-    ]
-  },
-  {
-    "text": "In 2007, the well-known label from Argentina, Del Imaginario Discos, not only published the album but also promoted it extensively.",
-    "gold": [
-      {
-        "text": "Argentina",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Del Imaginario Discos",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Argentina",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Del Imaginario Discos",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Maximilian III Joseph, Elector of Bavaria founded the Bavarian Academy of Sciences and Humanities in 1759.",
-    "gold": [
-      {
-        "text": "Maximilian III Joseph , Elector of Bavaria",
-        "value": "PERSON"
-      },
-      {
-        "text": "Bavarian Academy of Sciences and Humanities",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Maximilian III Joseph",
-        "value": "PERSON"
-      },
-      {
-        "text": "Bavaria",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Bavarian Academy of Sciences and Humanities",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "The Newfoundland Reform Liberal Party, from 1975 to 1979, was in Canada's Newfoundland and Labrador.",
-    "gold": [
-      {
-        "text": "Newfoundland Reform Liberal Party",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Canada",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Newfoundland and Labrador",
-        "value": "LOCATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Newfoundland Reform Liberal Party",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Canada",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Newfoundland",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Labrador",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "During the period between 1846 and 1848, the peasantry was not only aggrieved but also increasingly vocal in their opposition, and as a result, the level of resistance and discontent directed specifically towards Sturdza significantly intensified.",
-    "gold": [
-      {
-        "text": "Sturdza",
-        "value": "PERSON"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Sturdza",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "The town includes the gated Orchid Island Golf and Beach Club.",
-    "gold": [
-      {
-        "text": "Orchid Island Golf and Beach Club",
-        "value": "LOCATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Orchid Island",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Beach",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "A significant portion of the town's area is, in fact, encompassed by a well-established, secure gated community known as Orchid Island Golf and Beach Club.",
-    "gold": [
-      {
-        "text": "Orchid Island Golf and Beach Club",
-        "value": "LOCATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Orchid Island Golf and Beach Club",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Hunt represents Omaha's 8th district, including Dundee, Benson, Keystone.",
-    "gold": [
-      {
-        "text": "Hunt",
-        "value": "PERSON"
-      },
-      {
-        "text": "Omaha",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Dundee",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Benson",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Keystone",
-        "value": "LOCATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Hunt",
-        "value": "PERSON"
-      },
-      {
-        "text": "Omaha",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Dundee",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Benson",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Keystone",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "From the year 1975 until the end of 1979, the Newfoundland Reform Liberal Party, which was known for its strong focus on leadership, served as a significant political entity within the region of Newfoundland and Labrador, a province of Canada.",
-    "gold": [
-      {
-        "text": "Newfoundland Reform Liberal Party",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Newfoundland and Labrador",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Canada",
-        "value": "LOCATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Newfoundland Reform Liberal Party",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Newfoundland",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Labrador",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Canada",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "The government declared a state funeral and national mourning.",
-    "gold": [],
-    "prediction": []
-  },
-  {
-    "text": "Argentina's Del Imaginario Discos released it in 2007.",
-    "gold": [
-      {
-        "text": "Argentina",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Del Imaginario Discos",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Argentina",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Del Imaginario Discos",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "The government officially announced a state funeral and proclaimed a day of national mourning to honor the solemn occasion.",
-    "gold": [],
-    "prediction": []
-  },
-  {
-    "text": "Between 1846 and 1848, peasant unrest against Sturdza grew.",
-    "gold": [
-      {
-        "text": "Sturdza",
-        "value": "PERSON"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Sturdza",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "As per the historical records preserved in the Steak' n Shake archives, it is documented that the innovative founder of the restaurant, Gus Belt, made a formal application for a trademark registration on the distinctive word during the era of the 1930s.",
-    "gold": [
-      {
-        "text": "Steak ' n Shake",
+        "text": "I Max",
         "value": "ART"
       },
       {
-        "text": "Gus Belt",
+        "text": "Max Keller",
         "value": "PERSON"
+      },
+      {
+        "text": "Michael Ho",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fox Sports Net",
+        "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "Steak ' n Shake",
-        "value": "BUILDING"
+        "text": "Max",
+        "value": "ART"
       },
       {
-        "text": "Gus Belt",
+        "text": "Max Keller",
         "value": "PERSON"
+      },
+      {
+        "text": "Michael Ho",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fox Sports Net",
+        "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "The annual festival, a grand and significant event, is wholeheartedly dedicated to the celebration and appreciation of world television and digital content, including the intricate processes of its creation and development.",
+    "text": "Sometimes they don g the egg they just b it so it softer and doesn have that s taste like the usual recipe",
+    "gold": [
+      {
+        "text": "egg",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Got a bunch of stuff here on sexual health issues dating back from ' to 2007",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "``Patrick Morris`` issued a mayday at 6:51 am, sinking soon after.",
+    "text": "You know the most famous thing Ward La made was that P ` pump and they even gave one away to be the pretend Los Angeles County Fire Department Engine 51 in the ' show `",
     "gold": [
       {
-        "text": "Patrick Morris",
+        "text": "Ward La",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P `",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ward La",
+        "value": "PERSON"
+      },
+      {
+        "text": "P `",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "` Morris shot out a may call at 6 in the morning and went down 35 minutes after",
+    "gold": [
+      {
+        "text": "` Morris",
         "value": "PRODUCT"
       }
     ],
     "prediction": [
       {
-        "text": "Patrick Morris",
-        "value": "PRODUCT"
+        "text": "Morris",
+        "value": "PERSON"
       }
     ]
   },
   {
-    "text": "At precisely 6:51 am, the vessel known as ``Patrick Morris`` desperately sent out her own urgent mayday distress signal and tragically sank a mere 35 minutes later in the cold, unforgiving sea.",
+    "text": "Half into the season they swap Stacey King for Luc Long with the Minnesota Tim",
     "gold": [
       {
-        "text": "Patrick Morris",
+        "text": "Stacey King",
+        "value": "PERSON"
+      },
+      {
+        "text": "Luc Long",
+        "value": "PERSON"
+      },
+      {
+        "text": "Minnesota Tim",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Stacey King",
+        "value": "PERSON"
+      },
+      {
+        "text": "Luc Long",
+        "value": "PERSON"
+      },
+      {
+        "text": "Minnesota Tim",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "In 2019 he s his PhD with honors from Pol di Milano working on the thesis ' Mo Architecture a strategic framework of building innovation for emerging housing behaviors in urban contexts",
+    "gold": [
+      {
+        "text": "PhD",
+        "value": "OTHER"
+      },
+      {
+        "text": "Pol di Milano",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "' Mo Architecture a strategic framework of building innovation for emerging housing behaviors in urban contexts",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "PhD",
+        "value": "OTHER"
+      },
+      {
+        "text": "Pol di Milano",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Dublin got Weston Airport and some other small spots for ch plus the military and a few government services use Case Aero just around the corner",
+    "gold": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Case Aero",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Case Aero",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "The 117 place had only private rooms and they all came with their own bathroom",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "She also penned some fiction and her stuff won awards",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "He got the Distinguished Flying Cross in World War II for being an ace de Havilland Mo night pilot with the Royal Canadian Air Force knocking out four enemy planes including the first Mi composite ` aircraft",
+    "gold": [
+      {
+        "text": "Distinguished Flying Cross",
+        "value": "OTHER"
+      },
+      {
+        "text": "World War II",
+        "value": "EVENT"
+      },
+      {
+        "text": "de Havilland Mo",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Royal Canadian Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mi composite ` aircraft",
         "value": "PRODUCT"
       }
     ],
     "prediction": [
       {
-        "text": "Patrick Morris",
+        "text": "Distinguished Flying Cross",
+        "value": "OTHER"
+      },
+      {
+        "text": "World War II",
+        "value": "EVENT"
+      },
+      {
+        "text": "de Havilland Mo",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Royal Canadian Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mi composite",
         "value": "PRODUCT"
       }
     ]
   },
   {
-    "text": "Throughout her childhood, Puckrik experienced a variety of cultures and places, travelling extensively because of her father's frequent military reassignments.",
+    "text": "G s takes am from stuff like ni reduction breaking down amino acids and photo",
     "gold": [
       {
-        "text": "Puckrik",
+        "text": "G s",
+        "value": "OTHER"
+      },
+      {
+        "text": "am",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acids",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "G s",
+        "value": "OTHER"
+      },
+      {
+        "text": "am",
+        "value": "OTHER"
+      },
+      {
+        "text": "ni",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acids",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Back in 1863 he handled the cash for the City of Denver and Ara County",
+    "gold": [
+      {
+        "text": "City of Denver",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ara County",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "City",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Denver",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ara County",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He was also in Raj Ka action movie '",
+    "gold": [
+      {
+        "text": "Raj Ka",
+        "value": "PERSON"
+      },
+      {
+        "text": "'",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Raj Ka",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Looks like the bottom of the column is set up to face northwest and the top is turned north Maybe it so the statue can face the Church of the Holy Apostles that close by",
+    "gold": [
+      {
+        "text": "Church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "The movie taken from the French book ' C by Alexandre Du fi and it looks like it gone for good",
+    "gold": [
+      {
+        "text": "French",
+        "value": "OTHER"
+      },
+      {
+        "text": "Alexandre Du",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "Puckrik",
+        "text": "French",
+        "value": "LOCATION"
+      },
+      {
+        "text": "C",
+        "value": "ART"
+      },
+      {
+        "text": "Alexandre Du",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "The situation started to become clear and more defined after the year 1961, a pivotal moment when South Africa made the decision to depart from the Commonwealth of Nations, and consequently, due to the regulations that were in effect at that time, the national cricket board of South Africa found itself compelled to withdraw from the membership of the International Cricket Conference, commonly known as the ICC.",
+    "text": "They turned the buildings into offices back in the 80s",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Both doors look exactly the same and they got the bronze University seal on them",
     "gold": [
+      {
+        "text": "bronze University seal",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Jam tied the knot with Khalid Ba daughter you know the guy who led the Syrian Communist Party and was the first com to s a seat in an Arab parliament back in '",
+    "gold": [
+      {
+        "text": "Jam",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Ba",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Jam",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Ba",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The Ninth got seriously who at Cam with Q Pet Ce calling the shots during Bo uprising ( Lo of their infantry got wiped out trying to save the surrounded city of Cam you know Colchester",
+    "gold": [
+      {
+        "text": "Cam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Q Pet Ce",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bo",
+        "value": "EVENT"
+      },
+      {
+        "text": "Cam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Cam",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Q Pet Ce",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bo uprising",
+        "value": "EVENT"
+      },
+      {
+        "text": "Cam",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "John Wayne was born here",
+    "gold": [
+      {
+        "text": "John Wayne",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "John Wayne",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "You can play as An in the game SM",
+    "gold": [
+      {
+        "text": "An",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "An",
+        "value": "PERSON"
+      },
+      {
+        "text": "SM",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Ken started at May Seminary in 1829 the same year Catholic Em happened",
+    "gold": [
+      {
+        "text": "Ken",
+        "value": "PERSON"
+      },
+      {
+        "text": "May Seminary",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Catholic Em",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ken",
+        "value": "PERSON"
+      },
+      {
+        "text": "May Seminary",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Catholic Em",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "All Pi from Des totally loved the game saying it got controls just as awesome as Super Metro and Super Castle IV",
+    "gold": [
+      {
+        "text": "All Pi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Des",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metro",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castle IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "All Pi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Des",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Metro",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castle IV",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "He from Well in Northamptonshire and went to Victoria Junior School West Boys School and Sir Christopher Hat School",
+    "gold": [
+      {
+        "text": "Well",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School West Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hat School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Well",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School West Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hat School",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Saunders got beat by Fi everyone agreed on it",
+    "gold": [
+      {
+        "text": "Saunders",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fi",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Saunders",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fi",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Back in 1919 G tied the knot with Luc Rod who was learning from William B too",
+    "gold": [
+      {
+        "text": "G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Luc Rod",
+        "value": "PERSON"
+      },
+      {
+        "text": "William B",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Luc Rod",
+        "value": "PERSON"
+      },
+      {
+        "text": "William B",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Team Or net four goals and cruise to a 7 win",
+    "gold": [
+      {
+        "text": "Team Or",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Team Or",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "They wrapped up the season 14 going 9 in C play and landed in seventh place",
+    "gold": [
+      {
+        "text": "C play",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Do got her Bachelor in Music Composition from Cal State North back in ' s her Master in Ha Performance there in ' and then scored a D from U of M Ann Arbor in '",
+    "gold": [
+      {
+        "text": "Do",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor in Music Composition",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State North",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master in Ha Performance",
+        "value": "OTHER"
+      },
+      {
+        "text": "D",
+        "value": "OTHER"
+      },
+      {
+        "text": "U of M",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Do",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor in Music Composition",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State North",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master in Ha",
+        "value": "OTHER"
+      },
+      {
+        "text": "D",
+        "value": "OTHER"
+      },
+      {
+        "text": "U of M",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Liz Weir s the first International Story Bridge Award from the National Story Network back in 2002",
+    "gold": [
+      {
+        "text": "Liz Weir",
+        "value": "PERSON"
+      },
+      {
+        "text": "International Story Bridge Award",
+        "value": "OTHER"
+      },
+      {
+        "text": "National Story Network",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Liz Weir",
+        "value": "PERSON"
+      },
+      {
+        "text": "International Story Bridge Award",
+        "value": "OTHER"
+      },
+      {
+        "text": "National Story Network",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Back in June 2003 they kicked off this plan called the C I Regional Park Project Pro to make a cool green strip running from Manchester heart all the way to the West Penn Moor with a thumbs up from the folks at Salford Bury and Bolton councils not to mention the Red Rose Forest",
+    "gold": [
+      {
+        "text": "C I Regional Park Project Pro",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn Moor",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C I",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn Moor",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "At the 2019 Fr Art Fair in London A pulled off his fourth stunt by dragging a massive 1 chunk of clear ice with a Te right up to the fair entrance on the first day",
+    "gold": [
+      {
+        "text": "Fr Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "A",
+        "value": "PERSON"
+      },
+      {
+        "text": "Te",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Fr Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "A",
+        "value": "PERSON"
+      },
+      {
+        "text": "Te",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "They don rely on insulin and can lower sugar levels without trigger h or making you put on weight",
+    "gold": [
+      {
+        "text": "insulin",
+        "value": "OTHER"
+      },
+      {
+        "text": "h",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "h",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "In July ' the 50 made another jump this time landing on No Island just off Dutch New Guinea during the Battle of No",
+    "gold": [
+      {
+        "text": "No Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dutch New Guinea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Battle of No",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "No Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dutch New Guinea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Battle of No",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "So on Jan 11 2018 they said T gonna step back in the ring to face off with the Colombian boxer Juan De Angel This is all going down during the Devon Alexander vs Victor Ortiz fight on Feb 17 right at the Don Has Center over at U in El Paso Texas",
+    "gold": [
+      {
+        "text": "T",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Colombian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Juan De Angel",
+        "value": "PERSON"
+      },
+      {
+        "text": "Devon Alexander",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Victor Ortiz",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Don Has Center",
+        "value": "BUILDING"
+      },
+      {
+        "text": "U",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "El Paso Texas",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "T",
+        "value": "PERSON"
+      },
+      {
+        "text": "Colombian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Juan De Angel",
+        "value": "PERSON"
+      },
+      {
+        "text": "Devon Alexander",
+        "value": "PERSON"
+      },
+      {
+        "text": "Victor Ortiz",
+        "value": "PERSON"
+      },
+      {
+        "text": "Don Has Center",
+        "value": "BUILDING"
+      },
+      {
+        "text": "U",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "El Paso Texas",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Things started to get clear after 1961 when South Africa bail on the Commonwealth of Nations and because of the rules back then its cricket board had to ditch the International Cricket Conference (",
+    "gold": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference (",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
       {
         "text": "South Africa",
         "value": "LOCATION"
@@ -620,889 +1705,759 @@
       {
         "text": "International Cricket Conference",
         "value": "ORGANIZATION"
-      },
-      {
-        "text": "ICC",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "South Africa",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Commonwealth Nations",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "national cricket board of South Africa",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "International Cricket Conference",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "ICC",
-        "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "In 2014, Mediaite honored her expertise by naming her in a four-way tie among the esteemed 'Best TV Pundits', citing her exceptional and comprehensive understanding of complex women's health and justice issues, which surpassed the standard and typical talking points often heard.",
+    "text": "The Papa over in central Italy had a big cultural and political impact during the Catholic Reformation that started when the Tri council wrapped up ( thanks to the treaty terms",
     "gold": [
       {
-        "text": "Mediaite",
-        "value": "PERSON"
-      },
-      {
-        "text": "'Best",
-        "value": "'OTHER"
-      },
-      {
-        "text": "TV Pundits",
-        "value": "OTHER"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Mediaite",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Produced by Richard D.Zanuck, David Brown.",
-    "gold": [
-      {
-        "text": "Richard D.Zanuck",
-        "value": "PERSON"
-      },
-      {
-        "text": "David Brown",
-        "value": "PERSON"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Richard D.Zanuck",
-        "value": "PERSON"
-      },
-      {
-        "text": "David Brown",
-        "value": "PERSON"
-      }
-    ]
-  },
-  {
-    "text": "Steak' n Shake founder Gus Belt sought a 1930s trademark.",
-    "gold": [
-      {
-        "text": "Steak ' n Shake",
-        "value": "ART"
-      },
-      {
-        "text": "Gus Belt",
-        "value": "PERSON"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Steak ' n Shake",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Gus Belt",
-        "value": "PERSON"
-      }
-    ]
-  },
-  {
-    "text": "Album with ``Like It or Not``, ``Tearing Me Up`` remixes by A-Trak, RAC, Joris Voorn, Tale of Us.",
-    "gold": [
-      {
-        "text": "Like It or Not",
-        "value": "ART"
-      },
-      {
-        "text": "Tearing Me Up",
-        "value": "ART"
-      },
-      {
-        "text": "A-Trak",
-        "value": "PERSON"
-      },
-      {
-        "text": "RAC",
-        "value": "PERSON"
-      },
-      {
-        "text": "Joris Voorn",
-        "value": "PERSON"
-      },
-      {
-        "text": "Tale of Us",
-        "value": "PERSON"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Like It or Not",
-        "value": "ART"
-      },
-      {
-        "text": "Tearing Me Up",
-        "value": "ART"
-      },
-      {
-        "text": "A-Trak",
-        "value": "PERSON"
-      },
-      {
-        "text": "RAC",
-        "value": "PERSON"
-      },
-      {
-        "text": "Joris Voorn",
-        "value": "PERSON"
-      },
-      {
-        "text": "Tale of Us",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Puckrik travelled a lot as a child.",
-    "gold": [
-      {
-        "text": "Puckrik",
-        "value": "PERSON"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Puckrik",
-        "value": "PERSON"
-      }
-    ]
-  },
-  {
-    "text": "The film's production was skillfully managed and overseen by the renowned producers Richard D.Zanuck and David Brown, who brought their extensive experience to the project.",
-    "gold": [
-      {
-        "text": "Richard D.Zanuck",
-        "value": "PERSON"
-      },
-      {
-        "text": "David Brown",
-        "value": "PERSON"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Richard D.Zanuck",
-        "value": "PERSON"
-      },
-      {
-        "text": "David Brown",
-        "value": "PERSON"
-      }
-    ]
-  },
-  {
-    "text": "Alex Salmond, SNP leader, became Scotland's first non-Labour First Minister.",
-    "gold": [
-      {
-        "text": "Alex Salmond",
-        "value": "PERSON"
-      },
-      {
-        "text": "SNP",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Scotland",
-        "value": "LOCATION"
-      },
-      {
-        "text": "non-Labour",
-        "value": "NON-ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Alex Salmond",
-        "value": "PERSON"
-      },
-      {
-        "text": "SNP",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Scotland",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "Dorsa, an accomplished musician, has achieved a Bachelor of Music with a focus in Composition from the prestigious California State University, Northridge back in the year 2001, followed by a Master of Music specializing in Harpsichord Performance at the well-known Cal State Northridge in 2004, and subsequently completed a Doctor of Musical Arts at the renowned University of Michigan, located in Ann Arbor, in the year 2008.",
-    "gold": [
-      {
-        "text": "Dorsa",
-        "value": "PERSON"
-      },
-      {
-        "text": "Bachelor of Music",
-        "value": "OTHER"
-      },
-      {
-        "text": "California State University , Northridge",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Master of Music",
-        "value": "OTHER"
-      },
-      {
-        "text": "Cal State Northridge",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Doctor of Musical Arts",
-        "value": "OTHER"
-      },
-      {
-        "text": "University of Michigan",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Ann Arbor",
-        "value": "LOCATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Dorsa",
-        "value": "PERSON"
-      },
-      {
-        "text": "Bachelor of Music",
-        "value": "OTHER"
-      },
-      {
-        "text": "California State University",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Northridge",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Master of Music",
-        "value": "OTHER"
-      },
-      {
-        "text": "Harpsichord",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "Cal State Northridge",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Doctor of Musical Arts",
-        "value": "OTHER"
-      },
-      {
-        "text": "University of Michigan",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Ann Arbor",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "His dedicated pupil, the esteemed Vadeebhasimha, composed the prose works ``Gayachintamani`` and ``Kshatrachudamini``, drawing inspiration from the celebrated poet Banas' masterpiece ``Kadambari``, while the distinguished minister Chavundaraya authored the notable ``Charitarasara``.",
-    "gold": [
-      {
-        "text": "Vadeebhasimha",
-        "value": "PERSON"
-      },
-      {
-        "text": "Gayachintamani",
-        "value": "ART"
-      },
-      {
-        "text": "Kshatrachudamini",
-        "value": "ART"
-      },
-      {
-        "text": "Banas",
-        "value": "PERSON"
-      },
-      {
-        "text": "Kadambari",
-        "value": "ART"
-      },
-      {
-        "text": "Chavundaraya",
-        "value": "PERSON"
-      },
-      {
-        "text": "Charitarasara",
-        "value": "ART"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Vadeebhasimha",
-        "value": "PERSON"
-      },
-      {
-        "text": "Gayachintamani",
-        "value": "ART"
-      },
-      {
-        "text": "Kshatrachudamini",
-        "value": "ART"
-      },
-      {
-        "text": "Banas",
-        "value": "PERSON"
-      },
-      {
-        "text": "Kadambari",
-        "value": "ART"
-      },
-      {
-        "text": "Chavundaraya",
-        "value": "PERSON"
-      },
-      {
-        "text": "Charitarasara",
-        "value": "ART"
-      }
-    ]
-  },
-  {
-    "text": "Communities like Lynchburg, Harrisburg, and Rightor's Point (now Morgan's Point) emerged in the 1820s.",
-    "gold": [
-      {
-        "text": "Lynchburg",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Harrisburg",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Rightor 's Point",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Morgan 's Point",
-        "value": "LOCATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Lynchburg",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Harrisburg",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Rightor 's Point",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Morgan 's Point",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "In addition to other initiatives, the SFO, a prominent organization, has generously offered to cover all reasonable and necessary legal costs incurred.",
-    "gold": [
-      {
-        "text": "the SFO",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "SFO",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "The tropical cyclone Gonu caused extremely strong gusty winds and exceptionally torrential rainfall along the entire stretch of Pakistan's Arabian Sea coast, extending from the bustling port city of Karachi to the strategic maritime hub of Gwadar.",
-    "gold": [
-      {
-        "text": "Gonu",
+        "text": "Papa",
         "value": "EVENT"
       },
       {
-        "text": "Pakistan 's Arabian Sea coast",
-        "value": "LOCATION"
+        "text": "Catholic Reformation",
+        "value": "ORGANIZATION"
       },
       {
-        "text": "Karachi",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Gwadar",
-        "value": "LOCATION"
+        "text": "Tri council",
+        "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "tropical",
+        "text": "Papa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Italy",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Catholic Reformation",
         "value": "EVENT"
       },
       {
-        "text": "Pakistan 's Arabian Sea",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Karachi",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Gwadar",
+        "text": "Tri",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "The SFO offered to pay legal costs.",
-    "gold": [],
-    "prediction": [
-      {
-        "text": "SFO",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Throughout her career, she has dedicated time to work with homeless patients and currently holds the esteemed position of Management Consultant fo r MedAmerica, a role she excels in.",
+    "text": "Conway where it all happens for Norfolk Southern around Greater Pittsburgh with a hum yard and where crews swap out on pretty much all the Pittsburgh and Fort Wayne Line trains",
     "gold": [
       {
-        "text": "r MedAmerica",
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
         "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "r MedAmerica",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "The Croal Irwell Regional Park Project Proposal, linking Manchester to the West Pennine Moors, had support from Salford, Bury, Bolton, and the Red Rose Forest.",
-    "gold": [
-      {
-        "text": "Croal Irwell Regional Park Project Proposal",
-        "value": "PRODUCT"
       },
       {
-        "text": "Manchester",
+        "text": "Greater Pittsburgh",
         "value": "LOCATION"
       },
       {
-        "text": "West Pennine Moors",
+        "text": "Pittsburgh",
         "value": "LOCATION"
       },
       {
-        "text": "Salford",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Bury",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Bolton",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Red Rose Forest",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Croal Irwell Regional Park Project",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "Manchester",
-        "value": "LOCATION"
-      },
-      {
-        "text": "West Pennine Moors",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Salford",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Bury",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Bolton",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Red Rose Forest",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "As the 19th century dawned, a number of nascent communities gradually started to form and establish themselves, notably including the likes of Lynchburg, Harrisburg, and the area known as Rightor's Point, which is today referred to as Morgan's Point, all of which came into existence around the 1820s.",
-    "gold": [
-      {
-        "text": "Lynchburg",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Harrisburg",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Rightor 's Point",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Morgan 's Point",
+        "text": "Fort Wayne Line",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Lynchburg",
+        "text": "Conway",
         "value": "LOCATION"
       },
       {
-        "text": "Harrisburg",
+        "text": "Norfolk Southern",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
         "value": "LOCATION"
       },
       {
-        "text": "Rightor 's Point",
+        "text": "Pittsburgh",
         "value": "LOCATION"
       },
       {
-        "text": "Morgan 's Point",
+        "text": "Fort Wayne Line",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "In June 2003, the ambitious Croal Irwell Regional Park Project Proposal was unveiled, aiming to establish a continuous green artery stretching from the bustling centre of Manchester all the way to the scenic West Pennine Moors, with the initiative receiving robust support from the local councils of Salford, Bury, and Bolton, as well as the environmental stewardship of the Red Rose Forest.",
+    "text": "But in the end the Saudi folks and the FBI kept butt heads while they were investigating",
     "gold": [
       {
-        "text": "Croal Irwell Regional Park Project Proposal",
-        "value": "PRODUCT"
+        "text": "Saudi",
+        "value": "NATIONALITY"
       },
       {
-        "text": "Manchester",
-        "value": "LOCATION"
-      },
-      {
-        "text": "West Pennine Moors",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Salford",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Bury",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Bolton",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Red Rose Forest",
+        "text": "FBI",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "Croal Irwell Regional Park",
+        "text": "Saudi",
         "value": "LOCATION"
       },
       {
-        "text": "Manchester",
-        "value": "LOCATION"
-      },
-      {
-        "text": "West Pennine Moors",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Salford",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Bury",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Bolton",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Red Rose Forest",
-        "value": "LOCATION"
+        "text": "FBI",
+        "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "Dorsa earned a Bachelor of Music from California State University, Northridge, a Master of Music at Cal State Northridge, and a Doctor of Musical Arts from University of Michigan, Ann Arbor.",
+    "text": "Got my BA in Psychology and also did a minor in C",
     "gold": [
       {
-        "text": "Dorsa",
-        "value": "PERSON"
-      },
-      {
-        "text": "Bachelor of Music",
+        "text": "BA",
         "value": "OTHER"
-      },
+      }
+    ],
+    "prediction": [
       {
-        "text": "California State University , Northridge",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Master of Music",
+        "text": "BA in Psychology",
         "value": "OTHER"
-      },
+      }
+    ]
+  },
+  {
+    "text": "Most of the town really just this gate place called Or Island Golf and Beach Club",
+    "gold": [
       {
-        "text": "Cal State Northridge",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Doctor of Musical Arts",
-        "value": "OTHER"
-      },
-      {
-        "text": "University of Michigan",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Ann Arbor",
+        "text": "Or Island Golf and Beach Club",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Dorsa",
-        "value": "PERSON"
-      },
-      {
-        "text": "Bachelor of Music",
-        "value": "OTHER"
-      },
-      {
-        "text": "California State University",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Northridge",
+        "text": "Or Island Golf",
         "value": "LOCATION"
       },
       {
-        "text": "Master of Music",
-        "value": "OTHER"
-      },
-      {
-        "text": "Cal State Northridge",
+        "text": "and",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Doctor of Musical Arts",
-        "value": "OTHER"
-      },
-      {
-        "text": "University of Michigan",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Ann",
+        "text": "Beach Club",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "Pupil Vadeebhasimha wrote ``Gayachintamani`` and ``Kshatrachudamini`` from Banas' ``Kadambari``; Chavundaraya wrote ``Charitarasara``.",
+    "text": "Victor C born on May 10 1967 is a retired soccer player from Australia with Argentine and Paraguay roots",
     "gold": [
       {
-        "text": "Vadeebhasimha",
+        "text": "Victor C",
         "value": "PERSON"
       },
       {
-        "text": "Gayachintamani",
-        "value": "ART"
+        "text": "Australia",
+        "value": "LOCATION"
       },
       {
-        "text": "Kshatrachudamini",
-        "value": "ART"
+        "text": "Argentine",
+        "value": "NATIONALITY"
       },
       {
-        "text": "Banas",
-        "value": "PERSON"
-      },
-      {
-        "text": "Kadambari",
-        "value": "ART"
-      },
-      {
-        "text": "Chavundaraya",
-        "value": "PERSON"
-      },
-      {
-        "text": "Charitarasara",
-        "value": "ART"
+        "text": "Paraguay",
+        "value": "NATIONALITY"
       }
     ],
     "prediction": [
       {
-        "text": "Vadeebhasimha",
+        "text": "Victor C",
         "value": "PERSON"
       },
       {
-        "text": "Gayachintamani",
-        "value": "ART"
+        "text": "Australia",
+        "value": "LOCATION"
       },
       {
-        "text": "Kshatrachudamini",
-        "value": "ART"
+        "text": "Argentine",
+        "value": "LOCATION"
       },
       {
-        "text": "Kadambari",
-        "value": "ART"
-      },
-      {
-        "text": "Chavundaraya",
-        "value": "PERSON"
-      },
-      {
-        "text": "Charitarasara",
-        "value": "ART"
+        "text": "Paraguay",
+        "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "She works with homeless patients as a Management Consultant fo r MedAmerica.",
+    "text": "Back to Basic is all about genre classics screening old flick and cool cult movies and sometimes hitting up the mainstream and fresh genre stuff too",
     "gold": [
       {
-        "text": "r MedAmerica",
+        "text": "Back to Basic",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "r MedAmerica",
+        "text": "Back",
+        "value": "ART"
+      },
+      {
+        "text": "Basic",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "Back in 1940 Gibraltar got hit by a bunch of air raids from the Italian ' Aero flying out of Sardinia and the Vic French Air Force coming from French North Africa This was pay for the British and Free French going after Me and Da",
+    "gold": [
+      {
+        "text": "Gibraltar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "' Aero",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sardinia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Vic French Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "French North Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "British",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "Free French",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Me",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Da",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Gibraltar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Italian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Aero",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sardinia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Vic French Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "French North Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "British",
+        "value": "LOCATION"
+      },
+      {
+        "text": "French",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Me",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Da",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He ended up producing Kim F and the B Band album ' Age At the Thirteen Not for Re Records",
+    "gold": [
+      {
+        "text": "Kim F",
+        "value": "PERSON"
+      },
+      {
+        "text": "B Band",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "' Age At the Thirteen Not",
+        "value": "ART"
+      },
+      {
+        "text": "Re Records",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Kim F",
+        "value": "PERSON"
+      },
+      {
+        "text": "B Band",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Age At the Thirteen Not",
+        "value": "ART"
+      },
+      {
+        "text": "Re Records",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "Gonu brought winds and rain from Karachi to Gwadar.",
+    "text": "P saw a lot of different places as a kid ' her dad was in the military",
     "gold": [
       {
-        "text": "Gonu",
+        "text": "P",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "P",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The local farmers were pretty upset too and from 1846 to 1848 more and more folks started to push back against St",
+    "gold": [
+      {
+        "text": "St",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "St",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He also jammed and teamed up with a bunch of other Scandinavian artists like B E Si N Oslo Gospel Choir E Lin Elizabeth Nor and Carol H",
+    "gold": [
+      {
+        "text": "B E Si N",
+        "value": "PERSON"
+      },
+      {
+        "text": "Oslo Gospel Choir",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "E Lin Elizabeth Nor",
+        "value": "PERSON"
+      },
+      {
+        "text": "Carol H",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Scandinavian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "B E Si N",
+        "value": "PERSON"
+      },
+      {
+        "text": "Oslo Gospel",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Choir E Lin Elizabeth Nor",
+        "value": "PERSON"
+      },
+      {
+        "text": "Carol H",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "So didn make the 2010 World Cup squad when Diego Mara was in charge but Alejandro Sa the new coach brought him back for the 2014 World Cup qualifiers and he been playing in a bunch of games since 2011",
+    "gold": [
+      {
+        "text": "So",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
         "value": "EVENT"
       },
       {
-        "text": "Karachi",
+        "text": "Diego Mara",
+        "value": "PERSON"
+      },
+      {
+        "text": "Alejandro Sa",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "So",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Diego Mara",
+        "value": "PERSON"
+      },
+      {
+        "text": "Alejandro Sa",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "Mike More led the crew team up with T to manage the X project",
+    "gold": [
+      {
+        "text": "Mike More",
+        "value": "PERSON"
+      },
+      {
+        "text": "T",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "X",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Mike More",
+        "value": "PERSON"
+      },
+      {
+        "text": "T",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "X",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Back in the early 1800s places like Lynch Harrisburg and Right Point ( called Morgan Point started popping up",
+    "gold": [
+      {
+        "text": "Lynch Harrisburg",
         "value": "LOCATION"
       },
       {
-        "text": "Gwadar",
+        "text": "Right Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan Point",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Gonu",
+        "text": "Lynch Harrisburg",
         "value": "LOCATION"
       },
       {
-        "text": "Karachi",
+        "text": "Right Point",
         "value": "LOCATION"
       },
       {
-        "text": "Gwadar",
+        "text": "Morgan Point",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "Back in 1967, the spacious park became the chosen gathering place for a large, peaceful anti-war rally, drawing numerous attendees.",
+    "text": "US also been seen to take the u off p and it might be needed for p to deal with stress",
+    "gold": [
+      {
+        "text": "US",
+        "value": "OTHER"
+      },
+      {
+        "text": "p",
+        "value": "OTHER"
+      },
+      {
+        "text": "p",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "US",
+        "value": "OTHER"
+      },
+      {
+        "text": "u",
+        "value": "OTHER"
+      },
+      {
+        "text": "p",
+        "value": "OTHER"
+      },
+      {
+        "text": "p",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Not long after World War I he s some land in To and gave it to the local sports club RC To to build a stadium",
+    "gold": [
+      {
+        "text": "World War I",
+        "value": "EVENT"
+      },
+      {
+        "text": "To",
+        "value": "LOCATION"
+      },
+      {
+        "text": "To",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "World War I",
+        "value": "EVENT"
+      },
+      {
+        "text": "To",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RC To",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "She been working with homeless folks and is now a Management Consul at Me",
+    "gold": [
+      {
+        "text": "Me",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Me",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The f all about global TV and digital stuff plus how it made and developed",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "In 1939, the story hit the stage at the Martin Beck Theater, acclaimed but short-lived due to costs.",
+    "text": "Sa hooked Gilbert up with a Sa 9 Aero",
     "gold": [
       {
-        "text": "Martin Beck Theater",
-        "value": "BUILDING"
-      }
-    ],
-    "prediction": [
+        "text": "Sa",
+        "value": "ORGANIZATION"
+      },
       {
-        "text": "Martin Beck Theater",
-        "value": "BUILDING"
-      }
-    ]
-  },
-  {
-    "text": "Operated by Nhulunbuy Corporation.",
-    "gold": [
+        "text": "Gilbert",
+        "value": "PERSON"
+      },
       {
-        "text": "Nhulunbuy Corporation",
+        "text": "Sa",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "Nhulunbuy Corporation",
-        "value": "ORGANIZATION"
+        "text": "Sa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gilbert",
+        "value": "PERSON"
+      },
+      {
+        "text": "Sa 9 Aero",
+        "value": "PRODUCT"
       }
     ]
   },
   {
-    "text": "The facility, with its complex operations and diverse workforce, is efficiently managed and operated by the esteemed Nhulunbuy Corporation.",
+    "text": "The Austro Navy put together and ran a couple of protected cruiser classes",
     "gold": [
       {
-        "text": "Nhulunbuy Corporation",
+        "text": "Austro Navy",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "Nhulunbuy Corporation",
+        "text": "Austro Navy",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "In the early 1990s, specifically in the years 1992 and 1994, her brother made an attempt, although it was not successful, to secure a seat in the United States House of Representatives representing the constituents of upstate New York.",
+    "text": "Making good money from boot b was pretty easy since the cops weren watching much back then",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "They were gear up to face off against Oregon State in the Pac Tournament quarters",
+    "gold": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac Tournament",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac Tournament",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "So ` is another name for Shiva kinda like a nickname and it also what they call the town ` It means Shiva is the ` of G There this cool story about G taking down a demon and then paying respects to his dad Shiva right here",
+    "gold": [
+      {
+        "text": "`",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      },
+      {
+        "text": "`",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      },
+      {
+        "text": "` of G",
+        "value": "OTHER"
+      },
+      {
+        "text": "G",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      },
+      {
+        "text": "of G",
+        "value": "OTHER"
+      },
+      {
+        "text": "G",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "He been a Congressman for C from 2006 to 2011 and is with the Union for Peru party",
+    "gold": [
+      {
+        "text": "C",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Union for Peru party",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Looks like over 75 MPs are team up with the alliance",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Her br tried to get into the United States House of Representatives from ups New York but didn make it in ' and '",
     "gold": [
       {
         "text": "United States House of Representatives",
@@ -1525,964 +2480,177 @@
     ]
   },
   {
-    "text": "They used features from A1 Pacifics built in 1924.",
-    "gold": [
-      {
-        "text": "A1 Pacifics",
-        "value": "PRODUCT"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "A1 Pacifics",
-        "value": "PRODUCT"
-      }
-    ]
-  },
-  {
-    "text": "In the year 2013, the company was established as an independent entity, originating as a spin-off from the well-known organization Murphy Oil.",
-    "gold": [
-      {
-        "text": "Murphy Oil",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Murphy Oil",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "In the early days of August, Loyalists, who had been diligently recruited from the region known as Queens County, which is situated within the state of New York, by the esteemed Lieutenant Colonel Richard Hewlett for the distinguished 3rd battalion of DeLancey's Brigade, had meticulously established a strategically fortified position on the central north shore of the well-known Long Island at the location of Setauket, which is positioned just across the expansive Long Island Sound from the notable area of Fairfield.",
-    "gold": [
-      {
-        "text": "Queens County",
-        "value": "LOCATION"
-      },
-      {
-        "text": "New York",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Richard Hewlett",
-        "value": "PERSON"
-      },
-      {
-        "text": "DeLancey 's Brigade",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Long Island",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Setauket",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Long Island Sound",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Fairfield",
-        "value": "LOCATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Queens County",
-        "value": "LOCATION"
-      },
-      {
-        "text": "New York",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Richard Hewlett",
-        "value": "PERSON"
-      },
-      {
-        "text": "3rd battalion of DeLancey 's Brigade",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Long Island",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Setauket",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Long Island Sound",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Fairfield",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "Royal Malaysia Police Air Operations Force, ``Pasukan Gerakan Udara (PGU)'', is Royal Malaysia Police's aviation unit.",
-    "gold": [
-      {
-        "text": "Royal Malaysia Police Air Operations Force",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Pasukan Gerakan Udara",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "PGU",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Royal Malaysia Police",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Royal Malaysia Police Air Operations Force",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Pasukan Gerakan Udara",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "PGU",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Royal Malaysia Police",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "In 1967, the park hosted a peaceful anti-war rally.",
+    "text": "He passed away in a nursing home on voting day Nov 2 2004 when he was 92 leaving behind his wife and a brother",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "The Royal Malaysia Police Air Operations Force, also known as ``Pasukan Gerakan Udara (PGU)'', serves as the dedicated and specialized aviation unit within the broader organizational structure of the Royal Malaysia Police.",
+    "text": "Malcolm III ( 26 March 103 \u2013 13 November 109 aged 62 ruled as King of Scots from 105 to 109",
     "gold": [
       {
-        "text": "Royal Malaysia Police Air Operations Force",
-        "value": "ORGANIZATION"
+        "text": "Malcolm III",
+        "value": "PERSON"
       },
       {
-        "text": "Pasukan Gerakan Udara",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "PGU",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Royal Malaysia Police",
-        "value": "ORGANIZATION"
+        "text": "Scots",
+        "value": "NATIONALITY"
       }
     ],
     "prediction": [
       {
-        "text": "Royal Malaysia Police Air Operations Force",
-        "value": "ORGANIZATION"
+        "text": "Malcolm III",
+        "value": "PERSON"
       },
       {
-        "text": "Pasukan Gerakan Udara",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "PGU",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Royal Malaysia Police",
-        "value": "ORGANIZATION"
+        "text": "Scots",
+        "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "Incorporating a variety of innovative characteristics, they utilized numerous features from a complete batch of A1 Pacifics, a series they had expertly constructed back in the year 1924.",
+    "text": "So the guy who started K ( know the Ki da shop wrote this travel book back in 1895 He said that Ki personally made some k da and gave them to Emperor Jim during his visit to Ta Palace in Okay",
     "gold": [
       {
-        "text": "A1 Pacifics",
-        "value": "PRODUCT"
-      }
-    ],
-    "prediction": [
+        "text": "K",
+        "value": "ORGANIZATION"
+      },
       {
-        "text": "A1 Pacifics",
+        "text": "Ki da",
         "value": "PRODUCT"
-      }
-    ]
-  },
-  {
-    "text": "The story, which had been masterfully adapted to the stage in the year of 1939 at the renowned Martin Beck Theater, received widespread critical acclaim, yet unfortunately, it only managed to run for a mere six performances because the elaborate and costly nature of the production proved to be financially burdensome.",
-    "gold": [
+      },
       {
-        "text": "Martin Beck Theater",
+        "text": "Ki",
+        "value": "PERSON"
+      },
+      {
+        "text": "k da",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Jim",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ta Palace",
         "value": "BUILDING"
+      },
+      {
+        "text": "Okay",
+        "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Martin Beck Theater",
+        "text": "K",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ki da",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ki",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jim",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ta Palace",
         "value": "BUILDING"
+      },
+      {
+        "text": "Okay",
+        "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "During an exhilarating festival, the brave Siddhi heroically saves Vin from the imminent danger of being shot at by the notorious Rudra.",
+    "text": "He got made captain and joined in on the naval action at the Siege of Port Hudson from May to July 1863",
     "gold": [
       {
-        "text": "Siddhi",
-        "value": "PERSON"
-      },
+        "text": "Siege of Port Hudson",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
       {
-        "text": "Vin",
-        "value": "PERSON"
-      },
+        "text": "Siege of Port Hudson",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "After the ' coup A had to lay low",
+    "gold": [
       {
-        "text": "Rudra",
+        "text": "A",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "Siddhi",
-        "value": "PERSON"
-      },
-      {
-        "text": "Vin",
-        "value": "PERSON"
-      },
-      {
-        "text": "Rudra",
+        "text": "A",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "Founded as Murphy Oil spin-off in 2013.",
+    "text": "Six years down the line Richard and Lil turned into tough and good teens",
     "gold": [
       {
-        "text": "Murphy Oil",
-        "value": "ORGANIZATION"
+        "text": "Richard",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lil",
+        "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "Murphy Oil",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Back to Basics, a distinctive organization, primarily focuses on genre classics, meticulously curating a selection of older movies and underground cult films, while also occasionally venturing into the realm of mainstream cinema and introducing audiences to newer genre pieces.",
-    "gold": [
-      {
-        "text": "Back to Basics",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Back to Basics",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Allistair Pinsof, a respected journalist at ``Destructoid``, enthusiastically praised the game's design, particularly emphasizing that the responsive controls were just as precise and enjoyable as those found in the classic titles ``Super Metroid`` and ``Super Castlevania IV.''",
-    "gold": [
-      {
-        "text": "Allistair Pinsof",
+        "text": "Richard",
         "value": "PERSON"
       },
       {
-        "text": "Destructoid",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Super Metroid",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "Super Castlevania IV",
-        "value": "PRODUCT"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Allistair Pinsof",
+        "text": "Lil",
         "value": "PERSON"
-      },
-      {
-        "text": "Destructoid",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Super Metroid",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "Super Castlevania IV",
-        "value": "PRODUCT"
       }
     ]
   },
   {
-    "text": "In the realm of virtual gaming, Anhur is recognized as a selectable, playable character featured in the popular, competitive multiplayer online battle arena known as ``SMITE''.",
+    "text": "Lots of guys got split up from their families and were shipped off to the B",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "C are just a bunch of animals you find in the water especially in the ocean",
     "gold": [
       {
-        "text": "Anhur",
+        "text": "C",
         "value": "OTHER"
       }
     ],
     "prediction": [
       {
-        "text": "Anhur",
-        "value": "PERSON"
-      }
-    ]
-  },
-  {
-    "text": "In 1955 it got the Boeing B-52 and upgraded over 40 years.",
-    "gold": [
-      {
-        "text": "Boeing B-52",
-        "value": "PRODUCT"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Boeing B-52",
-        "value": "PRODUCT"
-      }
-    ]
-  },
-  {
-    "text": "The media was abuzz with extensive reports on the internal conflicts, particularly the intense disagreements and frequent clashes between Covaci and Baniciu, which were becoming increasingly prominent.",
-    "gold": [
-      {
-        "text": "Covaci",
-        "value": "PERSON"
-      },
-      {
-        "text": "Baniciu",
-        "value": "PERSON"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Covaci",
-        "value": "PERSON"
-      },
-      {
-        "text": "Baniciu",
-        "value": "PERSON"
-      }
-    ]
-  },
-  {
-    "text": "Collection includes sexual health material from 1974-2007.",
-    "gold": [],
-    "prediction": []
-  },
-  {
-    "text": "Back to Basics shows genre classics, including older and cult films.",
-    "gold": [
-      {
-        "text": "Back to Basics",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Back to Basics",
-        "value": "ART"
-      }
-    ]
-  },
-  {
-    "text": "However, it was in the year 1861 that the looming and very real prospect of secession by the southern states, following closely after the pivotal 1860 presidential election, effectively removed what had been a significant and longstanding obstacle to the much-needed political change.",
-    "gold": [],
-    "prediction": []
-  },
-  {
-    "text": "This particular collection, which is quite extensive, contains a wide range of material and documents that specifically relate to the important and sensitive issues of sexual health spanning from the year 1974 all the way through to 2007.",
-    "gold": [],
-    "prediction": []
-  },
-  {
-    "text": "In 1861, southern states' secession after the 1860 election removed a political obstacle.",
-    "gold": [],
-    "prediction": [
-      {
-        "text": "southern",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "Specifically, it is often observed that Reform Jews, who are a distinct group, might frequently be the subject of scorn or mockery due to their conscious decision to turn away from the long-established and traditional Jewish religious beliefs.",
-    "gold": [
-      {
-        "text": "Jews",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Jewish",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Jewish",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Allistair Pinsof from ``Destructoid`` liked the controls of ``Super Metroid`` and ``Super Castlevania IV.''",
-    "gold": [
-      {
-        "text": "Allistair Pinsof",
-        "value": "PERSON"
-      },
-      {
-        "text": "Destructoid",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Super Metroid",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "Super Castlevania IV",
-        "value": "PRODUCT"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Allistair Pinsof",
-        "value": "PERSON"
-      },
-      {
-        "text": "Destructoid",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Super Metroid",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "Super Castlevania IV",
-        "value": "PRODUCT"
-      }
-    ]
-  },
-  {
-    "text": "Anhur is a character in ``SMITE''.",
-    "gold": [
-      {
-        "text": "Anhur",
+        "text": "C",
         "value": "OTHER"
       }
-    ],
-    "prediction": [
-      {
-        "text": "Anhur",
-        "value": "PERSON"
-      }
     ]
   },
   {
-    "text": "Starting in 1955, the air force base began the process of receiving an early model of the iconic Boeing B-52 Stratofortress and systematically upgraded to various advanced models consistently over the next four decades.",
+    "text": "The first B U Fest kicked off back in '",
     "gold": [
       {
-        "text": "Boeing B-52",
-        "value": "PRODUCT"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "air force base",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Boeing B-52 Stratofortress",
-        "value": "PRODUCT"
-      }
-    ]
-  },
-  {
-    "text": "Conflicts between Covaci and Baniciu hit the media.",
-    "gold": [
-      {
-        "text": "Covaci",
-        "value": "PERSON"
-      },
-      {
-        "text": "Baniciu",
-        "value": "PERSON"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Covaci",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Baniciu",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Reform Jews may face ridicule for discarding Jewish traditions.",
-    "gold": [
-      {
-        "text": "Jews",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Jewish",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Jewish",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Back in the early 1930s, the renowned band made its significant move to the prestigious Grill Room located within the confines of the Taft Hotel, situated in the bustling city of New York; consequentially, the band underwent a rebranding and was henceforth known as 'George Hall and His Hotel Taft Orchestra'.",
-    "gold": [
-      {
-        "text": "Grill Room",
-        "value": "BUILDING"
-      },
-      {
-        "text": "Taft Hotel",
-        "value": "BUILDING"
-      },
-      {
-        "text": "New York",
-        "value": "LOCATION"
-      },
-      {
-        "text": "'George",
-        "value": "'ORGANIZATION"
-      },
-      {
-        "text": "Hall and His Hotel Taft Orchestra",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Taft Hotel",
-        "value": "BUILDING"
-      },
-      {
-        "text": "New York",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "The historical Austro-Hungarian Navy, with its significant maritime prowess, meticulously built and operated not just one, but two distinct and robust classes of heavily protected cruisers.",
-    "gold": [
-      {
-        "text": "Austro-Hungarian Navy",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Austro-Hungarian Navy",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Major Larry G.Messinger, B-52 pilot, recalled,",
-    "gold": [
-      {
-        "text": "Larry G.Messinger",
-        "value": "PERSON"
-      },
-      {
-        "text": "B-52",
-        "value": "PRODUCT"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Larry G.Messinger",
-        "value": "PERSON"
-      },
-      {
-        "text": "B-52",
-        "value": "PRODUCT"
-      }
-    ]
-  },
-  {
-    "text": "He has caught the attention of CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera, and Hi-Fructose Magazine.",
-    "gold": [
-      {
-        "text": "CNN",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "The Huffington Post",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Hypebeast",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "The Guardian",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Juxtapoz Magazine",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Daily Mail , NRDC",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Aljazeera",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Hi-Fructose Magazine",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "CNN",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "The Huffington Post",
-        "value": "ART"
-      },
-      {
-        "text": "Hypebeast",
-        "value": "ART"
-      },
-      {
-        "text": "The Guardian",
-        "value": "ART"
-      },
-      {
-        "text": "Juxtapoz Magazine",
-        "value": "ART"
-      },
-      {
-        "text": "Daily Mail",
-        "value": "ART"
-      },
-      {
-        "text": "NRDC",
-        "value": "ART"
-      },
-      {
-        "text": "Aljazeera",
-        "value": "ART"
-      },
-      {
-        "text": "Hi-Fructose Magazine",
-        "value": "ART"
-      }
-    ]
-  },
-  {
-    "text": "In the mid-'60s, Marek drove a unique DB5 extended 4'', and by 1998, a V8 unit powered an Aston Martin DB7.",
-    "gold": [
-      {
-        "text": "Marek",
-        "value": "PERSON"
-      },
-      {
-        "text": "DB5 extended 4 ''",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "V8 unit",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "Aston Martin DB7",
-        "value": "PRODUCT"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Marek",
-        "value": "PERSON"
-      },
-      {
-        "text": "DB5",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "V8",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "Aston Martin DB7",
-        "value": "PRODUCT"
-      }
-    ]
-  },
-  {
-    "text": "Back in the innovative mid-'60s, a specially designed prototype was meticulously fitted in a one-of-a-kind, custom-built DB5 extended 4'' right after the sleek doors, and it was driven with great enthusiasm by Marek himself, while in the year 1998, a traditionally 6-cylinder model of the iconic Aston Martin DB7 was expertly equipped with a robust V8 unit, enhancing its performance.",
-    "gold": [
-      {
-        "text": "DB5 extended 4 ''",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "Marek",
-        "value": "PERSON"
-      },
-      {
-        "text": "Aston Martin DB7",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "V8 unit",
-        "value": "PRODUCT"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "DB5",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "Marek",
-        "value": "PERSON"
-      },
-      {
-        "text": "Aston Martin DB7",
-        "value": "PRODUCT"
-      },
-      {
-        "text": "V8",
-        "value": "PRODUCT"
-      }
-    ]
-  },
-  {
-    "text": "In its last year, the beloved Elkin Memorial Park, a cherished venue for minor league games, witnessed a total season attendance of 16,322, which breaks down to an average of 299 enthusiastic fans per each exciting contest.",
-    "gold": [
-      {
-        "text": "Elkin Memorial Park",
-        "value": "LOCATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Elkin Memorial Park",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "In the 1930s, the band shifted to the Grill Room at Taft Hotel, New York, becoming 'George Hall and His Hotel Taft Orchestra'.",
-    "gold": [
-      {
-        "text": "Grill Room",
-        "value": "BUILDING"
-      },
-      {
-        "text": "Taft Hotel",
-        "value": "BUILDING"
-      },
-      {
-        "text": "New York",
-        "value": "LOCATION"
-      },
-      {
-        "text": "'George",
-        "value": "'ORGANIZATION"
-      },
-      {
-        "text": "Hall and His Hotel Taft Orchestra",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Taft Hotel",
-        "value": "BUILDING"
-      },
-      {
-        "text": "New York",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "Remarkably, he has rapidly caught the widespread attention of a plethora of major and influential publications and media outlets around the world, such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera, and Hi-Fructose Magazine, all of which are highly esteemed.",
-    "gold": [
-      {
-        "text": "CNN",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "The Huffington Post",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Hypebeast",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "The Guardian",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Juxtapoz Magazine",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Daily Mail , NRDC",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Aljazeera",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Hi-Fructose Magazine",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "CNN",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "The Huffington",
-        "value": "ART"
-      },
-      {
-        "text": "Hypebeast",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "The Guardian",
-        "value": "ART"
-      },
-      {
-        "text": "Juxtapoz Magazine",
-        "value": "ART"
-      },
-      {
-        "text": "Daily Mail",
-        "value": "ART"
-      },
-      {
-        "text": "NRDC",
-        "value": "ART"
-      },
-      {
-        "text": "Aljazeera",
-        "value": "ART"
-      },
-      {
-        "text": "Hi-Fructose Magazine",
-        "value": "ART"
-      }
-    ]
-  },
-  {
-    "text": "In the historical context of the rebellion of Boudica in 61 AD, the Roman legion known as the Ninth faced a significant and serious defeat at the Battle of Camulodunum, which was led by the commander Quintus Petillius Cerialis, and during this tragic conflict, a vast majority of the Roman foot-soldiers tragically lost their lives in a desperate and ultimately unsuccessful endeavor to rescue the encircled and besieged ancient city of Camulodunum, now known as Colchester.",
-    "gold": [
-      {
-        "text": "Boudica",
+        "text": "B U Fest",
         "value": "EVENT"
-      },
-      {
-        "text": "Camulodunum",
-        "value": "EVENT"
-      },
-      {
-        "text": "Quintus Petillius Cerialis",
-        "value": "PERSON"
-      },
-      {
-        "text": "Camulodunum",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Colchester",
-        "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "rebellion of Boudica",
+        "text": "B U Fest",
         "value": "EVENT"
-      },
-      {
-        "text": "Roman",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Battle of Camulodunum",
-        "value": "EVENT"
-      },
-      {
-        "text": "Quintus Petillius Cerialis",
-        "value": "PERSON"
-      },
-      {
-        "text": "Roman",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Camulodunum",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Colchester",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "Elkin Memorial Park's final season drew 16,322 fans, averaging 299 each game.",
-    "gold": [
-      {
-        "text": "Elkin Memorial Park",
-        "value": "LOCATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Elkin Memorial Park",
-        "value": "LOCATION"
       }
     ]
   }

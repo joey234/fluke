@@ -94,7 +94,7 @@ def process_test_file(model, tokenizer, test_file_path, output_file_path, batch_
     with open(test_file_path, "r") as f:
         test_data = json.load(f)
 
-    with open("../datasets/train_dev_test_data/dialogue/train.json", "r") as file:
+    with open("../datasets/train_dev_test_data/rongxin/train.json", "r") as file:
         full_test_data = json.load(file)
 
     # Prepare data for inference
@@ -153,7 +153,7 @@ def process_test_file(model, tokenizer, test_file_path, output_file_path, batch_
 # Example Usage
 if __name__ == "__main__":
     saved_checkpoint_path = "./tmp/t5-base/checkpoint-10000"  # Path to your saved T5 checkpoint
-    test_file_path = "../datasets/transformed_train_dev_test_data/dialogue/test.json"  # Path to your test dataset
+    test_file_path = "../datasets/transformed_train_dev_test_data/rongxin/test.json"  # Path to your test dataset
 
     # Load tokenizer and model from the saved checkpoint
     tokenizer = T5Tokenizer.from_pretrained(saved_checkpoint_path)
@@ -166,7 +166,7 @@ if __name__ == "__main__":
 
     # get predictions on ood instances
     output_dir = "./tmp/t5-base_results/t5_ood_test_preds"
-    for test_file in os.listdir("../datasets/test_data_after_modifications/dialogue"):
+    for test_file in os.listdir("../datasets/test_data_after_modifications/rongxin"):
         if not test_file.endswith("_100.json"):
             continue
         if os.path.exists(os.path.join(output_dir, test_file)):
@@ -175,7 +175,7 @@ if __name__ == "__main__":
         output_file = f'{output_dir}/{test_file}'
         process_test_file(
             model, tokenizer,
-            f"../datasets/test_data_after_modifications/dialogue/{test_file}",
+            f"../datasets/test_data_after_modifications/rongxin/{test_file}",
             output_file,
             batch_size=8
         )

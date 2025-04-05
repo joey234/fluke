@@ -197,7 +197,7 @@ if __name__ == "__main__":
                         default="./tmp/bert-base-cased/checkpoint_step_30000.pt",
                         help="Path to the saved checkpoint.")
     parser.add_argument("--test_file_path", type=str,
-                        default="../datasets/transformed_train_dev_test_data/coref/test.json",
+                        default="../datasets/transformed_train_dev_test_data/thinh/test.json",
                         help="Path to the test JSON file.")
     parser.add_argument("--pretrained_model_name", type=str, default="bert-base-cased", help="Pretrained model name or path.")
     parser.add_argument("--max_length", type=int, default=128, help="Maximum sequence length.")
@@ -229,6 +229,6 @@ if __name__ == "__main__":
     )
 
     # Run evaluation on ood test set
-    # test_dir = "../datasets/test_data_after_modifications/coref"
+    # test_dir = "../datasets/test_data_after_modifications/thinh"
     # output_dir = "./tmp/bert-base-cased_results/bert_ood_test_preds"
     # process_ood_test_files(model, tokenizer, test_dir, output_dir, args.device, batch_size=16, max_length=128)

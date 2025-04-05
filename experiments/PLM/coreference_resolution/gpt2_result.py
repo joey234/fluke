@@ -5,8 +5,8 @@ from sklearn.metrics import accuracy_score
 import pandas as pd
 
 # Paths (adjust these paths according to your setup)
-test_file_path = "../datasets/transformed_train_dev_test_data/coref/test.json"
-ood_test_file_dir = "../datasets/test_data_after_modifications/coref"
+test_file_path = "../datasets/transformed_train_dev_test_data/thinh/test.json"
+ood_test_file_dir = "../datasets/test_data_after_modifications/thinh"
 
 # GPT-2 predictions for the original test set
 gpt2_predictions_path = "./tmp/gpt2_results/gpt2_predictions.json"

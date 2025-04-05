@@ -5,8 +5,8 @@ from sklearn.metrics import accuracy_score
 import pandas as pd
 
 # Paths
-test_file_path = "../datasets/transformed_train_dev_test_data/coref/test.json"
-ood_test_file_dir = "../datasets/test_data_after_modifications/coref"
+test_file_path = "../datasets/transformed_train_dev_test_data/thinh/test.json"
+ood_test_file_dir = "../datasets/test_data_after_modifications/thinh"
 bert_predictions_path = "./tmp/bert-base-cased_results/bert_predictions.json"
 ood_preds_dir = "./tmp/bert-base-cased_results/bert_ood_test_preds"
 

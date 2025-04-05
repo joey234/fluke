@@ -9,8 +9,8 @@ def load_data_from_json(file_path):
     return data
 
 # Paths
-test_file_path = "../datasets/transformed_train_dev_test_data/dialogue/test.json"
-ood_file_dir = "../datasets/test_data_after_modifications/dialogue/"
+test_file_path = "../datasets/transformed_train_dev_test_data/rongxin/test.json"
+ood_file_dir = "../datasets/test_data_after_modifications/rongxin/"
 t5_predictions_path = "tmp/t5-base_results/t5_predictions.json"
 ood_preds_dir = "tmp/t5-base_results/t5_ood_test_preds"
 

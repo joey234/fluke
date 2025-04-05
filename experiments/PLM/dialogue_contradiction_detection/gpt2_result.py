@@ -12,8 +12,8 @@ def load_data_from_json(file_path):
 
 
 # Paths
-test_file_path = "../datasets/transformed_train_dev_test_data/dialogue/test.json"
-ood_file_dir = "../datasets/test_data_after_modifications/dialogue/"
+test_file_path = "../datasets/transformed_train_dev_test_data/rongxin/test.json"
+ood_file_dir = "../datasets/test_data_after_modifications/rongxin/"
 gpt2_predictions_path = "./tmp/gpt2_results/gpt2_predictions.json"
 ood_preds_dir = "./tmp/gpt2_results/gpt2_ood_test_preds"
 

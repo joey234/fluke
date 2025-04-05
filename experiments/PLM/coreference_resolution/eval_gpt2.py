@@ -213,8 +213,8 @@ def evaluate_ood_and_save_predictions(model, tokenizer, device, max_length, batc
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Evaluate a GPT model on original and OOD test sets and save predictions.")
     parser.add_argument("--checkpoint_path", type=str, default="./tmp/gpt2/checkpoint_step_30000.pt", help="Path to the GPT model checkpoint directory.")
-    parser.add_argument("--test_file_path", type=str, default="../datasets/transformed_train_dev_test_data/coref/test.json", help="Path to the original test JSON file.")
-    parser.add_argument("--ood_test_dir", type=str, default="../datasets/test_data_after_modifications/coref", help="Directory containing OOD test JSON files.")
+    parser.add_argument("--test_file_path", type=str, default="../datasets/transformed_train_dev_test_data/thinh/test.json", help="Path to the original test JSON file.")
+    parser.add_argument("--ood_test_dir", type=str, default="../datasets/test_data_after_modifications/thinh", help="Directory containing OOD test JSON files.")
     parser.add_argument("--pretrained_model_name", type=str, default="gpt2", help="Pretrained GPT model name or path.")
     parser.add_argument("--max_length", type=int, default=128, help="Maximum sequence length.")
     parser.add_argument("--batch_size", type=int, default=8, help="Evaluation batch size.")

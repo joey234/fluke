@@ -1,52 +1,29 @@
 [
   {
-    "text": "Internal conflicts, especially between Covaci and Baniciu, were escalating and making headlines in the media.",
+    "text": "Internal conflicts , especially between Co v c and Ban i u , were es ca at and making headlines in the media .",
     "gold": [
       {
-        "text": "Covaci",
+        "text": "Co v c",
         "value": "PERSON"
       },
       {
-        "text": "Baniciu",
+        "text": "Ban i u",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "Covaci",
-        "value": "LOCATION"
+        "text": "Co v c",
+        "value": "ORGANIZATION"
       },
       {
-        "text": "Baniciu",
-        "value": "LOCATION"
+        "text": "Ban i u",
+        "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "Ronald and his wife will travel to Iceland.",
-    "gold": [
-      {
-        "text": "Ronald",
-        "value": "PERSON"
-      },
-      {
-        "text": "Iceland",
-        "value": "LOCATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Ronald",
-        "value": "PERSON"
-      },
-      {
-        "text": "Iceland",
-        "value": "LOCATION"
-      }
-    ]
-  },
-  {
-    "text": "Ronald will take a week's leave and travel to Iceland.",
+    "text": "Ronald and his wife will travel to Iceland .",
     "gold": [
       {
         "text": "Ronald",
@@ -69,41 +46,68 @@
     ]
   },
   {
-    "text": "The B-52 pilot, Major Larry G.Messinger and his co-pilot, later recalled,",
+    "text": "Ronald will take a week ' s leave and travel to Iceland .",
     "gold": [
       {
-        "text": "B-52",
+        "text": "Ronald",
+        "value": "PERSON"
+      },
+      {
+        "text": "Iceland",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ronald",
+        "value": "PERSON"
+      },
+      {
+        "text": "Iceland",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The B - 52 pilot , Major Larry G . Me s er and his co - pilot , later recalled ,",
+    "gold": [
+      {
+        "text": "B - 52",
         "value": "PRODUCT"
       },
       {
-        "text": "Larry G.Messinger",
+        "text": "Larry G . Me s er",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "B-52",
+        "text": "B - 52",
         "value": "PRODUCT"
       },
       {
-        "text": "Larry G.Messinger",
+        "text": "Larry G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Me s",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek and his team personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "text": "A prototype was fitted in the mid - ' 60s in a one - off DB 5 extended 4 ' ' after the doors and driven by Mare k and his team personally , and a normally 6 - cylinder Aston Martin DB 7 was equipped with a V8 unit in 1998 .",
     "gold": [
       {
-        "text": "DB5 extended 4 ''",
+        "text": "DB 5 extended 4 ' '",
         "value": "PRODUCT"
       },
       {
-        "text": "Marek",
+        "text": "Mare k",
         "value": "PERSON"
       },
       {
-        "text": "Aston Martin DB7",
+        "text": "Aston Martin DB 7",
         "value": "PRODUCT"
       },
       {
@@ -113,20 +117,28 @@
     ],
     "prediction": [
       {
-        "text": "Marek",
+        "text": "DB 5",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Mare",
         "value": "PERSON"
       },
       {
-        "text": "Aston Martin DB7",
+        "text": "Aston Martin DB 7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8",
         "value": "PRODUCT"
       }
     ]
   },
   {
-    "text": "In the early 1930s the band signed a new record deal and moved to the Grill Room of the Taft Hotel in New York; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "text": "In the early 1930s the band signed a new record deal and moved to the G r Room of the Taft Hotel in New York ; the band was renamed ` ` George Hall and His Hotel Taft Orchestra ` ` .",
     "gold": [
       {
-        "text": "Grill Room",
+        "text": "G r Room",
         "value": "BUILDING"
       },
       {
@@ -144,6 +156,10 @@
     ],
     "prediction": [
       {
+        "text": "r Room",
+        "value": "BUILDING"
+      },
+      {
         "text": "Taft Hotel",
         "value": "BUILDING"
       },
@@ -158,63 +174,71 @@
     ]
   },
   {
-    "text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers and destroyers.",
+    "text": "The Austro - Hungarian Navy built and operated two classes of protected cruisers and destroyers .",
     "gold": [
       {
-        "text": "Austro-Hungarian Navy",
+        "text": "Austro - Hungarian Navy",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "Austro-Hungarian Navy",
+        "text": "Austro - Hungarian Navy",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "The Austro-Hungarian Navy and its allies built and operated two classes of protected cruisers.",
+    "text": "The Austro - Hungarian Navy and its allies built and operated two classes of protected cruisers .",
     "gold": [
       {
-        "text": "Austro-Hungarian Navy",
+        "text": "Austro - Hungarian Navy",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "Austro-Hungarian Navy",
+        "text": "Austro",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hungarian Navy",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "The B-52 pilot, Major Larry G.Messinger, later wrote a memoir and recalled,",
+    "text": "The B - 52 pilot , Major Larry G . Me s er , later wrote a memoir and recalled ,",
     "gold": [
       {
-        "text": "B-52",
+        "text": "B - 52",
         "value": "PRODUCT"
       },
       {
-        "text": "Larry G.Messinger",
+        "text": "Larry G . Me s er",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "B-52",
+        "text": "B - 52",
         "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G . Me s",
+        "value": "PERSON"
       }
     ]
   },
   {
-    "text": "Argentina's Del Imaginario Discos announced and also released the album in 2007.",
+    "text": "Argentina ' s Del I ma g a Disco s announced and also released the album in 2007 .",
     "gold": [
       {
         "text": "Argentina",
         "value": "LOCATION"
       },
       {
-        "text": "Del Imaginario Discos",
+        "text": "Del I ma g a Disco s",
         "value": "ORGANIZATION"
       }
     ],
@@ -224,28 +248,40 @@
         "value": "LOCATION"
       },
       {
-        "text": "Del Imaginario Discos",
+        "text": "Del I",
+        "value": "ART"
+      },
+      {
+        "text": "ma",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "g",
+        "value": "ART"
+      },
+      {
+        "text": "a Disco",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "Furthermore, the SFO and its representatives offered to pay reasonable legal costs.",
+    "text": "Furthermore , the SF O and its representatives offered to pay reasonable legal costs .",
     "gold": [
       {
-        "text": "the SFO",
+        "text": "the SF O",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "SFO",
+        "text": "SF O",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "Hunt represents and advocates for the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "text": "Hunt represents and advocates for the 8th legislative district in Omaha , consisting of the mid town neighborhoods of Dundee , Benson , and Keys tone .",
     "gold": [
       {
         "text": "Hunt",
@@ -264,7 +300,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Keystone",
+        "text": "Keys tone",
         "value": "LOCATION"
       }
     ],
@@ -286,20 +322,20 @@
         "value": "LOCATION"
       },
       {
-        "text": "Keystone",
+        "text": "Keys tone",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "Gonu and the subsequent flooding caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "text": "Go n and the subsequent flooding caused strong g us y winds and to r n rainfall along Pakistan ' s Arabian Sea coast from Karachi to G wa da .",
     "gold": [
       {
-        "text": "Gonu",
+        "text": "Go n",
         "value": "EVENT"
       },
       {
-        "text": "Pakistan 's Arabian Sea coast",
+        "text": "Pakistan ' s Arabian Sea coast",
         "value": "LOCATION"
       },
       {
@@ -307,17 +343,17 @@
         "value": "LOCATION"
       },
       {
-        "text": "Gwadar",
+        "text": "G wa da",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Gonu",
+        "text": "Pakistan",
         "value": "LOCATION"
       },
       {
-        "text": "Pakistan 's Arabian Sea",
+        "text": "Arabian Sea",
         "value": "LOCATION"
       },
       {
@@ -325,16 +361,16 @@
         "value": "LOCATION"
       },
       {
-        "text": "Gwadar",
+        "text": "G wa da",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "The Croal Irwell Regional Park Project Proposal and the environmental initiative to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "text": "The C r l I r well Regional Park Project Pro p sa and the environmental initiative to create a green artery from the centre of Manchester to the West Penn in Moor s was announced in June 2003 supported by Salford , Bury and Bolton councils and the Red Rose Forest .",
     "gold": [
       {
-        "text": "Croal Irwell Regional Park Project Proposal",
+        "text": "C r l I r well Regional Park Project Pro p sa",
         "value": "PRODUCT"
       },
       {
@@ -342,7 +378,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "West Pennine Moors",
+        "text": "West Penn in Moor s",
         "value": "LOCATION"
       },
       {
@@ -364,15 +400,11 @@
     ],
     "prediction": [
       {
-        "text": "Croal Irwell Regional Park Project",
-        "value": "PRODUCT"
-      },
-      {
         "text": "Manchester",
         "value": "LOCATION"
       },
       {
-        "text": "West Pennine Moors",
+        "text": "West Penn in Moor",
         "value": "LOCATION"
       },
       {
@@ -394,68 +426,68 @@
     ]
   },
   {
-    "text": "She and her team have since worked with homeless patients and hold the position of Management Consultant for MedAmerica.",
+    "text": "She and her team have since worked with homeless patients and hold the position of Management Consul tan for Me d A me i .",
     "gold": [
       {
-        "text": "MedAmerica",
+        "text": "Me d A me i",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "MedAmerica",
+        "text": "me i",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "Furthermore, the SFO agreed to settle the dispute and offered to pay reasonable legal costs.",
+    "text": "Furthermore , the SF O agreed to settle the dispute and offered to pay reasonable legal costs .",
     "gold": [
       {
-        "text": "the SFO",
+        "text": "the SF O",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "SFO",
+        "text": "SF O",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "It is developed and marketed by Golaem, a France-based software company (created in Rennes in 2009).",
+    "text": "It is developed and marketed by Go la em , a France - based software company ( created in Ren ne in 2009 ) .",
     "gold": [
       {
-        "text": "Golaem",
+        "text": "Go la em",
         "value": "ORGANIZATION"
       },
       {
-        "text": "France-based",
-        "value": "LOCATION-BASED"
+        "text": "France",
+        "value": "LOCATION"
       },
       {
-        "text": "Rennes",
+        "text": "Ren ne",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Golaem",
+        "text": "Go la em",
         "value": "ORGANIZATION"
       },
       {
-        "text": "France-based",
+        "text": "France",
         "value": "LOCATION"
       },
       {
-        "text": "Rennes",
+        "text": "Ren ne",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "The lowest match aggregate in ODI history for England and its team is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "text": "The lowest match aggregate in ODI history for England and its team is 91 scored at the 1979 Cricket World Cup against Canada .",
     "gold": [
       {
         "text": "England",
@@ -490,10 +522,10 @@
     ]
   },
   {
-    "text": "He and his team are Congressmen representing Cajamarca for the period 2006\u20132011, and belong to the Union for Peru party.",
+    "text": "He and his team are Congress men representing C a ma ca for the period 2006 \u2013 2011 , and belong to the Union for Peru party .",
     "gold": [
       {
-        "text": "Cajamarca",
+        "text": "C a ma ca",
         "value": "LOCATION"
       },
       {
@@ -503,8 +535,8 @@
     ],
     "prediction": [
       {
-        "text": "Cajamarca",
-        "value": "LOCATION"
+        "text": "a ma",
+        "value": "ORGANIZATION"
       },
       {
         "text": "Union for Peru party",
@@ -513,7 +545,7 @@
     ]
   },
   {
-    "text": "The lowest match aggregate in ODI history for England is 91, recorded and scored at the 1979 Cricket World Cup against Canada.",
+    "text": "The lowest match aggregate in ODI history for England is 91 , recorded and scored at the 1979 Cricket World Cup against Canada .",
     "gold": [
       {
         "text": "England",
@@ -548,59 +580,60 @@
     ]
   },
   {
-    "text": "The Cnidaria and other invertebrates are groups of animals found exclusively in aquatic and mostly marine environments.",
+    "text": "The C ni da i and other in ve e are groups of animals found exclusively in aquatic and mostly marine environments .",
     "gold": [
       {
-        "text": "Cnidaria",
+        "text": "C ni da i",
         "value": "OTHER"
       }
     ],
-    "prediction": []
+    "prediction": [
+      {
+        "text": "C ni da i",
+        "value": "OTHER"
+      }
+    ]
   },
   {
-    "text": "He secured funding and went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "text": "He secured funding and went on to produce Kim F o le and the B M Band its ( band ) Re c r Records ' album ` ` Hidden Age n At the Thirteen th Not ` ` .",
     "gold": [
       {
-        "text": "Kim Fowley",
+        "text": "Kim F o le",
         "value": "PERSON"
       },
       {
-        "text": "BMX Bandits",
+        "text": "B M Band its",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Receiver Records",
+        "text": "Re c r Records",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Hidden Agenda At the Thirteenth Not",
+        "text": "Hidden Age n At the Thirteen th Not",
         "value": "ART"
       }
     ],
     "prediction": [
       {
-        "text": "Kim Fowley",
+        "text": "Kim F o le",
         "value": "PERSON"
       },
       {
-        "text": "BMX Bandits",
+        "text": "B M Band",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Receiver Records",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Hidden Agenda At the Thirteenth Not",
+        "text": "Hidden Age n At the Thirteen th Not",
         "value": "ART"
       }
     ]
   },
   {
-    "text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, completed his studies, and then went on to Westfield Boys School and Sir Christopher Hatton School.",
+    "text": "He was born in Well ing borough , Northamptonshire , where he attended Victoria Junior School , completed his studies , and then went on to West field Boys School and Sir Christopher Hat ton School .",
     "gold": [
       {
-        "text": "Wellingborough",
+        "text": "Well ing borough",
         "value": "LOCATION"
       },
       {
@@ -612,17 +645,17 @@
         "value": "ORGANIZATION"
       },
       {
-        "text": "Westfield Boys School",
+        "text": "West field Boys School",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Sir Christopher Hatton School",
+        "text": "Sir Christopher Hat ton School",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "Wellingborough",
+        "text": "Well ing",
         "value": "LOCATION"
       },
       {
@@ -634,24 +667,24 @@
         "value": "ORGANIZATION"
       },
       {
-        "text": "Westfield Boys School",
+        "text": "West field Boys School",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Sir Christopher Hatton School",
+        "text": "Sir Christopher Hat ton School",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "Perhaps the best known Ward LaFrance product was the P-80 ``Ambassador'' model of pumper, one of which was showcased and donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program`` Emergency!",
+    "text": "Perhaps the best known Ward La F ran product was the P - 80 ` ` Ambassador ' ' model of pump er , one of which was showcased and donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program ` ` Emergency !",
     "gold": [
       {
-        "text": "Ward LaFrance",
+        "text": "Ward La F ran",
         "value": "ORGANIZATION"
       },
       {
-        "text": "P-80 `` Ambassador ''",
+        "text": "P - 80 ` ` Ambassador ' '",
         "value": "PRODUCT"
       },
       {
@@ -661,52 +694,52 @@
     ],
     "prediction": [
       {
-        "text": "Ward LaFrance",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "P-80 `` Ambassador ''",
+        "text": "Ward La F ran",
         "value": "PRODUCT"
       },
       {
-        "text": "Los Angeles County",
+        "text": "P - 80 ` ` Ambassador ' '",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "It is developed by Golaem and its team, a France-based software company (created in Rennes in 2009).",
+    "text": "It is developed by Go la em and its team , a France - based software company ( created in Ren ne in 2009 ) .",
     "gold": [
       {
-        "text": "Golaem",
+        "text": "Go la em",
         "value": "ORGANIZATION"
       },
       {
-        "text": "France-based",
-        "value": "LOCATION-BASED"
+        "text": "France",
+        "value": "LOCATION"
       },
       {
-        "text": "Rennes",
+        "text": "Ren ne",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Golaem",
+        "text": "Go la em",
         "value": "ORGANIZATION"
       },
       {
-        "text": "France-based",
+        "text": "France",
         "value": "LOCATION"
       },
       {
-        "text": "Rennes",
+        "text": "Ren ne",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "Conway and the surrounding region is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "text": "Conway and the surrounding region is the hub of operations for Norfolk Southern in the Greater Pittsburgh area , featuring a hum p yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains .",
     "gold": [
       {
         "text": "Conway",
@@ -739,7 +772,7 @@
         "value": "ORGANIZATION"
       },
       {
-        "text": "Pittsburgh",
+        "text": "Greater Pittsburgh",
         "value": "LOCATION"
       },
       {
@@ -753,7 +786,7 @@
     ]
   },
   {
-    "text": "It was established and operated as a spin-off of Murphy Oil in 2013.",
+    "text": "It was established and operated as a spin - off of Murphy Oil in 2013 .",
     "gold": [
       {
         "text": "Murphy Oil",
@@ -768,7 +801,7 @@
     ]
   },
   {
-    "text": "It was founded as a spin-off of Murphy Oil and its subsidiaries in 2013.",
+    "text": "It was founded as a spin - off of Murphy Oil and its subsidiaries in 2013 .",
     "gold": [
       {
         "text": "Murphy Oil",
@@ -783,10 +816,10 @@
     ]
   },
   {
-    "text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 and received widespread media coverage, supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "text": "The C r l I r well Regional Park Project Pro p sa to create a green artery from the centre of Manchester to the West Penn in Moor s was announced in June 2003 and received widespread media coverage , supported by Salford , Bury and Bolton councils and the Red Rose Forest .",
     "gold": [
       {
-        "text": "Croal Irwell Regional Park Project Proposal",
+        "text": "C r l I r well Regional Park Project Pro p sa",
         "value": "PRODUCT"
       },
       {
@@ -794,7 +827,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "West Pennine Moors",
+        "text": "West Penn in Moor s",
         "value": "LOCATION"
       },
       {
@@ -820,7 +853,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "West Pennine Moors",
+        "text": "West Penn in Moor",
         "value": "LOCATION"
       },
       {
@@ -842,22 +875,22 @@
     ]
   },
   {
-    "text": "They used several features from a batch of A1 Pacifics and other locomotives they had built in 1924.",
+    "text": "They used several features from a batch of A1 Pacific s and other locomotives they had built in 1924 .",
     "gold": [
       {
-        "text": "A1 Pacifics",
+        "text": "A1 Pacific s",
         "value": "PRODUCT"
       }
     ],
     "prediction": [
       {
-        "text": "A1 Pacifics",
+        "text": "A1 Pacific",
         "value": "PRODUCT"
       }
     ]
   },
   {
-    "text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had fortified and established a position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "text": "Lo ya is recruited from Queens County , New York by Lieutenant Colonel Richard He w et for the 3rd battalion De L an y ' s Brigade had fortified and established a position in early August on the central north shore of Long Island at Set au k , just across Long Island Sound from Fairfield .",
     "gold": [
       {
         "text": "Queens County",
@@ -868,11 +901,11 @@
         "value": "LOCATION"
       },
       {
-        "text": "Richard Hewlett",
+        "text": "Richard He w et",
         "value": "PERSON"
       },
       {
-        "text": "DeLancey 's Brigade",
+        "text": "De L an y ' s Brigade",
         "value": "ORGANIZATION"
       },
       {
@@ -880,7 +913,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Setauket",
+        "text": "Set au k",
         "value": "LOCATION"
       },
       {
@@ -902,11 +935,11 @@
         "value": "LOCATION"
       },
       {
-        "text": "Richard Hewlett",
+        "text": "Richard He",
         "value": "PERSON"
       },
       {
-        "text": "3rd battalion DeLancey 's Brigade",
+        "text": "De L an y ' s Brigade",
         "value": "ORGANIZATION"
       },
       {
@@ -914,7 +947,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Setauket",
+        "text": "Set au k",
         "value": "LOCATION"
       },
       {
@@ -928,34 +961,34 @@
     ]
   },
   {
-    "text": "USP42 and its associated factors have also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "text": "US P 42 and its associated factors have also been shown to de u q tin te p 53 and may be required for the ability of p 53 to respond to stress .",
     "gold": [
       {
-        "text": "USP42",
+        "text": "US P 42",
         "value": "OTHER"
       },
       {
-        "text": "p53",
+        "text": "p 53",
         "value": "OTHER"
       },
       {
-        "text": "p53",
+        "text": "p 53",
         "value": "OTHER"
       }
     ],
     "prediction": [
       {
-        "text": "USP42",
+        "text": "US P 42",
         "value": "OTHER"
       },
       {
-        "text": "p53",
+        "text": "p 53",
         "value": "OTHER"
       }
     ]
   },
   {
-    "text": "Loyalists and their families recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "text": "Lo ya is and their families recruited from Queens County , New York by Lieutenant Colonel Richard He w et for the 3rd battalion De L an y ' s Brigade had established a fortified position in early August on the central north shore of Long Island at Set au k , just across Long Island Sound from Fairfield .",
     "gold": [
       {
         "text": "Queens County",
@@ -966,11 +999,11 @@
         "value": "LOCATION"
       },
       {
-        "text": "Richard Hewlett",
+        "text": "Richard He w et",
         "value": "PERSON"
       },
       {
-        "text": "DeLancey 's Brigade",
+        "text": "De L an y ' s Brigade",
         "value": "ORGANIZATION"
       },
       {
@@ -978,7 +1011,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Setauket",
+        "text": "Set au k",
         "value": "LOCATION"
       },
       {
@@ -1000,11 +1033,11 @@
         "value": "LOCATION"
       },
       {
-        "text": "Richard Hewlett",
+        "text": "Richard He w",
         "value": "PERSON"
       },
       {
-        "text": "3rd battalion DeLancey 's Brigade",
+        "text": "De L an y ' s Brigade",
         "value": "ORGANIZATION"
       },
       {
@@ -1012,7 +1045,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Setauket",
+        "text": "Set au k",
         "value": "LOCATION"
       },
       {
@@ -1026,19 +1059,15 @@
     ]
   },
   {
-    "text": "Jamil was married and settled down with the daughter of Khalid Bakdash, a Syrian politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "text": "Jam il was married and settled down with the daughter of Khalid Ba k das h , a Syrian politician who was the Secretary - General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954 .",
     "gold": [
       {
-        "text": "Jamil",
+        "text": "Jam il",
         "value": "PERSON"
       },
       {
-        "text": "Khalid Bakdash",
+        "text": "Khalid Ba k das h",
         "value": "PERSON"
-      },
-      {
-        "text": "Syrian",
-        "value": "LOCATIONN"
       },
       {
         "text": "Syrian Communist Party",
@@ -1051,11 +1080,11 @@
     ],
     "prediction": [
       {
-        "text": "Jamil",
+        "text": "Jam il",
         "value": "PERSON"
       },
       {
-        "text": "Khalid Bakdash",
+        "text": "Khalid Ba k das h",
         "value": "PERSON"
       },
       {
@@ -1073,10 +1102,10 @@
     ]
   },
   {
-    "text": "At a festival, Siddhi and her friend save Vin from being shot at by Rudra.",
+    "text": "At a festival , Sid d and her friend save Vin from being shot at by R u r .",
     "gold": [
       {
-        "text": "Siddhi",
+        "text": "Sid d",
         "value": "PERSON"
       },
       {
@@ -1084,13 +1113,13 @@
         "value": "PERSON"
       },
       {
-        "text": "Rudra",
+        "text": "R u r",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "Siddhi",
+        "text": "Sid d",
         "value": "PERSON"
       },
       {
@@ -1098,13 +1127,13 @@
         "value": "PERSON"
       },
       {
-        "text": "Rudra",
+        "text": "R u r",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "Her brother campaigned vigorously and ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "text": "Her brother campaigned vigorously and ran unsuccessfully for the United States House of Representatives from ups ta New York , in 1992 and 1994 .",
     "gold": [
       {
         "text": "United States House of Representatives",
@@ -1127,10 +1156,10 @@
     ]
   },
   {
-    "text": "At a festival, Siddhi intervenes and saves Vin from being shot at by Rudra.",
+    "text": "At a festival , Sid d intervene s and saves Vin from being shot at by R u r .",
     "gold": [
       {
-        "text": "Siddhi",
+        "text": "Sid d",
         "value": "PERSON"
       },
       {
@@ -1138,13 +1167,13 @@
         "value": "PERSON"
       },
       {
-        "text": "Rudra",
+        "text": "R u r",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "Siddhi",
+        "text": "Sid d",
         "value": "PERSON"
       },
       {
@@ -1152,74 +1181,82 @@
         "value": "PERSON"
       },
       {
-        "text": "Rudra",
+        "text": "R u r",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "Internal conflicts, especially between Covaci, Baniciu, and their colleagues, were making headlines in the media.",
+    "text": "Internal conflicts , especially between Co v c , Ban i u , and their colleagues , were making headlines in the media .",
     "gold": [
       {
-        "text": "Covaci",
+        "text": "Co v c",
         "value": "PERSON"
       },
       {
-        "text": "Baniciu",
+        "text": "Ban i u",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "Covaci",
+        "text": "Co v",
         "value": "PERSON"
       },
       {
-        "text": "Baniciu",
+        "text": "c",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ban i",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "The B-52 and F-16 pilot, Major Larry G.Messinger, later recalled,",
+    "text": "The B - 52 and F - 16 pilot , Major Larry G . Me s er , later recalled ,",
     "gold": [
       {
-        "text": "B-52",
+        "text": "B - 52",
         "value": "PRODUCT"
       },
       {
-        "text": "F-16",
+        "text": "F - 16",
         "value": "PRODUCT"
       },
       {
-        "text": "Larry G.Messinger",
+        "text": "Larry G . Me s er",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "B-52",
+        "text": "B - 52",
         "value": "PRODUCT"
       },
       {
-        "text": "F-16",
+        "text": "F - 16",
         "value": "PRODUCT"
       },
       {
-        "text": "Larry G.Messinger",
+        "text": "Larry G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Me",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "In the early 1930s, George Hall and the band moved to the Grill Room of the Taft Hotel in New York; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "text": "In the early 1930s , George Hall and the band moved to the G r Room of the Taft Hotel in New York ; the band was renamed ` ` George Hall and His Hotel Taft Orchestra ` ` .",
     "gold": [
       {
         "text": "George Hall",
         "value": "PERSON"
       },
       {
-        "text": "Grill Room",
+        "text": "G r Room",
         "value": "BUILDING"
       },
       {
@@ -1241,6 +1278,10 @@
         "value": "PERSON"
       },
       {
+        "text": "r Room",
+        "value": "BUILDING"
+      },
+      {
         "text": "Taft Hotel",
         "value": "BUILDING"
       },
@@ -1255,7 +1296,7 @@
     ]
   },
   {
-    "text": "During last few years, I live in Melbourne and Sydney.",
+    "text": "During last few years , I live in Melbourne and Sydney .",
     "gold": [
       {
         "text": "Melbourne",
@@ -1278,14 +1319,14 @@
     ]
   },
   {
-    "text": "Argentina's Del Imaginario Discos and Brazil's Som Livre also released the album in 2007.",
+    "text": "Argentina ' s Del I ma g a Disco s and Brazil ' s So m Liv re also released the album in 2007 .",
     "gold": [
       {
         "text": "Argentina",
         "value": "LOCATION"
       },
       {
-        "text": "Del Imaginario Discos",
+        "text": "Del I ma g a Disco s",
         "value": "ORGANIZATION"
       },
       {
@@ -1293,7 +1334,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Som Livre",
+        "text": "So m Liv re",
         "value": "ORGANIZATION"
       }
     ],
@@ -1303,21 +1344,21 @@
         "value": "LOCATION"
       },
       {
-        "text": "Del Imaginario Discos",
-        "value": "ORGANIZATION"
+        "text": "Del I ma g a Disco",
+        "value": "ART"
       },
       {
         "text": "Brazil",
         "value": "LOCATION"
       },
       {
-        "text": "Som Livre",
-        "value": "ORGANIZATION"
+        "text": "So m Liv",
+        "value": "ART"
       }
     ]
   },
   {
-    "text": "During the last few years, I live in Melbourne and Sydney.",
+    "text": "During the last few years , I live in Melbourne and Sydney .",
     "gold": [
       {
         "text": "Melbourne",
@@ -1340,7 +1381,7 @@
     ]
   },
   {
-    "text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada and Quebec from 1975 to 1979.",
+    "text": "The Newfoundland Reform Liberal Party was a leader - centred political party in Newfoundland and Labrador , Canada and Quebec from 1975 to 1979 .",
     "gold": [
       {
         "text": "Newfoundland Reform Liberal Party",
@@ -1383,10 +1424,10 @@
     ]
   },
   {
-    "text": "Furthermore, the SFO and the FBI offered to pay reasonable legal costs.",
+    "text": "Furthermore , the SF O and the FBI offered to pay reasonable legal costs .",
     "gold": [
       {
-        "text": "the SFO",
+        "text": "the SF O",
         "value": "ORGANIZATION"
       },
       {
@@ -1396,7 +1437,7 @@
     ],
     "prediction": [
       {
-        "text": "SFO",
+        "text": "SF O",
         "value": "ORGANIZATION"
       },
       {
@@ -1406,18 +1447,18 @@
     ]
   },
   {
-    "text": "Perhaps the best known Ward LaFrance products were the P-80 ``Ambassador'' model of pumper and the Q-90 ``Envoy'' model of ladder truck, one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program`` Emergency!",
+    "text": "Perhaps the best known Ward La F ran products were the P - 80 ` ` Ambassador ' ' model of pump er and the Q - 90 ` ` En v ' ' model of ladder truck , one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program ` ` Emergency !",
     "gold": [
       {
-        "text": "Ward LaFrance",
+        "text": "Ward La F ran",
         "value": "ORGANIZATION"
       },
       {
-        "text": "P-80 `` Ambassador ''",
+        "text": "P - 80 ` ` Ambassador ' '",
         "value": "PRODUCT"
       },
       {
-        "text": "Q-90 `` Envoy ''",
+        "text": "Q - 90 ` ` En v ' '",
         "value": "PRODUCT"
       },
       {
@@ -1427,15 +1468,19 @@
     ],
     "prediction": [
       {
-        "text": "Ward LaFrance",
+        "text": "Ward",
         "value": "ORGANIZATION"
       },
       {
-        "text": "P-80 `` Ambassador ''",
+        "text": "La F ran",
         "value": "PRODUCT"
       },
       {
-        "text": "Q-90 `` Envoy ''",
+        "text": "P - 80 ` ` Ambassador ' '",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Q - 90 ` `",
         "value": "PRODUCT"
       },
       {
@@ -1445,14 +1490,14 @@
     ]
   },
   {
-    "text": "During the Battle of Antietam and the Siege of Vicksburg on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "text": "During the Battle of Anti et m and the Siege of Vic k b on September 17 , 1862 , Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps .",
     "gold": [
       {
-        "text": "Battle of Antietam",
+        "text": "Battle of Anti et m",
         "value": "EVENT"
       },
       {
-        "text": "Siege of Vicksburg",
+        "text": "Siege of Vic k b",
         "value": "EVENT"
       },
       {
@@ -1466,11 +1511,11 @@
     ],
     "prediction": [
       {
-        "text": "Battle of Antietam",
+        "text": "Battle of Anti et",
         "value": "EVENT"
       },
       {
-        "text": "Siege of Vicksburg",
+        "text": "Siege of Vic",
         "value": "EVENT"
       },
       {
@@ -1484,10 +1529,10 @@
     ]
   },
   {
-    "text": "Many of the men were separated from their families and sent into the B.C. and Alberta.",
+    "text": "Many of the men were separated from their families and sent into the B . C . and Alberta .",
     "gold": [
       {
-        "text": "B.C .",
+        "text": "B . C .",
         "value": "LOCATION"
       },
       {
@@ -1497,7 +1542,7 @@
     ],
     "prediction": [
       {
-        "text": "B.C .",
+        "text": "B . C .",
         "value": "LOCATION"
       },
       {
@@ -1507,7 +1552,7 @@
     ]
   },
   {
-    "text": "During the last few years, I have lived in Melbourne and Sydney.",
+    "text": "During the last few years , I have lived in Melbourne and Sydney .",
     "gold": [
       {
         "text": "Melbourne",
@@ -1530,14 +1575,14 @@
     ]
   },
   {
-    "text": "He is a Congressman representing Cajamarca and Arequipa for the period 2006\u20132011, and belongs to the Union for Peru party.",
+    "text": "He is a Congressman representing C a ma ca and Are q p for the period 2006 \u2013 2011 , and belongs to the Union for Peru party .",
     "gold": [
       {
-        "text": "Cajamarca",
+        "text": "C a ma ca",
         "value": "LOCATION"
       },
       {
-        "text": "Arequipa",
+        "text": "Are q p",
         "value": "LOCATION"
       },
       {
@@ -1547,11 +1592,7 @@
     ],
     "prediction": [
       {
-        "text": "Cajamarca",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Arequipa",
+        "text": "a ma",
         "value": "LOCATION"
       },
       {
@@ -1561,30 +1602,30 @@
     ]
   },
   {
-    "text": "They used several features from a batch of A1 Pacifics and A2 Pacifics they had built in 1924.",
+    "text": "They used several features from a batch of A1 Pacific s and A2 Pacific s they had built in 1924 .",
     "gold": [
       {
-        "text": "A1 Pacifics",
+        "text": "A1 Pacific s",
         "value": "PRODUCT"
       },
       {
-        "text": "A2 Pacifics",
+        "text": "A2 Pacific s",
         "value": "PRODUCT"
       }
     ],
     "prediction": [
       {
-        "text": "A1 Pacifics",
+        "text": "A1 Pacific",
         "value": "PRODUCT"
       },
       {
-        "text": "A2 Pacifics",
+        "text": "A2 Pacific",
         "value": "PRODUCT"
       }
     ]
   },
   {
-    "text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh and Greater Philadelphia area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh and Greater Philadelphia area , featuring a hum p yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains .",
     "gold": [
       {
         "text": "Conway",
@@ -1621,19 +1662,11 @@
         "value": "ORGANIZATION"
       },
       {
-        "text": "Greater",
+        "text": "Greater Pittsburgh",
         "value": "LOCATION"
       },
       {
-        "text": "Pittsburgh",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Greater",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Philadelphia",
+        "text": "Greater Philadelphia",
         "value": "LOCATION"
       },
       {
@@ -1647,14 +1680,14 @@
     ]
   },
   {
-    "text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar and Muscat.",
+    "text": "Go n caused strong g us y winds and to r n rainfall along Pakistan ' s Arabian Sea coast from Karachi to G wa da and Mu s t .",
     "gold": [
       {
-        "text": "Gonu",
+        "text": "Go n",
         "value": "EVENT"
       },
       {
-        "text": "Pakistan 's Arabian Sea coast",
+        "text": "Pakistan ' s Arabian Sea coast",
         "value": "LOCATION"
       },
       {
@@ -1662,21 +1695,21 @@
         "value": "LOCATION"
       },
       {
-        "text": "Gwadar",
+        "text": "G wa da",
         "value": "LOCATION"
       },
       {
-        "text": "Muscat",
+        "text": "Mu s t",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Gonu",
-        "value": "PERSON"
+        "text": "Pakistan",
+        "value": "LOCATION"
       },
       {
-        "text": "Pakistan 's Arabian Sea",
+        "text": "Arabian Sea",
         "value": "LOCATION"
       },
       {
@@ -1684,56 +1717,56 @@
         "value": "LOCATION"
       },
       {
-        "text": "Gwadar",
+        "text": "G wa da",
         "value": "LOCATION"
       },
       {
-        "text": "Muscat",
+        "text": "Mu s",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "USP42 has also been shown to deubiquitinate p53 and MDM2 and may be required for the ability of p53 to respond to stress.",
+    "text": "US P 42 has also been shown to de u q tin te p 53 and MD M 2 and may be required for the ability of p 53 to respond to stress .",
     "gold": [
       {
-        "text": "USP42",
+        "text": "US P 42",
         "value": "OTHER"
       },
       {
-        "text": "p53",
+        "text": "p 53",
         "value": "OTHER"
       },
       {
-        "text": "MDM2",
+        "text": "MD M 2",
         "value": "OTHER"
       },
       {
-        "text": "p53",
+        "text": "p 53",
         "value": "OTHER"
       }
     ],
     "prediction": [
       {
-        "text": "USP42",
+        "text": "US P 42",
         "value": "OTHER"
       },
       {
-        "text": "p53",
+        "text": "p 53",
         "value": "OTHER"
       },
       {
-        "text": "MDM2",
+        "text": "MD M 2",
         "value": "OTHER"
       },
       {
-        "text": "p53",
+        "text": "p 53",
         "value": "OTHER"
       }
     ]
   },
   {
-    "text": "Her brother and his campaign team ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "text": "Her brother and his campaign team ran unsuccessfully for the United States House of Representatives from ups ta New York , in 1992 and 1994 .",
     "gold": [
       {
         "text": "his campaign team",
@@ -1760,7 +1793,7 @@
     ]
   },
   {
-    "text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York and Vermont, in 1992 and 1994.",
+    "text": "Her brother ran unsuccessfully for the United States House of Representatives from ups ta New York and Vermont , in 1992 and 1994 .",
     "gold": [
       {
         "text": "United States House of Representatives",
@@ -1791,14 +1824,14 @@
     ]
   },
   {
-    "text": "It was founded as a spin-off of Murphy Oil and ExxonMobil in 2013.",
+    "text": "It was founded as a spin - off of Murphy Oil and Ex x M o il in 2013 .",
     "gold": [
       {
         "text": "Murphy Oil",
         "value": "ORGANIZATION"
       },
       {
-        "text": "ExxonMobil",
+        "text": "Ex x M o il",
         "value": "ORGANIZATION"
       }
     ],
@@ -1808,20 +1841,20 @@
         "value": "ORGANIZATION"
       },
       {
-        "text": "ExxonMobil",
+        "text": "Ex x M o il",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "At a festival, Siddhi and Anjali save Vin from being shot at by Rudra.",
+    "text": "At a festival , Sid d and An j l save Vin from being shot at by R u r .",
     "gold": [
       {
-        "text": "Siddhi",
+        "text": "Sid d",
         "value": "PERSON"
       },
       {
-        "text": "Anjali",
+        "text": "An j l",
         "value": "PERSON"
       },
       {
@@ -1829,17 +1862,17 @@
         "value": "PERSON"
       },
       {
-        "text": "Rudra",
+        "text": "R u r",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "Siddhi",
+        "text": "Sid d",
         "value": "PERSON"
       },
       {
-        "text": "Anjali",
+        "text": "An j l",
         "value": "PERSON"
       },
       {
@@ -1847,25 +1880,21 @@
         "value": "PERSON"
       },
       {
-        "text": "Rudra",
+        "text": "R u r",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "Jamil was married to the daughter of Khalid Bakdash, a Syrian politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab and European parliament in 1954.",
+    "text": "Jam il was married to the daughter of Khalid Ba k das h , a Syrian politician who was the Secretary - General of the Syrian Communist Party and the first communist to be an elected member of an Arab and European parliament in 1954 .",
     "gold": [
       {
-        "text": "Jamil",
+        "text": "Jam il",
         "value": "PERSON"
       },
       {
-        "text": "Khalid Bakdash",
+        "text": "Khalid Ba k das h",
         "value": "PERSON"
-      },
-      {
-        "text": "Syrian",
-        "value": "LOCATIONN"
       },
       {
         "text": "Syrian Communist Party",
@@ -1882,11 +1911,11 @@
     ],
     "prediction": [
       {
-        "text": "Jamil",
+        "text": "Jam il",
         "value": "PERSON"
       },
       {
-        "text": "Khalid Bakdash",
+        "text": "Khalid Ba k das h",
         "value": "PERSON"
       },
       {
@@ -1908,7 +1937,7 @@
     ]
   },
   {
-    "text": "Loyalists recruited from Queens County and Kings County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "text": "Lo ya is recruited from Queens County and Kings County , New York by Lieutenant Colonel Richard He w et for the 3rd battalion De L an y ' s Brigade had established a fortified position in early August on the central north shore of Long Island at Set au k , just across Long Island Sound from Fairfield .",
     "gold": [
       {
         "text": "Queens County",
@@ -1923,11 +1952,11 @@
         "value": "LOCATION"
       },
       {
-        "text": "Richard Hewlett",
+        "text": "Richard He w et",
         "value": "PERSON"
       },
       {
-        "text": "DeLancey 's Brigade",
+        "text": "De L an y ' s Brigade",
         "value": "ORGANIZATION"
       },
       {
@@ -1935,7 +1964,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Setauket",
+        "text": "Set au k",
         "value": "LOCATION"
       },
       {
@@ -1961,11 +1990,11 @@
         "value": "LOCATION"
       },
       {
-        "text": "Richard Hewlett",
+        "text": "Richard He w",
         "value": "PERSON"
       },
       {
-        "text": "3rd battalion DeLancey 's Brigade",
+        "text": "De L an y ' s Brigade",
         "value": "ORGANIZATION"
       },
       {
@@ -1973,7 +2002,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Setauket",
+        "text": "Set au k",
         "value": "LOCATION"
       },
       {
@@ -1987,11 +2016,11 @@
     ]
   },
   {
-    "text": "This collection showcases and contains material relating to sexual health issues from 1974-2007.",
+    "text": "This collection showcase s and contains material relating to sexual health issues from 1974 - 2007 .",
     "gold": [
       {
         "text": "This collection",
-        "value": "NON-ENTITY"
+        "value": "ENTITY"
       }
     ],
     "prediction": []

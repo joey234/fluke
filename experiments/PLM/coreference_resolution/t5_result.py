@@ -5,9 +5,9 @@ from sklearn.metrics import accuracy_score
 import pandas as pd
 
 # Paths
-dev_file_path = "../datasets/transformed_train_dev_test_data/coref/dev.json"
-test_file_path = "../datasets/transformed_train_dev_test_data/coref/test.json"
-ood_test_file_dir = "../datasets/test_data_after_modifications/coref"
+dev_file_path = "../datasets/transformed_train_dev_test_data/thinh/dev.json"
+test_file_path = "../datasets/transformed_train_dev_test_data/thinh/test.json"
+ood_test_file_dir = "../datasets/test_data_after_modifications/thinh"
 t5_dev_predictions_path = "./tmp/t5-base_results/t5_predictions_dev_original.json"
 t5_test_predictions_path = "./tmp/t5-base_results/t5_predictions.json"
 t5_ood_preds_dir = "./tmp/t5-base_results/t5_ood_test_preds"

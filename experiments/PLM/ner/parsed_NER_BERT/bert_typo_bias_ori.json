@@ -1,17 +1,17 @@
 [
   {
-    "text": "A German teacher for much of her life, MacKeith also advocated for peace during the Aldermaston Marches in the 1950s and demonstrations against the Vietnam War in Grosvenor Square in the 1960s.",
+    "text": "A German teacher for much of her life , Mac K e h also advocated for peace during the Al der ma ton March es in the 1950s and demonstrations against the Vietnam War in G r ve or Square in the 1960s .",
     "gold": [
       {
         "text": "German",
         "value": "LOCATION"
       },
       {
-        "text": "MacKeith",
+        "text": "Mac K e h",
         "value": "PERSON"
       },
       {
-        "text": "Aldermaston Marches",
+        "text": "Al der ma ton March es",
         "value": "EVENT"
       },
       {
@@ -19,7 +19,7 @@
         "value": "EVENT"
       },
       {
-        "text": "Grosvenor Square",
+        "text": "G r ve or Square",
         "value": "LOCATION"
       }
     ],
@@ -29,11 +29,11 @@
         "value": "LOCATION"
       },
       {
-        "text": "MacKeith",
+        "text": "Mac K e h",
         "value": "PERSON"
       },
       {
-        "text": "Aldermaston Marches",
+        "text": "Al der ma ton March",
         "value": "EVENT"
       },
       {
@@ -41,16 +41,20 @@
         "value": "EVENT"
       },
       {
-        "text": "Grosvenor Square",
+        "text": "G r ve",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Square",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "In the early 1930s the band moved to the Grill Room of the Taft Hotel in New York ; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "text": "In the early 1930s the band moved to the G r Room of the Taft Hotel in New York ; the band was renamed ` ` George Hall and His Hotel Taft Orchestra ` ` .",
     "gold": [
       {
-        "text": "Grill Room",
+        "text": "G r Room",
         "value": "BUILDING"
       },
       {
@@ -68,6 +72,10 @@
     ],
     "prediction": [
       {
+        "text": "r Room",
+        "value": "BUILDING"
+      },
+      {
         "text": "Taft Hotel",
         "value": "BUILDING"
       },
@@ -82,28 +90,28 @@
     ]
   },
   {
-    "text": "Kenyon entered Maynooth Seminary in 1829 \u2013 the year of Catholic Emancipation.",
+    "text": "Ken yo entered May no o Seminary in 1829 \u2013 the year of Catholic Em an .",
     "gold": [
       {
-        "text": "Kenyon",
+        "text": "Ken yo",
         "value": "PERSON"
       },
       {
-        "text": "Maynooth Seminary",
+        "text": "May no o Seminary",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Catholic Emancipation",
+        "text": "Catholic Em an",
         "value": "EVENT"
       }
     ],
     "prediction": [
       {
-        "text": "Kenyon",
+        "text": "Ken yo",
         "value": "PERSON"
       },
       {
-        "text": "Maynooth Seminary",
+        "text": "May no o Seminary",
         "value": "ORGANIZATION"
       },
       {
@@ -113,41 +121,41 @@
     ]
   },
   {
-    "text": "The scene is set at the Paris Las Vegas resort, where escaped Pteranodons land atop the resort's Eiffel Tower.",
+    "text": "The scene is set at the Paris Las Vegas resort , where escaped P te no don s land atop the resort ' s E if el Tower .",
     "gold": [
       {
         "text": "Paris Las Vegas",
         "value": "LOCATION"
       },
       {
-        "text": "Eiffel Tower",
+        "text": "E if el Tower",
         "value": "BUILDING"
       }
     ],
     "prediction": [
       {
-        "text": "Paris Las Vegas resort",
-        "value": "BUILDING"
+        "text": "Paris Las Vegas",
+        "value": "LOCATION"
       },
       {
-        "text": "Eiffel Tower",
+        "text": "E if el Tower",
         "value": "BUILDING"
       }
     ]
   },
   {
-    "text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "text": "He has caught the attention of major publications and media outlets such as CNN , The Hu f Post , H y be as , The Guardian , Ju x ta p z Magazine , Daily Mail , N R C , Al j z r and Hi - Fr u to e Magazine .",
     "gold": [
       {
         "text": "CNN",
         "value": "ORGANIZATION"
       },
       {
-        "text": "The Huffington Post",
+        "text": "The Hu f Post",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Hypebeast",
+        "text": "H y be as",
         "value": "ORGANIZATION"
       },
       {
@@ -155,19 +163,19 @@
         "value": "ORGANIZATION"
       },
       {
-        "text": "Juxtapoz Magazine",
+        "text": "Ju x ta p z Magazine",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Daily Mail , NRDC",
+        "text": "Daily Mail , N R C",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Aljazeera",
+        "text": "Al j z r",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Hi-Fructose Magazine",
+        "text": "Hi - Fr u to e Magazine",
         "value": "ORGANIZATION"
       }
     ],
@@ -177,41 +185,57 @@
         "value": "ORGANIZATION"
       },
       {
-        "text": "The Huffington Post",
+        "text": "The Hu f Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "H",
         "value": "ART"
       },
       {
-        "text": "Hypebeast",
+        "text": "y be",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "as",
         "value": "ART"
       },
       {
         "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ju",
         "value": "ART"
       },
       {
-        "text": "Juxtapoz Magazine",
+        "text": "x",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ta p z Magazine",
         "value": "ART"
       },
       {
         "text": "Daily Mail",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "N R C",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Al j z r",
         "value": "ART"
       },
       {
-        "text": "NRDC",
-        "value": "ART"
-      },
-      {
-        "text": "Aljazeera",
-        "value": "ART"
-      },
-      {
-        "text": "Hi-Fructose Magazine",
+        "text": "Hi - Fr u to e Magazine",
         "value": "ART"
       }
     ]
   },
   {
-    "text": "Malcolm III (; c.26 March 1031 \u2013 13 November 1093 (age 62)) was King of Scots from 1058 to 1093.",
+    "text": "Malcolm III ( ; c . 26 March 103 1 \u2013 13 November 109 3 ( age 62 ) ) was King of Scots from 105 8 to 109 3 .",
     "gold": [
       {
         "text": "Malcolm III",
@@ -234,7 +258,7 @@
     ]
   },
   {
-    "text": "After the end of the Civil War, Young was excluded from President Andrew Johns on's amnesty proclamation.",
+    "text": "After the end of the Civil War , Young was excluded from President Andrew Johns on ' s am ne t proclamation .",
     "gold": [
       {
         "text": "Civil War",
@@ -265,12 +289,12 @@
     ]
   },
   {
-    "text": "In 1967, the park was the gathering place for a peaceful anti-war rally.",
+    "text": "In 1967 , the park was the gathering place for a peaceful anti - war rally .",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "text": "The Newfoundland Reform Liberal Party was a leader - centred political party in Newfoundland and Labrador , Canada from 1975 to 1979 .",
     "gold": [
       {
         "text": "Newfoundland Reform Liberal Party",
@@ -305,14 +329,14 @@
     ]
   },
   {
-    "text": "Gibraltar suffered a number of air raids during 1940 by the Italian ``Regia Aeronautica`` (operating from Sardinia) and from the Vichy French Air Force (from French North Africa) in retaliation for British and Free French attacks on Mers-el-Kebir and Dakar.",
+    "text": "Gibraltar suffered a number of air raids during 1940 by the Italian ` ` Reg i Aero na u ca ` ` ( operating from Sardinia ) and from the Vic h French Air Force ( from French North Africa ) in retaliation for British and Free French attacks on Me r - el - Ke bi and Da ka .",
     "gold": [
       {
         "text": "Gibraltar",
         "value": "LOCATION"
       },
       {
-        "text": "Regia Aeronautica",
+        "text": "Reg i Aero na u ca",
         "value": "ORGANIZATION"
       },
       {
@@ -320,7 +344,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Vichy French Air Force",
+        "text": "Vic h French Air Force",
         "value": "ORGANIZATION"
       },
       {
@@ -336,11 +360,11 @@
         "value": "ORGANIZATION"
       },
       {
-        "text": "Mers-el-Kebir",
+        "text": "Me r - el - Ke bi",
         "value": "LOCATION"
       },
       {
-        "text": "Dakar",
+        "text": "Da ka",
         "value": "LOCATION"
       }
     ],
@@ -354,7 +378,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Regia Aeronautica",
+        "text": "Reg i Aero na u ca",
         "value": "ORGANIZATION"
       },
       {
@@ -362,7 +386,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Vichy French Air Force",
+        "text": "Vic h French Air Force",
         "value": "ORGANIZATION"
       },
       {
@@ -374,28 +398,24 @@
         "value": "LOCATION"
       },
       {
-        "text": "Free",
-        "value": "LOCATION"
-      },
-      {
         "text": "French",
         "value": "LOCATION"
       },
       {
-        "text": "Mers-el-Kebir",
+        "text": "Me r - el - Ke bi",
         "value": "LOCATION"
       },
       {
-        "text": "Dakar",
+        "text": "Da ka",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "This led to the foundation by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "text": "This led to the foundation by Maximilian III Joseph , El e of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759 .",
     "gold": [
       {
-        "text": "Maximilian III Joseph , Elector of Bavaria",
+        "text": "Maximilian III Joseph , El e of Bavaria",
         "value": "PERSON"
       },
       {
@@ -419,37 +439,37 @@
     ]
   },
   {
-    "text": "Breck Ullr Fest was first held in 1963.",
+    "text": "B re U ll r Fest was first held in 1963 .",
     "gold": [
       {
-        "text": "Breck Ullr Fest",
+        "text": "B re U ll r Fest",
         "value": "EVENT"
       }
     ],
     "prediction": [
       {
-        "text": "Breck Ullr Fest",
+        "text": "B re U ll r Fest",
         "value": "EVENT"
       }
     ]
   },
   {
-    "text": "They used several features from a batch of A1 Pacifics they had built in 1924.",
+    "text": "They used several features from a batch of A1 Pacific s they had built in 1924 .",
     "gold": [
       {
-        "text": "A1 Pacifics",
+        "text": "A1 Pacific s",
         "value": "PRODUCT"
       }
     ],
     "prediction": [
       {
-        "text": "A1 Pacifics",
+        "text": "A1 Pacific",
         "value": "PRODUCT"
       }
     ]
   },
   {
-    "text": "The situation began to crystallise after 1961 when South Africa left the Commonwealth of Nations and so, under the rules of the day, its cricket board had to leave the International Cricket Conference (ICC).",
+    "text": "The situation began to crystal l e after 1961 when South Africa left the Commonwealth of Nations and so , under the rules of the day , its cricket board had to leave the International Cricket Conference ( ICC ) .",
     "gold": [
       {
         "text": "South Africa",
@@ -488,32 +508,27 @@
     ]
   },
   {
-    "text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "text": "Furthermore , the SF O offered to pay reasonable legal costs .",
     "gold": [
       {
-        "text": "the SFO",
+        "text": "the SF O",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "SFO",
+        "text": "SF O",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "He died in an assisted living facility on election day, November 2, 2004, at the age of 92, survived by his widow and one brother.",
+    "text": "He died in an assisted living facility on election day , November 2 , 2004 , at the age of 92 , survived by his widow and one brother .",
     "gold": [],
-    "prediction": [
-      {
-        "text": "assisted",
-        "value": "BUILDING"
-      }
-    ]
+    "prediction": []
   },
   {
-    "text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "text": "Lawrence claims that she was given cash , whereas Stephens claims that his life was threatened .",
     "gold": [
       {
         "text": "Stephens",
@@ -532,61 +547,65 @@
     ]
   },
   {
-    "text": "Less commonly, cases of hypersexuality have been reported.",
+    "text": "Less commonly , cases of h y sexual it have been reported .",
     "gold": [],
-    "prediction": []
-  },
-  {
-    "text": "Anhur is a playable character in the multiplayer online battle arena, ``SMITE''.",
-    "gold": [
-      {
-        "text": "Anhur",
-        "value": "OTHER"
-      }
-    ],
     "prediction": [
       {
-        "text": "Anhur",
-        "value": "PERSON"
+        "text": "h y sexual it",
+        "value": "OTHER"
       }
     ]
   },
   {
-    "text": "Mike Moreton headed the team, joining TWR to run the XJ220 project.",
+    "text": "An h is a playable character in the multiplayer online battle arena , ` ` SM IT E ' ' .",
     "gold": [
       {
-        "text": "Mike Moreton",
+        "text": "An h",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Mike More ton headed the team , joining T WR to run the X J 22 0 project .",
+    "gold": [
+      {
+        "text": "Mike More ton",
         "value": "PERSON"
       },
       {
-        "text": "TWR",
+        "text": "T WR",
         "value": "ORGANIZATION"
       },
       {
-        "text": "XJ220",
+        "text": "X J 22 0",
         "value": "PRODUCT"
       }
     ],
     "prediction": [
       {
-        "text": "Mike Moreton",
+        "text": "Mike More",
         "value": "PERSON"
       },
       {
-        "text": "TWR",
+        "text": "T WR",
         "value": "ORGANIZATION"
+      },
+      {
+        "text": "X J 22 0",
+        "value": "PRODUCT"
       }
     ]
   },
   {
-    "text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "text": "Go n caused strong g us y winds and to r n rainfall along Pakistan ' s Arabian Sea coast from Karachi to G wa da .",
     "gold": [
       {
-        "text": "Gonu",
+        "text": "Go n",
         "value": "EVENT"
       },
       {
-        "text": "Pakistan 's Arabian Sea coast",
+        "text": "Pakistan ' s Arabian Sea coast",
         "value": "LOCATION"
       },
       {
@@ -594,17 +613,17 @@
         "value": "LOCATION"
       },
       {
-        "text": "Gwadar",
+        "text": "G wa da",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Gonu",
-        "value": "PERSON"
+        "text": "Pakistan",
+        "value": "LOCATION"
       },
       {
-        "text": "Pakistan 's Arabian Sea",
+        "text": "Arabian Sea",
         "value": "LOCATION"
       },
       {
@@ -612,24 +631,24 @@
         "value": "LOCATION"
       },
       {
-        "text": "Gwadar",
+        "text": "G wa da",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "I, Max was a sports commentary show featuring host Max Kellerman and Michael Holley that aired nightly on Fox Sports Net.",
+    "text": "I , Max was a sports commentary show featuring host Max Keller man and Michael Ho ll y that aired night l on Fox Sports Net .",
     "gold": [
       {
         "text": "I , Max",
         "value": "ART"
       },
       {
-        "text": "Max Kellerman",
+        "text": "Max Keller man",
         "value": "PERSON"
       },
       {
-        "text": "Michael Holley",
+        "text": "Michael Ho ll y",
         "value": "PERSON"
       },
       {
@@ -643,11 +662,11 @@
         "value": "ART"
       },
       {
-        "text": "Max Kellerman",
+        "text": "Max Keller",
         "value": "PERSON"
       },
       {
-        "text": "Michael Holley",
+        "text": "Michael Ho ll",
         "value": "PERSON"
       },
       {
@@ -657,14 +676,14 @@
     ]
   },
   {
-    "text": "The name ``Ganapatishvara``, which also gives the town its alternate name ``Ganapatishvaram``, denotes Shiva as ``Lord of Ganesha`` and alludes to the legend that Ganesha killed a demon and then worshipped his father Shiva here.",
+    "text": "The name ` ` G an p t h var a ` ` , which also gives the town its alternate name ` ` G an p t h var am ` ` , denotes Shiva as ` ` Lord of G an s ` ` and all u to the legend that G an s killed a demon and then worshipped his father Shiva here .",
     "gold": [
       {
-        "text": "Ganapatishvara",
+        "text": "G an p t h var a",
         "value": "OTHER"
       },
       {
-        "text": "Ganapatishvaram",
+        "text": "G an p t h var am",
         "value": "OTHER"
       },
       {
@@ -672,11 +691,11 @@
         "value": "OTHER"
       },
       {
-        "text": "Lord of Ganesha",
+        "text": "Lord of G an s",
         "value": "OTHER"
       },
       {
-        "text": "Ganesha",
+        "text": "G an s",
         "value": "OTHER"
       },
       {
@@ -686,23 +705,23 @@
     ],
     "prediction": [
       {
-        "text": "Ganapatishvara",
-        "value": "OTHER"
+        "text": "G an p t h var a",
+        "value": "LOCATION"
       },
       {
-        "text": "Ganapatishvaram",
-        "value": "OTHER"
+        "text": "G an p t h var am",
+        "value": "LOCATION"
       },
       {
         "text": "Shiva",
         "value": "OTHER"
       },
       {
-        "text": "Lord of Ganesha",
+        "text": "G an s",
         "value": "OTHER"
       },
       {
-        "text": "Ganesha",
+        "text": "G an s",
         "value": "OTHER"
       },
       {
@@ -712,31 +731,31 @@
     ]
   },
   {
-    "text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this obstacle to political change.",
+    "text": "However , in 1861 the prospect of se c by southern states after the 1860 presidential election removed this obstacle to political change .",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "The album featured remixes of ``Like It or Not`` and ``Tearing Me Up`` from artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "text": "The album featured remixes of ` ` Like It or Not ` ` and ` ` Tea ring Me Up ` ` from artists like A - T r , RA C , Jo r V o n , and Tale of Us .",
     "gold": [
       {
         "text": "Like It or Not",
         "value": "ART"
       },
       {
-        "text": "Tearing Me Up",
+        "text": "Tea ring Me Up",
         "value": "ART"
       },
       {
-        "text": "A-Trak",
+        "text": "A - T r",
         "value": "PERSON"
       },
       {
-        "text": "RAC",
+        "text": "RA C",
         "value": "PERSON"
       },
       {
-        "text": "Joris Voorn",
+        "text": "Jo r V o n",
         "value": "PERSON"
       },
       {
@@ -750,19 +769,19 @@
         "value": "ART"
       },
       {
-        "text": "Tearing Me Up",
+        "text": "Tea ring Me Up",
         "value": "ART"
       },
       {
-        "text": "A-Trak",
+        "text": "A - T r",
         "value": "PERSON"
       },
       {
-        "text": "RAC",
+        "text": "RA C",
         "value": "PERSON"
       },
       {
-        "text": "Joris Voorn",
+        "text": "Jo r V o n",
         "value": "PERSON"
       },
       {
@@ -772,7 +791,7 @@
     ]
   },
   {
-    "text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada .",
     "gold": [
       {
         "text": "England",
@@ -807,25 +826,25 @@
     ]
   },
   {
-    "text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "text": "The C ni da i are a group of animals found exclusively in aquatic and mostly marine environments .",
     "gold": [
       {
-        "text": "Cnidaria",
+        "text": "C ni da i",
         "value": "OTHER"
       }
     ],
     "prediction": [
       {
-        "text": "Cnidaria",
+        "text": "C ni da i",
         "value": "OTHER"
       }
     ]
   },
   {
-    "text": "The Papacy in central Italy maintained major cultural and political influence during the Catholic Reformation initiated by the conclusion of the Tridentine council (resumed by the terms of the treaty).",
+    "text": "The Papa c in central Italy maintained major cultural and political influence during the Catholic Reformation initiated by the conclusion of the Tri den in council ( resumed by the terms of the treaty ) .",
     "gold": [
       {
-        "text": "Papacy",
+        "text": "Papa c",
         "value": "EVENT"
       },
       {
@@ -833,11 +852,15 @@
         "value": "ORGANIZATION"
       },
       {
-        "text": "Tridentine council",
+        "text": "Tri den in council",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
+      {
+        "text": "Papa",
+        "value": "LOCATION"
+      },
       {
         "text": "Italy",
         "value": "LOCATION"
@@ -845,108 +868,96 @@
       {
         "text": "Catholic Reformation",
         "value": "EVENT"
-      },
-      {
-        "text": "Tridentine council",
-        "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "Mediaite named her in a four-way tie among the ``Best TV Pundits`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "text": "Media it named her in a four - way tie among the ` ` Best TV P und its ` ` of 2014 for bringing ` ` a comprehensive understanding to women ' s health and justice issues that goes beyond the usual talking points . ' '",
     "gold": [
       {
-        "text": "Mediaite",
+        "text": "Media it",
         "value": "PERSON"
       },
       {
-        "text": "Best TV Pundits",
+        "text": "Best TV P und its",
         "value": "OTHER"
       }
     ],
     "prediction": [
       {
-        "text": "Mediaite",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Best TV Pundits",
+        "text": "Best TV P und its",
         "value": "OTHER"
       }
     ]
   },
   {
-    "text": "It won the jury award for best feature Film at the TriMedia Film Festival in 2010.",
+    "text": "It won the jury award for best feature Film at the Tri M ed Film Festival in 2010 .",
     "gold": [
       {
         "text": "jury award for best feature Film",
         "value": "OTHER"
       },
       {
-        "text": "TriMedia Film Festival",
+        "text": "Tri M ed Film Festival",
         "value": "EVENT"
       }
     ],
     "prediction": [
       {
-        "text": "jury award",
-        "value": "OTHER"
-      },
-      {
-        "text": "TriMedia Film Festival",
+        "text": "Tri M ed Film Festival",
         "value": "EVENT"
       }
     ]
   },
   {
-    "text": "The 117-bed facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "text": "The 117 - bed facility entirely comprised individual rooms , each with its own en - suite bathroom facilities .",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "In some cases, black community groups resisted the attacks, especially in Chicago and Washington, D.C.",
+    "text": "In some cases , black community groups resisted the attacks , especially in Chicago and Washington , D . C .",
     "gold": [
       {
         "text": "Chicago",
         "value": "LOCATION"
       },
       {
-        "text": "Washington , D.C",
+        "text": "Washington , D . C",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "black community groups",
-        "value": "ORGANIZATION"
-      },
-      {
         "text": "Chicago",
         "value": "LOCATION"
       },
       {
-        "text": "Washington",
+        "text": "Washington , D",
+        "value": "LOCATION"
+      },
+      {
+        "text": "C",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "text": "The Ninth suffered a serious defeat at the Battle of Cam ul du n under Q u t Pet ill i Ce r is in the rebellion of Bo u ca ( 61 ) , when most of the foot - soldiers were killed in a disastrous attempt to relieve the besieged city of Cam ul du n ( Colchester ) .",
     "gold": [
       {
-        "text": "Camulodunum",
-        "value": "EVENT"
+        "text": "Cam ul du n",
+        "value": "LOCATION"
       },
       {
-        "text": "Quintus Petillius Cerialis",
+        "text": "Q u t Pet ill i Ce r is",
         "value": "PERSON"
       },
       {
-        "text": "Boudica",
+        "text": "Bo u ca",
         "value": "EVENT"
       },
       {
-        "text": "Camulodunum",
+        "text": "Cam ul du n",
         "value": "LOCATION"
       },
       {
@@ -956,19 +967,19 @@
     ],
     "prediction": [
       {
-        "text": "Battle of Camulodunum",
+        "text": "Battle of Cam ul du n",
         "value": "EVENT"
       },
       {
-        "text": "Quintus Petillius Cerialis",
+        "text": "Q u t Pet",
         "value": "PERSON"
       },
       {
-        "text": "rebellion of Boudica",
+        "text": "Bo u",
         "value": "EVENT"
       },
       {
-        "text": "Camulodunum",
+        "text": "Cam ul du n",
         "value": "LOCATION"
       },
       {
@@ -978,20 +989,24 @@
     ]
   },
   {
-    "text": "Moreover, Santa is actually innocent of the crime, which was instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "text": "Moreover , Santa is actually innocent of the crime , which was instead master mind ed by s ch min relative Co us in Mel , who is mentioned briefly in the song but made into a gold - digging villain ne in the special .",
     "gold": [
       {
         "text": "Santa",
         "value": "PERSON"
       },
       {
-        "text": "Cousin Mel",
+        "text": "Co us in Mel",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
         "text": "Santa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Co us",
         "value": "PERSON"
       },
       {
@@ -1001,10 +1016,10 @@
     ]
   },
   {
-    "text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "text": "According to St e ' n Shake archives , the restaurant ' s founder , Gus Belt , applied for a trademark on the word in the 1930s .",
     "gold": [
       {
-        "text": "Steak ' n Shake",
+        "text": "St e ' n Shake",
         "value": "ART"
       },
       {
@@ -1014,8 +1029,12 @@
     ],
     "prediction": [
       {
-        "text": "Steak ' n Shake",
+        "text": "St",
         "value": "BUILDING"
+      },
+      {
+        "text": "e ' n Shake",
+        "value": "ORGANIZATION"
       },
       {
         "text": "Gus Belt",
@@ -1024,18 +1043,18 @@
     ]
   },
   {
-    "text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "text": "Royal Malaysia Police Air Operations Force or ` ` Pa su ka G era ka U da a ( P G U ) ' ' is a special aviation unit of Royal Malaysia Police .",
     "gold": [
       {
         "text": "Royal Malaysia Police Air Operations Force",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Pasukan Gerakan Udara",
+        "text": "Pa su ka G era ka U da a",
         "value": "ORGANIZATION"
       },
       {
-        "text": "PGU",
+        "text": "P G U",
         "value": "ORGANIZATION"
       },
       {
@@ -1049,11 +1068,15 @@
         "value": "ORGANIZATION"
       },
       {
-        "text": "Pasukan Gerakan Udara",
+        "text": "Pa su ka",
         "value": "ORGANIZATION"
       },
       {
-        "text": "PGU",
+        "text": "era ka",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P G",
         "value": "ORGANIZATION"
       },
       {
@@ -1063,7 +1086,7 @@
     ]
   },
   {
-    "text": "It was founded as a spin-off of Murphy Oil in 2013.",
+    "text": "It was founded as a spin - off of Murphy Oil in 2013 .",
     "gold": [
       {
         "text": "Murphy Oil",
@@ -1078,80 +1101,84 @@
     ]
   },
   {
-    "text": "The founder of K\u014deido (the purveyors of Kibi dango) authored a travel guide in 1895, in which he claimed that Kibitsuhiko rolled with his own hand some kibi dango to give to Emperor Jimmu who stopped at Takayama Palace in Okayama.",
+    "text": "The founder of K \u014d e do ( the pu r yo r of Ki bi da ng ) authored a travel guide in 1895 , in which he claimed that Ki bit su hi rolled with his own hand some k i da ng to give to Emperor Jim m who stopped at Ta ka ma Palace in Okay am .",
     "gold": [
       {
-        "text": "K\u014deido",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Kibi dango",
+        "text": "Ki bi da ng",
         "value": "PRODUCT"
       },
       {
-        "text": "Kibitsuhiko",
+        "text": "Ki bit su hi",
         "value": "ORGANIZATION"
       },
       {
-        "text": "kibi dango",
+        "text": "k i da ng",
         "value": "PRODUCT"
       },
       {
-        "text": "Jimmu",
+        "text": "Jim m",
         "value": "PERSON"
       },
       {
-        "text": "Takayama Palace",
+        "text": "Ta ka ma Palace",
         "value": "BUILDING"
       },
       {
-        "text": "Okayama",
+        "text": "Okay am",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "K\u014deido",
-        "value": "PRODUCT"
+        "text": "\u014d e do",
+        "value": "ORGANIZATION"
       },
       {
-        "text": "Jimmu",
+        "text": "Ki bi da",
         "value": "PERSON"
       },
       {
-        "text": "Takayama Palace",
+        "text": "Ki",
+        "value": "PERSON"
+      },
+      {
+        "text": "hi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jim m",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ta ka ma Palace",
         "value": "BUILDING"
       },
       {
-        "text": "Okayama",
+        "text": "Okay am",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "text": "The final season of minor league play El kin Memorial Park saw season attendance of 16 , 322 , an average of 29 9 per contest .",
     "gold": [
       {
-        "text": "Elkin Memorial Park",
+        "text": "El kin Memorial Park",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Elkin Memorial Park",
+        "text": "El kin Memorial Park",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "He has also performed and worked with many other Scandinavian artists such as Bj\u00f8rn Eidsv\u00e5g, Silje Nergaard, Oslo Gospel Choir, Espen Lind, Elizabeth Norberg-Schulz and Carola H\u00e4ggkvist.",
+    "text": "He has also performed and worked with many other Scandinavian artists such as B j \u00f8 r E id v \u00e5 g , Si l j N er g , Oslo Gospel Choir , E s en Lin d , Elizabeth Nor be - Sc h z and Carol a H \u00e4 g k v .",
     "gold": [
       {
-        "text": "Bj\u00f8rn Eidsv\u00e5g",
-        "value": "PERSON"
-      },
-      {
-        "text": "Silje Nergaard",
+        "text": "Si l j N er g",
         "value": "PERSON"
       },
       {
@@ -1159,15 +1186,11 @@
         "value": "PERSON"
       },
       {
-        "text": "Espen Lind",
+        "text": "E s en Lin d",
         "value": "PERSON"
       },
       {
-        "text": "Elizabeth Norberg-Schulz",
-        "value": "PERSON"
-      },
-      {
-        "text": "Carola H\u00e4ggkvist",
+        "text": "Elizabeth Nor be - Sc h z",
         "value": "PERSON"
       }
     ],
@@ -1177,11 +1200,11 @@
         "value": "LOCATION"
       },
       {
-        "text": "Bj\u00f8rn Eidsv\u00e5g",
+        "text": "B j \u00f8 r E id v \u00e5 g",
         "value": "PERSON"
       },
       {
-        "text": "Silje Nergaard",
+        "text": "Si l j N er g",
         "value": "PERSON"
       },
       {
@@ -1189,21 +1212,21 @@
         "value": "PERSON"
       },
       {
-        "text": "Espen Lind",
+        "text": "E s en Lin d",
         "value": "PERSON"
       },
       {
-        "text": "Elizabeth Norberg-Schulz",
+        "text": "Elizabeth Nor be - Sc h z",
         "value": "PERSON"
       },
       {
-        "text": "Carola H\u00e4ggkvist",
+        "text": "Carol a H \u00e4 g k v",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "text": "Dublin is also served by Weston Airport and other small facilities , by a range of helicopter operators , and the military and some State services use Case men Aero d nearby .",
     "gold": [
       {
         "text": "Dublin",
@@ -1214,7 +1237,7 @@
         "value": "BUILDING"
       },
       {
-        "text": "Casement Aerodrome",
+        "text": "Case men Aero d",
         "value": "BUILDING"
       }
     ],
@@ -1228,13 +1251,13 @@
         "value": "BUILDING"
       },
       {
-        "text": "Casement Aerodrome",
+        "text": "men Aero",
         "value": "BUILDING"
       }
     ]
   },
   {
-    "text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "text": "Lo ya is recruited from Queens County , New York by Lieutenant Colonel Richard He w et for the 3rd battalion De L an y ' s Brigade had established a fortified position in early August on the central north shore of Long Island at Set au k , just across Long Island Sound from Fairfield .",
     "gold": [
       {
         "text": "Queens County",
@@ -1245,11 +1268,11 @@
         "value": "LOCATION"
       },
       {
-        "text": "Richard Hewlett",
+        "text": "Richard He w et",
         "value": "PERSON"
       },
       {
-        "text": "DeLancey 's Brigade",
+        "text": "De L an y ' s Brigade",
         "value": "ORGANIZATION"
       },
       {
@@ -1257,7 +1280,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Setauket",
+        "text": "Set au k",
         "value": "LOCATION"
       },
       {
@@ -1279,11 +1302,11 @@
         "value": "LOCATION"
       },
       {
-        "text": "Richard Hewlett",
+        "text": "Richard He",
         "value": "PERSON"
       },
       {
-        "text": "3rd battalion DeLancey 's Brigade",
+        "text": "De L an y ' s Brigade",
         "value": "ORGANIZATION"
       },
       {
@@ -1291,7 +1314,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Setauket",
+        "text": "Set au k",
         "value": "LOCATION"
       },
       {
@@ -1305,14 +1328,14 @@
     ]
   },
   {
-    "text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "text": "Argentina ' s Del I ma g a Disco s also released the album in 2007 .",
     "gold": [
       {
         "text": "Argentina",
         "value": "LOCATION"
       },
       {
-        "text": "Del Imaginario Discos",
+        "text": "Del I ma g a Disco s",
         "value": "ORGANIZATION"
       }
     ],
@@ -1322,41 +1345,41 @@
         "value": "LOCATION"
       },
       {
-        "text": "Del Imaginario Discos",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "It is operated by the Nhulunbuy Corporation.",
-    "gold": [
-      {
-        "text": "Nhulunbuy Corporation",
-        "value": "ORGANIZATION"
-      }
-    ],
-    "prediction": [
-      {
-        "text": "Nhulunbuy Corporation",
-        "value": "ORGANIZATION"
-      }
-    ]
-  },
-  {
-    "text": "Tyrosine phosphorylation is the addition of a phosphate (PO43\u2212) group to the amino acid tyrosine on a protein.",
-    "gold": [
-      {
-        "text": "PO43\u2212",
-        "value": "OTHER"
+        "text": "Del I ma g a",
+        "value": "ART"
       },
       {
-        "text": "amino acid tyrosine",
+        "text": "Disco",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "It is operated by the N h un b y Corporation .",
+    "gold": [
+      {
+        "text": "N h un b y Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "N h un b y Corporation",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Ty r in p ho p or la is the addition of a phosphate ( P O 43 \u2212 ) group to the amino acid t y o in on a protein .",
+    "gold": [
+      {
+        "text": "amino acid t y o in",
         "value": "OTHER"
       }
     ],
     "prediction": [
       {
-        "text": "Tyrosine",
+        "text": "Ty r in p ho p or la",
         "value": "OTHER"
       },
       {
@@ -1364,13 +1387,17 @@
         "value": "OTHER"
       },
       {
-        "text": "PO43\u2212",
+        "text": "P O 43 \u2212",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid t y o in",
         "value": "OTHER"
       }
     ]
   },
   {
-    "text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U ' s first release year .",
     "gold": [
       {
         "text": "Nintendo",
@@ -1417,32 +1444,32 @@
     ]
   },
   {
-    "text": "The ability to sustain a lucrative business in bootlegging liquor was largely helped by the minimal police surveillance at the time.",
+    "text": "The ability to sustain a lucrative business in boot leg g liquor was largely helped by the minimal police surveillance at the time .",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "Both versions of the band continued touring and recording new music concurrently.",
+    "text": "Both versions of the band continued touring and recording new music concurrently .",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "Another part of the RNA binds to the X-chromosome positioning PRC2 such that it can methylate various regions on the X-chromosome.",
+    "text": "Another part of the RNA binds to the X - chromosome positioning PR C 2 such that it can met h ate various regions on the X - chromosome .",
     "gold": [
       {
         "text": "RNA",
         "value": "OTHER"
       },
       {
-        "text": "X-chromosome",
+        "text": "X - chromosome",
         "value": "OTHER"
       },
       {
-        "text": "PRC2",
+        "text": "PR C 2",
         "value": "OTHER"
       },
       {
-        "text": "X-chromosome",
+        "text": "X - chromosome",
         "value": "OTHER"
       }
     ],
@@ -1452,56 +1479,60 @@
         "value": "OTHER"
       },
       {
-        "text": "X-chromosome",
+        "text": "X - chromosome",
         "value": "OTHER"
       },
       {
-        "text": "PRC2",
+        "text": "PR C 2",
         "value": "OTHER"
       },
       {
-        "text": "X-chromosome",
+        "text": "h",
+        "value": "OTHER"
+      },
+      {
+        "text": "X - chromosome",
         "value": "OTHER"
       }
     ]
   },
   {
-    "text": "Bitter Sweet & amp ; Twisted is rock band The Quireboys's second studio album, released in 1993.",
+    "text": "Bit te Sweet & am p ; T w s is rock band The Q u re boy s ' s second studio album , released in 1993 .",
     "gold": [
       {
-        "text": "Bitter Sweet & amp",
+        "text": "Bit te Sweet & am p",
         "value": "ART"
       },
       {
-        "text": "Twisted",
+        "text": "T w s",
         "value": "ART"
       },
       {
-        "text": "The Quireboys",
+        "text": "The Q u re boy s",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "Bitter Sweet & amp ; Twisted",
+        "text": "Bit te Sweet & am p ; T w s",
         "value": "ART"
       },
       {
-        "text": "Quireboys",
+        "text": "The Q u re boy",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "The festival is dedicated to world television and digital content and its creation and development.",
+    "text": "The festival is dedicated to world television and digital content and its creation and development .",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "text": "Early communities began to appear at the beginning of the 19th century , including Lynch b , Harrisburg , and Right or ' s Point ( modern Morgan ' s Point ) in the 1820 s .",
     "gold": [
       {
-        "text": "Lynchburg",
+        "text": "Lynch b",
         "value": "LOCATION"
       },
       {
@@ -1509,17 +1540,17 @@
         "value": "LOCATION"
       },
       {
-        "text": "Rightor 's Point",
+        "text": "Right or ' s Point",
         "value": "LOCATION"
       },
       {
-        "text": "Morgan 's Point",
+        "text": "Morgan ' s Point",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Lynchburg",
+        "text": "Lynch b",
         "value": "LOCATION"
       },
       {
@@ -1527,20 +1558,20 @@
         "value": "LOCATION"
       },
       {
-        "text": "Rightor 's Point",
+        "text": "Right or ' s Point",
         "value": "LOCATION"
       },
       {
-        "text": "Morgan 's Point",
+        "text": "Morgan ' s Point",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "It was produced by Richard D.Zanuck and David Brown.",
+    "text": "It was produced by Richard D . Z an c and David Brown .",
     "gold": [
       {
-        "text": "Richard D.Zanuck",
+        "text": "Richard D . Z an c",
         "value": "PERSON"
       },
       {
@@ -1550,7 +1581,7 @@
     ],
     "prediction": [
       {
-        "text": "Richard D.Zanuck",
+        "text": "Richard D . Z an c",
         "value": "PERSON"
       },
       {
@@ -1560,58 +1591,49 @@
     ]
   },
   {
-    "text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "text": "US P 42 has also been shown to de u q tin te p 53 and may be required for the ability of p 53 to respond to stress .",
     "gold": [
       {
-        "text": "USP42",
+        "text": "US P 42",
         "value": "OTHER"
       },
       {
-        "text": "p53",
+        "text": "p 53",
         "value": "OTHER"
       },
       {
-        "text": "p53",
+        "text": "p 53",
         "value": "OTHER"
       }
     ],
     "prediction": [
       {
-        "text": "USP42",
+        "text": "US P 42",
         "value": "OTHER"
       },
       {
-        "text": "p53",
-        "value": "OTHER"
-      },
-      {
-        "text": "p53",
+        "text": "p 53",
         "value": "OTHER"
       }
     ]
   },
   {
-    "text": "Many of the men were separated from their families and sent into the B.C.",
+    "text": "Many of the men were separated from their families and sent into the B . C .",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "She has since worked with homeless patients and holds the position of Management Consultant fo r MedAmerica.",
+    "text": "She has since worked with homeless patients and holds the position of Management Consul tan f o r Me d A me i .",
     "gold": [
       {
-        "text": "r MedAmerica",
+        "text": "r Me d A me i",
         "value": "ORGANIZATION"
       }
     ],
-    "prediction": [
-      {
-        "text": "r MedAmerica",
-        "value": "ORGANIZATION"
-      }
-    ]
+    "prediction": []
   },
   {
-    "text": "Liz Weir won the inaugural International Story Bridge Award of the National Storytelling Network in 2002.",
+    "text": "Liz Weir won the inaugural International Story Bridge Award of the National Story te l Network in 2002 .",
     "gold": [
       {
         "text": "Liz Weir",
@@ -1622,7 +1644,7 @@
         "value": "OTHER"
       },
       {
-        "text": "National Storytelling Network",
+        "text": "National Story te l Network",
         "value": "EVENT"
       }
     ],
@@ -1636,16 +1658,16 @@
         "value": "OTHER"
       },
       {
-        "text": "National Storytelling Network",
+        "text": "National Story te l Network",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "Elin Hilderbrand is an American writer mostly of romance novels.",
+    "text": "Eli n Hi l brand is an American writer mostly of romance novels .",
     "gold": [
       {
-        "text": "Elin Hilderbrand",
+        "text": "Eli n Hi l brand",
         "value": "PERSON"
       },
       {
@@ -1655,7 +1677,15 @@
     ],
     "prediction": [
       {
-        "text": "Elin Hilderbrand",
+        "text": "Eli n",
+        "value": "PERSON"
+      },
+      {
+        "text": "Hi",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "l",
         "value": "PERSON"
       },
       {
@@ -1665,10 +1695,10 @@
     ]
   },
   {
-    "text": "For the 2019 Frieze Art Fair in London, Agostinelli staged his fourth intervention by depositing a 1 tonne block of translucent ice pulled by a Tesla to the entrance of the fair on opening day.",
+    "text": "For the 2019 Fr i z Art Fair in London , A go tin ll staged his fourth intervention by deposit ing a 1 ton ne block of translucent ice pulled by a Te s to the entrance of the fair on opening day .",
     "gold": [
       {
-        "text": "Frieze Art Fair",
+        "text": "Fr i z Art Fair",
         "value": "EVENT"
       },
       {
@@ -1676,17 +1706,17 @@
         "value": "LOCATION"
       },
       {
-        "text": "Agostinelli",
+        "text": "A go tin ll",
         "value": "PERSON"
       },
       {
-        "text": "Tesla",
+        "text": "Te s",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "Frieze Art Fair",
+        "text": "Fr i z Art Fair",
         "value": "EVENT"
       },
       {
@@ -1694,87 +1724,74 @@
         "value": "LOCATION"
       },
       {
-        "text": "Agostinelli",
-        "value": "PERSON"
-      },
-      {
-        "text": "Tesla",
+        "text": "A go tin ll",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "almost over 75 members of parliament join the alliance.",
+    "text": "almost over 75 members of parliament join the alliance .",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "Even though these matrimonial ties existed between the Ula and Nurhaci, a war broke out in 1607 between Nurhaci and the Ula in which the latter were defeated with the loss of some towns.",
+    "text": "Even though these mat rim on l ties existed between the U la and N u ha c , a war broke out in 160 7 between N u ha c and the U la in which the latter were defeated with the loss of some towns .",
     "gold": [
       {
-        "text": "Ula",
+        "text": "U la",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Nurhaci",
+        "text": "N u ha c",
         "value": "PERSON"
       },
       {
-        "text": "Nurhaci",
+        "text": "N u ha c",
         "value": "PERSON"
       },
       {
-        "text": "Ula",
+        "text": "U la",
         "value": "ORGANIZATION"
       }
     ],
-    "prediction": [
-      {
-        "text": "Ula",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Nurhaci",
-        "value": "LOCATION"
-      },
-      {
-        "text": "Nurhaci",
-        "value": "PERSON"
-      },
-      {
-        "text": "Ula",
-        "value": "LOCATION"
-      }
-    ]
+    "prediction": []
   },
   {
-    "text": "Most of the town is actually a gated community called Orchid Island Golf and Beach Club.",
+    "text": "Most of the town is actually a gate d community called Or ch d Island Golf and Beach Club .",
     "gold": [
       {
-        "text": "Orchid Island Golf and Beach Club",
+        "text": "Or ch d Island Golf and Beach Club",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Orchid Island Golf and Beach Club",
+        "text": "Or ch d Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Golf and Beach",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Club",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "Midway through the season, they traded Stacey King to the Minnesota Timberwolves for Luc Longley.",
+    "text": "Midway through the season , they traded Stacey King to the Minnesota Tim be w l for Luc Long le .",
     "gold": [
       {
         "text": "Stacey King",
         "value": "PERSON"
       },
       {
-        "text": "Minnesota Timberwolves",
+        "text": "Minnesota Tim be w l",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Luc Longley",
+        "text": "Luc Long le",
         "value": "PERSON"
       }
     ],
@@ -1784,20 +1801,28 @@
         "value": "PERSON"
       },
       {
-        "text": "Minnesota Timberwolves",
+        "text": "Minnesota",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Luc Longley",
+        "text": "Tim",
+        "value": "PERSON"
+      },
+      {
+        "text": "w",
+        "value": "PERSON"
+      },
+      {
+        "text": "Luc Long le",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "DMUs in Taiwan are classified as Class DR.",
+    "text": "D M s in Taiwan are classified as Class DR .",
     "gold": [
       {
-        "text": "DMUs",
+        "text": "D M s",
         "value": "PRODUCT"
       },
       {
@@ -1807,32 +1832,44 @@
     ],
     "prediction": [
       {
+        "text": "M",
+        "value": "PRODUCT"
+      },
+      {
         "text": "Taiwan",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "text": "The B - 52 pilot , Major Larry G . Me s er , later recalled ,",
     "gold": [
       {
-        "text": "B-52",
+        "text": "B - 52",
         "value": "PRODUCT"
       },
       {
-        "text": "Larry G.Messinger",
+        "text": "Larry G . Me s er",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "B-52",
+        "text": "B - 52",
         "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Me s",
+        "value": "PERSON"
       }
     ]
   },
   {
-    "text": "In particular, Reform Jews may be lampooned for their rejection of traditional Jewish beliefs.",
+    "text": "In particular , Reform Jews may be lamp o ed for their rejection of traditional Jewish beliefs .",
     "gold": [
       {
         "text": "Jews",
@@ -1845,192 +1882,196 @@
     ],
     "prediction": [
       {
+        "text": "Reform Jews",
+        "value": "ORGANIZATION"
+      },
+      {
         "text": "Jewish",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "text": "All is i Pi n f of ` ` Des t o ` ` , praised the game , saying the controls were as good as that of ` ` Super Metro id ` ` and ` ` Super Castle van a IV . ' '",
     "gold": [
       {
-        "text": "Allistair Pinsof",
+        "text": "All is i Pi n f",
         "value": "PERSON"
       },
       {
-        "text": "Destructoid",
+        "text": "Des t o",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Super Metroid",
+        "text": "Super Metro id",
         "value": "PRODUCT"
       },
       {
-        "text": "Super Castlevania IV",
+        "text": "Super Castle van a IV",
         "value": "PRODUCT"
       }
     ],
     "prediction": [
       {
-        "text": "Allistair Pinsof",
-        "value": "PERSON"
+        "text": "is",
+        "value": "ORGANIZATION"
       },
       {
-        "text": "Destructoid",
+        "text": "Pi n",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Des t o",
         "value": "PRODUCT"
       },
       {
-        "text": "Super Metroid",
+        "text": "Super Metro id",
         "value": "PRODUCT"
       },
       {
-        "text": "Super Castlevania IV",
+        "text": "Super Castle van a IV",
         "value": "PRODUCT"
       }
     ]
   },
   {
-    "text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "text": "His pupil V ad e has im ha wrote in prose ` ` Gay a n man ` ` and ` ` K s t ch dam in ` ` based on poet Ban as ` ` Ka dam bar ` ` and minister Cha v n ray a wrote ` ` Cha r r a ` ` .",
     "gold": [
       {
-        "text": "Vadeebhasimha",
+        "text": "V ad e has im ha",
         "value": "PERSON"
       },
       {
-        "text": "Gayachintamani",
+        "text": "Gay a n man",
         "value": "ART"
       },
       {
-        "text": "Kshatrachudamini",
+        "text": "K s t ch dam in",
         "value": "ART"
       },
       {
-        "text": "Banas",
+        "text": "Ban as",
         "value": "PERSON"
       },
       {
-        "text": "Kadambari",
+        "text": "Ka dam bar",
         "value": "ART"
       },
       {
-        "text": "Chavundaraya",
+        "text": "Cha v n ray a",
         "value": "PERSON"
       },
       {
-        "text": "Charitarasara",
+        "text": "Cha r r a",
         "value": "ART"
       }
     ],
     "prediction": [
       {
-        "text": "Vadeebhasimha",
+        "text": "V ad e has im ha",
         "value": "PERSON"
       },
       {
-        "text": "Gayachintamani",
+        "text": "Gay a n man",
         "value": "ART"
       },
       {
-        "text": "Kshatrachudamini",
+        "text": "K s t ch dam in",
         "value": "ART"
       },
       {
-        "text": "Banas",
+        "text": "Ban",
         "value": "PERSON"
       },
       {
-        "text": "Kadambari",
+        "text": "Ka dam bar",
         "value": "ART"
       },
       {
-        "text": "Chavundaraya",
+        "text": "Cha v n ray a",
         "value": "PERSON"
       },
       {
-        "text": "Charitarasara",
+        "text": "Cha r r a",
         "value": "ART"
       }
     ]
   },
   {
-    "text": "He also appeared in and Raj Kanwar's action hit ``Jeet``.",
+    "text": "He also appeared in and Raj Ka n war ' s action hit ` ` Je et ` ` .",
     "gold": [
       {
-        "text": "Raj Kanwar",
+        "text": "Raj Ka n war",
         "value": "PERSON"
       },
       {
-        "text": "Jeet",
+        "text": "Je et",
         "value": "ART"
       }
     ],
     "prediction": [
       {
-        "text": "and",
+        "text": "Raj",
         "value": "PERSON"
       },
       {
-        "text": "Raj Kanwar",
-        "value": "PERSON"
+        "text": "Ka",
+        "value": "ORGANIZATION"
       },
       {
-        "text": "Jeet",
+        "text": "Je et",
         "value": "ART"
       }
     ]
   },
   {
-    "text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "text": "He went on to produce Kim F o le and the B M Band its ( band ) Re c r Records ' album ` ` Hidden Age n At the Thirteen th Not ` ` .",
     "gold": [
       {
-        "text": "Kim Fowley",
+        "text": "Kim F o le",
         "value": "PERSON"
       },
       {
-        "text": "BMX Bandits",
+        "text": "B M Band its",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Receiver Records",
+        "text": "Re c r Records",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Hidden Agenda At the Thirteenth Not",
+        "text": "Hidden Age n At the Thirteen th Not",
         "value": "ART"
       }
     ],
     "prediction": [
       {
-        "text": "Kim Fowley",
+        "text": "Kim F o le",
         "value": "PERSON"
       },
       {
-        "text": "BMX Bandits",
+        "text": "B M Band",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Receiver Records",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Hidden Agenda At the Thirteenth Not",
+        "text": "Hidden Age n At the Thirteen th Not",
         "value": "ART"
       }
     ]
   },
   {
-    "text": "It was previously used by Route 410 to Rehovot, and was known as the Jumping Bridge due to a bump in the middle of the bridge which caused cars to jump if speeding.",
+    "text": "It was previously used by Route 410 to Re ho o , and was known as the Jump ing Bridge due to a bump in the middle of the bridge which caused cars to jump if speeding .",
     "gold": [
       {
         "text": "Route 410",
         "value": "LOCATION"
       },
       {
-        "text": "Rehovot",
+        "text": "Re ho o",
         "value": "LOCATION"
       },
       {
-        "text": "Jumping Bridge",
+        "text": "Jump ing Bridge",
         "value": "BUILDING"
       }
     ],
@@ -2040,18 +2081,22 @@
         "value": "LOCATION"
       },
       {
-        "text": "Rehovot",
+        "text": "Re ho o",
         "value": "LOCATION"
+      },
+      {
+        "text": "Jump ing Bridge",
+        "value": "BUILDING"
       }
     ]
   },
   {
-    "text": "Construction was modular so that some of the gold could be removed and melted for coin or bullion in times of severe financial hardship, to be replaced later when finances had recovered.",
+    "text": "Construction was modular so that some of the gold could be removed and melted for coin or bull ion in times of severe financial hard ship , to be replaced later when finances had recovered .",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "text": "Her brother ran unsuccessfully for the United States House of Representatives from ups ta New York , in 1992 and 1994 .",
     "gold": [
       {
         "text": "United States House of Representatives",
@@ -2074,10 +2119,10 @@
     ]
   },
   {
-    "text": "It has been used to treat hypertension and cardiac failure, and to treat pre-eclampsia during pregnancy.",
+    "text": "It has been used to treat h y tens ion and cardiac failure , and to treat pre - e c lamp si during pregnancy .",
     "gold": [
       {
-        "text": "hypertension",
+        "text": "h y tens ion",
         "value": "OTHER"
       },
       {
@@ -2085,57 +2130,68 @@
         "value": "OTHER"
       },
       {
-        "text": "pre-eclampsia",
+        "text": "pre - e c lamp si",
         "value": "OTHER"
       }
     ],
     "prediction": [
       {
-        "text": "pre-eclampsia",
+        "text": "h y tens ion",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure",
+        "value": "OTHER"
+      },
+      {
+        "text": "pre - e c lamp si",
         "value": "OTHER"
       }
     ]
   },
   {
-    "text": "She has also written fiction and her work has gained awards.",
+    "text": "She has also written fiction and her work has gained awards .",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "The same effects have also been seen in short pubertal boys.",
+    "text": "The same effects have also been seen in short pub er al boys .",
     "gold": [],
     "prediction": []
   },
   {
-    "text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "text": "In some versions , the egg p la is not g r d , but is instead boiled , resulting in a softer version that lacks the characteristic s m flavor of the original dish .",
     "gold": [
       {
-        "text": "eggplant",
+        "text": "egg p la",
         "value": "OTHER"
       }
     ],
-    "prediction": [
-      {
-        "text": "eggplant",
-        "value": "PRODUCT"
-      }
-    ]
+    "prediction": []
   },
   {
-    "text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "text": "Experimental GP X 1 deficiency am p l fi certain aspects of aging , namely end o el al d y function , vascular re m del ing , and invasion of le uk o in card i tissue .",
     "gold": [],
     "prediction": [
       {
-        "text": "GPX1",
+        "text": "GP X 1 deficiency",
+        "value": "OTHER"
+      },
+      {
+        "text": "el al d y",
+        "value": "OTHER"
+      },
+      {
+        "text": "le uk o",
         "value": "OTHER"
       }
     ]
   },
   {
-    "text": "In July 1944, the 503rd jumped again, onto Noemfoor Island, off Dutch New Guinea, in the Battle of Noemfoor.",
+    "text": "In July 1944 , the 50 3 r jumped again , onto No em f or Island , off Dutch New Guinea , in the Battle of No em f or .",
     "gold": [
       {
-        "text": "Noemfoor Island",
+        "text": "No em f or Island",
         "value": "LOCATION"
       },
       {
@@ -2143,17 +2199,13 @@
         "value": "LOCATION"
       },
       {
-        "text": "Battle of Noemfoor",
+        "text": "Battle of No em f or",
         "value": "EVENT"
       }
     ],
     "prediction": [
       {
-        "text": "503rd",
-        "value": "ORGANIZATION"
-      },
-      {
-        "text": "Noemfoor Island",
+        "text": "No em f",
         "value": "LOCATION"
       },
       {
@@ -2161,13 +2213,13 @@
         "value": "LOCATION"
       },
       {
-        "text": "Battle of Noemfoor",
+        "text": "Battle of No em f",
         "value": "EVENT"
       }
     ]
   },
   {
-    "text": "He was appointed captain and took part in the naval part of the Siege of Port Hudson in May to July, 1863.",
+    "text": "He was appointed captain and took part in the naval part of the Siege of Port Hudson in May to July , 1863 .",
     "gold": [
       {
         "text": "Siege of Port Hudson",
@@ -2182,25 +2234,20 @@
     ]
   },
   {
-    "text": "After the 1973 military coup, Ar\u00f3n was forced to go underground.",
-    "gold": [
-      {
-        "text": "Ar\u00f3n",
-        "value": "PERSON"
-      }
-    ],
+    "text": "After the 1973 military coup , A r \u00f3 was forced to go underground .",
+    "gold": [],
     "prediction": [
       {
-        "text": "Ar\u00f3n",
+        "text": "A r \u00f3",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "Despite the 3-hour running time and its sometimes slow pace, it proved enormously popular with the public and put Jacques Feyder into the front rank of French film-makers.",
+    "text": "Despite the 3 - hour running time and its sometimes slow pace , it proved enormous l popular with the public and put Jacques Fe yd er into the front rank of French film - makers .",
     "gold": [
       {
-        "text": "Jacques Feyder",
+        "text": "Jacques Fe yd er",
         "value": "PERSON"
       },
       {
@@ -2210,7 +2257,7 @@
     ],
     "prediction": [
       {
-        "text": "Jacques Feyder",
+        "text": "Jacques Fe yd",
         "value": "PERSON"
       },
       {
@@ -2220,7 +2267,7 @@
     ]
   },
   {
-    "text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim , but only ran for six performances because the production proved to be expensive .",
     "gold": [
       {
         "text": "Martin Beck Theater",
@@ -2235,10 +2282,10 @@
     ]
   },
   {
-    "text": "Dorsa has a Bachelor of Music in Composition from California State University, Northridge in 2001, Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "text": "Do r has a Bachelor of Music in Composition from California State University , North ridge in 2001 , Master of Music in Ha r si chord Performance at Cal State North ridge in 2004 , and a Doctor of Musical Arts at the University of Michigan , Ann Arbor in 2008 .",
     "gold": [
       {
-        "text": "Dorsa",
+        "text": "Do r",
         "value": "PERSON"
       },
       {
@@ -2246,7 +2293,7 @@
         "value": "OTHER"
       },
       {
-        "text": "California State University , Northridge",
+        "text": "California State University , North ridge",
         "value": "ORGANIZATION"
       },
       {
@@ -2254,7 +2301,7 @@
         "value": "OTHER"
       },
       {
-        "text": "Cal State Northridge",
+        "text": "Cal State North ridge",
         "value": "ORGANIZATION"
       },
       {
@@ -2272,7 +2319,7 @@
     ],
     "prediction": [
       {
-        "text": "Dorsa",
+        "text": "Do r",
         "value": "PERSON"
       },
       {
@@ -2284,15 +2331,15 @@
         "value": "ORGANIZATION"
       },
       {
-        "text": "Northridge",
+        "text": "North",
         "value": "LOCATION"
       },
       {
-        "text": "Master of Music in Harpsichord",
+        "text": "Master of Music in Ha r si chord Performance",
         "value": "OTHER"
       },
       {
-        "text": "Cal State Northridge",
+        "text": "Cal State North",
         "value": "ORGANIZATION"
       },
       {
@@ -2310,7 +2357,7 @@
     ]
   },
   {
-    "text": "Both doors are mirror images of each other and each contain the bronze University seal.",
+    "text": "Both doors are mirror images of each other and each contain the bronze University seal .",
     "gold": [
       {
         "text": "bronze University seal",
@@ -2320,10 +2367,10 @@
     "prediction": []
   },
   {
-    "text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "text": "During the Battle of Anti et m on September 17 , 1862 , Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps .",
     "gold": [
       {
-        "text": "Battle of Antietam",
+        "text": "Battle of Anti et m",
         "value": "EVENT"
       },
       {
@@ -2337,7 +2384,7 @@
     ],
     "prediction": [
       {
-        "text": "Battle of Antietam",
+        "text": "Battle of Anti et",
         "value": "EVENT"
       },
       {
@@ -2351,48 +2398,48 @@
     ]
   },
   {
-    "text": "Puckrik travelled widely in her childhood due to her father's military background.",
+    "text": "P u r travelled widely in her childhood due to her father ' s military background .",
     "gold": [
       {
-        "text": "Puckrik",
+        "text": "P u r",
         "value": "PERSON"
       }
     ],
     "prediction": [
       {
-        "text": "Puckrik",
+        "text": "P u r",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "text": "Some w hat hidden away by the Ben C r a an range , it is usually climbed in conjunction with its neighbour Be inn E un i .",
     "gold": [
       {
-        "text": "Ben Cruachan",
+        "text": "Ben C r a an",
         "value": "LOCATION"
       },
       {
-        "text": "Beinn Eunaich",
+        "text": "Be inn E un i",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Ben Cruachan range",
+        "text": "Ben C r a",
         "value": "LOCATION"
       },
       {
-        "text": "Beinn Eunaich",
+        "text": "Be inn E un i",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "text": "It is developed by Go la em , a France - based software company ( created in Ren ne in 2009 ) .",
     "gold": [
       {
-        "text": "Golaem",
+        "text": "Go la em",
         "value": "ORGANIZATION"
       },
       {
@@ -2400,13 +2447,13 @@
         "value": "LOCATION"
       },
       {
-        "text": "Rennes",
+        "text": "Ren ne",
         "value": "LOCATION"
       }
     ],
     "prediction": [
       {
-        "text": "Golaem",
+        "text": "Go la em",
         "value": "ORGANIZATION"
       },
       {
@@ -2414,13 +2461,13 @@
         "value": "LOCATION"
       },
       {
-        "text": "Rennes",
+        "text": "Ren ne",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "Its headquarters are in Moscow.",
+    "text": "Its headquarters are in Moscow .",
     "gold": [
       {
         "text": "Moscow",
@@ -2435,7 +2482,7 @@
     ]
   },
   {
-    "text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "text": "Hunt represents the 8th legislative district in Omaha , consisting of the mid town neighborhoods of Dundee , Benson , and Keys tone .",
     "gold": [
       {
         "text": "Hunt",
@@ -2454,7 +2501,7 @@
         "value": "LOCATION"
       },
       {
-        "text": "Keystone",
+        "text": "Keys tone",
         "value": "LOCATION"
       }
     ],
@@ -2476,24 +2523,24 @@
         "value": "LOCATION"
       },
       {
-        "text": "Keystone",
+        "text": "Keys tone",
         "value": "LOCATION"
       }
     ]
   },
   {
-    "text": "Mary Weiss was one of the creators of The Real Live Brady Bunch at The Annoyance Theater, which led to a series of feature film remakes.",
+    "text": "Mary Weiss was one of the creators of The Real Live Brady B un at The Ann o n Theater , which led to a series of feature film remake s .",
     "gold": [
       {
         "text": "Mary Weiss",
         "value": "PERSON"
       },
       {
-        "text": "Real Live Brady Bunch",
+        "text": "Real Live Brady B un",
         "value": "ORGANIZATION"
       },
       {
-        "text": "Annoyance Theater",
+        "text": "Ann o n Theater",
         "value": "BUILDING"
       }
     ],
@@ -2503,24 +2550,24 @@
         "value": "PERSON"
       },
       {
-        "text": "Brady Bunch",
+        "text": "The Real Live Brady B un",
         "value": "ART"
       },
       {
-        "text": "Annoyance Theater",
+        "text": "The Ann o n Theater",
         "value": "BUILDING"
       }
     ]
   },
   {
-    "text": "The film is based on the French novel ``L'affaire Cl\u00e9menceau'', by Alexandre Dumas, fils, and is now considered to be lost.",
+    "text": "The film is based on the French novel ` ` L ' affair e C l men c u ' ' , by Alexandre Du ma , fi l , and is now considered to be lost .",
     "gold": [
       {
         "text": "French",
         "value": "OTHER"
       },
       {
-        "text": "Alexandre Dumas",
+        "text": "Alexandre Du ma",
         "value": "PERSON"
       }
     ],
@@ -2530,42 +2577,50 @@
         "value": "LOCATION"
       },
       {
-        "text": "Alexandre Dumas",
+        "text": "L ' affair e C l men c u ' '",
+        "value": "ART"
+      },
+      {
+        "text": "Alexandre Du ma",
         "value": "PERSON"
       }
     ]
   },
   {
-    "text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza intensified.",
+    "text": "The peasant r was also a g r d , and between 1846 and 1848 opposition to St u d z intensified .",
     "gold": [
       {
-        "text": "Sturdza",
+        "text": "St u d z",
         "value": "PERSON"
       }
     ],
-    "prediction": [
-      {
-        "text": "Sturdza",
-        "value": "PERSON"
-      }
-    ]
+    "prediction": []
   },
   {
-    "text": "They work independently of insulin and can reduce glucose levels without causing hypoglycemia or weight gain.",
+    "text": "They work independently of insulin and can reduce glucose levels without causing h y p g c mi or weight gain .",
     "gold": [
       {
         "text": "insulin",
         "value": "OTHER"
       },
       {
-        "text": "hypoglycemia",
+        "text": "h y p g c mi",
         "value": "OTHER"
       }
     ],
-    "prediction": []
+    "prediction": [
+      {
+        "text": "insulin",
+        "value": "OTHER"
+      },
+      {
+        "text": "p g c mi",
+        "value": "OTHER"
+      }
+    ]
   },
   {
-    "text": "Greece fielded a four-strong table tennis team at the 2004 Olympic Games after being granted permission to use host nation qualification places.",
+    "text": "Greece fielded a four - strong table tennis team at the 2004 Olympic Games after being granted permission to use host nation qualification places .",
     "gold": [
       {
         "text": "Greece",
@@ -2588,10 +2643,10 @@
     ]
   },
   {
-    "text": "He is a Congressman representing Cajamarca for the period 2006\u20132011, and belongs to the Union for Peru party.",
+    "text": "He is a Congressman representing C a ma ca for the period 2006 \u2013 2011 , and belongs to the Union for Peru party .",
     "gold": [
       {
-        "text": "Cajamarca",
+        "text": "C a ma ca",
         "value": "LOCATION"
       },
       {
@@ -2601,7 +2656,7 @@
     ],
     "prediction": [
       {
-        "text": "Cajamarca",
+        "text": "a ma",
         "value": "LOCATION"
       },
       {
@@ -2611,29 +2666,29 @@
     ]
   },
   {
-    "text": "Team Orr scored four times on way to a 7\u20131 victory.",
+    "text": "Team Or r scored four times on way to a 7 \u2013 1 victory .",
     "gold": [
       {
-        "text": "Team Orr",
+        "text": "Team Or r",
         "value": "ORGANIZATION"
       }
     ],
     "prediction": [
       {
-        "text": "Team Orr",
+        "text": "Team Or",
         "value": "ORGANIZATION"
       }
     ]
   },
   {
-    "text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "text": "G l am s y et se uses am mon produced by ni t reduction , amino acid degradation , and photo re p .",
     "gold": [
       {
-        "text": "Glutamine synthetase",
+        "text": "G l am s y et se",
         "value": "OTHER"
       },
       {
-        "text": "ammonia",
+        "text": "am mon",
         "value": "OTHER"
       },
       {
@@ -2643,15 +2698,15 @@
     ],
     "prediction": [
       {
-        "text": "Glutamine synthetase",
+        "text": "G l am s y et",
         "value": "OTHER"
       },
       {
-        "text": "ammonia",
+        "text": "am mon",
         "value": "OTHER"
       },
       {
-        "text": "nitrate",
+        "text": "ni t",
         "value": "OTHER"
       },
       {
@@ -2661,7 +2716,7 @@
     ]
   },
   {
-    "text": "The buildings were renovated into offices in the 1980s.",
+    "text": "The buildings were renovated into offices in the 1980s .",
     "gold": [],
     "prediction": []
   }

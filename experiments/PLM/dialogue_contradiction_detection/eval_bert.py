@@ -135,7 +135,7 @@ def process_ood_test_files(model, tokenizer, test_dir, output_dir, batch_size=16
         with open(test_file_path, "r") as f:
             test_data = json.load(f)
 
-        with open("../datasets/train_dev_test_data/dialogue/train.json", "r") as file:
+        with open("../datasets/train_dev_test_data/rongxin/train.json", "r") as file:
             full_test_data = json.load(file)
 
         contexts = []
@@ -202,11 +202,11 @@ if __name__ == "__main__":
     model = AutoModelForSequenceClassification.from_pretrained(saved_model_path)
 
     # Evaluate on original test file
-    test_file_path = "../datasets/transformed_train_dev_test_data/dialogue/test.json"
+    test_file_path = "../datasets/transformed_train_dev_test_data/rongxin/test.json"
     output_file_path = "./tmp/bert-base-cased_results/bert_predictions.json"
     evaluate_checkpoint(model, tokenizer, test_file_path, output_file_path, batch_size=8)
 
     # Evaluate on OOD test files
-    test_dir = "../datasets/test_data_after_modifications/dialogue"
+    test_dir = "../datasets/test_data_after_modifications/rongxin"
     output_dir = "./tmp/bert-base-cased_results/bert_ood_test_preds"
     process_ood_test_files(model, tokenizer, test_dir, output_dir, batch_size=8)

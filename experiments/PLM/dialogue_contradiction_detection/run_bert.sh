@@ -24,8 +24,8 @@ export WANDB_RUN_NAME="bert_dialog-contra-detect_${SLURM_JOB_ID}"
 python bert.py \
 --model_name_or_path bert-base-cased \
 --output_dir ./tmp/ \
---train_file ../datasets/transformed_train_dev_test_data/dialogue/train.json \
---validation_file ../datasets/transformed_train_dev_test_data/dialogue/dev.json \
+--train_file ../datasets/transformed_train_dev_test_data/rongxin/train.json \
+--validation_file ../datasets/transformed_train_dev_test_data/rongxin/dev.json \
 --evaluation_strategy steps \
 --eval_steps 100 \
 --save_strategy steps \

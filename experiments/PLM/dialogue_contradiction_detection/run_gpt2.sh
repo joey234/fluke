@@ -24,8 +24,8 @@ export WANDB_RUN_NAME="gpt2_dialog-contra-detect_${SLURM_JOB_ID}"
 python gpt2.py \
 --model_name_or_path gpt2 \
 --output_dir ./tmp/gpt2 \
---train_file ../datasets/transformed_train_dev_test_data/dialogue/train.json \
---validation_file ../datasets/transformed_train_dev_test_data/dialogue/dev.json \
+--train_file ../datasets/transformed_train_dev_test_data/rongxin/train.json \
+--validation_file ../datasets/transformed_train_dev_test_data/rongxin/dev.json \
 --evaluation_strategy steps \
 --eval_steps 100 \
 --save_strategy steps \
