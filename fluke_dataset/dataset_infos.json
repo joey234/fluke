@@ -1,0 +1,61 @@
+{
+  "fluke": {
+    "description": "FLUKE: A Task-Agnostic Framework for Linguistic Capability Testing dataset with 4 NLP tasks and 17 linguistic modification types",
+    "citation": "@article{fluke2024,\n  title={FLUKE: A Task-Agnostic Framework for Linguistic Capability Testing},\n  author={Your Name and Co-author},\n  journal={Conference/Journal Name},\n  year={2024}\n}",
+    "homepage": "https://huggingface.co/datasets/your-username/fluke",
+    "license": "MIT",
+    "features": {
+      "original": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "modified": {
+        "dtype": "string", 
+        "_type": "Value"
+      },
+      "label": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "modification_type": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "task": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    "splits": {
+      "coref": {
+        "name": "coref",
+        "num_bytes": 850000,
+        "num_examples": 1700,
+        "dataset_name": "fluke"
+      },
+      "ner": {
+        "name": "ner", 
+        "num_bytes": 1600000,
+        "num_examples": 1700,
+        "dataset_name": "fluke"
+      },
+      "sa": {
+        "name": "sa",
+        "num_bytes": 580000,
+        "num_examples": 1700,
+        "dataset_name": "fluke"
+      },
+      "dialogue": {
+        "name": "dialogue",
+        "num_bytes": 5200000,
+        "num_examples": 1700,
+        "dataset_name": "fluke"
+      }
+    },
+    "download_checksums": {},
+    "download_size": 8230000,
+    "post_processing_size": null,
+    "dataset_size": 8230000,
+    "size_in_bytes": 8230000
+  }
+} 
