@@ -1,13 +1,8 @@
 # FLUKE: A Task-Agnostic Framework for Linguistic Capability Testing
 
-**Paper**: [FLUKE: A Linguistically-Driven and Task-Agnostic Framework for Robustness Evaluation](https://arxiv.org/abs/2504.17311)  
-**Dataset**: [huggingface.co/datasets/joey234/fluke](https://huggingface.co/datasets/joey234/fluke)  
-**Website**: [fluke-nlp.github.io](https://fluke-nlp.github.io)
-
-
 ## Overview
 
-This repository contains the complete source code for the FLUKE framework, a comprehensive evaluation dataset designed to test the robustness of language models across multiple linguistic dimensions. FLUKE applies 17 different types of linguistic modifications to evaluate model performance across four core NLP tasks: **Coreference Resolution**, **Named Entity Recognition (NER)**, **Sentiment Analysis**, and **Dialogue Understanding**.
+This repository contains the source code for the FLUKE framework, a task‑agnostic robustness evaluation suite spanning multiple linguistic dimensions. FLUKE applies 17 types of linguistically motivated modifications to evaluate model behavior across the following tasks: **Coreference Resolution**, **Named Entity Recognition (NER)**, **Sentiment Analysis**, **Dialogue Understanding**, and **Grade School Math (GSM)**. In addition, we include an **Instruction Following (IFEval)** evaluation (LLM‑only) with constraint scoring.
 
 ## Repository Structure
 
@@ -16,13 +11,16 @@ This repository contains the complete source code for the FLUKE framework, a com
 │   ├── modified_data/             # Generated linguistic modifications
 │   │   ├── coref/                 # Coreference resolution modifications (17 types)
 │   │   ├── dialogue/              # Dialogue understanding modifications (17 types)
+│   │   ├── gsm/                   # GSM variations (incl. negation subtypes, styles)
+│   │   ├── ifeval/                # IFEval prompts + constraint specs (JSONL)
 │   │   ├── ner/                   # Named entity recognition modifications (17 types)
 │   │   └── sa/                    # Sentiment analysis modifications (17 types)
 │   └── train_dev_test_data/       # Original benchmark datasets
 │       ├── coref/                 # OntoNotes 5.0 data
 │       ├── dialog/                # PersonaChat data
 │       ├── ner/                   # CoNLL-2003 data
-│       └── sentiment/             # Stanford Sentiment Treebank data
+│       ├── sentiment/             # Stanford Sentiment Treebank data
+│       └── (task-specific)        # Additional sources as applicable (e.g., GSM)
 │
 ├── data_generation/               # Scripts for generating linguistic modifications
 │   ├── coref_prompt.ipynb         # Coreference modification generation
@@ -40,11 +38,15 @@ This repository contains the complete source code for the FLUKE framework, a com
 │   │   ├── llm_coref_{model}.ipynb
 │   │   ├── llm_dialogue_{model}.ipynb
 │   │   ├── llm_ner_{model}.ipynb
-│   │   └── llm_sentiment_{model}.ipynb
+│   │   ├── llm_sentiment_{model}.ipynb
+│   │   ├── llm_gsm_{model}.ipynb
+│   │   └── scripts/               # LLM scripts (incl. IFEval and analysis helpers)
 │   └── analysis/                 # Results analysis and visualization
 │       ├── parse_coref_dialog.ipynb
 │       ├── parse_ner.ipynb
-│       └── parse_sa.ipynb
+│       ├── parse_sa.ipynb
+│       ├── gsm_analysis.py
+│       └── ifeval_analysis.py
 │
 ├── fluke_dataset/                # HuggingFace dataset preparation (legacy)
 └── fluke_dataset_standard/       # Standardized dataset format
@@ -84,16 +86,47 @@ cd experiments/PLM/{task}/
 python eval_{model}.py
 ```
 
-#### LLM Experiments
+#### LLM Experiments (run scripts)
 ```bash
-# Run LLM evaluation notebooks
-jupyter notebook experiments/LLM/
+# Coreference
+python fluke-source-code/experiments/LLM/scripts/run_coref_gpt5.py
+# Dialogue
+python fluke-source-code/experiments/LLM/scripts/run_dialogue_gpt5.py
+# NER
+python fluke-source-code/experiments/LLM/scripts/run_ner_gpt5.py
+# Sentiment
+python fluke-source-code/experiments/LLM/scripts/run_sentiment_gpt5.py
+
+# Optional: with context-aware variants
+python fluke-source-code/experiments/LLM/scripts/run_coref_gpt5_with_context.py
+python fluke-source-code/experiments/LLM/scripts/run_dialogue_gpt5_with_context.py
+python fluke-source-code/experiments/LLM/scripts/run_gsm_gpt5.py
+python fluke-source-code/experiments/LLM/scripts/run_ifeval_gpt5.py
+
+# Optional: OpenRouter variants
+python fluke-source-code/experiments/LLM/scripts/run_coref_openrouter.py
+python fluke-source-code/experiments/LLM/scripts/run_dialogue_openrouter.py
+python fluke-source-code/experiments/LLM/scripts/run_ner_openrouter.py
+python fluke-source-code/experiments/LLM/scripts/run_sentiment_openrouter.py
+python fluke-source-code/experiments/LLM/scripts/run_gsm_openrouter.py
+python fluke-source-code/experiments/LLM/scripts/run_ifeval_openrouter.py
 ```
 
-### 4. Results Analysis
+GSM and IFEval
+- GSM (Grade School Math) data and results are supported in LLM experiments; analysis lives in `experiments/analysis/gsm_analysis.py`.
+- IFEval (instruction following) evaluation is LLM‑only; see the section below for end‑to‑end scoring and analysis.
+
+### 4. Results Analysis (Python scripts)
+Run the task-specific analysis scripts to aggregate metrics, generate tables and plots:
 ```bash
-# Generate analysis and visualizations
-jupyter notebook experiments/analysis/
+# From repo root
+python fluke-source-code/experiments/analysis/coref_analysis.py
+python fluke-source-code/experiments/analysis/ner_analysis.py
+python fluke-source-code/experiments/analysis/sa_analysis.py
+python fluke-source-code/experiments/analysis/dialogue_analysis.py
+# Optional tasks
+python fluke-source-code/experiments/analysis/gsm_analysis.py
+python fluke-source-code/experiments/analysis/ifeval_analysis.py
 ```
 
 ### IFEval (Instruction Following) — LLM Only
@@ -175,30 +208,6 @@ FLUKE implements 17 types of linguistic modifications across different linguisti
 - **Geographical Bias**: Cultural variations
 - **Length Bias**: Sentence length modifications
 
-## Key Findings
+## Notes on Anonymity (for review)
 
-- **Task-specific vulnerabilities**: Different tasks show different sensitivity patterns
-- **Universal negation challenge**: All models struggle with negation across tasks
-- **Surface-level dependencies**: Heavy reliance on orthographic cues (especially in NER)
-- **LLM vs PLM trade-offs**: LLMs aren't always more robust than PLMs
-
-## Citation
-
-```bibtex
-@article{otmakhova2025fluke,
-    title={FLUKE: A Linguistically-Driven and Task-Agnostic Framework for Robustness Evaluation}, 
-    author={Yulia Otmakhova and Hung Thinh Truong and Rahmad Mahendra and Zenan Zhai and Rongxin Zhu and Daniel Beck and Jey Han Lau},
-    year={2025},
-    eprint={2504.17311},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL},
-    url={https://arxiv.org/abs/2504.17311}
-}
-```
-
-
-## Contact
-
-For questions or issues, please contact:
-- Yulia Otmakhova: y.otmakhova@unimelb.edu.au
-- Hung Thinh Truong: thinh.truong@unimelb.edu.au
+This repository has been scrubbed to avoid author, affiliation, or contact details during anonymous review. Any identifying metadata, personal emails, or institutional references have been removed. A citation entry and contact information will be added after the review period.
