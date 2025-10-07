@@ -1,8 +1,0 @@
-# Exclude non-anonymous or build artifacts from `git archive`
-fluke-webpage/ export-ignore
-__pycache__/ export-ignore
-*.pyc export-ignore
-.DS_Store export-ignore
-*.ipynb export-ignore
-# Keep data generation notebooks
-fluke-source-code/data_generation/*.ipynb -export-ignore
