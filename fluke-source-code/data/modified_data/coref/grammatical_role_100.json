@@ -1,0 +1,1370 @@
+[
+  {
+    "original_text": "Lakshman asked Vivan to get him some ice cream because he was hot.",
+    "original_candidates": [
+      "Lakshman",
+      "Vivan"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Vivan asked Lakshman to get him some ice cream because he was hot.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Vivan",
+      "Lakshman"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1455
+  },
+  {
+    "original_text": "Steve hired Jose because he was a hard worker.",
+    "original_candidates": [
+      "Steve",
+      "Jose"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Jose hired Steve because he was a hard worker.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Jose",
+      "Steve"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 220
+  },
+  {
+    "original_text": "Wanda asks Regina if she wants to go with him, but Regina does not want to leave Owuor.",
+    "original_candidates": [
+      "Wanda",
+      "Regina"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Regina asks Wanda if she wants to go with him, but Wanda does not want to leave Owuor.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Regina",
+      "Wanda"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 583
+  },
+  {
+    "original_text": "The attackers had been waiting for the journalists when they arrived.",
+    "original_candidates": [
+      "The attackers",
+      "the journalists"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The attackers had been waiting for them when the journalists arrived.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "the journalists",
+      "The attackers"
+    ],
+    "modified_pronoun": "them",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 911
+  },
+  {
+    "original_text": "Theresa almost admits to killing Stephanie, but stops when Logan tells her he is a police officer.",
+    "original_candidates": [
+      "Theresa",
+      "Stephanie"
+    ],
+    "original_pronoun": "her",
+    "original_label": 0,
+    "modified_text": "Stephanie almost admits to killing Theresa, but stops when Logan tells her he is a police officer.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Stephanie",
+      "Theresa"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1339
+  },
+  {
+    "original_text": "The mother bear attacked Karen because she had gotten too close to her cub.",
+    "original_candidates": [
+      "The mother bear",
+      "Karen"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Karen was attacked by the mother bear because she had gotten too close to her cub.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Karen",
+      "the mother bear"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1400
+  },
+  {
+    "original_text": "Elmeida nearly assassinated Hyrum, but Noa intervened to save his life.",
+    "original_candidates": [
+      "Elmeida",
+      "Hyrum"
+    ],
+    "original_pronoun": "his",
+    "original_label": 1,
+    "modified_text": "Hyrum was nearly assassinated by Elmeida, but Noa intervened to save his life.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Hyrum",
+      "Elmeida"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1433
+  },
+  {
+    "original_text": "John killed Bill because he was fighting for his life.",
+    "original_candidates": [
+      "John",
+      "Bill"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Bill was killed by John because he was fighting for his life.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Bill",
+      "John"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 99
+  },
+  {
+    "original_text": "Ryan Higa sometimes guest stars in videos for Kev Jumbo because he wants his friend's videos to succeed as well.",
+    "original_candidates": [
+      "Ryan Higa",
+      "Kev Jumbo"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Kev Jumbo sometimes guest stars in videos for Ryan Higa because he wants his friend's videos to succeed as well.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Kev Jumbo",
+      "Ryan Higa"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 574
+  },
+  {
+    "original_text": "Samuel found out about Mark when his brother came to Japan.",
+    "original_candidates": [
+      "Samuel",
+      "Mark"
+    ],
+    "original_pronoun": "his",
+    "original_label": 1,
+    "modified_text": "Mark found out about Samuel when his brother came to Japan.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Mark",
+      "Samuel"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 768
+  },
+  {
+    "original_text": "The man shot his friend and he died.",
+    "original_candidates": [
+      "The man",
+      "his friend"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "His friend shot the man and he died.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "His friend",
+      "the man"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 436
+  },
+  {
+    "original_text": "Vicky repeatedly tires to seduce Emma, but she turns her down.",
+    "original_candidates": [
+      "Vicky",
+      "Emma"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Emma repeatedly tries to seduce Vicky, but she turns her down.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Emma",
+      "Vicky"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 114
+  },
+  {
+    "original_text": "The bat hit the ball because it was designed to be hit.",
+    "original_candidates": [
+      "The bat",
+      "the ball"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "The ball was hit by the bat because it was designed to be hit.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "The ball",
+      "the bat"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1047
+  },
+  {
+    "original_text": "Fleece feels better than cotton since they are of worse quality.",
+    "original_candidates": [
+      "Fleece",
+      "cotton"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "Cotton feels better than fleece since they are of worse quality.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Cotton",
+      "fleece"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 681
+  },
+  {
+    "original_text": "Kathy paid Jane to leave but she returned several weeks later.",
+    "original_candidates": [
+      "Kathy",
+      "Jane"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Jane paid Kathy to leave but she returned several weeks later.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Jane",
+      "Kathy"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 991
+  },
+  {
+    "original_text": "Nonetheless, Harry remains with Rob until the night he learns that he had a fling with his high school nemesis, Ronnie Harrison.",
+    "original_candidates": [
+      "Rob",
+      "Harry"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Nonetheless, Ronnie Harrison remains with Rob until the night he learns that he had a fling with his high school nemesis, Harry.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Rob",
+      "Ronnie Harrison"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 502
+  },
+  {
+    "original_text": "South Korea does not like North Korea because they are constantly threatening their peace.",
+    "original_candidates": [
+      "South Korea",
+      "North Korea"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "North Korea does not like South Korea because they are constantly threatening their peace.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "North Korea",
+      "South Korea"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 10
+  },
+  {
+    "original_text": "Bob can beat Larry at arm wrestling because he has more muscles.",
+    "original_candidates": [
+      "Bob",
+      "Larry"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Larry can beat Bob at arm wrestling because he has more muscles.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Larry",
+      "Bob"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1423
+  },
+  {
+    "original_text": "The minister befriended King George so he could have some friends.",
+    "original_candidates": [
+      "The minister",
+      "King George"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "King George befriended the minister so he could have some friends.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "King George",
+      "the minister"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 1462
+  },
+  {
+    "original_text": "John goes out to kill Tony, but he ambushes and bites him.",
+    "original_candidates": [
+      "John",
+      "Tony"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Tony goes out to kill John, but John ambushes and bites him.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Tony",
+      "John"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 232
+  },
+  {
+    "original_text": "Rebecca kissed Dina because she is a sweet girl.",
+    "original_candidates": [
+      "Rebecca",
+      "Dina"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Dina kissed Rebecca because she is a sweet girl.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Dina",
+      "Rebecca"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 120
+  },
+  {
+    "original_text": "Madison has a short attraction to Matilda but she rebuffs her.",
+    "original_candidates": [
+      "Madison",
+      "Matilda"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Matilda has a short attraction to Madison but Madison rebuffs her.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Matilda",
+      "Madison"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 1056
+  },
+  {
+    "original_text": "Lance tried to get back together with Bob, but his pride was hurt and he refused to take her back.",
+    "original_candidates": [
+      "Lance",
+      "Bob"
+    ],
+    "original_pronoun": "his",
+    "original_label": 1,
+    "modified_text": "Lance tried to get back together with Bob, but his pride was hurt and he refused to take Lance back.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Lance",
+      "Bob"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 185
+  },
+  {
+    "original_text": "Google Plus is expected to be a replacement for Facebook but it still has a lot more active users.",
+    "original_candidates": [
+      "Google Plus",
+      "Facebook"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "Facebook is expected to be a replacement for Google Plus but it still has a lot more active users.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Facebook",
+      "Google Plus"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 832
+  },
+  {
+    "original_text": "Gennie becomes interested in Emma and is jealous when she starts seeing Chas.",
+    "original_candidates": [
+      "Gennie",
+      "Emma"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Emma becomes interested in Gennie and is jealous when she starts seeing Chas.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Emma",
+      "Gennie"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 438
+  },
+  {
+    "original_text": "Lingad was defeated by Estelito Mendoza, but he raised charges of fraud which led to the staging of a new election for governor.",
+    "original_candidates": [
+      "Lingad",
+      "Estelito Mendoza"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Estelito Mendoza was defeated by Lingad, but he raised charges of fraud which led to the staging of a new election for governor.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Estelito Mendoza",
+      "Lingad"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1219
+  },
+  {
+    "original_text": "Robin goes to speak to Gael but discovers he has invited more backpackers to stay with them.",
+    "original_candidates": [
+      "Robin",
+      "Gael"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Gael goes to speak to Robin but discovers he has invited more backpackers to stay with them.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Gael",
+      "Robin"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 691
+  },
+  {
+    "original_text": "Rice beat Texas, even though they were the best team in the nation.",
+    "original_candidates": [
+      "Rice",
+      "Texas"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "Texas beat Rice, even though they were the best team in the nation.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Texas",
+      "Rice"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 671
+  },
+  {
+    "original_text": "Olivia wants to make amends with Emily, but she is apprehensive.",
+    "original_candidates": [
+      "Olivia",
+      "Emily"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Emily wants to make amends with Olivia, but she is apprehensive.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Emily",
+      "Olivia"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1353
+  },
+  {
+    "original_text": "Joe raced against Steven because he thought it would be easy.",
+    "original_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Steven raced against Joe because he thought it would be easy.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Steven",
+      "Joe"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1164
+  },
+  {
+    "original_text": "Dan walks away from Samuel and he tries running after him, but he trips and falls.",
+    "original_candidates": [
+      "Dan",
+      "Samuel"
+    ],
+    "original_pronoun": "him",
+    "original_label": 0,
+    "modified_text": "Samuel walks away from Dan and Dan tries running after Samuel, but he trips and falls.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Samuel",
+      "Dan"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 285
+  },
+  {
+    "original_text": "Steven Seagal challenged Jean Claude Van Damme to a fight because he wanted to prove he was the stronger man.",
+    "original_candidates": [
+      "Steven Seagal",
+      "Jean Claude Van Damme"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Jean Claude Van Damme challenged Steven Seagal to a fight because he wanted to prove he was the stronger man.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Jean Claude Van Damme",
+      "Steven Seagal"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1104
+  },
+  {
+    "original_text": "Michael Phelps was fined by Judge Louis because he was caught with illegal drugs.",
+    "original_candidates": [
+      "Michael Phelps",
+      "Judge Louis"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Judge Louis was fined by Michael Phelps because he was caught with illegal drugs.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Judge Louis",
+      "Michael Phelps"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1017
+  },
+  {
+    "original_text": "Jane Bingum presented strong evidence against Claire, but she may present a strong defense on her part.",
+    "original_candidates": [
+      "Jane Bingum",
+      "Claire"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Claire presented strong evidence against Jane Bingum, but she may present a strong defense on her part.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Claire",
+      "Jane Bingum"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 965
+  },
+  {
+    "original_text": "Joe smells better than Adam since he hardly ever showers.",
+    "original_candidates": [
+      "Joe",
+      "Adam"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Adam smells better than Joe since he hardly ever showers.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Adam",
+      "Joe"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 1329
+  },
+  {
+    "original_text": "The humans were afraid of the robots because they were weak.",
+    "original_candidates": [
+      "The humans",
+      "the robots"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The robots were afraid of the humans because they were weak.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "The robots",
+      "the humans"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1424
+  },
+  {
+    "original_text": "The football players went on strike against the NFL organization, but they will consider their demands to send the strike.",
+    "original_candidates": [
+      "The football players",
+      "the NFL organization"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The strike went on against the NFL organization by the football players, but they will consider their demands to send the organization.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "the NFL organization",
+      "the football players"
+    ],
+    "modified_pronoun": "their",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 576
+  },
+  {
+    "original_text": "The skeleton was scarier than the pumpkin, because it was rather simplistic and orange.",
+    "original_candidates": [
+      "The skeleton",
+      "the pumpkin"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "The pumpkin was scarier than the skeleton, because it was rather simplistic and orange.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "The pumpkin",
+      "the skeleton"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1292
+  },
+  {
+    "original_text": "Tina is scared, but Emma comes after her and protects herself with a gun.",
+    "original_candidates": [
+      "Tina",
+      "Emma"
+    ],
+    "original_pronoun": "her",
+    "original_label": 0,
+    "modified_text": "Emma is scared, but Tina comes after her and protects herself with a gun.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Emma",
+      "Tina"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 887
+  },
+  {
+    "original_text": "Toyota has the luxury brand Lexus: they are built for the rich.",
+    "original_candidates": [
+      "Lexus",
+      "Toyota"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The rich have the luxury brand Lexus from Toyota: they are built for them.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Lexus",
+      "Toyota"
+    ],
+    "modified_pronoun": "them",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1448
+  },
+  {
+    "original_text": "Lurie claimed that Dennis Hopper was so high on sugar during his two-part episode that he was unable to concentrate long enough to fish.",
+    "original_candidates": [
+      "Lurie",
+      "Dennis Hopper"
+    ],
+    "original_pronoun": "his",
+    "original_label": 1,
+    "modified_text": "Dennis Hopper claimed that Lurie was so high on sugar during his two-part episode that he was unable to concentrate long enough to fish.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Dennis Hopper",
+      "Lurie"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 1343
+  },
+  {
+    "original_text": "Someone hit Billy in the face because he was being rude.",
+    "original_candidates": [
+      "Someone",
+      "Billy"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Billy hit someone in the face because he was being rude.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "someone",
+      "Billy"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 791
+  },
+  {
+    "original_text": "Denise is initially hostile to Lucy, but she warms to him when she sees he has changed and they eventually reunite.",
+    "original_candidates": [
+      "Denise",
+      "Lucy"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Lucy is initially hostile to Denise, but he warms to her when he sees she has changed and they eventually reunite.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Lucy",
+      "Denise"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 1371
+  },
+  {
+    "original_text": "Trotsky refused to support Lenin since he was waiting to see whether German workers would rebel and whether German soldiers would refuse to follow orders.",
+    "original_candidates": [
+      "Trotsky",
+      "Lenin"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Lenin refused to support Trotsky since he was waiting to see whether German soldiers would rebel and whether German workers would refuse to follow orders.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Lenin",
+      "Trotsky"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 894
+  },
+  {
+    "original_text": "Warren snuck Nige outside and said that if he ever saw him again he would kill him.",
+    "original_candidates": [
+      "Warren",
+      "Nige"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Nige snuck Warren outside and said that if he ever saw him again he would kill him.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Nige",
+      "Warren"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1472
+  },
+  {
+    "original_text": "The student wanted to ask the professor for help but decided not to because he was too intimidating.",
+    "original_candidates": [
+      "The student",
+      "the professor"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "The professor wanted to ask for help but decided not to because the student was too intimidating.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "The professor",
+      "the student"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 1393
+  },
+  {
+    "original_text": "Battlefield 3 is more fun than Modern Warfare 3 because it is a better game.",
+    "original_candidates": [
+      "Battlefield 3",
+      "Modern Warfare 3"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "Modern Warfare 3 is less fun than Battlefield 3 because it is a worse game.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Battlefield 3",
+      "Modern Warfare 3"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 447
+  },
+  {
+    "original_text": "Liverpool lost to Manchester United because they were a superior team.",
+    "original_candidates": [
+      "Liverpool",
+      "Manchester United"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "Manchester United lost to Liverpool because they were a superior team.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Manchester United",
+      "Liverpool"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 683
+  },
+  {
+    "original_text": "Josie did not like Sarah, but she did not tell her.",
+    "original_candidates": [
+      "Josie",
+      "Sarah"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Sarah did not like Josie, but she did not tell her.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Sarah",
+      "Josie"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 315
+  },
+  {
+    "original_text": "Jubilant, Gandhi tries to reach Ram Mohan Rao, but realizes that he is leaving the country with his daughter.",
+    "original_candidates": [
+      "Ram Mohan Rao",
+      "Gandhi"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Jubilant, Gandhi tries to reach Ram Mohan Rao, but realizes that his daughter is leaving the country with him.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Ram Mohan Rao",
+      "Gandhi"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 396
+  },
+  {
+    "original_text": "The cat was afraid of the dog because it was timid.",
+    "original_candidates": [
+      "The cat",
+      "the dog"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "The dog was afraid of the cat because it was timid.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "The dog",
+      "the cat"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 844
+  },
+  {
+    "original_text": "Kelly neglected to tell Katie that their rent was due, but she told her later.",
+    "original_candidates": [
+      "Kelly",
+      "Katie"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Katie neglected to tell Kelly that their rent was due, but she told her later.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Katie",
+      "Kelly"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 195
+  },
+  {
+    "original_text": "Emma finally agrees to put Jennifer ashore, but after she has given her sleeping pills.",
+    "original_candidates": [
+      "Emma",
+      "Jennifer"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Jennifer finally agrees to put Emma ashore, but after she has given her sleeping pills.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Jennifer",
+      "Emma"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 356
+  },
+  {
+    "original_text": "The clown smiled at the child and he offered him a balloon.",
+    "original_candidates": [
+      "The clown",
+      "the child"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "The child smiled at the clown and the clown offered him a balloon.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "The child",
+      "the clown"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 846
+  },
+  {
+    "original_text": "The mother bear attacked Karen because she was worried for her cub.",
+    "original_candidates": [
+      "The mother bear",
+      "Karen"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Karen was attacked by the mother bear because she was worried for her cub.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Karen",
+      "the mother bear"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 796
+  },
+  {
+    "original_text": "When Saul realizes where Javadi is going, he immediately sends Carrie and Quinn there to intercept him.",
+    "original_candidates": [
+      "Saul",
+      "Javadi"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "When Javadi realizes where Saul is going, he immediately sends Carrie and Quinn there to intercept Saul.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Javadi",
+      "Saul"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1453
+  },
+  {
+    "original_text": "Joe raced against Steven because he would not say no.",
+    "original_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Steven raced against Joe because he would not say no.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Steven",
+      "Joe"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 1460
+  },
+  {
+    "original_text": "Olivia wants to make amends with Emily, but she no longer wants to be friends.",
+    "original_candidates": [
+      "Olivia",
+      "Emily"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Emily wants to make amends with Olivia, but she no longer wants to be friends.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Emily",
+      "Olivia"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 602
+  },
+  {
+    "original_text": "Watson beat Ken at Jeopardy because he is an inferior human.",
+    "original_candidates": [
+      "Watson",
+      "Ken"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Ken beat Watson at Jeopardy because he is an inferior human.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Ken",
+      "Watson"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 381
+  },
+  {
+    "original_text": "Olivia wants to make amends with Emily, but she no longer wants to be friends.",
+    "original_candidates": [
+      "Olivia",
+      "Emily"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Emily wants to make amends with Olivia, but Olivia no longer wants to be friends.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Emily",
+      "Olivia"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 602
+  },
+  {
+    "original_text": "Bob sued Bill because he wanted more money.",
+    "original_candidates": [
+      "Bob",
+      "Bill"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Bill sued Bob because he wanted more money.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Bill",
+      "Bob"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1369
+  },
+  {
+    "original_text": "Fontan was caught by the Spaniard Salvador Cardona, but his second place in the stage gave him the lead in the general classification.",
+    "original_candidates": [
+      "Fontan",
+      "the Spaniard Salvador Cardona"
+    ],
+    "original_pronoun": "his",
+    "original_label": 0,
+    "modified_text": "The Spaniard Salvador Cardona was caught by Fontan, but his second place in the stage gave him the lead in the general classification.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Fontan",
+      "The Spaniard Salvador Cardona"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 1488
+  },
+  {
+    "original_text": "Cosby supported Jay because Thea really liked him.",
+    "original_candidates": [
+      "Cosby",
+      "Jay"
+    ],
+    "original_pronoun": "him",
+    "original_label": 1,
+    "modified_text": "Jay supported Cosby because Thea really liked him.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Cosby",
+      "Jay"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 828
+  },
+  {
+    "original_text": "George scored against Thomas in the shootout, so he won the game.",
+    "original_candidates": [
+      "George",
+      "Thomas"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Thomas scored against George in the shootout, so he won the game.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Thomas",
+      "George"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1142
+  },
+  {
+    "original_text": "John visited Luke in the hospital because he lived close by.",
+    "original_candidates": [
+      "John",
+      "Luke"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Luke visited John in the hospital because he lived close by.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Luke",
+      "John"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 187
+  },
+  {
+    "original_text": "Lily gave Amber a hug because she was sad.",
+    "original_candidates": [
+      "Lily",
+      "Amber"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Amber gave a hug to Lily because she was sad.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Amber",
+      "Lily"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 266
+  },
+  {
+    "original_text": "George scored against Thomas in the shootout, so he lost the game.",
+    "original_candidates": [
+      "George",
+      "Thomas"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Thomas scored against George in the shootout, so he lost the game.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Thomas",
+      "George"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 747
+  },
+  {
+    "original_text": "James tries hard to seduce Wallace without magic, but though he is strongly attracted to him, he refuses to put off his marriage.",
+    "original_candidates": [
+      "James",
+      "Wallace"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Wallace tries hard to seduce James without magic, but though he is strongly attracted to him, he refuses to put off his marriage.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Wallace",
+      "James"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 536
+  },
+  {
+    "original_text": "Some actors choose to perform their own stunts instead of using stunt doubles since they like to keep it as authentic as possible.",
+    "original_candidates": [
+      "Some actors",
+      "stunt doubles"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "Stunt doubles choose to perform their own stunts instead of using some actors since they like to keep it as authentic as possible.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Stunt doubles",
+      "some actors"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 81
+  },
+  {
+    "original_text": "John attacked Tim because he was a communist.",
+    "original_candidates": [
+      "John",
+      "Tim"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Tim was attacked by John because he was a communist.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Tim",
+      "John"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 591
+  },
+  {
+    "original_text": "Naser al-Din Shah Qajar nicknamed Mohammad Hosein as the bird, after he hears a poem that he had written.",
+    "original_candidates": [
+      "Mohammad Hosein",
+      "Naser al-Din Shah Qajar"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Mohammad Hosein nicknamed Naser al-Din Shah Qajar as the bird, after he hears a poem that he had written.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "Naser al-Din Shah Qajar",
+      "Mohammad Hosein"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "grammatical_role",
+    "index": 1381
+  },
+  {
+    "original_text": "The committee increased the price of the tickets to the dance for the students, but they changed their decision later.",
+    "original_candidates": [
+      "The committee",
+      "the students"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The students increased the price of the tickets to the dance for the committee, but they changed their decision later.",
+    "type": "grammatical_role",
+    "modified_candidates": [
+      "The students",
+      "the committee"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "test": "grammatical_role",
+    "index": 1187
+  }
+]

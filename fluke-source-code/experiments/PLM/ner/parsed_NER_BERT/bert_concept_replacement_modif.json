@@ -1,0 +1,2624 @@
+[
+  {
+    "text": "It is the brain child of Go la em , a France - based software company ( born in Ren ne in 2009 ) .",
+    "gold": [
+      {
+        "text": "Go la em",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ren ne",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Go la em",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ren ne",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Lawrence claims that she was given cash , whereas Stephens claims that he was staring down the barrel of a gun .",
+    "gold": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lawrence",
+        "value": "PERSON"
+      },
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "He pulled out all the stops to produce Kim F o le and the B M Band its ( band ) Re c r Records ' album ` ` Hidden Age n At the Thirteen th Not ` ` .",
+    "gold": [
+      {
+        "text": "Kim F o le",
+        "value": "PERSON"
+      },
+      {
+        "text": "B M Band its",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Re c r Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Age n At the Thirteen th Not",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Kim F o le",
+        "value": "PERSON"
+      },
+      {
+        "text": "B M Band",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Age n At the Thirteen th Not",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "Furthermore , the SF O extended an olive branch to cover reasonable legal costs .",
+    "gold": [
+      {
+        "text": "the SF O",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "SF O",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "As the 19th century dawn ed , early communities like Lynch b , Harrisburg , and Right or ' s Point ( modern Morgan ' s Point ) started to spring up in the 1820 s .",
+    "gold": [
+      {
+        "text": "Lynch b",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Right or ' s Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan ' s Point",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lynch b",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Right or ' s Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan ' s Point",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Nintendo kept the ball rolling with the revised Wii model and the Wii Mini alongside the Wii U during the Wii U ' s inaugural year .",
+    "gold": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Do r has a Bachelor of Music in Composition from California State University , North ridge under her belt from 2001 , a Master of Music in Ha r si chord Performance at Cal State North ridge from 2004 , and a Doctor of Musical Arts at the University of Michigan , Ann Arbor from 2008 .",
+    "gold": [
+      {
+        "text": "Do r",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "California State University , North ridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State North ridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Doctor of Musical Arts",
+        "value": "OTHER"
+      },
+      {
+        "text": "University of Michigan",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Do r",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor of Music in Composition",
+        "value": "OTHER"
+      },
+      {
+        "text": "California State University",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master of Music in Ha r si chord",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State North",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Doctor of Musical Arts",
+        "value": "OTHER"
+      },
+      {
+        "text": "University of Michigan",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "His pupil V ad e has im ha , with a stroke of the pen , wrote in prose ` ` Gay a n man ` ` and ` ` K s t ch dam in ` ` inspired by poet Ban as ' ` ` Ka dam bar ` ` , while minister Cha v n ray a penned ` ` Cha r r a ` ` .",
+    "gold": [
+      {
+        "text": "V ad e has im ha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gay a n man",
+        "value": "ART"
+      },
+      {
+        "text": "K s t ch dam in",
+        "value": "ART"
+      },
+      {
+        "text": "Ban as",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ka dam bar",
+        "value": "ART"
+      },
+      {
+        "text": "Cha v n ray a",
+        "value": "PERSON"
+      },
+      {
+        "text": "Cha r r a",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "V ad e has im ha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gay a n man",
+        "value": "ART"
+      },
+      {
+        "text": "K s t ch dam in",
+        "value": "ART"
+      },
+      {
+        "text": "Ban",
+        "value": "PERSON"
+      },
+      {
+        "text": "` Ka dam bar",
+        "value": "ART"
+      },
+      {
+        "text": "Cha v n ray",
+        "value": "PERSON"
+      },
+      {
+        "text": "Cha r r a",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "Go n un le a te m and poured bucket s along Pakistan ' s Arabian Sea coast from Karachi to G wa da .",
+    "gold": [
+      {
+        "text": "Go n",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan ' s Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "G wa da",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pakistan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Arabian Sea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "G wa da",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The C r l I r well Regional Park Project Pro p sa to breathe new life into the land from the heart of Manchester to the West Penn in Moor s was unveiled in June 2003 with backing from Salford , Bury and Bolton councils and the Red Rose Forest .",
+    "gold": [
+      {
+        "text": "C r l I r well Regional Park Project Pro p sa",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn in Moor s",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Moor",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Eli n Hi l brand is an American novelist mostly in the genre of romance .",
+    "gold": [
+      {
+        "text": "Eli n Hi l brand",
+        "value": "PERSON"
+      },
+      {
+        "text": "American",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Eli n Hi l brand",
+        "value": "PERSON"
+      },
+      {
+        "text": "American",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The C r l I r well Regional Park Project Pro p sa to create a green route from the centre of Manchester to the West Penn in Moor s was announced in June 2003 supported by Salford , Bury and Bolton councils and the Red Rose Forest .",
+    "gold": [
+      {
+        "text": "C r l I r well Regional Park Project Pro p sa",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn in Moor s",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn in Moor",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He proceeded to oversee Kim F o le and the B M Band its ( band ) Re c r Records ' album ` ` Hidden Age n At the Thirteen th Not ` ` .",
+    "gold": [
+      {
+        "text": "Kim F o le",
+        "value": "PERSON"
+      },
+      {
+        "text": "B M Band its",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Re c r Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Age n At the Thirteen th Not",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Kim F o le",
+        "value": "PERSON"
+      },
+      {
+        "text": "B M Band",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Age n At the Thirteen th Not",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "The B - 52 air c w member , Major Larry G . Me s er , later recalled ,",
+    "gold": [
+      {
+        "text": "B - 52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G . Me s er",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "B - 52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G . Me s",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "During the Battle of Anti et m on September 17 , 1862 , Wilkinson was in cap a it and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps .",
+    "gold": [
+      {
+        "text": "Battle of Anti et m",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Battle of Anti et",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The ultimate season of baseball play El kin Memorial Park saw season attendance of 16 , 322 , an average of 29 9 per contest .",
+    "gold": [
+      {
+        "text": "El kin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "El kin Memorial Park",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He was born in Well ing borough , Northamptonshire , where he studied at Victoria Junior School , West field Boys School and Sir Christopher Hat ton School .",
+    "gold": [
+      {
+        "text": "Well ing borough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "West field Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hat ton School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Well ing",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "West field Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hat ton School",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "G l am s y et se processes am mon produced by ni t reduction , amino acid degradation , and photo re p .",
+    "gold": [
+      {
+        "text": "G l am s y et se",
+        "value": "OTHER"
+      },
+      {
+        "text": "am mon",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "G l am s y et",
+        "value": "OTHER"
+      },
+      {
+        "text": "am mon",
+        "value": "OTHER"
+      },
+      {
+        "text": "ni t",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "The Ninth sustained a significant set back at the Conflict of Cam ul du n under Q u t Pet ill i Ce r is in the uprising of Bo u ca ( 61 ) , when most of the troops were an ni hi ate in a catastrophic end e to l i ate the surrounded city of Cam ul du n ( Colchester ) .",
+    "gold": [
+      {
+        "text": "Cam ul du n",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Q u t Pet ill i Ce r is",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bo u ca",
+        "value": "EVENT"
+      },
+      {
+        "text": "Cam ul du n",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Conflict of Cam ul du n",
+        "value": "EVENT"
+      },
+      {
+        "text": "u",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bo u",
+        "value": "EVENT"
+      },
+      {
+        "text": "Cam ul du n",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "She has also authored literature and her work has earned a cc lad .",
+    "gold": [],
+    "prediction": [
+      {
+        "text": "cc",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "He has caught the attention of significant periodicals and broadcasters such as CNN , The Hu f Post , H y be as , The Guardian , Ju x ta p z Magazine , Daily Mail , N R C , Al j z r and Hi - Fr u to e Magazine .",
+    "gold": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Hu f Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "H y be as",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ju x ta p z Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail , N R C",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Al j z r",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi - Fr u to e Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hu",
+        "value": "ART"
+      },
+      {
+        "text": "f Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "H y be as",
+        "value": "ART"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ART"
+      },
+      {
+        "text": "Ju x ta p z Magazine",
+        "value": "ART"
+      },
+      {
+        "text": "Daily Mail",
+        "value": "ART"
+      },
+      {
+        "text": "N R C",
+        "value": "ART"
+      },
+      {
+        "text": "Al j z r",
+        "value": "ART"
+      },
+      {
+        "text": "Hi - Fr u to e Magazine",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "It was established as a spin - off of Murphy Oil in 2013 .",
+    "gold": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "It was created by Richard D . Z an c and David Brown .",
+    "gold": [
+      {
+        "text": "Richard D . Z an c",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Richard D . Z an c",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "According to St e ' n Shake records , the restaurant ' s founder , Gus Belt , applied for a trademark on the word in the 1930s .",
+    "gold": [
+      {
+        "text": "St e ' n Shake",
+        "value": "ART"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "St e ' n Shake",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "All is i Pi n f of ` ` Des t o ` ` , commended the game , saying the controls were as good as that of ` ` Super Metro id ` ` and ` ` Super Castle van a IV . ' '",
+    "gold": [
+      {
+        "text": "All is i Pi n f",
+        "value": "PERSON"
+      },
+      {
+        "text": "Des t o",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metro id",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castle van a IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pi n",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Des t o",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Metro id",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castle van a IV",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Hunt serves the 8th legislative district in Omaha , consisting of the mid town neighborhoods of Dundee , Benson , and Keys tone .",
+    "gold": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keys tone",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keys tone",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "This collection includes content pertaining to sexual health issues from 1974 - 2007 .",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "P u r journey ed extensively in her childhood due to her father ' s military background .",
+    "gold": [
+      {
+        "text": "P u r",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "The album included remixes of ` ` Like It or Not ` ` and ` ` Tea ring Me Up ` ` from musicians such as A - T r , RA C , Jo r V o n , and Tale of Us .",
+    "gold": [
+      {
+        "text": "Like It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "Tea ring Me Up",
+        "value": "ART"
+      },
+      {
+        "text": "A - T r",
+        "value": "PERSON"
+      },
+      {
+        "text": "RA C",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jo r V o n",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Like It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "Tea ring Me Up",
+        "value": "ART"
+      },
+      {
+        "text": "A - T r",
+        "value": "PERSON"
+      },
+      {
+        "text": "RA C",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jo r V o n",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "A German instructor for much of her life , Mac K e h also advocated for peace during the Al der ma ton March es in the 1950s and demonstrations against the Vietnam War in G r ve or Square in the 1960s .",
+    "gold": [
+      {
+        "text": "German",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Mac K e h",
+        "value": "PERSON"
+      },
+      {
+        "text": "Al der ma ton March es",
+        "value": "EVENT"
+      },
+      {
+        "text": "Vietnam War",
+        "value": "EVENT"
+      },
+      {
+        "text": "G r ve or Square",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "German",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Mac K e h",
+        "value": "PERSON"
+      },
+      {
+        "text": "Al der ma ton March",
+        "value": "EVENT"
+      },
+      {
+        "text": "Vietnam War",
+        "value": "EVENT"
+      },
+      {
+        "text": "G r ve",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Square",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The administration proclaimed a state funeral and a day of national mourning .",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "It is managed by the N h un b y Corporation .",
+    "gold": [
+      {
+        "text": "N h un b y Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "N h un b y Corporation",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The Newfoundland Reform Liberal Party was a chief - focused political party in Newfoundland and Labrador , Canada from 1975 to 1979 .",
+    "gold": [
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Back to Basic s concentrate s on genre classics , showing older movies and underground cult films , with occasional attempts at mainstream and newer genre pieces .",
+    "gold": [
+      {
+        "text": "Back to Basic s",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Back to Basic",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "An h is a control la b character in the multiplayer online battle arena , ` ` SM IT E ' ' .",
+    "gold": [
+      {
+        "text": "An h",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "In some variations , the egg p la is not g r d , but is instead boiled , resulting in a softer version that lacks the characteristic s m flavor of the original dish .",
+    "gold": [
+      {
+        "text": "egg p la",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to high praise , but only ran for six performances because the production proved to be costly .",
+    "gold": [
+      {
+        "text": "Martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "At a celebration , Sid d saves Vin from being shot at by R u r .",
+    "gold": [
+      {
+        "text": "Sid d",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "R u r",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Sid d",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "R u r",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "In 1967 , the park was the assembly area for a peaceful anti - war rally .",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "It is hi f by Go la em , a France - based software company ( created in Ren ne in 2009 ) .",
+    "gold": [
+      {
+        "text": "Go la em",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ren ne",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Go la em",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ren ne",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Nintendo continued to s c r the revised Wii model and the Wii Mini alongside the Wii U during the Wii U ' s first release year .",
+    "gold": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Furthermore , the SF O te p d to pay reasonable legal costs .",
+    "gold": [
+      {
+        "text": "the SF O",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "He went on to r o g Kim F o le and the B M Band its ( band ) Re c r Records ' album ` ` Hidden Age n At the Thirteen th Not ` ` .",
+    "gold": [
+      {
+        "text": "Kim F o le",
+        "value": "PERSON"
+      },
+      {
+        "text": "B M Band its",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Re c r Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Age n At the Thirteen th Not",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Kim F o le",
+        "value": "PERSON"
+      },
+      {
+        "text": "B M Band",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Age n At the Thirteen th Not",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "Many of the men were separated from their families and flu r into the B . C .",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "His pupil V ad e has im ha flu r in prose ` ` Gay a n man ` ` and ` ` K s t ch dam in ` ` based on poet Ban as ` ` Ka dam bar ` ` and minister Cha v n ray a flu r ` ` Cha r r a ` ` .",
+    "gold": [
+      {
+        "text": "V ad e has im ha",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gay a n man",
+        "value": "ART"
+      },
+      {
+        "text": "K s t ch dam in",
+        "value": "ART"
+      },
+      {
+        "text": "Ban as",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ka dam bar",
+        "value": "ART"
+      },
+      {
+        "text": "Cha v n ray a",
+        "value": "PERSON"
+      },
+      {
+        "text": "Cha r r a",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "V ad e",
+        "value": "PERSON"
+      },
+      {
+        "text": "im ha flu r",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gay a n man",
+        "value": "ART"
+      },
+      {
+        "text": "K s t ch dam in",
+        "value": "ART"
+      },
+      {
+        "text": "Ban",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ka dam bar",
+        "value": "ART"
+      },
+      {
+        "text": "Cha v n ray a flu r",
+        "value": "PERSON"
+      },
+      {
+        "text": "Cha r r a",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "Lawrence d r s that she was given cash , whereas Stephens claims that his life was threatened .",
+    "gold": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lawrence",
+        "value": "PERSON"
+      },
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Do r has a Bachelor of Music in Composition from California State University , North ridge in 2001 , Master of Music in Ha r si chord Performance at Cal State North ridge in 2004 , and a Doctor of Musical Arts at the University of Michigan , flu r in 2008 .",
+    "gold": [
+      {
+        "text": "Do r",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "California State University , North ridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master of Music",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State North ridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Doctor of Musical Arts",
+        "value": "OTHER"
+      },
+      {
+        "text": "University of Michigan",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Do r",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor of Music in Composition",
+        "value": "OTHER"
+      },
+      {
+        "text": "California State University",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master of Music in Ha r si chord Performance",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State North",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Doctor of Musical Arts",
+        "value": "OTHER"
+      },
+      {
+        "text": "University of Michigan",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Dublin is also v i b by Weston Airport and other small facilities , by a range of helicopter operators , and the military and some State services use Case men Aero d nearby .",
+    "gold": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Case men Aero d",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "men Aero d",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "G l am s y et se s c r am mon produced by ni t reduction , amino acid degradation , and photo re p .",
+    "gold": [
+      {
+        "text": "G l am s y et se",
+        "value": "OTHER"
+      },
+      {
+        "text": "am mon",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "G l am s y et se s c r am mon",
+        "value": "OTHER"
+      },
+      {
+        "text": "ni t",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      },
+      {
+        "text": "photo",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Conway is the d r of operations for Norfolk Southern in the Greater Pittsburgh area , featuring a hum p yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains .",
+    "gold": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Early communities began to p law i at the beginning of the 19th century , including Lynch b , Harrisburg , and Right or ' s Point ( modern Morgan ' s Point ) in the 1820 s .",
+    "gold": [
+      {
+        "text": "Lynch b",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Right or ' s Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan ' s Point",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lynch b",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Right or ' s Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan ' s Point",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The C r l I r well Regional Park Project Pro p sa to s c r a green artery from the centre of Manchester to the West Penn in Moor s was announced in June 2003 supported by Salford , Bury and Bolton councils and the Red Rose Forest .",
+    "gold": [
+      {
+        "text": "C r l I r well Regional Park Project Pro p sa",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn in Moor s",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Moor",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "She has also v i b fiction and her work has gained awards .",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Go n d r strong g us y winds and to r n rainfall along Pakistan ' s Arabian Sea coast from Karachi to G wa da .",
+    "gold": [
+      {
+        "text": "Go n",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan ' s Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "G wa da",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pakistan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Arabian Sea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "G wa da",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Most of the town is actually a residential area called Or ch d Island Golf and Beach Club .",
+    "gold": [
+      {
+        "text": "Or ch d Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Or ch d Island Golf",
+        "value": "LOCATION"
+      },
+      {
+        "text": "and",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Beach Club",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "In 1955 it initiated pro cure of an early model of the Boeing B - 52 St rat fort re and upgraded to various models over the next 40 years .",
+    "gold": [
+      {
+        "text": "Boeing B - 52",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Boeing B - 52 St rat fort re",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "It has been administered to treat h y tens ion and cardiac failure , and to treat pre - e c lamp si during pregnancy .",
+    "gold": [
+      {
+        "text": "h y tens ion",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure ,",
+        "value": "OTHER"
+      },
+      {
+        "text": "pre - e c lamp si",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "h y tens ion",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure",
+        "value": "OTHER"
+      },
+      {
+        "text": "pre - e c lamp si",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "The festival is dedicated to world media and digital content and its creation and development .",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Royal Malaysia Police Air Operations Force or ` ` Pa su ka G era ka U da a ( P G U ) ' ' is an elite aviation unit of Royal Malaysia Police .",
+    "gold": [
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pa su ka G era ka U da a",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P G U",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Royal Malaysia Police Air Operations Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pa su ka",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "era ka",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P G",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Royal Malaysia Police",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Lo ya is con s c ed from Queens County , New York by Lieutenant Colonel Richard He w et for the 3rd battalion De L an y ' s Brigade had established a fortified position in early August on the central north shore of Long Island at Set au k , just across Long Island Sound from Fairfield .",
+    "gold": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard He w et",
+        "value": "PERSON"
+      },
+      {
+        "text": "De L an y ' s Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Set au k",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard He",
+        "value": "PERSON"
+      },
+      {
+        "text": "De L an y ' s Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Set au k",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "This led to the creation by Maximilian III Joseph , El e of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759 .",
+    "gold": [
+      {
+        "text": "Maximilian III Joseph , El e of Bavaria",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Maximilian III Joseph",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bavaria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bavarian Academy of Sciences and Humanities",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Internal disagreements , especially between Co v c and Ban i u , were making headlines in the media .",
+    "gold": [
+      {
+        "text": "Co v c",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ban i u",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Co v c",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ban i u",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "However , in 1861 the eventual it of se c by southern states after the 1860 presidential election removed this obstacle to political change .",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "US P 42 has also been indicated to de u q tin te p 53 and may be essential for the function of p 53 to react to stress .",
+    "gold": [
+      {
+        "text": "US P 42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "US P 42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Additionally , Santa is actually innocent of the crime , which was instead devised by s ch min relative Co us in Mel , who is mentioned briefly in the song but made into a gold - digging villain ne in the special .",
+    "gold": [
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Co us in Mel",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Co us",
+        "value": "PERSON"
+      },
+      {
+        "text": "Mel",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The situation began to un fold after 1961 when South Africa left the Commonwealth of Nations and so , under the rules of the day , its cricket board had to leave the International Cricket Conference ( ICC ) .",
+    "gold": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ICC",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ICC",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "In particular , Reform Jews may be criticized for their rejection of traditional Jewish beliefs .",
+    "gold": [
+      {
+        "text": "Jews",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jewish",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Reform Jews",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jewish",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The common er were also a g r d , and between 1846 and 1848 opposition to St u d z intensified .",
+    "gold": [
+      {
+        "text": "St u d z",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "` ` Patrick Morris ` ` sent out her own emergency communication at 6 : 51 am and sank 35 minutes later .",
+    "gold": [
+      {
+        "text": "Patrick Morris",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Patrick Morris",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "They utilized several components from a series of A1 Pacific s they had assembled in 1924 .",
+    "gold": [
+      {
+        "text": "A1 Pacific s",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "A1 Pacific",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "During the Battle of Anti et m on September 17 , 1862 , Wilkinson bit the bullet and was compelled to spend the rest of the war as an officer in the Veterans Reserve Corps .",
+    "gold": [
+      {
+        "text": "Battle of Anti et m",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Battle of Anti et",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "A prototype was shoe horn ed into a one - off DB 5 extended 4 ' ' in the swinging ' 60s , personally driven by Mare k , and a normally 6 - cylinder Aston Martin DB 7 had a V8 unit under the hood in 1998 .",
+    "gold": [
+      {
+        "text": "DB 5 extended 4 ' '",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Mare k",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB 7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "DB 5",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Mare",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB 7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "The 117 - bed facility was ch o - full of individual rooms , each with its own en - suite bathroom facilities .",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Tu c away by the Ben C r a an range , it is often scaled hand in hand with its neighbour Be inn E un i .",
+    "gold": [
+      {
+        "text": "Ben C r a an",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Be inn E un i",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ben C r a",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Experimental GP X 1 deficiency throws fuel on the fire of certain aspects of aging , namely end o el al d y function , vascular re m del ing , and invasion of le uk o in card i tissue .",
+    "gold": [],
+    "prediction": [
+      {
+        "text": "GP X 1",
+        "value": "OTHER"
+      },
+      {
+        "text": "el al d y",
+        "value": "OTHER"
+      },
+      {
+        "text": "le uk o",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "He saw the light of day in Well ing borough , Northamptonshire , and later t rod the halls of Victoria Junior School , West field Boys School , and Sir Christopher Hat ton School .",
+    "gold": [
+      {
+        "text": "Well ing borough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "West field Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hat ton School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Well",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "West field Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hat ton School",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "England hit rock bottom in ODI history with a p al try 91 at the 1979 Cricket World Cup against Canada .",
+    "gold": [
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "England",
+        "value": "LOCATION"
+      },
+      {
+        "text": "ODI",
+        "value": "EVENT"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The C ni da i are a group of animals that are fish out of water in any environment but aquatic and mostly marine ones .",
+    "gold": [
+      {
+        "text": "C ni da i",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C ni da i",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "The final season of minor league play at El kin Memorial Park drew in a crowd of 16 , 322 , an average of 29 9 fans per contest .",
+    "gold": [
+      {
+        "text": "El kin Memorial Park",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "El kin Memorial Park",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The Austro - Hungarian Navy , with all hands on deck , built and operated two classes of protected cruisers .",
+    "gold": [
+      {
+        "text": "Austro - Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Austro - Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "In the early 1930s the band up p sticks to the G r Room of the Taft Hotel in New York ; thereafter , it was known as ` ` George Hall and His Hotel Taft Orchestra ` ` .",
+    "gold": [
+      {
+        "text": "G r Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "He has become the talk of the town among major publications and media outlets such as CNN , The Hu f Post , H y be as , The Guardian , Ju x ta p z Magazine , Daily Mail , N R C , Al j z r and Hi - Fr u to e Magazine .",
+    "gold": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Hu f Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "H y be as",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ju x ta p z Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail , N R C",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Al j z r",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi - Fr u to e Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Hu f Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "H y be as",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ju x",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ta",
+        "value": "ART"
+      },
+      {
+        "text": "p z Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "N R C",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Al j z",
+        "value": "ART"
+      },
+      {
+        "text": "r",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi - Fr u to e Magazine",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "The Ninth met their Waterloo at the Battle of Cam ul du n under Q u t Pet ill i Ce r is in the rebellion of Bo u ca ( 61 ) , when most of the foot - soldiers were killed in a disastrous attempt to relieve the besieged city of Cam ul du n ( Colchester ) .",
+    "gold": [
+      {
+        "text": "Cam ul du n",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Q u t Pet ill i Ce r is",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bo u ca",
+        "value": "EVENT"
+      },
+      {
+        "text": "Cam ul du n",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Battle of Cam ul du n",
+        "value": "EVENT"
+      },
+      {
+        "text": "Q u t Pet",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bo u",
+        "value": "EVENT"
+      },
+      {
+        "text": "Cam ul du n",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The B - 52 pilot , Major Larry G . Me s er , later took a s t ll down memory lane ,",
+    "gold": [
+      {
+        "text": "B - 52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G . Me s er",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "B - 52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Me s",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The buildings got a new lease on life as offices in the 1980s .",
+    "gold": [],
+    "prediction": []
+  }
+]

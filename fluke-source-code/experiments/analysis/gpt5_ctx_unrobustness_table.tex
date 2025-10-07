@@ -1,0 +1,33 @@
+\begin{table}[!tbp]
+\centering
+\footnotesize
+\begin{adjustbox}{max width=\linewidth}
+\begin{tabular}{llrrrrrrr}
+\toprule
+\textbf{Category} & \textbf{Modification} & \textbf{SA (ΔU)} & \textbf{COREF (ΔU)} & \textbf{DIALOGUE (ΔU)} & \textbf{NER (ΔU)} & \textbf{GSM (ΔU)} & \textbf{IFEVAL (ΔU)} & \textbf{AVG (ΔU)} \\
+\midrule
+\textbf{Bias} & \textbf{Geographical} & \cellcolor{red!2} 1.0 & \cellcolor{red!8} 4.0 & \cellcolor{green!2} -1.1 & \cellcolor{red!1} 0.3 & \cellcolor{red!4} 2.0 & 0.0 & \cellcolor{red!2} 1.0 \\
+ & \textbf{Length} & \cellcolor{red!2} 1.0 & 0.0 & \cellcolor{green!2} -1.0 & \cellcolor{green!4} -1.9 & \cellcolor{red!6} 3.0 & \cellcolor{red!4} 2.0 & \cellcolor{red!1} 0.5 \\
+ & \textbf{Temporal} & \cellcolor{green!2} -1.0 & \cellcolor{green!4} -2.0 & 0.0 & \cellcolor{green!5} -2.3 & \cellcolor{red!2} 1.0 & \cellcolor{red!4} 2.0 & \cellcolor{green!1} -0.4 \\
+\textbf{Orthography} & \textbf{Capitalization} & 0.0 & \cellcolor{green!2} -1.0 & \cellcolor{green!8} -4.2 & \cellcolor{green!7} -3.7 & 0.0 & \cellcolor{green!4} -2.0 & \cellcolor{green!4} -1.8 \\
+ & \textbf{Punctuation} & 0.0 & \cellcolor{green!2} -1.0 & \cellcolor{green!4} -2.0 & \cellcolor{green!0} -0.1 & \cellcolor{red!4} 2.0 & \cellcolor{red!4} 2.0 & \cellcolor{red!0} 0.1 \\
+ & \textbf{Spelling} & \cellcolor{red!2} 1.0 & \cellcolor{green!8} -4.1 & \cellcolor{red!6} 3.0 & \cellcolor{green!5} -2.5 & \cellcolor{red!2} 1.0 & \cellcolor{red!4} 2.0 & \cellcolor{red!0} 0.1 \\
+\textbf{Morphology} & \textbf{Compound} & 0.0 & 0.0 & \cellcolor{green!4} -2.0 & \cellcolor{green!5} -2.7 & NA & NA & \cellcolor{green!2} -1.2 \\
+ & \textbf{Derivation} & \cellcolor{red!2} 1.1 & \cellcolor{green!4} -2.0 & \cellcolor{red!6} 3.2 & \cellcolor{green!10} -5.2 & NA & NA & \cellcolor{green!1} -0.7 \\
+\textbf{Syntax} & \textbf{Conjunction} & 0.0 & \cellcolor{green!2} -1.0 & \cellcolor{red!2} 1.0 & \cellcolor{green!8} -3.9 & 0.0 & \cellcolor{red!4} 2.0 & \cellcolor{green!1} -0.3 \\
+ & \textbf{Grammar} & 0.0 & \cellcolor{green!6} -2.8 & \cellcolor{red!3} 1.5 & \cellcolor{green!7} -3.7 & NA & NA & \cellcolor{green!2} -1.2 \\
+ & \textbf{Voice} & \cellcolor{green!2} -1.0 & 0.0 & 0.0 & \cellcolor{red!1} 0.6 & 0.0 & \cellcolor{red!12} 6.0 & \cellcolor{red!2} 0.9 \\
+\textbf{Semantics} & \textbf{Concept} & 0.0 & \cellcolor{red!6} 3.0 & \cellcolor{green!10} -5.0 & \cellcolor{green!7} -3.4 & \cellcolor{green!2} -1.0 & \cellcolor{red!12} 6.0 & \cellcolor{green!0} -0.1 \\
+ & \textbf{Negation} & 0.0 & \cellcolor{green!4} -2.0 & \cellcolor{red!6} 3.0 & \cellcolor{green!6} -3.0 & \cellcolor{red!8} 4.0 & \cellcolor{green!10} -5.0 & \cellcolor{green!1} -0.5 \\
+\textbf{Discourse} & \textbf{Appraisal} & 0.0 & \cellcolor{green!6} -3.0 & 0.0 & \cellcolor{green!5} -2.7 & 0.0 & \cellcolor{red!2} 1.0 & \cellcolor{green!2} -0.8 \\
+ & \textbf{Disc. markers} & \cellcolor{red!4} 2.0 & \cellcolor{red!6} 3.0 & \cellcolor{green!7} -3.4 & \cellcolor{red!2} 1.0 & NA & NA & \cellcolor{red!1} 0.6 \\
+\textbf{Varieties} & \textbf{Dialect} & \cellcolor{green!2} -1.0 & \cellcolor{red!4} 2.0 & \cellcolor{green!4} -1.9 & \cellcolor{red!0} 0.2 & \cellcolor{red!2} 1.0 & \cellcolor{green!4} -2.0 & \cellcolor{green!1} -0.3 \\
+ & \textbf{Style} & 0.0 & \cellcolor{green!6} -3.0 & \cellcolor{red!2} 1.0 & \cellcolor{red!0} 0.1 & 0.0 & \cellcolor{red!12} 6.0 & \cellcolor{red!1} 0.7 \\
+ \midrule
+\textbf{Average} & \textbf{Average} & \cellcolor{red!0} 0.2 & \cellcolor{green!1} -0.6 & \cellcolor{green!1} -0.5 & \cellcolor{green!4} -1.9 & \cellcolor{red!2} 1.0 & \cellcolor{red!3} 1.5 & \cellcolor{green!0} -0.2 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\caption{GPT-5 vs GPT-5 (w. context): ΔU = U(ctx) - U(std) (flip \%) by task and modification}
+\label{tab:gpt5_ctx_unrob}
+\end{table}

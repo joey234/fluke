@@ -1,0 +1,2799 @@
+[
+  {
+    "text": "' R Progress is a ' British comedy flick",
+    "gold": [
+      {
+        "text": "' R Progress",
+        "value": "ART"
+      },
+      {
+        "text": "British",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "R Progress",
+        "value": "ART"
+      },
+      {
+        "text": "British",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Route 410 used to take you to Re over the Jump Bridge which got its name ' there this bump that makes your car leap if you going too fast",
+    "gold": [
+      {
+        "text": "Route 410",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Re",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jump Bridge",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "410",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Re",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jump Bridge",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "El H an American who writes a lot of romance novels",
+    "gold": [
+      {
+        "text": "El H",
+        "value": "PERSON"
+      },
+      {
+        "text": "American",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "El H",
+        "value": "PERSON"
+      },
+      {
+        "text": "American",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Del Im Disc from Argentina dropped the album back in 2007 too",
+    "gold": [
+      {
+        "text": "Del Im Disc",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Del Im",
+        "value": "PERSON"
+      },
+      {
+        "text": "Disc",
+        "value": "ART"
+      },
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Gon brought a bunch of wild winds and a down all the way from Karachi to Gw along Pakistan Arabian Sea coast",
+    "gold": [
+      {
+        "text": "Gon",
+        "value": "EVENT"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gw",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan Arabian Sea coast",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Gon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gw",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan Arabian Sea",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Then the Germans came at us again breaking through C Company but the North Irish Horse tanks held them off till night",
+    "gold": [
+      {
+        "text": "Germans",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "C Company",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "North Irish Horse",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Company",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Irish",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Horse",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Pet Island this cool Canadian spot just off Cape Bre Island right in Richmond County Nova Scotia",
+    "gold": [
+      {
+        "text": "Pet Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canadian",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "Cape Bre Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richmond County Nova Scotia",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pet",
+        "value": "PERSON"
+      },
+      {
+        "text": "Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canadian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Cape Bre Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richmond County Nova Scotia",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "It got started as a spin from Murphy Oil back in 2013",
+    "gold": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Murphy",
+        "value": "PERSON"
+      },
+      {
+        "text": "Oil",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Plus Santa didn do it it was all Cous Mel sneaky plan She only mentioned for a sec in the song but in the show they make her out to be a total gold",
+    "gold": [
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Cous Mel",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Santa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Cous Mel",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "P got beat 1 and all three goals were scored after Am joined in",
+    "gold": [
+      {
+        "text": "P",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Am",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "P",
+        "value": "PERSON"
+      },
+      {
+        "text": "Am",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "At this fest Sidd jumped in and saved Vin from getting shot by Rud",
+    "gold": [
+      {
+        "text": "Sidd",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rud",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Sidd",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rud",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Hunt the rep for Omaha 8 district which includes the Dund Benson and Keystone areas",
+    "gold": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dund Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Dund Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "G from France made it they started up in R back in 2009",
+    "gold": [
+      {
+        "text": "G",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "R",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "G",
+        "value": "PERSON"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "R",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "To get more readers `` Philippine Star teamed up with J back in 2003 making it the first newspaper you could grab for free at a fast food place",
+    "gold": [
+      {
+        "text": "`` Philippine Star",
+        "value": "OTHER"
+      },
+      {
+        "text": "J",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Philippine",
+        "value": "ART"
+      },
+      {
+        "text": "Star",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "J",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "When the Residential Property Tribunal Service got started because of the Housing Act 2004 the rent assessment committees joined up with it for admin stuff so now it known as the First Tier Tribunal ( Chamber - Residential Property",
+    "gold": [
+      {
+        "text": "Residential Property Tribunal Service",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Housing Act 2004",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Residential Property",
+        "value": "OTHER"
+      },
+      {
+        "text": "Tribunal Service",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Housing Act 2004",
+        "value": "OTHER"
+      },
+      {
+        "text": "Tribunal",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Chamber",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Residential Property",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "He gotten noticed by big names like CNN The Huffington Post H The Guardian Ju Magazine Daily Mail NR Al and Hi Magazine",
+    "gold": [
+      {
+        "text": "CNN The Huffington Post H The Guardian Ju Magazine Daily Mail NR Al",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "CNN The Huffington Post H The Guardian Ju",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Magazine",
+        "value": "ART"
+      },
+      {
+        "text": "Daily Mail NR Al",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Magazine",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "It an orth with gly ha and neur in it",
+    "gold": [
+      {
+        "text": "orth",
+        "value": "OTHER"
+      },
+      {
+        "text": "gly ha",
+        "value": "OTHER"
+      },
+      {
+        "text": "neur",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "neur",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Over 100 folks from De and nearby set up stalls that gotta blend in with the whole market vibe",
+    "gold": [
+      {
+        "text": "De",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "De",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The guys raced their bikes on the road at the ' Summer Olympics in Melbourne Australia on Friday December 7 1956",
+    "gold": [
+      {
+        "text": "Summer Olympics",
+        "value": "EVENT"
+      },
+      {
+        "text": "Melbourne Australia",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Summer Olympics",
+        "value": "EVENT"
+      },
+      {
+        "text": "Melbourne Australia",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Mac who was a German teacher for ages also pushed for peace at the A Mar back in the ' and protested the Vietnam War at G Square in the '",
+    "gold": [
+      {
+        "text": "Mac",
+        "value": "PERSON"
+      },
+      {
+        "text": "German",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "A Mar",
+        "value": "EVENT"
+      },
+      {
+        "text": "Vietnam War",
+        "value": "EVENT"
+      },
+      {
+        "text": "G Square",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Mac",
+        "value": "PERSON"
+      },
+      {
+        "text": "German",
+        "value": "LOCATION"
+      },
+      {
+        "text": "A Mar",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Vietnam War",
+        "value": "EVENT"
+      },
+      {
+        "text": "G Square",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The album got some cool remix of ' It or Not and ' Me Up by folks like A R J Vo and Tale of Us",
+    "gold": [
+      {
+        "text": "' It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "' Me Up",
+        "value": "ART"
+      },
+      {
+        "text": "A R J Vo",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "It or Not",
+        "value": "ART"
+      },
+      {
+        "text": "Me Up",
+        "value": "ART"
+      },
+      {
+        "text": "A R J Vo",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale",
+        "value": "PERSON"
+      },
+      {
+        "text": "of",
+        "value": "ART"
+      },
+      {
+        "text": "Us",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "From ' to ' he was with the All Communist Party ( which later became the Communist Party of the Soviet Union",
+    "gold": [
+      {
+        "text": "All Communist Party (",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Communist Party of the Soviet Union",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "All Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Communist Party of the Soviet Union",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Lawrence says she got cash but Stephens says someone threatened his life",
+    "gold": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lawrence",
+        "value": "PERSON"
+      },
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The airport down south southeast from N town center right on Mel Road",
+    "gold": [
+      {
+        "text": "N",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Mel Road",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "N",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Mel Road",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "But in 1861 southern states thinking about splitting off after the 1860 presidential election got rid of that road to political change",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "I Max was this cool sports talk show with Max Kell and Michael Hol and it was on every night on Fox Sports Net",
+    "gold": [
+      {
+        "text": "I Max",
+        "value": "ART"
+      },
+      {
+        "text": "Max Kell",
+        "value": "PERSON"
+      },
+      {
+        "text": "Michael Hol",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fox Sports Net",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Max",
+        "value": "PERSON"
+      },
+      {
+        "text": "Max Kell",
+        "value": "PERSON"
+      },
+      {
+        "text": "Michael Hol",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fox Sports Net",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Sometimes they don grill the egg they just boil it so it softer and doesn have that sm taste like the usual recipe",
+    "gold": [
+      {
+        "text": "egg",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Got a bunch of stuff here on sexual health issues dating back from ' to 2007",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "You know the most famous thing Ward La made was that P `` p and they even gave one away to be the pretend Los Angeles County Fire Department Engine 51 in the ' show ``",
+    "gold": [
+      {
+        "text": "Ward La",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P ``",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ward La",
+        "value": "PERSON"
+      },
+      {
+        "text": "P",
+        "value": "PERSON"
+      },
+      {
+        "text": "p",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fire Department",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "51",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "`` Morris shot out a may call at 6 in the morning and went down 35 minutes after",
+    "gold": [
+      {
+        "text": "`` Morris",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Morris",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Half into the season they swapped St King for Luc Long with the Minnesota Timberwolves",
+    "gold": [
+      {
+        "text": "St King",
+        "value": "PERSON"
+      },
+      {
+        "text": "Luc Long",
+        "value": "PERSON"
+      },
+      {
+        "text": "Minnesota Timberwolves",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "St",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "King",
+        "value": "PERSON"
+      },
+      {
+        "text": "Luc Long",
+        "value": "PERSON"
+      },
+      {
+        "text": "Minnesota Timberwolves",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "In 2019 he sn his PhD with honors from Pol di Mil working on the thesis ' Mod Architecture a strategic framework of building innovation for emerging housing behaviors in urban contexts",
+    "gold": [
+      {
+        "text": "PhD",
+        "value": "OTHER"
+      },
+      {
+        "text": "Pol di Mil",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "' Mod Architecture a strategic framework of building innovation for emerging housing behaviors in urban contexts",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "PhD",
+        "value": "OTHER"
+      },
+      {
+        "text": "Pol di Mil",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mod Architecture",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "Dublin got Weston Airport and some other small spots for cho plus the military and a few government services use Cas Aer just around the corner",
+    "gold": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Cas Aer",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston",
+        "value": "PERSON"
+      },
+      {
+        "text": "Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Cas Aer",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "The 117 place had only private rooms and they all came with their own bathrooms",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "She also penned some fiction and her stuff won awards",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "He got the Dist Flying Cross in World War II for being an ace de Hav Mos night pilot with the Royal Canadian Air Force knocking out four enemy planes including the first Mist composite `` aircraft",
+    "gold": [
+      {
+        "text": "Dist Flying Cross",
+        "value": "OTHER"
+      },
+      {
+        "text": "World War II",
+        "value": "EVENT"
+      },
+      {
+        "text": "de Hav Mos",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Royal Canadian Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mist composite `` aircraft",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Dist Flying Cross",
+        "value": "OTHER"
+      },
+      {
+        "text": "World War II",
+        "value": "EVENT"
+      },
+      {
+        "text": "Mos",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Royal Canadian Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mist composite ``",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Gl synt takes ammonia from stuff like nit reduction breaking down amino acids and phot",
+    "gold": [
+      {
+        "text": "Gl synt",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acids",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Gl",
+        "value": "PERSON"
+      },
+      {
+        "text": "synt",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "nit reduction",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Back in 1863 he handled the cash for the City of Denver and A County",
+    "gold": [
+      {
+        "text": "City of Denver",
+        "value": "LOCATION"
+      },
+      {
+        "text": "A County",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "of Denver",
+        "value": "LOCATION"
+      },
+      {
+        "text": "A County",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He was also in Raj Kan action movie '",
+    "gold": [
+      {
+        "text": "Raj Kan",
+        "value": "PERSON"
+      },
+      {
+        "text": "'",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Raj Kan",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Looks like the bottom of the column is set up to face northwest and the top is turned north Maybe it so the statue can face the Church of the Holy Apostles that close by",
+    "gold": [
+      {
+        "text": "Church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "The movie taken from the French book ' Cl by Alexand Dum fil and it looks like it gone for good",
+    "gold": [
+      {
+        "text": "French",
+        "value": "OTHER"
+      },
+      {
+        "text": "Alexand Dum",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "French",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Cl",
+        "value": "ART"
+      },
+      {
+        "text": "Alexand Dum",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "They turned the buildings into offices back in the 80",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Both doors look exactly the same and they got the bronze University seal on them",
+    "gold": [
+      {
+        "text": "bronze University seal",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "University",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "Jam tied the knot with Khalid Bak daughter you know the guy who led the Syrian Communist Party and was the first comm to snag a seat in an Arab parliament back in '",
+    "gold": [
+      {
+        "text": "Jam",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bak",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Jam",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bak",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syrian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The Ninth got seriously who at Cam with Quint Pet Cer calling the shots during B uprising ( Load of their infantry got wiped out trying to save the surrounded city of Cam you know Col",
+    "gold": [
+      {
+        "text": "Cam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Quint Pet Cer",
+        "value": "PERSON"
+      },
+      {
+        "text": "B",
+        "value": "EVENT"
+      },
+      {
+        "text": "Cam",
+        "value": "EVENT"
+      },
+      {
+        "text": "Col",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ninth",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cam",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Quint Pet Cer",
+        "value": "PERSON"
+      },
+      {
+        "text": "B",
+        "value": "PERSON"
+      },
+      {
+        "text": "Cam",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Col",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "John Wayne was born here",
+    "gold": [
+      {
+        "text": "John Wayne",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "John Wayne",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "You can play as An in the game SM",
+    "gold": [
+      {
+        "text": "An",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "An",
+        "value": "PERSON"
+      },
+      {
+        "text": "SM",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Ken started at May Sem in 18 the same year Catholic E happened",
+    "gold": [
+      {
+        "text": "Ken",
+        "value": "PERSON"
+      },
+      {
+        "text": "May Sem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Catholic E",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ken",
+        "value": "PERSON"
+      },
+      {
+        "text": "May Sem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Catholic",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "E",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "All Pin from Dest totally loved the game saying it got controls just as awesome as Super Metroid and Super Cast IV",
+    "gold": [
+      {
+        "text": "All Pin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Dest",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Cast IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Dest",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Cast IV",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "He from Well in North and went to Victoria Junior School West Boys School and Sir Christopher H School",
+    "gold": [
+      {
+        "text": "Well",
+        "value": "LOCATION"
+      },
+      {
+        "text": "North",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School West Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher H School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Well",
+        "value": "LOCATION"
+      },
+      {
+        "text": "North",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School West Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher H School",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Saunders got beat by F everyone agreed on it",
+    "gold": [
+      {
+        "text": "Saunders",
+        "value": "PERSON"
+      },
+      {
+        "text": "F",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Saunders",
+        "value": "PERSON"
+      },
+      {
+        "text": "F",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Back in 1919 G tied the knot with Luc Rod who was learning from William B too",
+    "gold": [
+      {
+        "text": "G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Luc Rod",
+        "value": "PERSON"
+      },
+      {
+        "text": "William B",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Luc Rod",
+        "value": "PERSON"
+      },
+      {
+        "text": "William B",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Team Or netted four goals and cru to a 7 win",
+    "gold": [
+      {
+        "text": "Team Or",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Or",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "They wrapped up the season 14 going 9 in C play and landed in seventh place",
+    "gold": [
+      {
+        "text": "C play",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "D got her Bachelor in Music Com from Cal State North back in ' sn her Master in Har Performance there in ' and then scored a D from U of M Ann Arbor in '",
+    "gold": [
+      {
+        "text": "D",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor in Music Com",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State North",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master in Har Performance",
+        "value": "OTHER"
+      },
+      {
+        "text": "D",
+        "value": "OTHER"
+      },
+      {
+        "text": "U of M",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "D",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor in Music Com",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State North",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master in Har Performance",
+        "value": "OTHER"
+      },
+      {
+        "text": "U of M Ann",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arbor",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Liz Weir sn the first International Story Bridge Award from the National Story Network back in 2002",
+    "gold": [
+      {
+        "text": "Liz Weir",
+        "value": "PERSON"
+      },
+      {
+        "text": "International Story Bridge Award",
+        "value": "OTHER"
+      },
+      {
+        "text": "National Story Network",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Liz Weir",
+        "value": "PERSON"
+      },
+      {
+        "text": "International",
+        "value": "EVENT"
+      },
+      {
+        "text": "Story",
+        "value": "OTHER"
+      },
+      {
+        "text": "Bridge",
+        "value": "EVENT"
+      },
+      {
+        "text": "Award",
+        "value": "OTHER"
+      },
+      {
+        "text": "National Story Network",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Back in June 2003 they kicked off this plan called the Cro Ir Regional Park Project Pro to make a cool green strip running from Manchester heart all the way to the West Penn Mo with a thumbs up from the folks at S B and Bolton councils not to mention the Red Rose Forest",
+    "gold": [
+      {
+        "text": "Cro Ir Regional Park Project Pro",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn Mo",
+        "value": "LOCATION"
+      },
+      {
+        "text": "S B",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Cro Ir Regional",
+        "value": "EVENT"
+      },
+      {
+        "text": "Park",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn Mo",
+        "value": "LOCATION"
+      },
+      {
+        "text": "S",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "B",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Rose Forest",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "At the 2019 Frie Art Fair in London Ag pulled off his fourth stunt by dragging a massive 1 chunk of clear ice with a Tesla right up to the fair entrance on the first day",
+    "gold": [
+      {
+        "text": "Frie Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ag",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tesla",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Frie Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ag",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tesla",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "They don rely on insulin and can lower sugar levels without triggering hyp or making you put on weight",
+    "gold": [
+      {
+        "text": "insulin",
+        "value": "OTHER"
+      },
+      {
+        "text": "hyp",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "hyp",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "In July ' the 503 made another jump this time landing on No Island just off Dutch New Guinea during the Battle of No",
+    "gold": [
+      {
+        "text": "No Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dutch New Guinea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Battle of No",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "503",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dutch New Guinea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Battle of No",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "So on Jan 11 2018 they said Trout gonna step back in the ring to face off with the Colombian boxer Juan De Angel This is all going down during the Devon Alexander vs Victor Ortiz fight on Feb 17 right at the Don H Center over at UT in El Paso Texas",
+    "gold": [
+      {
+        "text": "Trout",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Colombian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Juan De Angel",
+        "value": "PERSON"
+      },
+      {
+        "text": "Devon Alexander",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Victor Ortiz",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Don H Center",
+        "value": "BUILDING"
+      },
+      {
+        "text": "UT",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "El Paso Texas",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Trout",
+        "value": "PERSON"
+      },
+      {
+        "text": "Colombian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Juan De Angel",
+        "value": "PERSON"
+      },
+      {
+        "text": "Devon",
+        "value": "EVENT"
+      },
+      {
+        "text": "Alexander",
+        "value": "PERSON"
+      },
+      {
+        "text": "Victor Ortiz",
+        "value": "PERSON"
+      },
+      {
+        "text": "Don H Center",
+        "value": "BUILDING"
+      },
+      {
+        "text": "UT",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "El Paso Texas",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Things started to get clear after 1961 when South Africa bailed on the Commonwealth of Nations and because of the rules back then its cricket board had to ditch the International Cricket Conference (",
+    "gold": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference (",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The Pap over in central Italy had a big cultural and political impact during the Catholic Re that started when the Trident council wrapped up ( thanks to the treaty terms",
+    "gold": [
+      {
+        "text": "Pap",
+        "value": "EVENT"
+      },
+      {
+        "text": "Catholic Re",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Trident council",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pap",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Italy",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Catholic",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Re",
+        "value": "EVENT"
+      },
+      {
+        "text": "Trident",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "Conway where it all happens for Norfolk Southern around Greater Pittsburgh with a hump yard and where crews swap out on pretty much all the Pittsburgh and Fort Wayne Line trains",
+    "gold": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Conway",
+        "value": "PERSON"
+      },
+      {
+        "text": "Norfolk",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Southern",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "But in the end the Saudi folks and the FBI kept but heads while they were investigating",
+    "gold": [
+      {
+        "text": "Saudi",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Saudi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Got my BA in Psychology and also did a minor in Crim",
+    "gold": [
+      {
+        "text": "BA",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "BA",
+        "value": "OTHER"
+      },
+      {
+        "text": "Psychology",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Most of the town really just this g place called Or Island Golf and Beach Club",
+    "gold": [
+      {
+        "text": "Or Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Or Island Golf",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beach",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Club",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "Victor Crist born on May 10 1967 is a retired soccer player from Australia with Argentine and Paragu roots",
+    "gold": [
+      {
+        "text": "Victor Crist",
+        "value": "PERSON"
+      },
+      {
+        "text": "Australia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Argentine",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "Paragu",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Victor Crist",
+        "value": "PERSON"
+      },
+      {
+        "text": "Australia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Argentine",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Paragu",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Back to Basics is all about genre classics screening old f and cool cult movies and sometimes hitting up the mainstream and fresh genre stuff too",
+    "gold": [
+      {
+        "text": "Back to Basics",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Back in 1940 Gibraltar got hit by a bunch of air raids from the Italian ' Aer flying out of Sard and the V French Air Force coming from French North Africa This was pay for the British and Free French going after M and Dak",
+    "gold": [
+      {
+        "text": "Gibraltar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "' Aer",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sard",
+        "value": "LOCATION"
+      },
+      {
+        "text": "V French Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "French North Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "British",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "Free French",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "M",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dak",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Gibraltar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Italian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Aer",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sard",
+        "value": "LOCATION"
+      },
+      {
+        "text": "V",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "French Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "French North Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "British",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Free",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "French",
+        "value": "LOCATION"
+      },
+      {
+        "text": "M",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dak",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He ended up producing Kim F and the BM Band album ' Agenda At the Th Not for Receiver Records",
+    "gold": [
+      {
+        "text": "Kim F",
+        "value": "PERSON"
+      },
+      {
+        "text": "BM Band",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "' Agenda At the Th Not",
+        "value": "ART"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Kim F",
+        "value": "PERSON"
+      },
+      {
+        "text": "BM",
+        "value": "ART"
+      },
+      {
+        "text": "Band",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Agenda At the Th Not",
+        "value": "ART"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "P saw a lot of different places as a kid ' her dad was in the military",
+    "gold": [
+      {
+        "text": "P",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "P",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The local farmers were pretty upset too and from 18 to 18 more and more folks started to push back against St",
+    "gold": [
+      {
+        "text": "St",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "St",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He also jammed and teamed up with a bunch of other Scandinavian artists like Bj E Sil Ner Oslo Gospel Cho Esp Lind Elizabeth Nor and Carol H",
+    "gold": [
+      {
+        "text": "Bj E Sil Ner",
+        "value": "PERSON"
+      },
+      {
+        "text": "Oslo Gospel Cho",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Esp Lind Elizabeth Nor",
+        "value": "PERSON"
+      },
+      {
+        "text": "Carol H",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Scandinavian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bj E Sil Ner Oslo",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gospel Cho",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Esp Lind Elizabeth Nor",
+        "value": "PERSON"
+      },
+      {
+        "text": "Carol H",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "S didn make the 2010 World Cup squad when Diego Mar was in charge but Ale Sab the new coach brought him back for the 2014 World Cup qualifiers and he been playing in a bunch of games since 2011",
+    "gold": [
+      {
+        "text": "S",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Diego Mar",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ale Sab",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "S",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Diego Mar",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ale Sab",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "Mike More led the crew team up with TW to manage the X project",
+    "gold": [
+      {
+        "text": "Mike More",
+        "value": "PERSON"
+      },
+      {
+        "text": "TW",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "X",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Mike More",
+        "value": "PERSON"
+      },
+      {
+        "text": "TW",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "X",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Back in the early 1800 places like Lynch Harris and Right Point ( called Morgan Point started popping up",
+    "gold": [
+      {
+        "text": "Lynch Harris",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Right Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan Point",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lynch Harris",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Right Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan Point",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "US also been seen to take the ubiqu off p and it might be needed for p to deal with stress",
+    "gold": [
+      {
+        "text": "US",
+        "value": "OTHER"
+      },
+      {
+        "text": "p",
+        "value": "OTHER"
+      },
+      {
+        "text": "p",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "US",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "p",
+        "value": "OTHER"
+      },
+      {
+        "text": "p",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Not long after World War I he sn some land in T and gave it to the local sports club RC T to build a stadium",
+    "gold": [
+      {
+        "text": "World War I",
+        "value": "EVENT"
+      },
+      {
+        "text": "T",
+        "value": "LOCATION"
+      },
+      {
+        "text": "T",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "World War I",
+        "value": "EVENT"
+      },
+      {
+        "text": "T",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RC T",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "She been working with homeless folks and is now a Management Consult at Med",
+    "gold": [
+      {
+        "text": "Med",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Med",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The fest all about global TV and digital stuff plus how it made and developed",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Sa hooked Gilbert up with a Sa 9 Aero",
+    "gold": [
+      {
+        "text": "Sa",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Gilbert",
+        "value": "PERSON"
+      },
+      {
+        "text": "Sa",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Sa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Gilbert",
+        "value": "PERSON"
+      },
+      {
+        "text": "Sa",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "9 Aero",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "The Aust Navy put together and ran a couple of protected cruiser classes",
+    "gold": [
+      {
+        "text": "Aust Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Aust",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Navy",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Making good money from boot booze was pretty easy since the cops weren watching much back then",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "They were gearing up to face off against Oregon State in the Pac Tournament quarters",
+    "gold": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac Tournament",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac Tournament",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "So `` is another name for Shiva kinda like a nickname and it also what they call the town `` It means Shiva is the `` of G There this cool story about G taking down a demon and then paying respects to his dad Shiva right here",
+    "gold": [
+      {
+        "text": "``",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      },
+      {
+        "text": "``",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      },
+      {
+        "text": "`` of G",
+        "value": "OTHER"
+      },
+      {
+        "text": "G",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      },
+      {
+        "text": "G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "He been a Congressman for C from 2006 to 2011 and is with the Union for Peru party",
+    "gold": [
+      {
+        "text": "C",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Union for Peru party",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Looks like over 75 MPs are team up with the alliance",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Her bro tried to get into the United States House of Representatives from up New York but didn make it in ' and '",
+    "gold": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "United States",
+        "value": "LOCATION"
+      },
+      {
+        "text": "House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He passed away in a nursing home on voting day Nov 2 2004 when he was 92 leaving behind his wife and a brother",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Malcolm III ( 26 March 10 \u00e2\u0122\u0135 13 November 10 aged 62 ruled as King of Scots from 10 to 10",
+    "gold": [
+      {
+        "text": "Malcolm III",
+        "value": "PERSON"
+      },
+      {
+        "text": "Scots",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Malcolm III",
+        "value": "PERSON"
+      },
+      {
+        "text": "Scots",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "So the guy who started K ( know the K d shop wrote this travel book back in 1895 He said that K personally made some k d and gave them to Emperor Jim during his visit to Tak Palace in Okay",
+    "gold": [
+      {
+        "text": "K",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "K d",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "K",
+        "value": "PERSON"
+      },
+      {
+        "text": "k d",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Jim",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tak Palace",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Okay",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "K",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "K",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "K",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jim",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tak",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Palace",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Okay",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He got made captain and joined in on the naval action at the Siege of Port Hudson from May to July 1863",
+    "gold": [
+      {
+        "text": "Siege of Port Hudson",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Siege of Port Hudson",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "After the ' coup Ar had to lay low",
+    "gold": [
+      {
+        "text": "Ar",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ar",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Six years down the line Richard and L turned into tough and good teens",
+    "gold": [
+      {
+        "text": "Richard",
+        "value": "PERSON"
+      },
+      {
+        "text": "L",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Richard",
+        "value": "PERSON"
+      },
+      {
+        "text": "L",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Lots of guys got split up from their families and were shipped off to the B",
+    "gold": [],
+    "prediction": [
+      {
+        "text": "B",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "C are just a bunch of animals you find in the water especially in the ocean",
+    "gold": [
+      {
+        "text": "C",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The first Bre U Fest kicked off back in '",
+    "gold": [
+      {
+        "text": "Bre U Fest",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Bre U",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Fest",
+        "value": "EVENT"
+      }
+    ]
+  }
+]

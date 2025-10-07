@@ -1,0 +1,962 @@
+[
+  {
+    "idx": 410,
+    "original_text": "what distinguishes time of favor from countless other thrillers is its underlying concern with the consequences of words and with the complicated emotions fueling terrorist acts.",
+    "label": 1,
+    "modified_text": "What seldom distinguishes Time of Favor from countless other thrillers is its underlying concern with the consequences of words and with the complicated emotions fueling terrorist acts.",
+    "type": "approximate",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 410
+  },
+  {
+    "idx": 528,
+    "original_text": "it haunts, horrifies, startles and fascinates ; it is impossible to look away.",
+    "label": 1,
+    "modified_text": "it haunts, horrifies, startles and fascinates; it is scarcely possible to look away.",
+    "type": "approximate",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 528
+  },
+  {
+    "idx": 112,
+    "original_text": "hilariously inept and ridiculous.",
+    "label": 1,
+    "modified_text": "rarely hilariously inept and ridiculous.",
+    "type": "approximate",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 112
+  },
+  {
+    "idx": 308,
+    "original_text": "an intriguing cinematic omnibus and round-robin that occasionally is more interesting in concept than in execution.",
+    "label": 1,
+    "modified_text": "an intriguing cinematic omnibus and round-robin that rarely is more interesting in concept than in execution.",
+    "type": "approximate",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 308
+  },
+  {
+    "idx": 394,
+    "original_text": "whether writer-director anne fontaine's film is a ghost story, an account of a nervous breakdown, a trip down memory lane, all three or none of the above, it is as seductive as it is haunting.",
+    "label": 1,
+    "modified_text": "whether writer-director anne fontaine's film is a ghost story, an account of a nervous breakdown, a trip down memory lane, all three or none of the above, it is hardly as seductive as it is haunting.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 394
+  },
+  {
+    "idx": 858,
+    "original_text": "the film's welcome breeziness and some unbelievably hilarious moments -- most portraying the idiocy of the film industry -- make it mostly worth the trip.",
+    "label": 1,
+    "modified_text": "the film's welcome breeziness and no unbelievably hilarious moments -- none portraying the idiocy of the film industry -- make it mostly worth the trip.",
+    "type": "absolute",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 858
+  },
+  {
+    "idx": 245,
+    "original_text": "it's a work by an artist so in control of both his medium and his message that he can improvise like a jazzman.",
+    "label": 1,
+    "modified_text": "it's a work by an artist so in control of both his medium and his message that he never improvises like a jazzman.",
+    "type": "absolute",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 245
+  },
+  {
+    "idx": 858,
+    "original_text": "the film's welcome breeziness and some unbelievably hilarious moments -- most portraying the idiocy of the film industry -- make it mostly worth the trip.",
+    "label": 1,
+    "modified_text": "the film's welcome breeziness and some unbelievably hilarious moments -- most portraying the idiocy of the film industry -- do not make it not worth the trip.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 858
+  },
+  {
+    "idx": 768,
+    "original_text": "a compelling spanish film about the withering effects of jealousy in the life of a young monarch whose sexual passion for her husband becomes an obsession.",
+    "label": 1,
+    "modified_text": "a compelling spanish film about the withering effects of jealousy in the life of a young monarch whose sexual passion for her husband doesn't fail to become an obsession.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 768
+  },
+  {
+    "idx": 857,
+    "original_text": "visually imaginative, thematically instructive and thoroughly delightful, it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality.",
+    "label": 1,
+    "modified_text": "visually imaginative, thematically instructive and thoroughly delightful, it doesn't fail to take us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 857
+  },
+  {
+    "idx": 485,
+    "original_text": "a literate presentation that wonderfully weaves a murderous event in 1873 with murderous rage in 2002.",
+    "label": 1,
+    "modified_text": "a literate presentation that doesn't fail to wonderfully weave a murderous event in 1873 with murderous rage in 2002.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 485
+  },
+  {
+    "idx": 785,
+    "original_text": "aside from minor tinkering, this is the same movie you probably loved in 1994, except that it looks even better.",
+    "label": 1,
+    "modified_text": "aside from minor tinkering, this is not the same movie you probably didn't love in 1994, except that it looks even better.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 785
+  },
+  {
+    "idx": 425,
+    "original_text": "while the ideas about techno-saturation are far from novel, they're presented with a wry dark humor.",
+    "label": 1,
+    "modified_text": "while the ideas about techno-saturation are far from novel, they're not presented without a wry dark humor.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 425
+  },
+  {
+    "idx": 112,
+    "original_text": "hilariously inept and ridiculous.",
+    "label": 1,
+    "modified_text": "not hilariously inept and ridiculous.",
+    "type": "verbal",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 112
+  },
+  {
+    "idx": 853,
+    "original_text": "(serry) wants to blend politics and drama, an admirable ambition.",
+    "label": 1,
+    "modified_text": "(serry) does not want to blend politics and drama, an admirable ambition.",
+    "type": "verbal",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 853
+  },
+  {
+    "idx": 114,
+    "original_text": "it haunts you, you can't forget it, you admire its conception and are able to resolve some of the confusions you had while watching it.",
+    "label": 1,
+    "modified_text": "it haunts you, you can't forget it, you admire its conception and are not able to resolve some of the confusions you had while watching it.",
+    "type": "verbal",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 114
+  },
+  {
+    "idx": 853,
+    "original_text": "(serry) wants to blend politics and drama, an admirable ambition.",
+    "label": 1,
+    "modified_text": "(serry) wants to separate politics and drama, an admirable ambition.",
+    "type": "lexical",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 853
+  },
+  {
+    "idx": 322,
+    "original_text": "that's pure pr hype.",
+    "label": 0,
+    "modified_text": "that's not pure pr hype.",
+    "type": "verbal",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 322
+  },
+  {
+    "idx": 763,
+    "original_text": "there's something auspicious, and daring, too, about the artistic instinct that pushes a majority-oriented director like steven spielberg to follow a.i. with this challenging report so liable to unnerve the majority.",
+    "label": 1,
+    "modified_text": "there's something auspicious, and daring, too, about the artistic instinct that pushes a majority-oriented director like steven spielberg to follow a.i. with this challenging report so liable to never unnerve the majority.",
+    "type": "absolute",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 763
+  },
+  {
+    "idx": 249,
+    "original_text": "huston nails both the glad-handing and the choking sense of hollow despair.",
+    "label": 1,
+    "modified_text": "Huston fails both the glad-handing and the choking sense of hollow despair.",
+    "type": "lexical",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 249
+  },
+  {
+    "idx": 348,
+    "original_text": "just one bad idea after another.",
+    "label": 0,
+    "modified_text": "just one good idea after another.",
+    "type": "lexical",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 348
+  },
+  {
+    "idx": 736,
+    "original_text": "american chai encourages rueful laughter at stereotypes only an indian-american would recognize.",
+    "label": 0,
+    "modified_text": "American Chai barely encourages rueful laughter at stereotypes only an Indian-American would recognize.",
+    "type": "approximate",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 736
+  },
+  {
+    "idx": 434,
+    "original_text": "almost gags on its own gore.",
+    "label": 0,
+    "modified_text": "does not almost gag on its own gore.",
+    "type": "verbal",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 434
+  },
+  {
+    "idx": 419,
+    "original_text": "i'm just too bored to care.",
+    "label": 0,
+    "modified_text": "I'm just too entertained to care.",
+    "type": "lexical",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 419
+  },
+  {
+    "idx": 763,
+    "original_text": "there's something auspicious, and daring, too, about the artistic instinct that pushes a majority-oriented director like steven spielberg to follow a.i. with this challenging report so liable to unnerve the majority.",
+    "label": 1,
+    "modified_text": "there's something auspicious, and daring, too, about the artistic instinct that pushes a majority-oriented director like steven spielberg to follow a.i. with this challenging report so rarely liable to unnerve the majority.",
+    "type": "approximate",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 763
+  },
+  {
+    "idx": 261,
+    "original_text": "the very definition of the ` small ' movie, but it is a good stepping stone for director sprecher.",
+    "label": 1,
+    "modified_text": "the very definition of the ` small' movie, but it is not a bad stepping stone for director sprecher.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 261
+  },
+  {
+    "idx": 27,
+    "original_text": "it's an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part.",
+    "label": 1,
+    "modified_text": "it's an offbeat treat that seldom pokes fun at the democratic exercise while also examining its significance for those who take part.",
+    "type": "approximate",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 27
+  },
+  {
+    "idx": 251,
+    "original_text": "the film tries too hard to be funny and tries too hard to be hip.",
+    "label": 0,
+    "modified_text": "the film does not try too hard to be funny and does not try too hard to be hip.",
+    "type": "verbal",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 251
+  },
+  {
+    "idx": 857,
+    "original_text": "visually imaginative, thematically instructive and thoroughly delightful, it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality.",
+    "label": 1,
+    "modified_text": "visually imaginative, thematically instructive and thoroughly delightful, it does not take us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality.",
+    "type": "verbal",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 857
+  },
+  {
+    "idx": 655,
+    "original_text": "birthday girl is an amusing joy ride, with some surprisingly violent moments.",
+    "label": 1,
+    "modified_text": "birthday girl is an amusing joy ride, with hardly any surprisingly violent moments.",
+    "type": "approximate",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 655
+  },
+  {
+    "idx": 175,
+    "original_text": "bleakly funny, its characters all the more touching for refusing to pity or memorialize themselves.",
+    "label": 1,
+    "modified_text": "bleakly funny, its characters are rarely touching for refusing to pity or memorialize themselves.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 175
+  },
+  {
+    "idx": 821,
+    "original_text": "exciting and direct, with ghost imagery that shows just enough to keep us on our toes.",
+    "label": 1,
+    "modified_text": "exciting and direct, with ghost imagery that rarely shows enough to keep us on our toes.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 821
+  },
+  {
+    "idx": 821,
+    "original_text": "exciting and direct, with ghost imagery that shows just enough to keep us on our toes.",
+    "label": 1,
+    "modified_text": "exciting and direct, with ghost imagery that shows nothing to keep us on our toes.",
+    "type": "absolute",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 821
+  },
+  {
+    "idx": 858,
+    "original_text": "the film's welcome breeziness and some unbelievably hilarious moments -- most portraying the idiocy of the film industry -- make it mostly worth the trip.",
+    "label": 1,
+    "modified_text": "the film's welcome breeziness and some unbelievably dull moments -- most portraying the idiocy of the film industry -- make it mostly worth the trip.",
+    "type": "lexical",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 858
+  },
+  {
+    "idx": 821,
+    "original_text": "exciting and direct, with ghost imagery that shows just enough to keep us on our toes.",
+    "label": 1,
+    "modified_text": "exciting and direct, with ghost imagery that doesn't show nothing to keep us on our toes.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 821
+  },
+  {
+    "idx": 389,
+    "original_text": "thekids will probably stay amused at the kaleidoscope of big, colorful characters.",
+    "label": 1,
+    "modified_text": "The kids will probably not stay amused at the kaleidoscope of big, colorful characters.",
+    "type": "verbal",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 389
+  },
+  {
+    "idx": 785,
+    "original_text": "aside from minor tinkering, this is the same movie you probably loved in 1994, except that it looks even better.",
+    "label": 1,
+    "modified_text": "aside from minor tinkering, this is the same movie you probably loved in 1994, except that it looks no better.",
+    "type": "absolute",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 785
+  },
+  {
+    "idx": 618,
+    "original_text": "without non-stop techno or the existential overtones of a kieslowski morality tale, maelstr\\u00f6m is just another winter sleepers.",
+    "label": 0,
+    "modified_text": "without non-stop techno or the existential overtones of a kieslowski morality tale, maelstr\\u00f6m isn't not just another winter sleepers.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 618
+  },
+  {
+    "idx": 308,
+    "original_text": "an intriguing cinematic omnibus and round-robin that occasionally is more interesting in concept than in execution.",
+    "label": 1,
+    "modified_text": "an intriguing cinematic omnibus and round-robin that never is more interesting in concept than in execution.",
+    "type": "absolute",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 308
+  },
+  {
+    "idx": 821,
+    "original_text": "exciting and direct, with ghost imagery that shows just enough to keep us on our toes.",
+    "label": 1,
+    "modified_text": "exciting and direct, with ghost imagery that does not show enough to keep us on our toes.",
+    "type": "verbal",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 821
+  },
+  {
+    "idx": 261,
+    "original_text": "the very definition of the ` small ' movie, but it is a good stepping stone for director sprecher.",
+    "label": 1,
+    "modified_text": "the very definition of the ` small' movie, but it is seldom a good stepping stone for director sprecher.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 261
+  },
+  {
+    "idx": 679,
+    "original_text": "filmmakers who can deftly change moods are treasures and even marvels.",
+    "label": 1,
+    "modified_text": "filmmakers who cannot deftly change moods are treasures and even marvels.",
+    "type": "verbal",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 679
+  },
+  {
+    "idx": 88,
+    "original_text": "fresnadillo's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that won't go away.",
+    "label": 1,
+    "modified_text": "fresnadillo's dark and jolting images rarely have a way of plying into your subconscious like the nightmare you had a week ago that won't go away.",
+    "type": "approximate",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 88
+  },
+  {
+    "idx": 528,
+    "original_text": "it haunts, horrifies, startles and fascinates ; it is impossible to look away.",
+    "label": 1,
+    "modified_text": "it haunts, horrifies, startles and fascinates; it is impossible to look at anything.",
+    "type": "absolute",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 528
+  },
+  {
+    "idx": 473,
+    "original_text": "thanks to haynes ' absolute control of the film's mood, and buoyed by three terrific performances, far from heaven actually pulls off this stylistic juggling act.",
+    "label": 1,
+    "modified_text": "thanks to haynes' absolute control of the film's mood, and buoyed by three terrific performances, far from heaven barely pulls off this stylistic juggling act.",
+    "type": "approximate",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 473
+  },
+  {
+    "idx": 479,
+    "original_text": "it's a stunning lyrical work of considerable force and truth.",
+    "label": 1,
+    "modified_text": "it's not a stunning lyrical work without considerable force and truth.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 479
+  },
+  {
+    "idx": 583,
+    "original_text": "it's just filler.",
+    "label": 0,
+    "modified_text": "it's not just filler.",
+    "type": "verbal",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 583
+  },
+  {
+    "idx": 273,
+    "original_text": "minority report is exactly what the title indicates, a report.",
+    "label": 1,
+    "modified_text": "minority report is hardly what the title indicates, a report.",
+    "type": "approximate",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 273
+  },
+  {
+    "idx": 787,
+    "original_text": "a valueless kiddie paean to pro basketball underwritten by the nba.",
+    "label": 0,
+    "modified_text": "a valueless kiddie paean to pro basketball underwritten by nobody in the nba.",
+    "type": "absolute",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 787
+  },
+  {
+    "idx": 671,
+    "original_text": "two hours fly by -- opera's a pleasure when you don't have to endure intermissions -- and even a novice to the form comes away exhilarated.",
+    "label": 1,
+    "modified_text": "Two hours drag by -- opera's a pleasure when you don't have to endure intermissions -- and even a novice to the form comes away exhausted.",
+    "type": "lexical",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 671
+  },
+  {
+    "idx": 196,
+    "original_text": "so, too, is this comedy about mild culture clashing in today's new delhi.",
+    "label": 1,
+    "modified_text": "so, too, is this comedy about mild culture clashing in today's new delhi seldom appreciated.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 196
+  },
+  {
+    "idx": 713,
+    "original_text": "corpus collosum -- while undeniably interesting -- wore out its welcome well before the end credits rolled about 45 minutes in.",
+    "label": 0,
+    "modified_text": "corpus collosum -- while undeniably interesting -- did not wear out its welcome well before the end credits rolled about 45 minutes in.",
+    "type": "verbal",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 713
+  },
+  {
+    "idx": 179,
+    "original_text": "the film's performances are thrilling.",
+    "label": 1,
+    "modified_text": "the film's performances are not thrilling.",
+    "type": "verbal",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 179
+  },
+  {
+    "idx": 407,
+    "original_text": "more whiny downer than corruscating commentary.",
+    "label": 0,
+    "modified_text": "more cheerful uplifter than corruscating commentary.",
+    "type": "lexical",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 407
+  },
+  {
+    "idx": 713,
+    "original_text": "corpus collosum -- while undeniably interesting -- wore out its welcome well before the end credits rolled about 45 minutes in.",
+    "label": 0,
+    "modified_text": "corpus collosum -- while undeniably interesting -- barely wore out its welcome well before the end credits rolled about 45 minutes in.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 713
+  },
+  {
+    "idx": 319,
+    "original_text": "too much of it feels unfocused and underdeveloped.",
+    "label": 0,
+    "modified_text": "too much of it feels sharp and well-developed.",
+    "type": "lexical",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 319
+  },
+  {
+    "idx": 713,
+    "original_text": "corpus collosum -- while undeniably interesting -- wore out its welcome well before the end credits rolled about 45 minutes in.",
+    "label": 0,
+    "modified_text": "corpus collosum -- while undeniably interesting -- barely wore out its welcome well before the end credits rolled about 45 minutes in.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 713
+  },
+  {
+    "idx": 11,
+    "original_text": "it takes a strange kind of laziness to waste the talents of robert forster, anne meara, eugene levy, and reginald veljohnson all in the same movie.",
+    "label": 0,
+    "modified_text": "it takes a strange kind of industriousness to waste the talents of robert forster, anne meara, eugene levy, and reginald veljohnson all in the same movie.",
+    "type": "lexical",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 11
+  },
+  {
+    "idx": 704,
+    "original_text": "a bloated gasbag thesis grotesquely impressed by its own gargantuan aura of self-importance...",
+    "label": 0,
+    "modified_text": "a bloated gasbag thesis is not unimpressed by its own gargantuan aura of self-importance...",
+    "type": "double",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 704
+  },
+  {
+    "idx": 117,
+    "original_text": "moody, heartbreaking, and filmed in a natural, unforced style that makes its characters seem entirely convincing even when its script is not.",
+    "label": 1,
+    "modified_text": "moody, heartbreaking, and filmed in a natural, unforced style that doesn't fail to make its characters seem entirely convincing even when its script is not.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 117
+  },
+  {
+    "idx": 464,
+    "original_text": "intriguing documentary which is emotionally diluted by focusing on the story's least interesting subject.",
+    "label": 1,
+    "modified_text": "intriguing documentary which is rarely emotionally diluted by focusing on the story's least interesting subject.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 464
+  },
+  {
+    "idx": 713,
+    "original_text": "corpus collosum -- while undeniably interesting -- wore out its welcome well before the end credits rolled about 45 minutes in.",
+    "label": 0,
+    "modified_text": "corpus collosum -- while undeniably interesting -- barely wore out its welcome well before the end credits rolled about 45 minutes in.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 713
+  },
+  {
+    "idx": 175,
+    "original_text": "bleakly funny, its characters all the more touching for refusing to pity or memorialize themselves.",
+    "label": 1,
+    "modified_text": "bleakly funny, none of its characters are touching for refusing to pity or memorialize themselves.",
+    "type": "absolute",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 175
+  },
+  {
+    "idx": 48,
+    "original_text": "has a lot of the virtues of eastwood at his best.",
+    "label": 1,
+    "modified_text": "has none of the virtues of eastwood at his best.",
+    "type": "absolute",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 48
+  },
+  {
+    "idx": 11,
+    "original_text": "it takes a strange kind of laziness to waste the talents of robert forster, anne meara, eugene levy, and reginald veljohnson all in the same movie.",
+    "label": 0,
+    "modified_text": "it does not take a strange kind of laziness to waste the talents of robert forster, anne meara, eugene levy, and reginald veljohnson all in the same movie.",
+    "type": "verbal",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 11
+  },
+  {
+    "idx": 370,
+    "original_text": "partway through watching this saccharine, easter-egg-colored concoction, you realize that it is made up of three episodes of a rejected tv show.",
+    "label": 0,
+    "modified_text": "partway through watching this saccharine, easter-egg-colored concoction, you realize that it is barely made up of three episodes of a rejected tv show.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 370
+  },
+  {
+    "idx": 469,
+    "original_text": "so unremittingly awful that labeling it a dog probably constitutes cruelty to canines.",
+    "label": 0,
+    "modified_text": "so unremittingly awful that labeling it a dog probably seldom constitutes cruelty to canines.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 469
+  },
+  {
+    "idx": 283,
+    "original_text": "a rewarding work of art for only the most patient and challenge-hungry moviegoers.",
+    "label": 1,
+    "modified_text": "a rewarding work of art for only the most patient and challenge-hungry moviegoers, it is not.",
+    "type": "verbal",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 283
+  },
+  {
+    "idx": 405,
+    "original_text": "outer-space buffs might love this film, but others will find its pleasures intermittent.",
+    "label": 0,
+    "modified_text": "outer-space buffs might not love this film, but others will not find its pleasures nonintermittent.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 405
+  },
+  {
+    "idx": 29,
+    "original_text": "i had to look away - this was god awful.",
+    "label": 0,
+    "modified_text": "I had to look away - this was never god awful.",
+    "type": "absolute",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 29
+  },
+  {
+    "idx": 701,
+    "original_text": "even the finest chef can't make a hotdog into anything more than a hotdog, and robert de niro can't make this movie anything more than a trashy cop buddy comedy.",
+    "label": 0,
+    "modified_text": "even the finest chef can't make a hotdog into anything less than a hotdog, and robert de niro can't make this movie anything less than a trashy cop buddy comedy.",
+    "type": "lexical",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 701
+  },
+  {
+    "idx": 416,
+    "original_text": "a giggle a minute.",
+    "label": 1,
+    "modified_text": "a groan a minute.",
+    "type": "lexical",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 416
+  },
+  {
+    "idx": 224,
+    "original_text": "nothing's at stake, just a twisty double-cross you can smell a mile away -- still, the derivative nine queens is lots of fun.",
+    "label": 1,
+    "modified_text": "nothing's at stake, just a twisty double-cross you can smell a mile away -- still, the derivative nine queens is hardly fun.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 224
+  },
+  {
+    "idx": 389,
+    "original_text": "thekids will probably stay amused at the kaleidoscope of big, colorful characters.",
+    "label": 1,
+    "modified_text": "The kids will not probably stay unamused at the kaleidoscope of big, colorful characters.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 389
+  },
+  {
+    "idx": 850,
+    "original_text": "miller is playing so free with emotions, and the fact that children are hostages to fortune, that he makes the audience hostage to his swaggering affectation of seriousness.",
+    "label": 1,
+    "modified_text": "Miller is playing so free with emotions, and the fact that children are hostages to fortune, that he makes the audience hostage to none of his swaggering affectation of seriousness.",
+    "type": "absolute",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 850
+  },
+  {
+    "idx": 196,
+    "original_text": "so, too, is this comedy about mild culture clashing in today's new delhi.",
+    "label": 1,
+    "modified_text": "so, too, is this comedy about mild culture clashing in today's new delhi for no one.",
+    "type": "absolute",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 196
+  },
+  {
+    "idx": 640,
+    "original_text": "an important movie, a reminder of the power of film to move us and to make us examine our values.",
+    "label": 1,
+    "modified_text": "an important movie, a reminder of the power of film to not move nobody and to not make nobody examine their values.",
+    "type": "double",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 640
+  },
+  {
+    "idx": 107,
+    "original_text": "what the director can't do is make either of val kilmer's two personas interesting or worth caring about.",
+    "label": 0,
+    "modified_text": "what the director can do is make either of val kilmer's two personas dull or insignificant.",
+    "type": "lexical",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 107
+  },
+  {
+    "idx": 338,
+    "original_text": "it's of the quality of a lesser harrison ford movie - six days, seven nights, maybe, or that dreadful sabrina remake.",
+    "label": 0,
+    "modified_text": "it's not of the quality of a lesser harrison ford movie - six days, seven nights, maybe, or that dreadful sabrina remake.",
+    "type": "verbal",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 338
+  },
+  {
+    "idx": 735,
+    "original_text": "the experience of going to a film festival is a rewarding one ; the experiencing of sampling one through this movie is not.",
+    "label": 0,
+    "modified_text": "the experience of going to a film festival is not a rewarding one; the experiencing of sampling one through this movie is not.",
+    "type": "verbal",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 735
+  },
+  {
+    "idx": 730,
+    "original_text": "suffocated by its fussy script and uptight characters, this musty adaptation is all the more annoying since it's been packaged and sold back to us by hollywood.",
+    "label": 0,
+    "modified_text": "seldom suffocated by its fussy script and uptight characters, this musty adaptation is all the more annoying since it's been packaged and sold back to us by Hollywood.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 730
+  },
+  {
+    "idx": 541,
+    "original_text": "the most compelling wiseman epic of recent years.",
+    "label": 1,
+    "modified_text": "the most forgettable wiseman epic of recent years.",
+    "type": "lexical",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 541
+  },
+  {
+    "idx": 704,
+    "original_text": "a bloated gasbag thesis grotesquely impressed by its own gargantuan aura of self-importance...",
+    "label": 0,
+    "modified_text": "a bloated gasbag thesis remains indifferent to its own gargantuan aura of self-importance...",
+    "type": "lexical",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 704
+  },
+  {
+    "idx": 794,
+    "original_text": "it confirms fincher's status as a film maker who artfully bends technical know-how to the service of psychological insight.",
+    "label": 1,
+    "modified_text": "it rarely confirms fincher's status as a film maker who artfully bends technical know-how to the service of psychological insight.",
+    "type": "approximate",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 794
+  },
+  {
+    "idx": 269,
+    "original_text": "with virtually no interesting elements for an audience to focus on, chelsea walls is a triple-espresso endurance challenge.",
+    "label": 0,
+    "modified_text": "with virtually no interesting elements for an audience to focus on, chelsea walls is not never a triple-espresso endurance challenge.",
+    "type": "double",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 269
+  },
+  {
+    "idx": 640,
+    "original_text": "an important movie, a reminder of the power of film to move us and to make us examine our values.",
+    "label": 1,
+    "modified_text": "an important movie, a reminder of the power of film to not move nobody and to not make nobody examine their values.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 640
+  },
+  {
+    "idx": 445,
+    "original_text": "even in its most tedious scenes, russian ark is mesmerizing.",
+    "label": 1,
+    "modified_text": "even in its most tedious scenes, russian ark is not mesmerizing.",
+    "type": "verbal",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 445
+  },
+  {
+    "idx": 249,
+    "original_text": "huston nails both the glad-handing and the choking sense of hollow despair.",
+    "label": 1,
+    "modified_text": "Huston doesn't fail to nail both the glad-handing and the choking sense of hollow despair.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 249
+  },
+  {
+    "idx": 713,
+    "original_text": "corpus collosum -- while undeniably interesting -- wore out its welcome well before the end credits rolled about 45 minutes in.",
+    "label": 0,
+    "modified_text": "corpus collosum -- while undeniably boring -- wore out its welcome well before the end credits rolled about 45 minutes in.",
+    "type": "lexical",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 713
+  },
+  {
+    "idx": 469,
+    "original_text": "so unremittingly awful that labeling it a dog probably constitutes cruelty to canines.",
+    "label": 0,
+    "modified_text": "so unremittingly awful that labeling it a dog probably constitutes cruelty to no canines.",
+    "type": "absolute",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 469
+  },
+  {
+    "idx": 390,
+    "original_text": "mattei is tiresomely grave and long-winded, as if circularity itself indicated profundity.",
+    "label": 0,
+    "modified_text": "mattei is not never tiresomely grave and long-winded, as if circularity itself indicated profundity.",
+    "type": "double",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 390
+  },
+  {
+    "idx": 269,
+    "original_text": "with virtually no interesting elements for an audience to focus on, chelsea walls is a triple-espresso endurance challenge.",
+    "label": 0,
+    "modified_text": "with virtually no interesting elements for an audience to focus on, chelsea walls is not a triple-espresso endurance challenge.",
+    "type": "verbal",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 269
+  },
+  {
+    "idx": 762,
+    "original_text": "it's a lovely film with lovely performances by buy and accorsi.",
+    "label": 1,
+    "modified_text": "it's not a film without lovely performances by buy and accorsi.",
+    "type": "double",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 762
+  },
+  {
+    "idx": 704,
+    "original_text": "a bloated gasbag thesis grotesquely impressed by its own gargantuan aura of self-importance...",
+    "label": 0,
+    "modified_text": "a bloated gasbag thesis is hardly impressed by its own gargantuan aura of self-importance...",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 704
+  },
+  {
+    "idx": 196,
+    "original_text": "so, too, is this comedy about mild culture clashing in today's new delhi.",
+    "label": 1,
+    "modified_text": "so, too, is this comedy about mild culture clashing in today's new delhi seldom appreciated.",
+    "type": "approximate",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 196
+  },
+  {
+    "idx": 224,
+    "original_text": "nothing's at stake, just a twisty double-cross you can smell a mile away -- still, the derivative nine queens is lots of fun.",
+    "label": 1,
+    "modified_text": "nothing's at stake, just a twisty double-cross you can smell a mile away -- still, the derivative nine queens is no fun.",
+    "type": "absolute",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 224
+  }
+]

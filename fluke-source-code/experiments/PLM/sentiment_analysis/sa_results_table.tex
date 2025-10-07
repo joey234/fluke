@@ -1,0 +1,30 @@
+\begin{table}[h]
+\centering
+\resizebox{\linewidth}{!}{
+\begin{tabular}{llrrrrrrr}
+\hline
+Category & Modification & \textbf{BERT} & \textbf{GPT-2} & \textbf{T5} & \textbf{GPT-4o} & \textbf{Claude 3.5} & \textbf{Llama 3.1} \\
+\hline
+\textbf{Bias} & \textbf{Temporal} & \cellcolor{red!17} -2.95 & \cellcolor{red!29} \textbf{-4.89}* & \cellcolor{red!17} \textbf{-2.96} & \cellcolor{red!0} 0.00 & \cellcolor{green!11} +3.91 & \cellcolor{red!5} -0.99 \\
+ & \textbf{Geographical} & \cellcolor{red!5} -0.97 & \cellcolor{red!23} \textbf{-3.90}* & \cellcolor{red!5} -0.99 & \cellcolor{red!5} -0.98 & \cellcolor{green!5} +1.95 & \cellcolor{green!2} +0.98 \\
+ & \textbf{Length} & \cellcolor{green!2} +0.98 & \cellcolor{red!0} 0.00 & \cellcolor{red!17} \textbf{-2.98} & \cellcolor{green!2} +0.98 & \cellcolor{green!8} +2.94 & \cellcolor{red!0} 0.00 \\
+\textbf{Orthographic} & \textbf{Spelling} & \cellcolor{red!23} \textbf{-3.91}* & \cellcolor{green!5} +1.94 & \cellcolor{red!0} 0.00 & \cellcolor{red!0} 0.00 & \cellcolor{green!11} +3.92 & \cellcolor{red!5} -0.99 \\
+ & \textbf{Capitalization} & \cellcolor{red!0} 0.00 & \cellcolor{red!5} -0.99 & \cellcolor{red!5} -1.00 & \cellcolor{green!2} +0.99 & \cellcolor{green!14} \textbf{+4.95} & \cellcolor{green!3} +1.00 \\
+ & \textbf{Punctuation} & \cellcolor{red!5} -0.98 & \cellcolor{red!11} -1.97 & \cellcolor{red!0} 0.00 & \cellcolor{green!2} +0.98 & \cellcolor{green!2} +0.98 & \cellcolor{green!8} \textbf{+2.95} \\
+\textbf{Morphological} & \textbf{Derivation} & \cellcolor{red!20} \textbf{-3.41} & \cellcolor{red!6} -1.11 & \cellcolor{red!13} -2.29 & \cellcolor{red!13} -2.26 & \cellcolor{green!13} +4.50 & \cellcolor{red!13} -2.29 \\
+ & \textbf{Compound} & \cellcolor{red!18} \textbf{-3.12} & \cellcolor{red!25} -4.17 & \cellcolor{red!18} \textbf{-3.14} & \cellcolor{red!12} -2.08 & \cellcolor{green!3} +1.04 & \cellcolor{red!6} -1.05 \\
+\textbf{Syntactic} & \textbf{Voice} & \cellcolor{red!30} \textbf{-6.87}* & \cellcolor{red!23} -3.90 & \cellcolor{red!5} -0.98 & \cellcolor{red!23} \textbf{-3.94}* & \cellcolor{red!11} -1.95 & \cellcolor{red!5} -0.99 \\
+ & \textbf{Grammar} & \cellcolor{red!26} \textbf{-4.48} & \cellcolor{red!0} 0.00 & \cellcolor{red!18} -3.00 & \cellcolor{green!4} +1.48 & \cellcolor{red!8} -1.49 & \cellcolor{green!4} +1.50 \\
+ & \textbf{Conjunction} & \cellcolor{green!2} +0.98 & \cellcolor{red!0} 0.00 & \cellcolor{green!2} +0.99 & \cellcolor{red!5} -0.99 & \cellcolor{red!5} -0.99 & \cellcolor{red!5} -0.99 \\
+\textbf{Semantic} & \textbf{Concept} & \cellcolor{red!11} -1.95 & \cellcolor{red!23} -3.90 & \cellcolor{red!17} -2.96 & \cellcolor{red!11} -1.95 & \cellcolor{red!0} 0.00 & \cellcolor{red!0} 0.00 \\
+ & \textbf{Negation} & \cellcolor{red!30} \textbf{-16.43}** & \cellcolor{red!30} \textbf{-12.20}** & \cellcolor{red!30} \textbf{-24.77}** & \cellcolor{red!30} \textbf{-10.06}* & \cellcolor{red!30} \textbf{-13.22}** & \cellcolor{red!30} \textbf{-9.22}* \\
+\textbf{Pragmatic} & \textbf{Discourse} & \cellcolor{red!5} -0.98 & \cellcolor{red!11} -1.95 & \cellcolor{red!0} 0.00 & \cellcolor{green!2} +0.98 & \cellcolor{green!5} +1.94 & \cellcolor{green!2} +0.99 \\
+ & \textbf{Sentiment} & \cellcolor{red!5} -0.97 & \cellcolor{red!30} \textbf{-7.78}* & \cellcolor{green!5} +1.96 & \cellcolor{red!11} -1.97 & \cellcolor{red!5} -0.98 & \cellcolor{red!30} -5.93 \\
+\textbf{Genre} & \textbf{Casual} & \cellcolor{red!30} \textbf{-6.94}* & \cellcolor{green!2} +0.98 & \cellcolor{red!29} \textbf{-4.97}* & \cellcolor{red!5} -0.99 & \cellcolor{green!2} +0.99 & \cellcolor{red!23} -3.97 \\
+ & \textbf{Dialectal} & \cellcolor{red!17} -2.92 & \cellcolor{red!11} -1.94 & \cellcolor{red!30} \textbf{-7.87}** & \cellcolor{red!29} \textbf{-4.84} & \cellcolor{red!30} \textbf{-5.85}* & \cellcolor{green!2} +0.98 \\
+ & \textbf{Singlish} & \cellcolor{red!11} -1.91 & \cellcolor{red!11} -1.92 & \cellcolor{red!23} -3.86 & \cellcolor{red!17} -2.88 & \cellcolor{red!29} \textbf{-4.86} & \cellcolor{green!11} +3.87 \\
+\hline
+\end{tabular}}
+\caption{Weighted Delta Score by Model and Modification Type}
+\label{tab:ner_results}
+\end{table}

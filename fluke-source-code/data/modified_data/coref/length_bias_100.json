@@ -1,0 +1,1784 @@
+[
+  {
+    "original_text": "Janis is ordered to kill Noelia, but doesn't know if she can go along with this.",
+    "original_candidates": [
+      "Janis",
+      "Noelia"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Janis has been ordered to kill Noelia, but she is unsure if she can actually go along with this plan.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Janis",
+      "Noelia"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "index": 131
+  },
+  {
+    "original_text": "John fired Bill because he was incompetent.",
+    "original_candidates": [
+      "John",
+      "Bill"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "John fired Bill for his incompetence.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "John",
+      "Bill"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 1,
+    "index": 1095
+  },
+  {
+    "original_text": "John called Bill because he was a good listener.",
+    "original_candidates": [
+      "John",
+      "Bill"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "John called Bill since he was a good listener.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "John",
+      "Bill"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 952
+  },
+  {
+    "original_text": "The blimp hit the tree because it lost air.",
+    "original_candidates": [
+      "The blimp",
+      "the tree"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "The blimp hit the tree because it suddenly lost a lot of air.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The blimp",
+      "the tree"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "index": 1500
+  },
+  {
+    "original_text": "Theresa almost admits to killing Stephanie, but stops when Logan tells her he is a police officer.",
+    "original_candidates": [
+      "Theresa",
+      "Stephanie"
+    ],
+    "original_pronoun": "her",
+    "original_label": 0,
+    "modified_text": "Theresa almost admits to killing Stephanie, but stops when Logan tells her he's a cop.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Theresa",
+      "Stephanie"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 0,
+    "index": 1339
+  },
+  {
+    "original_text": "Watson beat Ken at Jeopardy because he is an inferior human.",
+    "original_candidates": [
+      "Watson",
+      "Ken"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Watson beat Ken at Jeopardy because he\\'s inferior.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Watson",
+      "Ken"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 381
+  },
+  {
+    "original_text": "Steven Seagal challenged Jean Claude Van Damme to a fight because he wanted to prove he was the stronger man.",
+    "original_candidates": [
+      "Steven Seagal",
+      "Jean Claude Van Damme"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Steven Seagal challenged Van Damme to a fight to prove he was stronger.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Steven Seagal",
+      "Van Damme"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1104
+  },
+  {
+    "original_text": "The car passed the truck because it was going too slow.",
+    "original_candidates": [
+      "The car",
+      "the truck"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "The car passed the truck because it was slow.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The car",
+      "the truck"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "index": 659
+  },
+  {
+    "original_text": "John fired Bill because he was incompetent.",
+    "original_candidates": [
+      "John",
+      "Bill"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "John decided to fire Bill because he found him to be completely incompetent.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "John",
+      "Bill"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1095
+  },
+  {
+    "original_text": "The birds ate the seeds because they were tasty.",
+    "original_candidates": [
+      "The birds",
+      "the seeds"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The birds quickly ate the scattered seeds because they found them quite tasty.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The birds",
+      "the scattered seeds"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "index": 871
+  },
+  {
+    "original_text": "The general fired his pistol at the monster so he turned and looked.",
+    "original_candidates": [
+      "The general",
+      "the monster"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "The general quickly fired his pistol at the monster, so he turned and looked in surprise.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The general",
+      "the monster"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 1473
+  },
+  {
+    "original_text": "Sam arrives and tries to speak to Dom again, but he does not want to see him, and asks him to leave.",
+    "original_candidates": [
+      "Sam",
+      "Dom"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Sam arrives and tries to speak to Dom again, but he refuses to see him and asks him to leave.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Sam",
+      "Dom"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 236
+  },
+  {
+    "original_text": "Olivia wants to make amends with Emily, but she is apprehensive.",
+    "original_candidates": [
+      "Olivia",
+      "Emily"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Olivia is eager to make amends with Emily, but she is still quite apprehensive.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Olivia",
+      "Emily"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "index": 1353
+  },
+  {
+    "original_text": "Bob sued Bill because he wanted more money.",
+    "original_candidates": [
+      "Bob",
+      "Bill"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Bob sued Bill for more of his money.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Bob",
+      "Bill"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 1,
+    "index": 1369
+  },
+  {
+    "original_text": "Though Gino tries to avoid Ross, he can not help but eventually fall in love with him.",
+    "original_candidates": [
+      "Gino",
+      "Ross"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Though Gino tries to avoid Ross, he eventually falls in love with him.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Gino",
+      "Ross"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 2
+  },
+  {
+    "original_text": "Google Plus is expected to be a replacement for Facebook but it still has a lot more active users.",
+    "original_candidates": [
+      "Google Plus",
+      "Facebook"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "Google Plus is anticipated to be a potential replacement for Facebook, but it still has a significantly larger number of active users.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Google Plus",
+      "Facebook"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "index": 832
+  },
+  {
+    "original_text": "Liverpool lost to Manchester United because they were a superior team.",
+    "original_candidates": [
+      "Liverpool",
+      "Manchester United"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "Liverpool lost to Manchester United because they were superior.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Liverpool",
+      "Manchester United"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "index": 683
+  },
+  {
+    "original_text": "Carlos becomes obsessed with Simon, but he suffers feelings of guilt since he is Rose's fianc.",
+    "original_candidates": [
+      "Carlos",
+      "Simon"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Carlos quickly becomes obsessed with Simon, but he also suffers intense feelings of guilt since he is Rose's committed fianc\u00e9.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Carlos",
+      "Simon"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 280
+  },
+  {
+    "original_text": "Doctor initially told Kennedy the tumor was inoperable, but he looked around for other opinions and decided on the most aggressive and exhausting course of treatment possible.",
+    "original_candidates": [
+      "Doctor",
+      "Kennedy"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "The Doctor initially told Kennedy the tumor was inoperable, but he diligently looked around for other expert opinions and ultimately decided on the most aggressive and exhaustive course of treatment available.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The Doctor",
+      "Kennedy"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 521
+  },
+  {
+    "original_text": "Lingad was defeated by Estelito Mendoza, but he raised charges of fraud which led to the staging of a new election for governor.",
+    "original_candidates": [
+      "Lingad",
+      "Estelito Mendoza"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Lingad was defeated by Estelito Mendoza, but he raised charges of fraud leading to a new election for governor.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Lingad",
+      "Estelito Mendoza"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1219
+  },
+  {
+    "original_text": "Theresa almost admits to killing Stephanie, but stops when Logan tells her he is a police officer.",
+    "original_candidates": [
+      "Theresa",
+      "Stephanie"
+    ],
+    "original_pronoun": "her",
+    "original_label": 0,
+    "modified_text": "Theresa almost admits to the crime of killing Stephanie, but she halts when Logan tells her firmly that he is an undercover police officer.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Theresa",
+      "Stephanie"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 0,
+    "index": 1339
+  },
+  {
+    "original_text": "John visited Luke in the hospital because he lived close by.",
+    "original_candidates": [
+      "John",
+      "Luke"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "John visited Luke in the hospital because he lived nearby.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "John",
+      "Luke"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 187
+  },
+  {
+    "original_text": "The humans were afraid of the robots because they were weak.",
+    "original_candidates": [
+      "The humans",
+      "the robots"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "Humans were afraid of robots because they were weak.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Humans",
+      "robots"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "index": 1424
+  },
+  {
+    "original_text": "Lance tried to get back together with Bob, but his pride was hurt and he refused to take her back.",
+    "original_candidates": [
+      "Lance",
+      "Bob"
+    ],
+    "original_pronoun": "his",
+    "original_label": 1,
+    "modified_text": "Lance tried to reconcile with Bob, but his pride was hurt and he refused to take her back.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Lance",
+      "Bob"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 1,
+    "index": 185
+  },
+  {
+    "original_text": "Ken tried to sneak past the boss because he was looking for late people.",
+    "original_candidates": [
+      "Ken",
+      "the boss"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Ken attempted to quietly sneak past the boss because he was actively looking for late people.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Ken",
+      "the boss"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 34
+  },
+  {
+    "original_text": "The minister befriended King George so he could have some friends.",
+    "original_candidates": [
+      "The minister",
+      "King George"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "The minister eagerly befriended King George so that he could indeed have some close friends.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The minister",
+      "King George"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 1462
+  },
+  {
+    "original_text": "Emma finally agrees to put Jennifer ashore, but after she has given her sleeping pills.",
+    "original_candidates": [
+      "Emma",
+      "Jennifer"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Emma agrees to put Jennifer ashore after giving her sleeping pills.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Emma",
+      "Jennifer"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 1,
+    "index": 356
+  },
+  {
+    "original_text": "Megan accidentally fires a shot that injures Barbara, but she shoots Larry dead.",
+    "original_candidates": [
+      "Megan",
+      "Barbara"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Megan accidentally fires a shot that ends up injuring Barbara, but then she decisively shoots Larry dead.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Megan",
+      "Barbara"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "index": 1499
+  },
+  {
+    "original_text": "Warren snuck Nige outside and said that if he ever saw him again he would kill him.",
+    "original_candidates": [
+      "Warren",
+      "Nige"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Warren snuck Nige outside and angrily said that if he ever saw him again, he would definitely kill him.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Warren",
+      "Nige"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1472
+  },
+  {
+    "original_text": "Mellish disliked Callaghan so much that he resigned from the cabinet within months of Wilson's own retirement.",
+    "original_candidates": [
+      "Mellish",
+      "Callaghan"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Mellish disliked Callaghan so intensely that he resigned from the cabinet within just a few months of Wilson's own retirement.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Mellish",
+      "Callaghan"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 817
+  },
+  {
+    "original_text": "The humans were afraid of the robots because they were weak.",
+    "original_candidates": [
+      "The humans",
+      "the robots"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "All of the humans were deeply afraid of the robots because they were weak.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "All of the humans",
+      "the robots"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "index": 1424
+  },
+  {
+    "original_text": "Battlefield 3 is more fun than Modern Warfare 3 because it is a better game.",
+    "original_candidates": [
+      "Battlefield 3",
+      "Modern Warfare 3"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "Battlefield 3 is more fun than Modern Warfare 3 because it's better.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Battlefield 3",
+      "Modern Warfare 3"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "index": 447
+  },
+  {
+    "original_text": "Planet 343's sandstorm forces the inhabitants underground because they have winds of upwards to 50 mph.",
+    "original_candidates": [
+      "Planet 343's sandstorm",
+      "the inhabitants"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "Planet 343's intense sandstorm forces all the inhabitants underground because they have winds reaching upwards to 50 mph.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Planet 343's intense sandstorm",
+      "all the inhabitants"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "index": 974
+  },
+  {
+    "original_text": "Rice beat Texas, even though they were the best team in the nation.",
+    "original_candidates": [
+      "Rice",
+      "Texas"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "Rice managed to beat Texas, even though they were considered the best team in the nation.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Rice",
+      "Texas"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "index": 671
+  },
+  {
+    "original_text": "Joseph did not defeat William in the match, so he earned $100.",
+    "original_candidates": [
+      "Joseph",
+      "William"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Joseph did not manage to defeat William in the match, so he earned $100.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Joseph",
+      "William"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 189
+  },
+  {
+    "original_text": "Fontan was caught by the Spaniard Salvador Cardona, but his second place in the stage gave him the lead in the general classification.",
+    "original_candidates": [
+      "Fontan",
+      "the Spaniard Salvador Cardona"
+    ],
+    "original_pronoun": "his",
+    "original_label": 0,
+    "modified_text": "Fontan was eventually caught by the persistent Spaniard Salvador Cardona, but his impressive second place in the stage still gave him the lead in the general classification.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Fontan",
+      "the persistent Spaniard Salvador Cardona"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 0,
+    "index": 1488
+  },
+  {
+    "original_text": "Bob can beat Larry at arm wrestling because he has more muscles.",
+    "original_candidates": [
+      "Bob",
+      "Larry"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Bob can easily beat Larry at arm wrestling because he has been training and has more muscles.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Bob",
+      "Larry"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1423
+  },
+  {
+    "original_text": "Janis is ordered to kill Noelia, but doesn't know if she can go along with this.",
+    "original_candidates": [
+      "Janis",
+      "Noelia"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Janis is ordered to kill Noelia, but doesn't know if she can comply.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Janis",
+      "Noelia"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "index": 131
+  },
+  {
+    "original_text": "Kelly neglected to tell Katie that their rent was due, but she remembered that it was due on the first of every month.",
+    "original_candidates": [
+      "Kelly",
+      "Katie"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Kelly neglected to tell Katie in advance that their rent was due, but she suddenly remembered that it was due on the first of every month.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Kelly",
+      "Katie"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "index": 37
+  },
+  {
+    "original_text": "Joe crashed into Mike and he had to pay for the damage.",
+    "original_candidates": [
+      "Joe",
+      "Mike"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Joe crashed into Mike and as a result, he had to pay for all the damage caused.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Joe",
+      "Mike"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 117
+  },
+  {
+    "original_text": "Carl borrowed a book from Richard, but the book was never returned to him.",
+    "original_candidates": [
+      "Carl",
+      "Richard"
+    ],
+    "original_pronoun": "him",
+    "original_label": 1,
+    "modified_text": "Carl borrowed a fascinating book from Richard, but the book was never returned to him.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Carl",
+      "Richard"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 93
+  },
+  {
+    "original_text": "Kathy paid Jane to leave but she returned several weeks later.",
+    "original_candidates": [
+      "Kathy",
+      "Jane"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Kathy paid Jane to leave but surprisingly she returned just a few weeks later.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Kathy",
+      "Jane"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "index": 991
+  },
+  {
+    "original_text": "Liverpool lost to Manchester United because they were a superior team.",
+    "original_candidates": [
+      "Liverpool",
+      "Manchester United"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "Liverpool lost to Manchester United because they were clearly the superior team.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Liverpool",
+      "Manchester United"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "index": 683
+  },
+  {
+    "original_text": "Joe crashed into Mike and he had to pay for the damage.",
+    "original_candidates": [
+      "Joe",
+      "Mike"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Joe crashed into Mike and consequently he had to pay for all the damage.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Joe",
+      "Mike"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 117
+  },
+  {
+    "original_text": "Joe raced against Steven because he would not say no.",
+    "original_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Determined Joe raced against Steven because he would absolutely not say no.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1460
+  },
+  {
+    "original_text": "Kelly neglected to tell Katie that their rent was due, but she told her later.",
+    "original_candidates": [
+      "Kelly",
+      "Katie"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Kelly neglected to tell Katie earlier that their rent was due, but eventually she told her later.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Kelly",
+      "Katie"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "index": 195
+  },
+  {
+    "original_text": "Jane Bingum presented strong evidence against Claire, but she may present a strong defense on her part.",
+    "original_candidates": [
+      "Jane Bingum",
+      "Claire"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Jane Bingum presented strong evidence against Claire, but she may present a strong defense.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Jane Bingum",
+      "Claire"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "index": 965
+  },
+  {
+    "original_text": "The boy escaped the cop but he continued to flee.",
+    "original_candidates": [
+      "The boy",
+      "the cop"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "The boy quickly escaped the cop but he still continued to flee in panic.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The boy",
+      "the cop"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 19
+  },
+  {
+    "original_text": "Someone hit Billy in the face because he was being rude.",
+    "original_candidates": [
+      "Someone",
+      "Billy"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Someone hit Billy squarely in the face because he was being extremely rude.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Someone",
+      "Billy"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 791
+  },
+  {
+    "original_text": "George scored against Thomas in the shootout, so he lost the game.",
+    "original_candidates": [
+      "George",
+      "Thomas"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "In the final round, George scored against Thomas in the shootout, so he lost the game.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "George",
+      "Thomas"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 747
+  },
+  {
+    "original_text": "Sam arrives and tries to speak to Dom again, but he does not want to see him, and asks him to leave.",
+    "original_candidates": [
+      "Sam",
+      "Dom"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Sam arrives and eagerly tries to speak to Dom once more, but he does not want to see him at all, and firmly asks him to leave.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Sam",
+      "Dom"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 236
+  },
+  {
+    "original_text": "The committee increased the price of the tickets to the dance for the students, but they changed their decision later.",
+    "original_candidates": [
+      "The committee",
+      "the students"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The committee initially increased the price of the tickets to the dance for the students, but they eventually changed their decision later.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The committee",
+      "the students"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "index": 1187
+  },
+  {
+    "original_text": "The fisherman hooked a big fish but he dropped his pole.",
+    "original_candidates": [
+      "The fisherman",
+      "a big fish"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "The fisherman successfully hooked a big fish but then he dropped his pole.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The fisherman",
+      "a big fish"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1402
+  },
+  {
+    "original_text": "My heart pumps blood because it is liquid.",
+    "original_candidates": [
+      "My heart",
+      "blood"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "My heart actively pumps blood because it is a liquid substance.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "My heart",
+      "blood"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "index": 239
+  },
+  {
+    "original_text": "Fernando goes to talk to Alfonso but he pretends not to recognise them and calls them liars.",
+    "original_candidates": [
+      "Fernando",
+      "Alfonso"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Fernando goes to talk to Alfonso but he deliberately pretends not to recognise them and rudely calls them liars.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Fernando",
+      "Alfonso"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 723
+  },
+  {
+    "original_text": "James occasionally visits Archie, but he starts to take a fancy to local school headteacher Katrina Finlay.",
+    "original_candidates": [
+      "James",
+      "Archie"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "James occasionally visits Archie, but he soon starts to take a growing fancy to local school headteacher Katrina Finlay.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "James",
+      "Archie"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 923
+  },
+  {
+    "original_text": "Rebecca kissed Dina because she is a sweet girl.",
+    "original_candidates": [
+      "Rebecca",
+      "Dina"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Rebecca affectionately kissed Dina because she is such a sweet girl.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Rebecca",
+      "Dina"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "index": 120
+  },
+  {
+    "original_text": "Gang-du tries to explain this to the man, but his protests go ignored.",
+    "original_candidates": [
+      "Gang-du",
+      "the man"
+    ],
+    "original_pronoun": "his",
+    "original_label": 0,
+    "modified_text": "Gang-du tries to explain this urgent matter to the man, but his protests are completely ignored.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Gang-du",
+      "the man"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 0,
+    "index": 1154
+  },
+  {
+    "original_text": "Hallums did not appeal to American President Bush to help earn his release.",
+    "original_candidates": [
+      "Hallums",
+      "American President Bush"
+    ],
+    "original_pronoun": "his",
+    "original_label": 0,
+    "modified_text": "Hallums did not appeal to President Bush to help earn his release.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Hallums",
+      "President Bush"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 0,
+    "index": 670
+  },
+  {
+    "original_text": "Nonetheless, Harry remains with Rob until the night he learns that he had a fling with his high school nemesis, Ronnie Harrison.",
+    "original_candidates": [
+      "Rob",
+      "Harry"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Nonetheless, Harry stays with Rob until the night he learns of his fling with high school nemesis, Ronnie Harrison.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Rob",
+      "Harry"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 502
+  },
+  {
+    "original_text": "The lion saw the fish and it was swimming.",
+    "original_candidates": [
+      "The lion",
+      "the fish"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "The lion saw the fish, it was swimming.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The lion",
+      "the fish"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "index": 473
+  },
+  {
+    "original_text": "The professor gave the student a bad grade because he was strict.",
+    "original_candidates": [
+      "The professor",
+      "the student"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "The professor, known for his high standards, gave the student a bad grade because he was strict.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The professor",
+      "the student"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 558
+  },
+  {
+    "original_text": "Clark proposed to Albert but he turned him down, saying he was too set in his ways.",
+    "original_candidates": [
+      "Clark",
+      "Albert"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Clark proposed to Albert but he turned him down firmly, saying he was too set in his old ways.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Clark",
+      "Albert"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 1483
+  },
+  {
+    "original_text": "Nadja was given to Miss Applefield to raise when she was a baby, her only possession at the time being an elaborated heart-shaped brooch.",
+    "original_candidates": [
+      "Nadja",
+      "Miss Applefield"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Nadja was given to Miss Applefield to raise when she was just a tiny baby, her only possession at that time being a beautiful, elaborated heart-shaped brooch.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Nadja",
+      "Miss Applefield"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "index": 1403
+  },
+  {
+    "original_text": "Jason built Rocky a robot, so he had more free time.",
+    "original_candidates": [
+      "Jason",
+      "Rocky"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Jason built Rocky a sophisticated robot, so he suddenly had much more free time.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Jason",
+      "Rocky"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 73
+  },
+  {
+    "original_text": "The needle punctured the skin but it failed to register pain.",
+    "original_candidates": [
+      "The needle",
+      "the skin"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "The needle punctured the skin but it failed to register any sensation of pain.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The needle",
+      "the skin"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "index": 1078
+  },
+  {
+    "original_text": "Trotsky refused to support Lenin since he was waiting to see whether German workers would rebel and whether German soldiers would refuse to follow orders.",
+    "original_candidates": [
+      "Trotsky",
+      "Lenin"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Trotsky refused to support Lenin since he was waiting to see whether German workers would rebel and whether German soldiers would staunchly refuse to follow any orders.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Trotsky",
+      "Lenin"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 894
+  },
+  {
+    "original_text": "Samuel despises Carl, telling Bandini if he wants to win him over, he has to treat him poorly.",
+    "original_candidates": [
+      "Samuel",
+      "Carl"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Samuel despises Carl, telling Bandini to win him over, he must treat him poorly.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Samuel",
+      "Carl"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 77
+  },
+  {
+    "original_text": "Ozzy decided to part ways with longtime guitarist Zakk Wylde because he thought his music was beginning to sound too much like Black Label Society.",
+    "original_candidates": [
+      "Ozzy",
+      "longtime guitarist Zakk Wylde"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Ozzy decided to part ways with guitarist Zakk Wylde because he thought his music sounded too much like Black Label Society.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Ozzy",
+      "guitarist Zakk Wylde"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 849
+  },
+  {
+    "original_text": "Sally becomes attracted to Bella, but she is disappointed to learn she is marrying Emily Vincent.",
+    "original_candidates": [
+      "Sally",
+      "Bella"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Sally finds herself becoming attracted to Bella, but she is disappointed to learn she is soon marrying Emily Vincent.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Sally",
+      "Bella"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "index": 1084
+  },
+  {
+    "original_text": "Hinckley did not hit Reagan directly, but he seriously wounded him when a bullet ricocheted off the side of the presidential limousine and hit him in the chest.",
+    "original_candidates": [
+      "Hinckley",
+      "Reagan"
+    ],
+    "original_pronoun": "him",
+    "original_label": 1,
+    "modified_text": "Hinckley did not hit Reagan directly, but he gravely and seriously wounded him when a bullet unexpectedly ricocheted off the side of the presidential limousine and hit him in the chest.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Hinckley",
+      "Reagan"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 949
+  },
+  {
+    "original_text": "Elmeida nearly assassinated Hyrum, but Noa intervened to save his life.",
+    "original_candidates": [
+      "Elmeida",
+      "Hyrum"
+    ],
+    "original_pronoun": "his",
+    "original_label": 1,
+    "modified_text": "Elmeida nearly succeeded in assassinating Hyrum, but Noa quickly intervened to save his life.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Elmeida",
+      "Hyrum"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 1,
+    "index": 1433
+  },
+  {
+    "original_text": "James Cameron is more successful than Michael Bay because his movies sell more worldwide.",
+    "original_candidates": [
+      "James Cameron",
+      "Michael Bay"
+    ],
+    "original_pronoun": "his",
+    "original_label": 0,
+    "modified_text": "James Cameron is more successful than Michael Bay because his movies sell more.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "James Cameron",
+      "Michael Bay"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 0,
+    "index": 159
+  },
+  {
+    "original_text": "Naji is supposed to come over for a visit with Khalil, but he doesn't come.",
+    "original_candidates": [
+      "Naji",
+      "Khalil"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Naji is supposed to come over for a visit with his friend Khalil, but he does not show up.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Naji",
+      "Khalil"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 405
+  },
+  {
+    "original_text": "John killed Bill because he was fighting for his life.",
+    "original_candidates": [
+      "John",
+      "Bill"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "John killed Bill because he was desperately fighting for his own life.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "John",
+      "Bill"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 99
+  },
+  {
+    "original_text": "Josie did not like Sarah, but she did not know it.",
+    "original_candidates": [
+      "Josie",
+      "Sarah"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Josie did not like Sarah at all, but she did not know it whatsoever.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Josie",
+      "Sarah"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "index": 751
+  },
+  {
+    "original_text": "Emma finally agrees to put Jennifer ashore, but after she has given her sleeping pills.",
+    "original_candidates": [
+      "Emma",
+      "Jennifer"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Emma, after much hesitation, finally agrees to put Jennifer ashore, but only after she has given her some sleeping pills.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Emma",
+      "Jennifer"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "index": 356
+  },
+  {
+    "original_text": "The football players went on strike against the NFL organization, but they will consider their demands to send the strike.",
+    "original_candidates": [
+      "The football players",
+      "the NFL organization"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The football players went on strike against the NFL, but they will consider their demands to end it.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The football players",
+      "the NFL"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "index": 576
+  },
+  {
+    "original_text": "Lakshman asked Vivan to get him some ice cream because he was hot.",
+    "original_candidates": [
+      "Lakshman",
+      "Vivan"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Feeling the heat, Lakshman asked Vivan to quickly get him some refreshing ice cream because he was hot.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Lakshman",
+      "Vivan"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1455
+  },
+  {
+    "original_text": "Carcetti is dubious about working with Davis, but Wilson convinces him that it may tip the balance.",
+    "original_candidates": [
+      "Carcetti",
+      "Davis"
+    ],
+    "original_pronoun": "him",
+    "original_label": 0,
+    "modified_text": "Carcetti is quite dubious about the idea of working with Davis, but Wilson convinces him that it may tip the balance in their favor.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Carcetti",
+      "Davis"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 0,
+    "index": 1354
+  },
+  {
+    "original_text": "Some actors choose to perform their own stunts instead of using stunt doubles since they like to keep it as authentic as possible.",
+    "original_candidates": [
+      "Some actors",
+      "stunt doubles"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "Some actors choose to perform their own stunts, rather than using stunt doubles, since they like to ensure it remains as authentic as possible.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Some actors",
+      "stunt doubles"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "index": 81
+  },
+  {
+    "original_text": "Jim was delighted to see Jack, because he brightened up his day.",
+    "original_candidates": [
+      "Jim",
+      "Jack"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Jim was absolutely delighted to see Jack, because he really brightened up his entire day.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Jim",
+      "Jack"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 1181
+  },
+  {
+    "original_text": "Harry is angry with Ron at first but then he reconciles with him.",
+    "original_candidates": [
+      "Harry",
+      "Ron"
+    ],
+    "original_pronoun": "him",
+    "original_label": 1,
+    "modified_text": "Initially, Harry is quite angry with Ron but after some time he eventually reconciles with him.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Harry",
+      "Ron"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 1312
+  },
+  {
+    "original_text": "Joe raced against Steven because he thought it would be easy.",
+    "original_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Joe eagerly raced against Steven because he thought it would surely be easy.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1164
+  },
+  {
+    "original_text": "The Military Police threw the army recruits in the brig since they were causing a distrubance in the neighboring town.",
+    "original_candidates": [
+      "The Military Police",
+      "the army recruits"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The Military Police quickly threw the army recruits in the brig because they were causing a significant distrubance in the neighboring town.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The Military Police",
+      "the army recruits"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "index": 704
+  },
+  {
+    "original_text": "Trick Or Treaters are celebrating the holiday earlier during the day at Church since they are encouraged to do it during the day and among friends for safety reasons.",
+    "original_candidates": [
+      "Trick Or Treaters",
+      "Church"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "Trick Or Treaters are joyfully celebrating the holiday earlier during the day at Church since they are strongly encouraged to do it during daylight and among close friends for safety reasons.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Trick Or Treaters",
+      "Church"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "index": 884
+  },
+  {
+    "original_text": "The defending commander, Shi Kefa, was also executed by Qing after he refused to submit to his authority.",
+    "original_candidates": [
+      "The defending commander , Shi Kefa",
+      "Qing"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "The defending commander, Shi Kefa, was mercilessly executed by Qing after he steadfastly refused to submit to his authority.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The defending commander, Shi Kefa",
+      "Qing"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1172
+  },
+  {
+    "original_text": "Denise is initially hostile to Lucy, but she warms to him when she sees he has changed and they eventually reunite.",
+    "original_candidates": [
+      "Denise",
+      "Lucy"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Denise is initially hostile to Lucy, but gradually she warms to him when she sees he has truly changed and they eventually reunite.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Denise",
+      "Lucy"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "index": 1371
+  },
+  {
+    "original_text": "The pen is mightier than the sword because it can only stab things.",
+    "original_candidates": [
+      "The pen",
+      "the sword"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "The pen is mightier than the sword because it can not only write but also stab things.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The pen",
+      "the sword"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "index": 336
+  },
+  {
+    "original_text": "Kathy paid Jane to leave but she returned several weeks later.",
+    "original_candidates": [
+      "Kathy",
+      "Jane"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Kathy paid Jane to leave but she returned later.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Kathy",
+      "Jane"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "index": 991
+  },
+  {
+    "original_text": "Jane Bingum presented strong evidence against Claire, but she may present a strong defense on her part.",
+    "original_candidates": [
+      "Jane Bingum",
+      "Claire"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Jane Bingum presented compelling, strong evidence against Claire, but she may still present a very strong defense on her part.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Jane Bingum",
+      "Claire"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "index": 965
+  },
+  {
+    "original_text": "Warren snuck Nige outside and said that if he ever saw him again he would kill him.",
+    "original_candidates": [
+      "Warren",
+      "Nige"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Warren snuck Nige outside and said if he saw him again he would kill him.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Warren",
+      "Nige"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1472
+  },
+  {
+    "original_text": "Chris then breaks up with Anthony again after he realizes that he is not who he wants.",
+    "original_candidates": [
+      "Chris",
+      "Anthony"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Chris then decides to break up with Anthony once more after he realizes that he is not the person he truly wants.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Chris",
+      "Anthony"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 1191
+  },
+  {
+    "original_text": "The Samurais respected honor while pirates have a disregard for honor, since they are only interested in increasing their wealth.",
+    "original_candidates": [
+      "The Samurais",
+      "pirates"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The Samurais deeply respected the concept of honor, whereas pirates have a complete disregard for it, since they are solely focused on increasing their vast wealth.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The Samurais",
+      "pirates"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "index": 631
+  },
+  {
+    "original_text": "South Korea does not like North Korea because they are constantly threatening their peace.",
+    "original_candidates": [
+      "South Korea",
+      "North Korea"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "South Korea does not like North Korea because they are constantly threatening the region's peace and stability.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "South Korea",
+      "North Korea"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "index": 10
+  },
+  {
+    "original_text": "The bat hit the ball because it flew in the way of the trajectory.",
+    "original_candidates": [
+      "The bat",
+      "the ball"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "The bat hit the ball hard because it unexpectedly flew right in the way of the trajectory.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The bat",
+      "the ball"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "index": 986
+  },
+  {
+    "original_text": "Naser al-Din Shah Qajar nicknamed Mohammad Hosein as the bird, after he hears a poem that he had written.",
+    "original_candidates": [
+      "Mohammad Hosein",
+      "Naser al-Din Shah Qajar"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Naser al-Din Shah Qajar affectionately nicknamed Mohammad Hosein as the bird, after he hears the beautiful poem that he had written.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "Mohammad Hosein",
+      "Naser al-Din Shah Qajar"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1381
+  },
+  {
+    "original_text": "The racquetball players were annoyed by the other students in the activity center because they were using the racquetball courts to play badminton.",
+    "original_candidates": [
+      "The racquetball players",
+      "the other students"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The racquetball players were quite annoyed by the other students in the activity center because they were inconsiderately using the racquetball courts to play badminton.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The racquetball players",
+      "the other students"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "index": 393
+  },
+  {
+    "original_text": "The mother bear attacked Karen because she had gotten too close to her cub.",
+    "original_candidates": [
+      "The mother bear",
+      "Karen"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "The mother bear furiously attacked Karen because she had gotten dangerously too close to her cub.",
+    "type": "length_bias",
+    "modified_candidates": [
+      "The mother bear",
+      "Karen"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "index": 1400
+  }
+]

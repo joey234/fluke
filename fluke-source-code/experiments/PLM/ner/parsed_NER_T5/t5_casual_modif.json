@@ -1,0 +1,2515 @@
+[
+  {
+    "text": "'The Rake's Progress' is a '45 British comedy-drama flick.",
+    "gold": [
+      {
+        "text": "'The Rake's Progress'",
+        "value": "ART"
+      },
+      {
+        "text": "British",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "'The Rake's Progress'",
+        "value": "ART"
+      },
+      {
+        "text": "comedy-drama",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Route 410 used to take you to Rehovot over the Jumping Bridge, which got its name 'cause there's this bump that makes your car leap if you're going too fast.",
+    "gold": [
+      {
+        "text": "Route 410",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rehovot",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jumping Bridge,",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Route 410",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rehovot",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jumping Bridge,",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "Elin Hilderbrand's an American who writes a lot of romance novels.",
+    "gold": [
+      {
+        "text": "Elin Hilderbrand's",
+        "value": "PERSON"
+      },
+      {
+        "text": "American",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Elin",
+        "value": "PERSON"
+      },
+      {
+        "text": "American",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Del Imaginario Discos from Argentina dropped the album back in 2007 too.",
+    "gold": [
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Gonu brought a bunch of wild winds and a downpour all the way from Karachi to Gwadar along Pakistan's Arabian Sea coast.",
+    "gold": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast.",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pakistan's Arabian Sea",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Then the Germans came at us again, breaking through C Company, but the North Irish Horse's tanks held them off till nightfall.",
+    "gold": [
+      {
+        "text": "Germans",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "C Company,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "North Irish Horse's",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Germans",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Company, but",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Horse's tanks held",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Petit-de-Grat Island's this cool Canadian spot just off Cape Breton Island, right in Richmond County, Nova Scotia.",
+    "gold": [
+      {
+        "text": "Petit-de-Grat Island's",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canadian",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "Cape Breton Island,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richmond County,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Nova Scotia.",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Petit-de-Grat Island's",
+        "value": "LOCATION"
+      },
+      {
+        "text": "spot",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Breton Island, right",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Nova Scotia.",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "It got started as a spin-off from Murphy Oil back in 2013.",
+    "gold": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Plus, Santa didn't do it, it was all Cousin Mel's sneaky plan. She's only mentioned for a sec in the song, but in the show, they make her out to be a total gold-digger.",
+    "gold": [
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Cousin Mel's",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "didn't",
+        "value": "PERSON"
+      },
+      {
+        "text": "sneaky plan.",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Pune got beat 1-3, and all three goals were scored after Amrinder joined in.",
+    "gold": [
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Amrinder",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Amrinder",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "At this fest, Siddhi jumped in and saved Vin from getting shot by Rudra.",
+    "gold": [
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rudra.",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "jumped",
+        "value": "PERSON"
+      },
+      {
+        "text": "from",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Hunt's the rep for Omaha's 8th district, which includes the Dundee, Benson, and Keystone areas.",
+    "gold": [
+      {
+        "text": "Hunt's",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha's",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Hunt's",
+        "value": "PERSON"
+      },
+      {
+        "text": "8th",
+        "value": "LOCATION"
+      },
+      {
+        "text": "and",
+        "value": "LOCATION"
+      },
+      {
+        "text": "areas.",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Golaem from France made it, they started up in Rennes back in 2009.",
+    "gold": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Golaem",
+        "value": "PERSON"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "back",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "To get more readers, ``The Philippine Star`` teamed up with Jollibee back in 2003, making it the first newspaper you could grab for free at a fast food place.",
+    "gold": [
+      {
+        "text": "``The Philippine Star``",
+        "value": "OTHER"
+      },
+      {
+        "text": "Jollibee",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Philippine Star`` teamed",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "back",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "When the Residential Property Tribunal Service got started because of the Housing Act 2004, the rent assessment committees joined up with it for admin stuff, so now it's known as the First Tier Tribunal (Property Chamber - Residential Property).",
+    "gold": [
+      {
+        "text": "Residential Property Tribunal Service",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Housing Act 2004,",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Residential Property Tribunal Service",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Housing Act",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "He's gotten noticed by big names like CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera, and Hi-Fructose Magazine.",
+    "gold": [
+      {
+        "text": "CNN,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail, NRDC,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine.",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "The",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Post, Hypebeast, The",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail,",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "It's an orthomyxovirus with glycoproteins haemagglutinin and neuraminidase in it.",
+    "gold": [
+      {
+        "text": "orthomyxovirus",
+        "value": "OTHER"
+      },
+      {
+        "text": "glycoproteins haemagglutinin",
+        "value": "OTHER"
+      },
+      {
+        "text": "neuraminidase",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "orthomyxovirus",
+        "value": "OTHER"
+      },
+      {
+        "text": "glycoproteins haemagglutinin",
+        "value": "OTHER"
+      },
+      {
+        "text": "neuraminidase",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Over 100 folks from Deidesheim and nearby set up stalls that gotta blend in with the whole market vibe.",
+    "gold": [
+      {
+        "text": "Deidesheim",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Deidesheim",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The guys raced their bikes on the road at the '56 Summer Olympics in Melbourne, Australia, on Friday, December 7th, 1956.",
+    "gold": [
+      {
+        "text": "Summer Olympics",
+        "value": "EVENT"
+      },
+      {
+        "text": "Melbourne,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Australia,",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "'56 Summer Olympics",
+        "value": "EVENT"
+      },
+      {
+        "text": "Melbourne,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "on",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "MacKeith, who was a German teacher for ages, also pushed for peace at the Aldermaston Marches back in the '50s and protested the Vietnam War at Grosvenor Square in the '60s.",
+    "gold": [
+      {
+        "text": "MacKeith,",
+        "value": "PERSON"
+      },
+      {
+        "text": "German",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "Aldermaston Marches",
+        "value": "EVENT"
+      },
+      {
+        "text": "Vietnam War",
+        "value": "EVENT"
+      },
+      {
+        "text": "Grosvenor Square",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "MacKeith,",
+        "value": "PERSON"
+      },
+      {
+        "text": "teacher",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Marches back",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "The album's got some cool remixes of 'Like It or Not' and 'Tearing Me Up' by folks like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "gold": [
+      {
+        "text": "'Like It or Not'",
+        "value": "WORK_OF_ART"
+      },
+      {
+        "text": "'Tearing Me Up'",
+        "value": "WORK_OF_ART"
+      },
+      {
+        "text": "A-Trak,",
+        "value": "PERSON"
+      },
+      {
+        "text": "RAC,",
+        "value": "PERSON"
+      },
+      {
+        "text": "Joris Voorn,",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us.",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "It or Not' and",
+        "value": "ART"
+      },
+      {
+        "text": "Me Up' by",
+        "value": "ART"
+      },
+      {
+        "text": "Joris",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "From '27 to '44, he was with the All-Union Communist Party (Bolsheviks), which later became the Communist Party of the Soviet Union.",
+    "gold": [
+      {
+        "text": "All-Union Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "(Bolsheviks),",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Communist Party of the Soviet Union.",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "All-Union Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Communist Party",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Lawrence says she got cash, but Stephens says someone threatened his life.",
+    "gold": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lawrence",
+        "value": "PERSON"
+      },
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The airport's down south southeast from Nhulunbuy town center, right on Melville Road.",
+    "gold": [
+      {
+        "text": "Nhulunbuy",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Melville Road.",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "town",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "But in 1861, southern states thinking about splitting off after the 1860 presidential election got rid of that roadblock to political change.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "I, Max was this cool sports talk show with Max Kellerman and Michael Holley, and it was on every night on Fox Sports Net.",
+    "gold": [
+      {
+        "text": "I, Max",
+        "value": "ART"
+      },
+      {
+        "text": "Max Kellerman",
+        "value": "PERSON"
+      },
+      {
+        "text": "Michael Holley,",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fox Sports Net.",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Max Kellerman",
+        "value": "PERSON"
+      },
+      {
+        "text": "Michael Holley,",
+        "value": "PERSON"
+      },
+      {
+        "text": "Sports",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Sometimes, they don't grill the eggplant, they just boil it, so it's softer and doesn't have that smoky taste like the usual recipe.",
+    "gold": [
+      {
+        "text": "eggplant,",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Got a bunch of stuff here on sexual health issues dating back from '74 to 2007.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "You know, the most famous thing Ward LaFrance made was that P-80 ``Ambassador'' pumper, and they even gave one away to be the pretend Los Angeles County Fire Department Engine 51 in the '70s show ``Emergency!",
+    "gold": [
+      {
+        "text": "Ward LaFrance",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P-80 ``Ambassador''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "LaFrance made",
+        "value": "PERSON"
+      },
+      {
+        "text": "``Ambassador'' pumper, and",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "``Patrick Morris`` shot out a mayday call at 6:51 in the morning and went down 35 minutes after.",
+    "gold": [
+      {
+        "text": "``Patrick Morris``",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "``Patrick Morris``",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Halfway into the season, they swapped Stacey King for Luc Longley with the Minnesota Timberwolves.",
+    "gold": [
+      {
+        "text": "Stacey King",
+        "value": "PERSON"
+      },
+      {
+        "text": "Luc Longley",
+        "value": "PERSON"
+      },
+      {
+        "text": "Minnesota Timberwolves.",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "King for",
+        "value": "PERSON"
+      },
+      {
+        "text": "Longley with",
+        "value": "PERSON"
+      },
+      {
+        "text": "Timberwolves.",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "In 2019 he snagged his PhD with honors from Politecnico di Milano, working on the thesis 'Hybrid Modular Architecture: a strategic framework of building innovation for emerging housing behaviors in urban contexts'.",
+    "gold": [
+      {
+        "text": "PhD",
+        "value": "OTHER"
+      },
+      {
+        "text": "Politecnico di Milano,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "'Hybrid Modular Architecture: a strategic framework of building innovation for emerging housing behaviors in urban contexts'.",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "PhD",
+        "value": "OTHER"
+      },
+      {
+        "text": "Politecnico di Milano,",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Dublin's got Weston Airport and some other small spots for choppers, plus the military and a few government services use Casement Aerodrome just around the corner.",
+    "gold": [
+      {
+        "text": "Dublin's",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Dublin's",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Airport and",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Aerodrome",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "The 117-bed place had only private rooms, and they all came with their own bathrooms.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "She's also penned some fiction and her stuff's won awards.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "He got the Distinguished Flying Cross in World War II for being an ace de Havilland Mosquito night-fighter pilot with the Royal Canadian Air Force, knocking out four enemy planes, including the first Mistel composite ``piggyback'' aircraft.",
+    "gold": [
+      {
+        "text": "Distinguished Flying Cross",
+        "value": "OTHER"
+      },
+      {
+        "text": "World War II",
+        "value": "EVENT"
+      },
+      {
+        "text": "de Havilland Mosquito",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Royal Canadian Air Force,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mistel composite ``piggyback'' aircraft.",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Distinguished Flying Cross",
+        "value": "OTHER"
+      },
+      {
+        "text": "World War II",
+        "value": "EVENT"
+      },
+      {
+        "text": "de Havilland Mosquito",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Glutamine synthetase takes ammonia from stuff like nitrate reduction, breaking down amino acids, and photorespiration.",
+    "gold": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acids,",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "nitrate",
+        "value": "OTHER"
+      },
+      {
+        "text": "acids, and",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Back in 1863, he handled the cash for the City of Denver and Arapahoe County.",
+    "gold": [
+      {
+        "text": "City of Denver",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Arapahoe County.",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "and",
+        "value": "LOCATION"
+      },
+      {
+        "text": "County.",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He was also in Raj Kanwar's action-packed movie 'Jeet'.",
+    "gold": [
+      {
+        "text": "Raj Kanwar's",
+        "value": "PERSON"
+      },
+      {
+        "text": "'Jeet'.",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Raj Kanwar's",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Looks like the bottom of the column is set up to face northwest/southeast, and the top is turned north/south. Maybe it's so the statue can face the Church of the Holy Apostles that's close by.",
+    "gold": [
+      {
+        "text": "Church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "The movie's taken from the French book 'L'affaire Cl\u00e9menceau' by Alexandre Dumas, fils, and it looks like it's gone for good.",
+    "gold": [
+      {
+        "text": "French",
+        "value": "OTHER"
+      },
+      {
+        "text": "Alexandre Dumas,",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "book",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Cl\u00e9menceau' by",
+        "value": "ART"
+      },
+      {
+        "text": "fils, and",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "They turned the buildings into offices back in the 80s.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Both doors look exactly the same and they've got the bronze University seal on them.",
+    "gold": [
+      {
+        "text": "bronze University seal",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Jamil tied the knot with Khalid Bakdash's daughter, you know, the guy who led the Syrian Communist Party and was the first commie to snag a seat in an Arab parliament back in '54.",
+    "gold": [
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash's",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash's",
+        "value": "PERSON"
+      },
+      {
+        "text": "and was the",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The Ninth got seriously whooped at Camulodunum with Quintus Petillius Cerialis calling the shots during Boudica's uprising (61). Loads of their infantry got wiped out trying to save the surrounded city of Camulodunum, you know, Colchester.",
+    "gold": [
+      {
+        "text": "Camulodunum",
+        "value": "EVENT"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "PERSON"
+      },
+      {
+        "text": "Boudica's",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum,",
+        "value": "EVENT"
+      },
+      {
+        "text": "Colchester.",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ninth",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "PERSON"
+      },
+      {
+        "text": "Boudica's uprising (61).",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "John Wayne was born here.",
+    "gold": [
+      {
+        "text": "John Wayne",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "John Wayne",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "You can play as Anhur in the game SMITE.",
+    "gold": [
+      {
+        "text": "Anhur",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Anhur",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Kenyon started at Maynooth Seminary in 1829, the same year Catholic Emancipation happened.",
+    "gold": [
+      {
+        "text": "Kenyon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Maynooth Seminary",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Catholic Emancipation",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Kenyon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Maynooth Seminary",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Emancipation happened.",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "Allistair Pinsof from Destructoid totally loved the game, saying it's got controls just as awesome as Super Metroid and Super Castlevania IV.",
+    "gold": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV.",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Metroid and",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Castlevania",
+        "value": "PRODU"
+      }
+    ]
+  },
+  {
+    "text": "He's from Wellingborough in Northamptonshire and went to Victoria Junior School, Westfield Boys School, and Sir Christopher Hatton School.",
+    "gold": [
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Westfield Boys School,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School.",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "in",
+        "value": "LOCATION"
+      },
+      {
+        "text": "and",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Junior School, Westfield",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "School, and Sir",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Saunders got beat by Fitch, everyone agreed on it.",
+    "gold": [
+      {
+        "text": "Saunders",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fitch,",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Saunders",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fitch,",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Back in 1919, Gagnon tied the knot with Lucile Rodier, who was learning from William Bremner too.",
+    "gold": [
+      {
+        "text": "Gagnon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lucile Rodier,",
+        "value": "PERSON"
+      },
+      {
+        "text": "William Bremner",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Gagnon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lucile Rodier,",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bremner too.",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Team Orr netted four goals and cruised to a 7\u20131 win.",
+    "gold": [
+      {
+        "text": "Team Orr",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Orr",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "They wrapped up the season 14\u201319, going 9\u20139 in C-USA play and landed in seventh place.",
+    "gold": [
+      {
+        "text": "C-USA play",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C-USA",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Dorsa got her Bachelor's in Music Composition from Cal State Northridge back in '01, snagged her Master's in Harpsichord Performance there in '04, and then scored a DMA from U of M, Ann Arbor in '08.",
+    "gold": [
+      {
+        "text": "Dorsa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor's in Music Composition",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master's in Harpsichord Performance",
+        "value": "OTHER"
+      },
+      {
+        "text": "DMA",
+        "value": "OTHER"
+      },
+      {
+        "text": "U of M,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Dorsa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor's in Music Composition",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master's in Harpsichord",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Liz Weir snagged the first-ever International Story Bridge Award from the National Storytelling Network back in 2002.",
+    "gold": [
+      {
+        "text": "Liz Weir",
+        "value": "PERSON"
+      },
+      {
+        "text": "International Story Bridge Award",
+        "value": "OTHER"
+      },
+      {
+        "text": "National Storytelling Network",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Liz Weir",
+        "value": "PERSON"
+      },
+      {
+        "text": "International Story Bridge Award",
+        "value": "OTHER"
+      },
+      {
+        "text": "National Storytelling Network",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Back in June 2003, they kicked off this plan called the Croal Irwell Regional Park Project Proposal to make a cool green strip running from Manchester's heart all the way to the West Pennine Moors, with a thumbs up from the folks at Salford, Bury, and Bolton councils, not to mention the Red Rose Forest.",
+    "gold": [
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester's",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest.",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Croal Irwell Regional Park",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "At the 2019 Frieze Art Fair in London, Agostinelli pulled off his fourth stunt by dragging a massive 1-tonne chunk of clear ice with a Tesla right up to the fair's entrance on the first day.",
+    "gold": [
+      {
+        "text": "Frieze Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Agostinelli",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tesla",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Frieze Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "pulled",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "They don't rely on insulin and can lower sugar levels without triggering hypoglycemia or making you put on weight.",
+    "gold": [
+      {
+        "text": "insulin",
+        "value": "OTHER"
+      },
+      {
+        "text": "hypoglycemia",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "insulin",
+        "value": "OTHER"
+      },
+      {
+        "text": "hypoglycemia",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "In July '44, the 503rd made another jump, this time landing on Noemfoor Island, just off Dutch New Guinea, during the Battle of Noemfoor.",
+    "gold": [
+      {
+        "text": "Noemfoor Island,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dutch New Guinea,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Battle of Noemfoor.",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "503rd",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Noemfoor Island,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New Guinea, during",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "So, on Jan 11, 2018, they said Trout's gonna step back in the ring to face off with the Colombian boxer Juan De Angel. This is all going down during the Devon Alexander vs. Victor Ortiz fight on Feb 17, right at the Don Haskins Center over at UTEP in El Paso, Texas.",
+    "gold": [
+      {
+        "text": "Trout's",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Colombian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Juan De Angel.",
+        "value": "PERSON"
+      },
+      {
+        "text": "Devon Alexander",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Victor Ortiz",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Don Haskins Center",
+        "value": "BUILDING"
+      },
+      {
+        "text": "UTEP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "El Paso,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Texas.",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Colombian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Juan De",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Things started to get clear after 1961 when South Africa bailed on the Commonwealth of Nations, and because of the rules back then, its cricket board had to ditch the International Cricket Conference (ICC).",
+    "gold": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "(ICC).",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations,",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The Papacy over in central Italy had a big cultural and political impact during the Catholic Reformation that started when the Tridentine council wrapped up (all thanks to the treaty terms).",
+    "gold": [
+      {
+        "text": "Papacy",
+        "value": "EVENT"
+      },
+      {
+        "text": "Catholic Reformation",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Tridentine council",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Italy",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Catholic Reformation",
+        "value": "EVENT"
+      },
+      {
+        "text": "Tridentine",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Conway's where it all happens for Norfolk Southern around Greater Pittsburgh, with a hump yard and where crews swap out on pretty much all the Pittsburgh and Fort Wayne Line trains.",
+    "gold": [
+      {
+        "text": "Conway's",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Greater Pittsburgh,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Conway's",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Greater Pittsburgh,",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "But in the end, the Saudi folks and the FBI kept butting heads while they were investigating.",
+    "gold": [
+      {
+        "text": "Saudi",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "folks",
+        "value": "LOCATION"
+      },
+      {
+        "text": "kept",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Got my BA in Psychology and also did a minor in Criminology.",
+    "gold": [
+      {
+        "text": "BA",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "BA in Psychology",
+        "value": "OTHER"
+      },
+      {
+        "text": "Criminology.",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Most of the town's really just this gated place called Orchid Island Golf and Beach Club.",
+    "gold": [
+      {
+        "text": "Orchid Island Golf and Beach Club.",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Orchid Island Golf and Beach Club.",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "Victor Cristaldo, born on May 10, 1967, is a retired soccer player from Australia with Argentine and Paraguayan roots.",
+    "gold": [
+      {
+        "text": "Victor Cristaldo,",
+        "value": "PERSON"
+      },
+      {
+        "text": "Australia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Argentine",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "Paraguayan",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Victor Cristaldo,",
+        "value": "PERSON"
+      },
+      {
+        "text": "with",
+        "value": "LOCATION"
+      },
+      {
+        "text": "and",
+        "value": "LOCATION"
+      },
+      {
+        "text": "roots.",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Back to Basics is all about genre classics, screening old flicks and cool cult movies, and sometimes hitting up the mainstream and fresh genre stuff too.",
+    "gold": [
+      {
+        "text": "Back to Basics",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Back to Basics",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "Back in 1940, Gibraltar got hit by a bunch of air raids from the Italian 'Regia Aeronautica' flying out of Sardinia and the Vichy French Air Force coming from French North Africa. This was payback for the British and Free French going after Mers-el-Kebir and Dakar.",
+    "gold": [
+      {
+        "text": "Gibraltar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "'Regia Aeronautica'",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sardinia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Vichy French Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "French North Africa.",
+        "value": "LOCATION"
+      },
+      {
+        "text": "British",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "Free French",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mers-el-Kebir",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dakar.",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Gibraltar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Italian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "'Regia Aeronautica'",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "He ended up producing Kim Fowley and the BMX Bandits' album 'Hidden Agenda At the Thirteenth Not' for Receiver Records.",
+    "gold": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits'",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "'Hidden Agenda At the Thirteenth Not'",
+        "value": "WORK_OF_ART"
+      },
+      {
+        "text": "Receiver Records.",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits'",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Agenda At the Thirteenth Not' for",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "Puckrik saw a lot of different places as a kid 'cause her dad was in the military.",
+    "gold": [
+      {
+        "text": "Puckrik",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Puckrik",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The local farmers were pretty upset too, and from 1846 to 1848, more and more folks started to push back against Sturdza.",
+    "gold": [
+      {
+        "text": "Sturdza.",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "He's also jammed and teamed up with a bunch of other Scandinavian artists like Bj\u00f8rn Eidsv\u00e5g, Silje Nergaard, Oslo Gospel Choir, Espen Lind, Elizabeth Norberg-Schulz, and Carola H\u00e4ggkvist.",
+    "gold": [
+      {
+        "text": "Bj\u00f8rn Eidsv\u00e5g,",
+        "value": "PERSON"
+      },
+      {
+        "text": "Silje Nergaard,",
+        "value": "PERSON"
+      },
+      {
+        "text": "Oslo Gospel Choir,",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Espen Lind,",
+        "value": "PERSON"
+      },
+      {
+        "text": "Elizabeth Norberg-Schulz,",
+        "value": "PERSON"
+      },
+      {
+        "text": "Carola H\u00e4ggkvist.",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "artists",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Eidsv\u00e5g, Silje",
+        "value": "PERSON"
+      },
+      {
+        "text": "Oslo Gospel",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Sosa didn't make the 2010 World Cup squad when Diego Maradona was in charge, but Alejandro Sabella, the new coach, brought him back for the 2014 World Cup qualifiers, and he's been playing in a bunch of games since 2011.",
+    "gold": [
+      {
+        "text": "Sosa",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Diego Maradona",
+        "value": "PERSON"
+      },
+      {
+        "text": "Alejandro Sabella,",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Sosa",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Diego Maradona",
+        "value": "PERSON"
+      },
+      {
+        "text": "Sabella, the",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Mike Moreton led the crew, teaming up with TWR to manage the XJ220 project.",
+    "gold": [
+      {
+        "text": "Mike Moreton",
+        "value": "PERSON"
+      },
+      {
+        "text": "TWR",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "XJ220",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Mike Moreton",
+        "value": "PERSON"
+      },
+      {
+        "text": "TWR",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "XJ220",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Back in the early 1800s, places like Lynchburg, Harrisburg, and Rightor's Point (now called Morgan's Point) started popping up.",
+    "gold": [
+      {
+        "text": "Lynchburg,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point)",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Harrisburg,",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's",
+        "value": "LOCATION"
+      },
+      {
+        "text": "called Morgan's",
+        "value": "LOCATION"
+      },
+      {
+        "text": "popping up.",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "USP42's also been seen to take the ubiquitin off p53, and it might be needed for p53 to deal with stress.",
+    "gold": [
+      {
+        "text": "USP42's",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53,",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "USP42's",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Not long after World War I, he snagged some land in Toulon and gave it to the local sports club, RC Toulonnais, to build a stadium.",
+    "gold": [
+      {
+        "text": "World War I,",
+        "value": "EVENT"
+      },
+      {
+        "text": "Toulon",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Toulonnais,",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "World War",
+        "value": "EVENT"
+      },
+      {
+        "text": "Toulon",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Toulonnais,",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "She's been working with homeless folks and is now a Management Consultant at MedAmerica.",
+    "gold": [
+      {
+        "text": "MedAmerica.",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "The fest's all about global TV and digital stuff, plus how it's made and developed.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Saab hooked Gilbert up with a Saab 9-5 Aero.",
+    "gold": [
+      {
+        "text": "Saab",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Gilbert",
+        "value": "PERSON"
+      },
+      {
+        "text": "Saab",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Saab",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Gilbert",
+        "value": "PERSON"
+      },
+      {
+        "text": "Saab 9-5 Aero.",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "The Austro-Hungarian Navy put together and ran a couple of protected cruiser classes.",
+    "gold": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Making good money from bootlegging booze was pretty easy since the cops weren't watching much back then.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "They were gearing up to face off against Oregon State in the Pac-12 Tournament quarters.",
+    "gold": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "So, ``Ganapatishvara`` is another name for Shiva, kinda like a nickname, and it's also what they call the town ``Ganapatishvaram``. It means Shiva is the ``Lord of Ganesha``. There's this cool story about Ganesha taking down a demon and then paying respects to his dad Shiva right here.",
+    "gold": [
+      {
+        "text": "``Ganapatishvara``",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva,",
+        "value": "OTHER"
+      },
+      {
+        "text": "``Ganapatishvaram``.",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      },
+      {
+        "text": "``Lord of Ganesha``.",
+        "value": "OTHER"
+      },
+      {
+        "text": "Ganesha",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "``Ganapatishvara``",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva,",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "He's been a Congressman for Cajamarca from 2006 to 2011 and is with the Union for Peru party.",
+    "gold": [
+      {
+        "text": "Cajamarca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party.",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "from",
+        "value": "LOCATION"
+      },
+      {
+        "text": "for Peru party.",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Looks like over 75 MPs are teaming up with the alliance.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Her bro tried to get into the United States House of Representatives from upstate New York, but didn't make it in '92 and '94.",
+    "gold": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York,",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York,",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He passed away in a nursing home on voting day, Nov 2, 2004, when he was 92, leaving behind his wife and a brother.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Malcolm III (around 26 March 1031 \u2013 13 November 1093, aged 62) ruled as King of Scots from 1058 to 1093.",
+    "gold": [
+      {
+        "text": "Malcolm III",
+        "value": "PERSON"
+      },
+      {
+        "text": "Scots",
+        "value": "NATIONALITY"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Malcolm III",
+        "value": "PERSON"
+      },
+      {
+        "text": "1058",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "So, the guy who started K\u014deido (you know, the Kibi dango shop) wrote this travel book back in 1895. He said that Kibitsuhiko personally made some kibi dango and gave them to Emperor Jimmu during his visit to Takayama Palace in Okayama.",
+    "gold": [
+      {
+        "text": "K\u014deido",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Kibi dango",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Kibitsuhiko",
+        "value": "PERSON"
+      },
+      {
+        "text": "kibi dango",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Jimmu",
+        "value": "PERSON"
+      },
+      {
+        "text": "Takayama Palace",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Okayama.",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "(you",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "dango shop) wrote",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "He got made captain and joined in on the naval action at the Siege of Port Hudson from May to July, 1863.",
+    "gold": [
+      {
+        "text": "Siege of Port Hudson",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Siege of Port Hudson",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "After the '73 coup, Ar\u00f3n had to lay low.",
+    "gold": [
+      {
+        "text": "Ar\u00f3n",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "had",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Six years down the line, Richard and Lilli turned into tough and good-looking teens.",
+    "gold": [
+      {
+        "text": "Richard",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lilli",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Richard",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lilli",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Lots of guys got split up from their families and were shipped off to the B.C.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "Cnidaria are just a bunch of animals you'll find in the water, especially in the ocean.",
+    "gold": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "The first Breck Ullr Fest kicked off back in '63.",
+    "gold": [
+      {
+        "text": "Breck Ullr Fest",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Breck Ullr Fest",
+        "value": "EVENT"
+      }
+    ]
+  }
+]

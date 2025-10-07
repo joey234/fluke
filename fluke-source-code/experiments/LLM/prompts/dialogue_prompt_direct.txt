@@ -1,0 +1,49 @@
+System message:
+
+Your input fields are:
+1. `dialogue` (str)
+
+Your output fields are:
+1. `label` (str)
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## dialogue ## ]]
+{dialogue}
+
+[[ ## label ## ]]
+{label}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Does the last utterance contradict the dialogue context? Answer with 1 if contradict, 0 if not contradict
+
+
+User message:
+
+[[ ## dialogue ## ]]
+agent 0: hello, i'm just finishing my mexican food. i apologize for my rudeness.
+agent 1: no worries. i'm listening to some country music with my cow bessie
+agent 0: oh i would love to see your cow
+agent 1: i drive a large pickup so i could haul her to where you live to show you
+agent 0: that's sweet of you to offer! i work in construction and get sent many places.
+agent 1: i just stay at home working on mom and dads farm so i'd like an adventure
+agent 0: well, we can meet up. tell me when!
+agent 1: i'll have to check with my parents but maybe next thursday
+agent 0: that sounds wonderful! what is your favorite music?
+agent 1: country all the way! its all i listen to. you?
+agent 0: well, i'm a big aerosmith fan, but i also like country.
+agent 1: aerosmith is not bad but i love country so much
+agent 0: me too. they play it at the nascar races that i attend.
+agent 1: i am a nascar fan too!
+
+Respond with the corresponding output fields, starting with the field `[[ ## label ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+Response:
+
+[[ ## label ## ]]
+0
+
+[[ ## completed ## ]]

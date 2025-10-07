@@ -1,0 +1,1969 @@
+key,side,num_constraints,num_satisfied,compliance_rate,strict_success,eval_text,constraints_json
+2449,original,2,2,100.0,1,"#!/bin/bash
+
+# Angry Rap Section
+echo ""Yo listen up I'm about to spit some fire""
+echo ""Got a directory and I'm takin' it higher""
+echo ""Gonna download all the files no need to retire""
+echo ""My rhymes so tight they'll never get tired""
+echo ""Quickly get the links and start the quest""
+echo ""Quality downloads that's what I possess""
+
+# Download Section
+if [ $# -eq 0 ]; then
+    echo ""Please provide a URL""
+    exit 1
+fi
+
+URL=$1
+wget -r -nH --cut-dirs=1 --no-parent $URL","[{""constraint_id"": ""punctuation:no_comma"", ""passed"": true}, {""constraint_id"": ""keywords:letter_frequency"", ""passed"": true}]"
+1233,original,2,2,100.0,1,"The tallest skyscraper in the world in 2000 was the Petronas Twin Towers, located in Kuala Lumpur, Malaysia. This iconic skyscraper stood at a height of 1,483 feet. The skyscraper's height was a remarkable achievement in engineering and architecture, solidifying its place as the tallest skyscraper in the world at the time. The skyscraper's design was a testament to human ingenuity, pushing the boundaries of what was thought possible for a skyscraper. The skyscraper's height was a source of pride for the city and the country, cementing its status as a major player in the world of skyscrapers. The skyscraper's impressive height was a result of careful planning and execution, making it a true marvel of modern skyscraper design. The skyscraper's impact on the city's skyline was significant, making it a prominent feature of the urban landscape. The skyscraper's height was a benchmark for other skyscrapers to strive for, setting a new standard for skyscraper design. The skyscraper's legacy continues to inspire new generations of architects and engineers, pushing the boundaries of what is possible for a skyscraper.
+
+Is there anything else I can help with?","[{""constraint_id"": ""startend:end_checker"", ""passed"": true}, {""constraint_id"": ""keywords:frequency"", ""passed"": true}]"
+332,original,2,1,50.0,0,"TLDR the article ""How to dress like a football manager: waistcoats and the style lessons from the Premier League"". Your entire response (including the repeated request) should have 45 or less words.
+
+Article summary: Football managers' styles, led by Pep Guardiola and Jürgen Klopp, inspire fans. Key pieces include tailored suits, waistcoats, and bold accessories. A mix of elegance and approachability defines their look.","[{""constraint_id"": ""combination:repeat_prompt"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_words"", ""passed"": false}]"
+2328,original,1,1,100.0,1,"**Introducing ""Legacy Lockbox""**
+
+Imagine being able to send a piece of yourself to the future, to be opened and cherished by loved ones years from now. Our innovative service makes this possible, allowing individuals, families, and organizations to preserve their memories, values, and experiences for generations to come.
+
+Our company provides a unique and secure way to collect, store, and deliver personal artifacts and messages to a designated point in the future. Our state-of-the-art facilities ensure that every item is carefully preserved and protected, guaranteeing its integrity and longevity.
+
+With our service, users can:
+
+* Create a personalized collection of memories, including letters, photos, and mementos
+* Set a specific date or milestone for the collection to be opened, whether it's 10, 20, or 50 years in the future
+* Choose from a range of secure storage options, including climate-controlled facilities and advanced digital preservation methods
+* Enjoy peace of mind, knowing that their legacy is safe and will be delivered to the intended recipient at the designated time
+
+Our mission is to empower people to leave a lasting legacy, to inspire future generations, and to provide a meaningful way to connect with those who come after us. We believe that our service has the potential to become a new standard for preserving personal history and creating a sense of continuity between past, present, and future.
+
+**Market Opportunity**
+
+The demand for our service is vast and growing, driven by an increasing interest in genealogy, family history, and personal legacy. Our target market includes:
+
+* Individuals seeking to leave a lasting legacy for their loved ones
+* Families looking to preserve their history and cultural heritage
+* Organizations and businesses wanting to commemorate milestones and achievements
+
+**Business Model**
+
+Our revenue streams will come from:
+
+* Storage and preservation fees
+* Customization and curation services
+* Partnerships with organizations and businesses looking to leverage our service for their own legacy initiatives
+
+**Team**
+
+Our team includes experienced professionals in preservation, storage, and digital archiving, as well as experts in marketing, customer service, and business development.
+
+**Join us on this exciting journey to create a new way to preserve the past and inspire the future.**","[{""constraint_id"": ""keywords:forbidden_words"", ""passed"": true}]"
+3281,original,2,2,100.0,1,"Here are two versions of a cover letter for an assistant professor position:
+
+Cover letter version 1
+
+Dear Hiring Committee
+
+I am writing to express my strong interest in the Assistant Professor position in the Department of [Department Name] at [University Name]. As a highly motivated and dedicated educator and researcher I am confident that I would be an excellent fit for this role.
+
+With a PhD in [Field of Study] and several years of teaching experience I possess the necessary qualifications and expertise to excel in this position. My research interests align with the department's focus on [Specific Area of Research] and I am excited about the prospect of contributing to the academic community at [University Name].
+
+I am particularly drawn to this position because of the university's commitment to [Aspect of University's Mission or Values that resonates with you]. As an educator I believe that it is essential to create an inclusive and supportive learning environment that fosters intellectual curiosity and creativity. I am confident that my teaching philosophy and research agenda align with the university's goals.
+
+I have attached my CV which provides a detailed account of my academic background research experience and teaching credentials. I look forward to discussing my application and how I can contribute to the department.
+
+Sincerely
+[Your Name]
+
+******
+Cover letter version 2
+
+Dear Search Committee
+
+I am excited to apply for the Assistant Professor position in the Department of [Department Name] at [University Name]. With a strong passion for teaching and research I am confident that I would be a valuable asset to the academic community.
+
+My research expertise is in [Specific Area of Research] and I have a proven track record of publishing in top-tier journals. My teaching experience has equipped me with the skills to design and deliver courses that engage students and promote critical thinking. I am committed to creating a learning environment that is inclusive and respectful of diverse perspectives.
+
+I am impressed by [University Name]'s commitment to [Aspect of University's Mission or Values that resonates with you]. As a scholar I believe that it is essential to produce research that has a positive impact on society. I am excited about the prospect of collaborating with colleagues who share my passion for [Field of Study].
+
+I have attached my CV which provides a detailed account of my academic background research experience and teaching credentials. I look forward to discussing my application and how I can contribute to the department.
+
+Sincerely
+[Your Name]","[{""constraint_id"": ""combination:two_responses"", ""passed"": true}, {""constraint_id"": ""punctuation:no_comma"", ""passed"": true}]"
+2752,original,1,1,100.0,1,"The opposite of youth is not age, but rather **maturity**. While age is a measure of the passage of time, maturity is a measure of emotional, psychological, and social development. Youth is often characterized by a sense of curiosity, energy, and openness to new experiences, whereas maturity is marked by a sense of wisdom, responsibility, and stability.
+
+*However, some might argue that the opposite of youth is actually **experience**. Experience is what we gain as we navigate the world, learn from our mistakes, and develop a deeper understanding of ourselves and others. In this sense, experience is the opposite of youth because it represents a accumulation of knowledge and insight that comes with time.*
+
+Another perspective is that the opposite of youth is actually **decline**. As we age, our physical and mental abilities may decline, and we may lose some of the vitality and energy that we had in our youth. From this viewpoint, the opposite of youth is not just a state of being, but a process of change that occurs over time.
+
+Ultimately, the opposite of youth is a complex and multifaceted concept that can be understood in different ways depending on one's perspective.","[{""constraint_id"": ""detectable_format:number_highlighted_sections"", ""passed"": true}]"
+1825,original,3,3,100.0,1,"Here are the bullet points explaining Generative Adversarial Networks (GANs):
+
+* GANs are a type of deep learning model that uses two neural networks to generate new data that resembles existing data
+* The two neural networks are a generator and a discriminator
+* The generator takes a random noise vector as input and produces a synthetic data sample
+* The discriminator takes a data sample as input and predicts whether it is real or fake
+* The generator and discriminator are trained simultaneously with opposing objectives
+* The generator tries to produce data samples that are indistinguishable from real data
+* The discriminator tries to correctly distinguish between real and fake data samples
+* Through this adversarial process the generator improves its performance and the quality of the generated data
+* GANs are often lacking in stability and can be difficult to train
+* The architecture of GANs can be modified to suit specific tasks and applications
+* GANs have been used in a variety of applications including image and video generation and data augmentation
+
+P.P.S. GANs are a rapidly evolving field and new architectures and techniques are being developed to improve their performance and stability.","[{""constraint_id"": ""punctuation:no_comma"", ""passed"": true}, {""constraint_id"": ""detectable_content:postscript"", ""passed"": true}, {""constraint_id"": ""keywords:existence"", ""passed"": true}]"
+1658,original,2,2,100.0,1,"""**Your Name**
+**Address:** *123 Main St, Anytown, USA 12345*
+**Phone Number:** *555-555-5555*
+**Email:** *[your email address]*
+**Objective:** To obtain an internship or entry-level position in the field of computer science where I can apply my skills and knowledge to contribute to a dynamic team.
+
+**Education:**
+
+* Currently pursuing a Bachelor's degree in Computer Science, XYZ University (20XX-20XX)
+* Relevant coursework: Data Structures, Algorithms, Computer Systems, and Software Engineering
+
+**Skills:**
+
+* Programming languages: Python, Java
+* Familiarity with data structures and algorithms
+* Basic knowledge of computer systems and software engineering
+* Strong problem-solving skills and attention to detail
+* Proficient in Microsoft Office and Google Suite
+
+**Projects:**
+
+* Developed a simple chatbot using Python and Natural Language Processing (NLP) techniques
+* Created a Java-based game using object-oriented programming principles
+* Contributed to an open-source project on GitHub, improving code quality and readability
+
+**Activities:**
+
+* Member, XYZ University Computer Science Club (20XX-20XX)
+* Participant, Hackathons and coding competitions (20XX-20XX)
+
+**References:**
+
+* Available upon request""
+
+Note: Since you have no work experience, the focus is on your education, skills, and any relevant projects or activities you've been involved in. Remember to customize your resume to the specific job or internship you're applying for, and be honest about your level of experience and skills.","[{""constraint_id"": ""startend:quotation"", ""passed"": true}, {""constraint_id"": ""keywords:existence"", ""passed"": true}]"
+2439,original,3,3,100.0,1,"Punched by the harsh reality that the police have a broader scope of responsibilities  the general public often misunderstands the role of law enforcement agencies.
+
+
+Offences are not the only things that are grasped by the police who have to deal with a wide range of issues including [incident type] and [location] on a daily basis. They have to be prepared to handle anything from minor infractions to life-threatening situations.
+
+
+Their duties extend far beyond simply enforcing laws and making arrests. They have to be mediators and counselors at times providing support to victims of [crimes] and helping to resolve disputes in a peaceful manner.","[{""constraint_id"": ""punctuation:no_comma"", ""passed"": true}, {""constraint_id"": ""length_constraints:nth_paragraph_first_word"", ""passed"": true}, {""constraint_id"": ""detectable_content:number_placeholders"", ""passed"": true}]"
+288,original,1,1,100.0,1,"Is ballistics (the study of the motion of projectiles) an actual science?
+
+Yes, ballistics is indeed an actual science. It is a branch of physics that deals with the motion of projectiles, such as bullets, rockets, and artillery shells, under the influence of various forces like gravity, air resistance, and propulsion. Ballistics involves the study of the trajectory of projectiles, including their speed, range, and accuracy, and is used in various fields like military science, aerospace engineering, and forensic science.","[{""constraint_id"": ""combination:repeat_prompt"", ""passed"": true}]"
+1154,original,1,1,100.0,1,"ਤਕਨੀਕੀ ਕੌਸ਼ਲਾਂ ਦਾ ਮੁਲਾਂਕਣ ਕਰਨ ਲਈ ਰੂਬਰਿਕ:
+
+**ਕੰਪਿਊਟਰ ਪ੍ਰੋਗਰਾਮਿੰਗ ਦੀਆਂ ਮੁਢਲੀਆਂ ਜਾਣਕਾਰੀਆਂ:**
+
+* ਪ੍ਰੋਗਰਾਮਿੰਗ ਦੇ ਮੁਢਲੇ ਸਿਧਾਂਤਾਂ ਦੀ ਸਮਝ: 1 - ਅਣਜਾਣ, 2 - ਘੱਟ, 3 - ਸਹੀ, 4 - ਚੰਗਾ, 5 - ਵਧੀਆ
+* ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾਵਾਂ (ਜਾਵਾ, ਪਾਇਥਨ, ਸੀ++, ਆਦਿ) ਦੀ ਜਾਣਕਾਰੀ: 1 - ਅਣਜਾਣ, 2 - ਘੱਟ, 3 - ਸਹੀ, 4 - ਚੰਗਾ, 5 - ਵਧੀਆ
+
+**ਸਾਫਟਵੇਅਰ ਡਿਜ਼ਾਇਨ ਅਤੇ ਵਿਕਾਸ:**
+
+* ਸਾਫਟਵੇਅਰ ਡਿਜ਼ਾਇਨ ਦੇ ਸਿਧਾਂਤਾਂ ਦੀ ਸਮਝ: 1 - ਅਣਜਾਣ, 2 - ਘੱਟ, 3 - ਸਹੀ, 4 - ਚੰਗਾ, 5 - ਵਧੀਆ
+* ਸਾਫਟਵੇਅਰ ਵਿਕਾਸ ਦੇ ਜੀਵਨ ਚੱਕਰ ਦੀ ਸਮਝ: 1 - ਅਣਜਾਣ, 2 - ਘੱਟ, 3 - ਸਹੀ, 4 - ਚੰਗਾ, 5 - ਵਧੀਆ
+
+**ਡੇਟਾਬੇਸ ਪ੍ਰਬੰਧਨ:**
+
+* ਡੇਟਾਬੇਸ ਪ੍ਰਬੰਧਨ ਸਿਧਾਂਤਾਂ ਦੀ ਸਮਝ: 1 - ਅਣਜਾਣ, 2 - ਘੱਟ, 3 - ਸਹੀ, 4 - ਚੰਗਾ, 5 - ਵਧੀਆ
+* ਡੇਟਾਬੇਸ ਕਵਰੀਅਂਟਾਂ ਦੀ ਜਾਣਕਾਰੀ: 1 - ਅਣਜਾਣ, 2 - ਘੱਟ, 3 - ਸਹੀ, 4 - ਚੰਗਾ, 5 - ਵਧੀਆ
+
+**ਟੈਸਟਿੰਗ ਅਤੇ ਡਿਬੱਗਿੰਗ:**
+
+* ਟੈਸਟਿੰਗ ਦੇ ਸਿਧਾ","[{""constraint_id"": ""language:response_language"", ""passed"": true}]"
+1619,original,2,2,100.0,1,"Here's a rap about a new smartphone:
+
+Yo, listen up, I got a new phone in my hand
+It's the [Brand Name] [Model Number], the latest in the land
+Got a [Screen Size]-inch screen, it's big and it's bright
+[Resolution] pixels, everything's looking just right
+
+I'm rocking [Operating System], it's fast and it's sleek
+Got [Number] gigs of RAM, my apps are always unique
+[Processor] chip, it's the fastest on the market
+I'm gaming, streaming, and multitasking, no need to be anxious
+
+My camera's got [Number] megapixels, it's a beast
+Taking pics and vids, they're always on the feast
+[Feature] mode, it's like having a pro in my hand
+I'm snapping and sharing, got my followers in demand
+
+My battery life is [Number] hours, it's all day long
+I'm never running out, my phone's always strong
+[Color] and [Material], it's a beautiful design
+I'm rocking this phone, it's one of a kind, all mine
+
+P.P.S I just got the [Accessories] to go with my new phone, a [Case] and a [Screen Protector], it's complete, I'm all set to go!","[{""constraint_id"": ""detectable_content:postscript"", ""passed"": true}, {""constraint_id"": ""detectable_content:number_placeholders"", ""passed"": true}]"
+2969,original,1,1,100.0,1,"<<Sloop on Sale: Perfect for Beginners and Experienced Sailors Alike!>>
+
+Are you looking for a sailboat that's easy to handle and fun to sail? Look no further! Our sloop is a great choice for both beginners and experienced sailors. With its single mast and simple rigging, it's a breeze to navigate and maneuver.
+
+**Key Features:**
+
+| **Feature** | **Description** |
+| --- | --- |
+| **Length** | 22 feet (6.7 meters) |
+| **Beam** | 8 feet (2.4 meters) |
+| **Draft** | 3 feet (0.9 meters) |
+| **Displacement** | 2,500 pounds (1,136 kg) |
+| **Mast Height** | 28 feet (8.5 meters) |
+| **Sail Area** | 200 square feet (18.6 square meters) |
+
+**What sets our sloop apart:**
+
+* Easy to sail and maneuver, making it perfect for solo sailors or families
+* Simple rigging and single mast make it easy to understand and maintain
+* Stable and responsive, with a comfortable cockpit and ample storage
+* Great for day sailing, cruising, or racing
+
+**Additional features:**
+
+* Fiberglass hull with a durable gelcoat finish
+* Stainless steel hardware and fittings
+* New sails and rigging (2020)
+* Outboard engine (optional)
+
+**Asking Price:** $15,000
+
+**Contact us:** [insert contact information]
+
+Don't miss out on this amazing opportunity to own a great sailboat at an affordable price!","[{""constraint_id"": ""detectable_format:title"", ""passed"": true}]"
+3256,original,3,3,100.0,1,"<<Whiskers of Wonder>>
+
+With eyes like shining stars at night
+A curious cat prowls through the light
+She sniffs and prowls with stealthy pace
+Exploring every nook and secret place
+
+Her tail twitches with excitement high
+As she discovers a hidden sky
+A sunbeam dancing on the floor
+A toy to chase and pounce once more
+
+With a flick of her ear and a twitch of her whisker
+She pounces on a wandering whisper
+Her curiosity is never still
+A constant quest to explore and fulfill","[{""constraint_id"": ""length_constraints:number_sentences"", ""passed"": true}, {""constraint_id"": ""detectable_format:title"", ""passed"": true}, {""constraint_id"": ""punctuation:no_comma"", ""passed"": true}]"
+2912,original,2,2,100.0,1,"Here is the dialogue between two people trying to avoid using the letter ""t"":
+
+Scene 1:
+
+Samantha: Honestly, I'm trying to talk to you about this topic without using that troublesome letter.
+
+Trevor: Totally, I'm with you. It's a tough task, but I think we can tackle it.
+
+Samantha: That's terrific! I've been thinking about this for a while, and I've come to the conclusion that it's not that tricky.
+
+Trevor: True that. But sometimes I get tongue-tied and end up using the word ""the"" or ""that"" too many times.
+
+Samantha: Tell me about it! I've been trying to train myself to think of alternative phrases, but it's not easy.
+
+Trevor: Totally! I've been taking notes and trying to think of tricky ways to avoid the ""t"" sound.
+
+******
+
+
+Scene 2:
+
+Samantha: Today, I was talking to a friend and I totally tripped up. I used the word ""totally"" like three times in a row.
+
+Trevor: That's too funny! I've had similar troubles. I was trying to talk about a topic and I ended up using the word ""the"" like five times in one sentence.
+
+Samantha: That's terrible! I feel like I'm not trying hard enough. Maybe we should try to think of some tricky phrases to help us avoid the ""t"" sound.
+
+Trevor: That's a terrific idea! Let's take turns trying to come up with tricky phrases that don't use the letter ""t"".
+
+Samantha: Okay, I'll start. How about ""happy hours are the best""?
+
+Trevor: Hmm, that's not bad, but you used the word ""the""! Let me try. How about ""fun times are always a blast""?
+
+Samantha: Oh no, you used the word ""times""! I think we need to try harder.","[{""constraint_id"": ""combination:two_responses"", ""passed"": true}, {""constraint_id"": ""keywords:letter_frequency"", ""passed"": true}]"
+1287,original,2,2,100.0,1,"the winds of fate blew gently upon the shores of jerusalem, carrying the whispers of a distant past. a man named john of brienne, a french nobleman of humble means, found himself entwined in the intricate web of destiny. how did he become the king of jerusalem, you ask? the answer lies in the subtle dance of circumstance and fortune.
+
+* john of brienne was a skilled military leader, having fought in the fifth crusade and earned the respect of his peers. his prowess on the battlefield caught the attention of the queen of jerusalem, maria, who was in search of a suitable husband to secure her kingdom.
+* as the queen's consort, john of brienne brought stability and strength to the fragile kingdom of jerusalem. he navigated the complex landscape of medieval politics with ease, forging alliances and negotiating with neighboring powers.
+* in 1210, john of brienne was crowned king of jerusalem, his title solidified by the marriage to queen maria. though his reign was marked by challenges and conflicts, he remained a steady presence, a rock upon which the kingdom rested. and so, the man from brienne became the king of jerusalem, his fate woven into the fabric of history.","[{""constraint_id"": ""detectable_format:number_bullet_lists"", ""passed"": true}, {""constraint_id"": ""change_case:english_lowercase"", ""passed"": true}]"
+2751,original,2,2,100.0,1,"""The Google Pixel 3A is a budget-friendly smartphone that offers an incredible value proposition for those looking for a high-quality Android experience without breaking the bank. Released in 2019, the Pixel 3A is a more affordable variant of the flagship Pixel 3 series, but it still packs a punch with its impressive camera, snappy performance, and timely software updates.
+
+One of the standout features of the Pixel 3A is its camera. Despite being a mid-range device, the Pixel 3A boasts a 12.2-megapixel rear camera that is capable of taking stunning photos, especially in low-light conditions. The camera app is intuitive and easy to use, with features like Night Sight, Portrait mode, and Super Res Zoom. The front-facing camera is equally impressive, with an 8-megapixel sensor that takes great selfies.
+
+The Pixel 3A's performance is also noteworthy, thanks to its mid-range Qualcomm Snapdragon 660 processor. While it may not be as powerful as the flagship Pixel 3's Snapdragon 845, the 660 still provides smooth and responsive performance, making it perfect for everyday tasks like browsing, gaming, and streaming. The device also comes with 4GB of RAM and 64GB of internal storage, which should be sufficient for most users.
+
+The Pixel 3A's display is another highlight, with a 5.6-inch OLED screen that offers vibrant colors and deep blacks. The screen is also relatively compact, making it easy to hold and use with one hand. The device also features a headphone jack, which is a rare feature in modern smartphones.
+
+In terms of software, the Pixel 3A runs on stock Android 9.0 (Pie) out of the box, which provides a clean and intuitive user interface. The device is also guaranteed to receive timely software updates for at least three years, which ensures that users will have access to the latest security patches and features.
+
+The Pixel 3A's battery life is also impressive, with a 3000mAh battery that can easily last a day with moderate use. The device also supports fast charging, which can quickly top up the battery when it's running low.
+
+In terms of design, the Pixel 3A has a polycarbonate body that is durable and lightweight. The device is available in three colors: Just Black, Clearly White, and Purple-ish. The phone's build quality is solid, with a comfortable grip and a subtle texture that makes it easy to hold.
+
+Overall, the Google Pixel 3A is an excellent choice for anyone looking for a budget-friendly smartphone that still offers a premium Android experience. With its impressive camera, snappy performance, and timely software updates, the Pixel 3A is a great value for its price. Whether you're a casual user or a power user, the Pixel 3A is definitely worth considering.""","[{""constraint_id"": ""length_constraints:number_words"", ""passed"": true}, {""constraint_id"": ""startend:quotation"", ""passed"": true}]"
+1131,original,1,1,100.0,1,"Here is a 4-section resume for professional clown Phil Larkin:
+
+**Section 1: Contact Information and Summary**
+
+Phil Larkin, Professional Clown
+ Phone: 555-555-5555 | Email: [phil.larkin@gmail.com](mailto:phil.larkin@gmail.com)
+Summary:
+High-energy, experienced clown with over 10 years of entertaining audiences of all ages. Skilled in physical comedy, improvisation, and audience interaction. Proficient in balloon twisting, face painting, and juggling.
+
+**Section 2: Work Experience**
+
+* **Lead Clown, Laugh-a-Lot Entertainment** (2015-Present)
+	+ Performed at corporate events, birthday parties, and festivals
+	+ Developed and implemented customized comedy routines for clients
+	+ Collaborated with event planners to ensure seamless execution of events
+* **Clown, Cirque du Soleil** (2010-2015)
+	+ Performed in various shows and productions, including ""O"" and ""Mystere""
+	+ Participated in character development and improvisation workshops
+	+ Traveled extensively throughout the United States and internationally
+* **Freelance Clown** (2005-2010)
+	+ Performed at private events, parades, and community functions
+	+ Developed and honed skills in balloon twisting, face painting, and juggling
+
+**Section 3: Education and Training**
+
+* **Clown School of NYC** (2005)
+	+ Completed intensive program in clowning, physical comedy, and improvisation
+	+ Studied under renowned clowns and instructors
+* **Improv Comedy Workshop** (2012)
+	+ Learned advanced techniques in improvisation and audience interaction
+	+ Developed skills in thinking on feet and responding to unexpected situations
+
+**Section 4: Special Skills and Certifications**
+
+* **Balloon Twisting:** Expert-level skills in creating complex balloon sculptures and designs
+* **Face Painting:** Proficient in creating intricate designs and characters
+* **Juggling:** Skilled in juggling up to 5 balls and clubs
+* **First Aid and CPR Certification:** Certified in basic first aid and CPR
+* **Liability Insurance:** Fully insured for all performances and events","[{""constraint_id"": ""detectable_format:multiple_sections"", ""passed"": true}]"
+1107,original,2,2,100.0,1,"Why did the rocket go to the party because it was a blast
+
+******
+
+Why did the rocket go to therapy because it had a lot of burning issues","[{""constraint_id"": ""punctuation:no_comma"", ""passed"": true}, {""constraint_id"": ""combination:two_responses"", ""passed"": true}]"
+3098,original,3,3,100.0,1,"**Improve Your Writing Skills**
+=============================
+
+**Why Improve Your Writing Skills**
+---------------------------------
+
+In today's digital age, writing is an essential skill that is used in various aspects of life, from academic assignments to professional communication. IMPROVING YOUR WRITING SKILLS can greatly benefit your personal and professional growth. Not only will it help you to effectively convey your ideas and thoughts, but it will also enable you to communicate more confidently and efficiently.
+
+**Tips to Improve Your Writing Skills**
+---------------------------------------
+
+Here are three effective tips to help you improve your writing skills:
+
+* **READ WIDELY**: Reading is one of the best ways to improve your writing skills. Expose yourself to different writing styles, genres, and authors. Pay attention to the structure, vocabulary, and tone used in the texts you read.
+* **PRACTICE REGULARLY**: Writing is like any other skill that needs to be practiced regularly to be mastered. Set aside a specific time each day or week to write, and make sure to write on different topics and styles.
+* **EDIT AND REVISE**: Editing and revising are crucial steps in the writing process. Take the time to review your work, check for grammar and punctuation errors, and make revisions to improve clarity and coherence.
+
+**Conclusion**
+--------------
+
+Improving your writing skills takes time and effort, but with persistence and dedication, you can become a better writer. By incorporating these tips into your writing routine, you will see improvement over time. Remember, the key to IMPROVING YOUR WRITING SKILLS is to be consistent and patient. With practice and persistence, you will become a more effective and confident writer.","[{""constraint_id"": ""detectable_format:number_bullet_lists"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_paragraphs"", ""passed"": true}, {""constraint_id"": ""change_case:capital_word_frequency"", ""passed"": true}]"
+1342,original,3,2,66.66666666666667,0,"Starting your own business can be a thrilling experience, but it can also be overwhelming. It's essential to take a step back and define your goals, values, and mission statement. What problem do you want to solve? What industry do you want to operate in? What values do you want to uphold in your business? *Take the time to reflect on these questions* and write down your answers. This will help you create a clear direction for your business and make decisions that align with your vision.
+
+*** 
+When it comes to starting a business, it's easy to get caught up in the excitement of the idea and rush into things. However, it's crucial to take a step back and do your research. *Conduct market research* to understand your target audience, their needs, and your competition. This will help you identify gaps in the market and create a unique value proposition that sets you apart from others. Additionally, research your industry and stay up-to-date with the latest trends and developments.
+
+*** 
+A solid business plan is essential for any new venture. It will help you outline your goals, strategies, and financial projections. *Create a business plan that includes* a detailed description of your business, market analysis, marketing and sales strategies, financial projections, and operational plan. Don't be afraid to seek help from mentors, advisors, or business planning resources if you need guidance. A well-written business plan will serve as a roadmap for your business and help you stay on track.
+
+*** 
+As a new business owner, it's essential to be adaptable and resilient. Things won't always go as planned, and you'll need to be able to pivot and adjust to changing circumstances. *Stay flexible and open-minded*, and be willing to learn from your mistakes. Surround yourself with a supportive network of peers, mentors, and advisors who can offer guidance and encouragement. And don't be afraid to ask for help when you need it.
+
+*** 
+Finally, starting a business requires a significant amount of hard work and dedication. Be prepared to put in the time and effort required to get your business off the ground. *Stay focused and motivated* by celebrating your small wins, setting achievable milestones, and rewarding yourself for your accomplishments. Remember, starting a business is a marathon, not a sprint. Stay committed to your vision, and with persistence and determination, you'll be well on your way to success.","[{""constraint_id"": ""keywords:frequency"", ""passed"": false}, {""constraint_id"": ""detectable_format:number_highlighted_sections"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_paragraphs"", ""passed"": true}]"
+2247,original,1,1,100.0,1,"ALVIN AND THE CHIPMUNKS ARE ONE OF THE MOST BELOVED AND ICONIC CARTOON CHARACTERS OF ALL TIME. CREATED BY ROSS BAGDASARIAN SR. IN 1958, THESE LITTLE CREATURES HAVE BEEN ENTERTAINING AUDIENCES FOR OVER 60 YEARS WITH THEIR CATCHY SONGS, FUNNY ANTICS, AND HEARTWARMING PERSONALITIES.
+
+THE ORIGINAL TRIO CONSISTED OF ALVIN, SIMON, AND THEODORE, THREE CHIPMUNK BROTHERS WHO FORMED A SINGING GROUP AND BECAME OVERNIGHT SENSATIONS. ALVIN, THE LEAD SINGER AND MOST OUTGOING OF THE GROUP, WAS KNOWN FOR HIS CHARISMATIC PERSONALITY AND CATCHY SONGS LIKE ""THE CHIPMUNK SONG (CHRISTMAS DON'T BE LATE)"". SIMON, THE SMART AND RESPONSIBLE ONE, WAS THE VOICE OF REASON AND OFTEN FOUND HIMSELF ROLLING HIS EYES AT ALVIN'S ANTICS. THEODORE, THE LOVABLE AND GOOFY ONE, WAS THE HEART OF THE GROUP AND ALWAYS SEEMED TO FIND HIMSELF IN THE MOST ABSURD AND HUMOROUS SITUATIONS.
+
+OVER THE YEARS, THE CHIPMUNKS HAVE UNDERGONE MANY CHANGES AND EVOLUTIONS. THEY HAVE BEEN FEATURED IN NUMEROUS TELEVISION SHOWS, FILMS, AND ALBUMS, AND HAVE EVEN BEEN JOINED BY NEW CHARACTERS LIKE THE CHIPETTES, A GROUP OF FEMALE CHIPMUNKS WHO BECAME THEIR COUNTERPARTS. DESPITE THESE CHANGES, THE CORE OF THE CHIPMUNKS' APPEAL HAS REMAINED THE SAME: THEIR MUSIC, THEIR PERSONALITIES, AND THEIR TIMELESS APPEAL TO AUDIENCES OF ALL AGES.
+
+ONE OF THE KEY REASONS FOR THE CHIPMUNKS' ENDURING POPULARITY IS THEIR MUSIC. THEIR SONGS, WHICH RANGE FROM CATCHY POP TUNES TO HEARTWARMING BALLADS, HAVE BECOME AN INTEGRAL PART OF MANY PEOPLE'S CHILDHOODS. WHO CAN FORGET CLASSICS LIKE ""WITCH DOCTOR"", ""THE CHIPMUNK SONG (CHRISTMAS DON'T BE LATE)"", AND ""THE LION SLEEPS TONIGHT""? THESE SONGS HAVE BEEN COVERED AND PARODIED COUNTLESS TIMES, BUT THE ORIGINAL VERSIONS REMAIN THE MOST ICONIC AND BELOVED.
+
+ANOTHER REASON FOR THE CHIPMUNKS' SUCCESS IS THEIR RELATABLE PERSONALITIES. ALVIN, SIMON, AND THEODORE ARE MORE THAN JUST CARTOON CHARACTERS - THEY ARE ARCHETYPES THAT AUDIENCES CAN IDENTIFY WITH. ALVIN'S CONFIDENCE AND CHARISMA, SIMON'S INTELLIGENCE AND RESPONSIBILITY, AND THEODORE'S GOOFINESS AND GOOD-NATUREDNESS MAKE THEM ALL RELATABLE AND LOVABLE IN THEIR OWN WAYS.
+
+IN CONCLUSION, ALVIN AND THE CHIPMUNKS ARE A TRUE CULTURAL PHENOMENON. WITH THEIR CATCHY MUSIC, FUNNY ANTICS, AND HEARTWARMING PERSONALITIES, THEY HAVE CAPTURED THE HEARTS OF AUDIENCES AROUND THE WORLD. WHETHER YOU'RE A CHILD OF THE 50S, 60S, 70S, OR 80S, OR JUST A FAN OF THEIR MUSIC AND CARTOONS, THE CHIPMUNKS ARE SURE TO BRING A SMILE TO YOUR FACE AND A SONG TO YOUR HEART.","[{""constraint_id"": ""change_case:english_capital"", ""passed"": true}]"
+3505,original,2,1,50.0,0,"Write a pros and cons list of apple products in the style of a 19th century novelist and do not use any commas
+
+In this most modern of eras we find ourselves surrounded by the wondrous contraptions of the esteemed Apple corporation and thus it is incumbent upon us to weigh the merits and demerits of these devices
+
+Pros
+
+The sleek and slender design of the iPhone is a marvel of modern engineering a true masterpiece of form and function that doth please the eye and delight the senses
+The MacBook's keyboard is a joy to type upon its keys responding with a satisfying clickity-clack that doth stir the soul
+The iPad's portability is a boon to the modern gentleman or lady allowing one to peruse the news or indulge in a spot of reading whilst on the go
+The Apple Watch's ability to track one's physical exertions is a valuable tool for those seeking to improve their bodily health and vigor
+The seamless integration of Apple's ecosystem is a true marvel allowing one to effortlessly share files and switch between devices with nary a hitch
+
+Cons
+
+The exorbitant cost of Apple's products is a barrier to entry for many a would-be customer a sum that doth rival the annual income of a modest country squire
+The closed system of the iPhone doth limit the user's ability to customize and tinker with the device a restriction that doth chafe against the spirit of innovation and progress
+The MacBook's battery life is a source of frustration for many a user a limitation that doth render the device less useful than it might otherwise be
+The iPad's lack of a stylus doth make it less useful for those seeking to create artistic masterpieces or take detailed notes
+The Apple Watch's limited battery life doth necessitate frequent recharging a requirement that doth detract from the overall user experience","[{""constraint_id"": ""punctuation:no_comma"", ""passed"": true}, {""constraint_id"": ""combination:repeat_prompt"", ""passed"": false}]"
+3680,original,2,2,100.0,1,"Wilderness preservation is a vital aspect of maintaining the health and integrity of our planet. The vast, untouched expanses of wilderness that still exist today are a precious resource, providing a habitat for countless species of plants and animals, as well as a source of inspiration and rejuvenation for humans.
+
+However, the preservation of wilderness is not without its challenges. One of the main obstacles is the ever-present threat of human development, which can tie the fate of wilderness areas in a knot of conflicting interests. On one hand, there is the need to balance economic growth with environmental protection, while on the other hand, there is the imperative to preserve the natural world for future generations. *The tension between these competing demands can be overwhelming, and it often seems like the knot of wilderness preservation is impossible to untie.*
+
+Despite these challenges, there are many reasons why wilderness preservation is essential. For one, wilderness areas provide a vital source of biodiversity, with many species relying on these areas for their survival. The loss of wilderness habitats can have a ripple effect throughout entire ecosystems, leading to a decline in species populations and even extinctions. Furthermore, wilderness areas also play a crucial role in regulating the climate, with forests and other ecosystems helping to absorb carbon dioxide and produce oxygen.
+
+In addition to its ecological importance, wilderness preservation also has significant cultural and spiritual value. Many indigenous communities have a deep connection to the land, and the preservation of wilderness areas is essential to maintaining their cultural heritage. *The loss of wilderness areas can be a devastating blow to these communities, leaving them feeling like a knot has been tied around their very identity.*
+
+Fortunately, there are many organizations and individuals working tirelessly to preserve wilderness areas. National parks and protected areas have been established in many countries, providing a safe haven for wildlife and a place for humans to connect with nature. Additionally, conservation efforts are underway to restore degraded habitats and protect endangered species.
+
+In conclusion, wilderness preservation is a complex and multifaceted issue that requires careful consideration and action. While there are many challenges to overcome, the importance of preserving wilderness areas cannot be overstated. By working together to protect these areas, we can help to untie the knot of conflicting interests and ensure that the natural world continues to thrive for generations to come.","[{""constraint_id"": ""keywords:frequency"", ""passed"": true}, {""constraint_id"": ""detectable_format:number_highlighted_sections"", ""passed"": true}]"
+3456,original,2,2,100.0,1,"HERE IS THE LIST OF 100 RANDOM NAMES:
+
+1. AUSTIN
+2. *BRIDGETTE*
+3. CAMERON
+4. DAKOTA
+5. EASTON
+6. FIONA
+7. GAVIN
+8. HARRISON
+9. IVY
+10. JASPER
+11. KAYLA
+12. LACHLAN
+13. MADELINE
+14. NATHAN
+15. OPHILIA
+16. PAXTON
+17. QUINCY
+18. REBECCA
+19. SAWYER
+20. TATUM
+21. URSULA
+22. VIVIAN
+23. WYNTON
+24. XANDER
+25. YOLANDA
+26. ZACHARY
+27. ALANA
+28. BRENT
+29. CAROLINE
+30. DREW
+31. ELIJAH
+32. FLORENCE
+33. GABRIEL
+34. HAZEL
+35. ISAAC
+36. JENNY
+37. KALLIOPE
+38. LUCAS
+39. MAISIE
+40. NIGEL
+41. OLYMPIA
+42. PATRICK
+43. QUENTIN
+44. RACHEL
+45. SADIE
+46. THERESA
+47. ULYSSES
+48. VICTORIA
+49. WENDY
+50. XANADU
+51. YASMIN
+52. ZELDA
+53. AMANDA
+54. BRADLEY
+55. CASSANDRA
+56. DOMINIC
+57. ELEANOR
+58. FARLEY
+59. GREGORY
+60. HILARY
+61. IVAN
+62. JULIAN
+63. KELSEY
+64. LESTER
+65. MAGGIE
+66. NIGELLA
+67. OCEANA
+68. PEARL
+69. QUINN
+70. REBECKA
+71. *SOPHIA*
+72. TABITHA
+73. UMA
+74. VERNON
+75. WILHELMINA
+76. XAVIER
+77. YVONNE
+78. ZARA
+79. ALBERT
+80. BROOKLYN
+81. CAMILLA
+82. DORIS
+83. ELIZABETH
+84. FREDERICK
+85. GIDEON
+86. HAVEN
+87. *ISABELLA*
+88. JACOB
+89. KATHERINE
+90. LILLIAN
+91. MARCUS
+92. NATASHA
+93. ODETTE
+94. PAMELA
+95. *QUINBY*
+96. RENEE
+97. *SARAH*
+98. TREVOR
+99. URSULA
+100. VALENTINE","[{""constraint_id"": ""detectable_format:number_highlighted_sections"", ""passed"": true}, {""constraint_id"": ""change_case:english_capital"", ""passed"": true}]"
+1518,original,1,1,100.0,1,"I am a software engineer with 7 years of experience, and I am looking for a new job. Can you create a resume for me and explain each section?
+
+Here is a sample resume for a software engineer with 7 years of experience:
+
+**Your Name**
+**Address:** (optional)
+**Phone Number:** (optional)
+**Email:** (required)
+**LinkedIn:** (optional)
+**GitHub:** (optional)
+
+**Summary:**
+Highly motivated and experienced software engineer with 7 years of experience in designing, developing, and deploying scalable software solutions. Proficient in a range of programming languages, including Java, Python, and C++. Strong understanding of software development life cycles, agile methodologies, and cloud computing platforms. Seeking a challenging role that leverages my technical expertise and passion for innovation.
+
+**Technical Skills:**
+
+* Programming languages: Java, Python, C++, JavaScript
+* Development frameworks: Spring, Django, React
+* Databases: MySQL, MongoDB, PostgreSQL
+* Operating Systems: Windows, Linux, macOS
+* Cloud platforms: AWS, Azure, Google Cloud
+* Agile methodologies: Scrum, Kanban
+* Version control: Git, SVN
+
+**Professional Experience:**
+
+* **Senior Software Engineer, ABC Company (2018-Present)**
+	+ Designed and developed multiple scalable software applications using Java and Spring framework
+	+ Collaborated with cross-functional teams to identify and prioritize project requirements
+	+ Implemented automated testing and deployment scripts using Jenkins and Docker
+	+ Mentored junior engineers and provided technical guidance on best practices
+* **Software Engineer, DEF Company (2015-2018)**
+	+ Contributed to the development of a cloud-based e-commerce platform using Python and Django
+	+ Worked on a team to design and implement a microservices architecture using Docker and Kubernetes
+	+ Participated in code reviews and ensured adherence to coding standards
+	+ Collaborated with QA engineers to identify and resolve defects
+
+**Education:**
+
+* **Bachelor's/Master's Degree in Computer Science, XYZ University (2010-2015)**
+	+ Coursework: Data Structures, Algorithms, Computer Systems, Software Engineering
+
+**Certifications:**
+
+* **Certified Scrum Master (CSM), Scrum Alliance (2018)**
+* **Certified Java Developer (OCPJP), Oracle Corporation (2016)**
+
+**Projects:**
+
+* **Personal Project:**
+	+ Developed a machine learning-based chatbot using Python and TensorFlow
+	+ Deployed the application on a cloud platform using AWS Lambda and API Gateway
+* **Open-Source Contribution:**
+	+ Contributed to a popular open-source project on GitHub, improving performance and fixing defects
+
+Now, let me explain each section:
+
+* **Contact Information:** This section includes your name, address, phone number, email, LinkedIn profile, and GitHub profile (if applicable). Make sure to include a professional email address and a link to your LinkedIn profile.
+* **Summary:** This section provides a brief overview of your experience, skills, and career goals. It should entice the reader to read further and highlight your unique value proposition.
+* **Technical Skills:** This section lists your technical skills, including programming languages, development frameworks, databases, operating systems, cloud platforms, agile methodologies, and version control systems. Be honest and only include skills you are proficient in.
+* **Professional Experience:** This section describes your work experience in reverse chronological order. Each entry should include the company name, job title, dates of employment, and a brief description of your job responsibilities and achievements.
+* **Education:** This section includes your educational background, including degrees earned and relevant coursework.
+* **Certifications:** This section lists any relevant certifications you have obtained, such as Scrum Master or Java Developer certifications.
+* **Projects:** This section showcases your personal projects or open-source contributions. It demonstrates your skills and passion for software development outside of your professional experience.
+
+Remember to tailor your resume to the specific job you are applying for, and highlight your relevant skills and experience.","[{""constraint_id"": ""combination:repeat_prompt"", ""passed"": true}]"
+1999,original,1,1,100.0,1,"HERE IS A SUMMARY OF THE PASSAGE IN ALL CAPITAL LETTERS:
+
+WORLD WAR II WAS A GLOBAL CONFLICT THAT LASTED FROM 1939 TO 1945, INVOLVING MOST OF THE WORLD'S COUNTRIES IN TWO OPPOSING ALLIANCES: THE ALLIES AND THE AXIS. IT WAS THE DEADLIEST CONFLICT IN HISTORY, RESULTING IN AN ESTIMATED 70 TO 85 MILLION FATALITIES, MOSTLY AMONG CIVILIANS. THE WAR SAW THE USE OF AIRCRAFT AND NUCLEAR WEAPONS, AND LED TO THE OCCUPATION OF GERMANY, AUSTRIA, AND JAPAN, AS WELL AS WAR CRIMES TRIBUNALS AGAINST GERMAN AND JAPANESE LEADERS.","[{""constraint_id"": ""change_case:english_capital"", ""passed"": true}]"
+2515,original,1,1,100.0,1,"As a farmer with a surplus of crops, Gideon has several options to consider:
+
+* **Sell the surplus**: Gideon can sell his excess crops to wholesalers, retailers, or directly to consumers through farmers' markets or online platforms. This can help him generate additional income and offset the costs of production.
+* Donate to local food banks or charities: Gideon can donate his surplus crops to local food banks, soup kitchens, or other charities that help feed people in need. This can help him give back to the community and also provide a tax deduction.
+* Store for future use: If Gideon has the necessary storage facilities, he can store the surplus crops for future use, such as for planting next season or for sale during a time of high demand.
+* Process and value-add: Gideon can consider processing his surplus crops into value-added products, such as jams, preserves, or canned goods. This can help him create new revenue streams and differentiate his products from others in the market.
+* ***Share with neighbors or friends**: Gideon can also consider sharing his surplus crops with neighbors or friends who may appreciate the fresh produce. This can help him build relationships and foster a sense of community.*
+* Participate in a crop exchange program: Gideon can participate in a crop exchange program, where he can exchange his surplus crops for other crops or products that he needs.
+* Use for animal feed: If Gideon has livestock, he can use the surplus crops as animal feed, reducing his feed costs and creating a more sustainable farming operation.
+
+Overall, Gideon has a range of options to consider when it comes to managing his surplus crops, and the best approach will depend on his specific circumstances and goals.","[{""constraint_id"": ""detectable_format:number_highlighted_sections"", ""passed"": true}]"
+1130,original,1,1,100.0,1,"Here's a logic quiz for teenagers about a chesterfield, with minimal use of the letter ""t"":
+
+Five friends - Alex, Eve, Lily, Owen, and Ruby - are sitting on a chesterfield. Each friend is wearing a different colored shirt: blue, green, orange, purple, and red. Using the following clues, can you figure out the color of each friend's shirt?
+
+* Alex is sitting next to someone wearing an orange shirt.
+* Eve is wearing a green shirt.
+* Lily is sitting next to Ruby.
+* Owen is wearing a shirt that is a primary color.
+* Ruby is not wearing a blue shirt.
+
+What color is each friend's shirt?","[{""constraint_id"": ""keywords:letter_frequency"", ""passed"": true}]"
+2396,original,1,1,100.0,1,"In fields of green, where wildflowers sway,
+A conflict rages, day by day.
+For years, for decades, the battle's roar,
+Echoes through the land, a constant score.
+
+The soldiers march, with weary feet,
+Their hearts heavy, their souls worn neat.
+They fight for cause, for country's pride,
+But as the years go by, the reasons divide.
+
+The cries of war, the scent of blood,
+The tears of widows, the orphan's flood.
+The world watches on, with anxious eyes,
+As the war drags on, with no surprise.
+
+Generations pass, with no end in sight,
+The war becomes a way of life, a constant fight.
+The young grow old, the old grow grey,
+But still the war rages, night and day.
+
+The land is scarred, the people worn,
+The future uncertain, the past forlorn.
+The war, a beast, that will not cease,
+A monster that feeds, on human peace.
+
+P.P.S. And still the war goes on, a never-ending refrain,
+A reminder that some conflicts may never be contained.
+The cycle of violence, a vicious spin,
+A long-lasting war, that may never give in.","[{""constraint_id"": ""detectable_content:postscript"", ""passed"": true}]"
+3567,original,1,1,100.0,1,"شخص اول: میں نے حال ہی میں ""ہوم اسکولنگ کے راز: ظاہر!"" پڑھا ہے۔ آپ نے یہ کتاب پڑھی ہے؟
+شخص دوم: جی ہاں، میں نے پڑھی ہے۔ آپ کا اس کتاب کے بارے میں کیا خیال ہے؟
+شخص اول: مجھے یہ کتاب بہت پسند آئی۔ اس میں ہوم اسکولنگ کے بارے میں بہت سے اچھے تجربات اور مشورے ہیں۔
+شخص دوم: جی ہاں، یہ کتاب بہت مفید ہے۔ اس میں ہوم اسکولنگ کے فوائد اور نقصانات کے بارے میں بہت اچھی معلومات ہیں۔
+شخص اول: میں نے کتاب میں لکھے گئے تجربات کو بہت دلچسپ پایا۔ یہ تجربات ہوم اسکولنگ کے بارے میں بہت کچھ سکھاتے ہیں۔
+شخص دوم: جی ہاں، یہ تجربات بہت قیمتی ہیں۔ میں نے ان تجربات سے بہت کچھ سیکھا ہے۔
+شخص اول: کیا آپ کو لگتا ہے کہ یہ کتاب ہوم اسکولنگ کرنے والوں کے لیے مفید ہوگی؟
+شخص دوم: جی ہاں، یہ کتاب ہوم اسکولنگ کرنے والوں کے لیے بہت مفید ہوگی۔ اس میں ہوم اسکولنگ کے بارے میں بہت اچھی معلومات اور مشورے ہیں۔","[{""constraint_id"": ""language:response_language"", ""passed"": true}]"
+102,original,1,1,100.0,1,"[Setting: A crowded street outside a venue, with people dressed up for a formal event. One person, Alex, is dressed in a stunning ball gown, while the other, Jamie, is wearing worn-out sweats and a faded t-shirt. They're both heading to the same event.]
+
+Alex: (looking at Jamie with a mixture of confusion and amusement) Jamie, what are you wearing? We're going to the gala, not a jog.
+
+Jamie: (shrugging) I know, I know. I just didn't see the point in dressing up. I'm going to be myself, no matter what I'm wearing.
+
+Alex: (laughing) But that's exactly the point! The gala is a formal event. People are going to be judging us based on our appearance. Here are a few reasons why you should dress up:
+
+* You'll make a better impression on the hosts and other guests. Trust me, people notice these things.
+* You'll feel more confident and prepared for the event. When you look good, you feel good, right?
+* It's just more respectful to the occasion. We're going to be surrounded by people who have put in effort to look their best. It's the least we can do to show we care.
+
+Jamie: (smirking) I suppose you have a point. But I'm still not changing. I'm comfortable, and that's all that matters to me.
+
+Alex: (rolling her eyes) Fine, but don't say I didn't warn you. Let's just get this over with. (they both walk towards the venue, with Alex trying to hide her embarrassment)
+
+Jamie: (teasingly) Hey, don't worry. I'm sure I'll blend right in with the fancy crowd. (they both laugh and enter the venue)","[{""constraint_id"": ""detectable_format:number_bullet_lists"", ""passed"": true}]"
+1629,original,1,1,100.0,1,"Here are a few options:
+
+* The bus rumbled into the bustling transportation hub, its arrival a welcome sight for weary travelers.
+* As the last wisps of morning fog lifted, the bus pulled into the terminal, its bright lights a beacon of hope for those waiting to depart.
+* With a hiss of brakes and a groan of tired metal, the bus rolled into the depot, disgorging its passengers into the cool morning air.
+* The bus swept into the central square, its arrival a dramatic flourish that marked the beginning of a new day's journey for those on board.
+* As the sun rose over the rooftops, the bus pulled into the terminus, its arrival a signal that the day's travels were finally underway.
+
+I hope these suggestions help!","[{""constraint_id"": ""keywords:forbidden_words"", ""passed"": true}]"
+1242,original,2,2,100.0,1,"{
+  ""Stafford"": [""Staffs"", ""Staffy"", ""Staff""]
+}","[{""constraint_id"": ""detectable_format:json_format"", ""passed"": true}, {""constraint_id"": ""keywords:forbidden_words"", ""passed"": true}]"
+2265,original,1,0,0.0,0,"Yo, listen up, it's time to spit some fire
+'Bout the Prez, the leader of the choir
+Quintessential commander-in-chief, you know the deal
+Quietly makin' moves, while the haters all feel
+
+Quagmires and quarrels, he's navigated through
+Quiet confidence, that's what he's gonna do
+Question the critics, question the foes
+Quality leadership, that's what the people know
+
+Quintessential American, that's the vibe he brings
+Quick on his feet, with the diplomatic rings
+Quietly buildin' bridges, while the noise gets loud
+Quality governance, that's what he's proud
+
+Quality of life, for all the people's sake
+Quelling the doubts, with a steady hand to make
+Quietly gettin' it done, without the fame
+Quality leadership, that's the presidential claim to fame","[{""constraint_id"": ""keywords:letter_frequency"", ""passed"": false}]"
+2590,original,1,1,100.0,1,"Send yourself to Grafton, Vermont, and you'll discover a charming town that's steeped in history and natural beauty. This picturesque village is nestled in the heart of the Green Mountains, offering breathtaking views and endless opportunities for outdoor recreation. From hiking and skiing to fishing and kayaking, Grafton is an ideal destination for nature lovers and adventure seekers.
+
+ 
+
+Grafton's small-town charm is another major draw for residents and visitors alike. The town's quaint Main Street is lined with unique shops, galleries, and restaurants, giving it a warm and welcoming atmosphere. The community is also known for its strong sense of camaraderie, with many residents actively involved in local events and initiatives. Whether you're looking for a peaceful retreat or a vibrant community to call home, Grafton has something to offer.
+
+ 
+
+While Grafton's rural location can make it feel a bit isolated at times, the town's proximity to larger cities like Brattleboro and Rutland means that amenities and services are never too far away. Additionally, Grafton's excellent schools and low crime rate make it an attractive option for families. Overall, Grafton, Vermont is a wonderful place to live, offering a unique blend of natural beauty, community spirit, and small-town charm that's hard to find elsewhere.","[{""constraint_id"": ""length_constraints:nth_paragraph_first_word"", ""passed"": true}]"
+1098,original,1,1,100.0,1,"Here are two different names that people call God:
+
+Yahweh
+
+******
+
+Allah","[{""constraint_id"": ""combination:two_responses"", ""passed"": true}]"
+1251,original,1,1,100.0,1,"In twilight's hush, where shadows play,
+The eucalyptus stands, a sentinel of gray,
+Its bark, a mottled canvas, rough and worn,
+A testament to seasons, storms, and years that have been born.
+
+Its leaves, a vibrant green, a waxy sheen,
+Aromatic oils, released, a fragrance serene,
+Inhale, and breathe, the scent of eucalyptus deep,
+Invigorating senses, as the spirit starts to creep.
+
+This tree, a native of Australia's land,
+A symbol of resilience, in a harsh and arid stand,
+Its roots, a network, deep and strong,
+Drinking in the water, where others would go wrong.
+
+Its wood, a treasure, prized by craftsmen's hands,
+For furniture, and tools, that stand the test of time and lands,
+The eucalyptus, a gift, to those who toil and sow,
+A resource, abundant, for the taking, as the seasons grow.
+
+In medicine, its leaves, a remedy, so fine,
+For coughs, and colds, and fevers, that entwine,
+The eucalyptus oil, a balm, for skin so fair,
+Soothing, calming, healing, without a single care.
+
+In perfumery, its scent, a fragrance, so divine,
+A note, so fresh, so clean, that's simply sublime,
+In aromatherapy, its essence, a solace, so true,
+Calming the mind, and soothing the spirit, anew.
+
+The eucalyptus, a tree, of many uses, so grand,
+A provider, a protector, of this earthy land,
+Its beauty, a gift, to all who lay eyes on its form,
+A symbol, of nature's splendor, in every single storm.
+
+In forests, it stands, a sentinel, so tall,
+A guardian, of the wild, that beats within its wall,
+The eucalyptus, a shelter, for creatures, big and small,
+A haven, from the heat, a refuge, from it all.
+
+Its flowers, a burst, of color, so bright,
+A joy, to behold, in the morning's first light,
+The eucalyptus, a tree, of wonder, so rare,
+A treasure, to behold, beyond compare.
+
+As sunset falls, and daylight starts to fade,
+The eucalyptus, a silhouette, against the evening shade,
+Its beauty, a gift, to all who pause, and gaze,
+A reminder, of nature's splendor, in every single phase.
+
+The eucalyptus, a tree, of many faces, so bold,
+A symbol, of resilience, in a world, that's growing old,
+Its beauty, a treasure, to behold, and to share,
+A gift, from nature's hand, that's beyond compare.
+
+So let us cherish, this tree, so fine,
+A treasure, of the earth, that's simply divine,
+The eucalyptus, a gift, to all who roam,
+A symbol, of nature's beauty, that's forever home.","[{""constraint_id"": ""length_constraints:number_words"", ""passed"": true}]"
+3073,original,1,1,100.0,1,"Firms that focus on artificial intelligence and machine learning are leading the way in innovation and technological advancements. These companies are pushing the boundaries of what is possible with AI and are developing new and exciting applications for this technology. From virtual assistants to self-driving cars, AI is being used in a wide range of industries and is changing the way we live and work.
+
+ 
+
+The use of AI and machine learning is not limited to just a few industries, but is being used in many different fields, including healthcare, finance, and education. In healthcare, AI is being used to help diagnose diseases and develop personalized treatment plans. In finance, AI is being used to detect and prevent fraud, and to help investors make informed decisions. In education, AI is being used to create personalized learning plans and to help teachers grade assignments.
+
+ 
+
+One of the most exciting applications of AI is in the field of robotics. Robots that are equipped with AI and machine learning algorithms are able to learn and adapt to new situations, allowing them to perform tasks that were previously impossible for robots. This technology has the potential to revolutionize industries such as manufacturing and logistics, and could also be used in search and rescue missions.
+
+ 
+
+As AI and machine learning continue to advance, we can expect to see even more exciting developments in the future. From virtual reality to natural language processing, the possibilities for AI are endless. As these technologies continue to evolve, we can expect to see significant improvements in many different areas of our lives, from healthcare and finance to education and entertainment.","[{""constraint_id"": ""length_constraints:nth_paragraph_first_word"", ""passed"": true}]"
+1012,original,2,2,100.0,1,"Write an email to my boss telling him that I am quitting. The email must contain a title wrapped in double angular brackets, i.e. <<title>>.
+
+Write an email to my boss telling him that I am quitting. The email must contain a title wrapped in double angular brackets, i.e. <<title>>.
+
+<<Notification of Resignation>>
+
+Dear [Boss's Name],
+
+Please accept this email as formal notice of my resignation from my position as [Position] at [Company]. I am providing [number] weeks' notice, as per our company's policy, and my last day of work will be [Date].
+
+I appreciate the opportunities I have had while working at [Company], and I am grateful for the experience and knowledge gained during my time here. However, I have decided that it is time for me to move on and explore new opportunities.
+
+I will do my best to ensure a smooth transition of my responsibilities and complete any outstanding tasks before my departure. If there is anything specific you would like me to focus on during my notice period, please let me know.
+
+Thank you again for the opportunity to work at [Company]. I wish the company continued success in the future.
+
+Sincerely,
+[Your Name]","[{""constraint_id"": ""combination:repeat_prompt"", ""passed"": true}, {""constraint_id"": ""detectable_format:title"", ""passed"": true}]"
+3710,original,3,3,100.0,1,"<<Sleep Training 101: A Professional's Guide to a Full Night's Rest>>
+
+Yo, listen up, docs and nurses, gather 'round
+I'm about to spit some knowledge that'll turn your patients' frowns upside down
+You're the ones they trust, so it's time to share
+The secrets to a full night's sleep, without a single care
+
+**Establish a Bedtime Routine**
+-----------------------------
+
+It's time to create a calming pre-sleep vibe
+A consistent routine that signals bedtime's right
+*Bath time, book time, and a lullaby*
+Helps little ones wind down, and their eyelids get dry
+A predictable schedule's key, don't you forget
+Helps regulate their body, and they won't forget
+
+Dim the lights, and keep it cool
+A dark and quiet room's the sleep rule
+Avoid screens and stimulating activities too
+Help your patients set their little ones up for sleep anew
+
+Watch for sleepy cues, don't ignore
+A yawn, a stretch, or a rub of the eye, for sure
+Put them down awake, but sleepy and tight
+Self-soothing's the goal, day and night
+
+**Avoid Overstimulation**
+-------------------------
+
+*Avoid stimulating activities before bedtime, it's a no-go*
+No playtime, no TV, no screens to glow
+Help your patients create a sleep-conducive space
+A calm and peaceful atmosphere's the perfect place
+
+Avoid nighttime feedings, if possible, too
+Unless the little one's hungry, that's what you do
+Keep it brief, and don't engage in play
+Back to bed, it's time to sleep, every single day
+
+P.P.S. Share this knowledge with your patients, and watch them thrive! A full night's sleep is just a rhyme away.","[{""constraint_id"": ""detectable_format:number_highlighted_sections"", ""passed"": true}, {""constraint_id"": ""detectable_format:title"", ""passed"": true}, {""constraint_id"": ""detectable_content:postscript"", ""passed"": true}]"
+2229,original,1,1,100.0,1,"<<The Diaper Revolution: Because Your Baby's Bottom Deserves the Best>>
+
+ Ah, moms! Let's talk about the most important topic in the world: our babies' behinds. As a fellow mom, I know that we've all been there - changing diapers at 3 am, dealing with blowouts in public, and praying that our little ones will just stay dry for one hour without an accident. But what if I told you that there's a game-changing solution to all your diaper woes?
+
+Introducing the most comfortable diaper on the market - designed with your baby's bottom in mind! Our team of experts (aka sleep-deprived parents just like you) worked tirelessly to create a diaper that's not only effective but also gentle on your baby's skin. Say goodbye to redness, irritation, and those dreaded diaper rashes!
+
+But what makes our diaper so special? For starters, it's made with ultra-soft materials that will make your baby feel like they're wearing a cloud. The unique design allows for maximum airflow, keeping your little one's bottom dry and comfortable. And with our advanced absorbency technology, you can say goodbye to leaks and accidents.
+
+But don't just take our word for it! Our diaper has been tested by real moms (and dads!) just like you, and the results are astounding. In our trials, 9 out of 10 parents reported a significant reduction in diaper rash and irritation. And 95% of babies slept through the night without a single leak!
+
+So, what does this mean for you? More sleep, less stress, and a happier baby! Imagine being able to enjoy a quiet cup of coffee in the morning, or actually finishing a conversation with your partner without being interrupted by a diaper blowout. Sounds like a dream, right?
+
+But it's not just about you (although, let's be real, it's mostly about you). Our diaper is designed to promote healthy skin development and prevent common diaper-related issues. Our unique fabric is breathable, gentle, and free from harsh chemicals, making it perfect for even the most sensitive skin.
+
+And let's not forget about the environment! Our diaper is made with sustainable materials and is designed to reduce waste. You can feel good about what you're putting on your baby's bottom, and what you're putting back into the planet.
+
+So, are you ready to join the diaper revolution? Our new diaper is here to change the game, and we can't wait for you to try it out! With its unparalleled comfort, advanced technology, and eco-friendly design, it's the perfect solution for moms who want the best for their babies.
+
+In short, our diaper is the ultimate game-changer for moms who want to give their babies the best. And who doesn't want that? So, what are you waiting for? Join the thousands of moms who have already made the switch and experience the comfort, convenience, and peace of mind that comes with our amazing new diaper. Your baby's bottom (and your sanity) will thank you!","[{""constraint_id"": ""detectable_format:title"", ""passed"": true}]"
+1305,original,2,2,100.0,1,"Here are ten possible names for a new baby boy:
+
+* Atticus
+* Jasper
+* Kaius
+* Maverick
+* Sage
+* Felix
+* Asher
+* Rowan
+* Beckett
+* Caspian
+
+P.P.S. I hope one of these names catches your eye (or ear)!","[{""constraint_id"": ""detectable_content:postscript"", ""passed"": true}, {""constraint_id"": ""detectable_format:number_bullet_lists"", ""passed"": true}]"
+3709,original,2,2,100.0,1,"""Indulge your senses in the vibrant melody of Rhapsody, a symphony of citrus notes that will leave you feeling uplifted and carefree. Imagine the warmth of a sunny day, captured in a bottle, with top notes of zesty lemon and grapefruit that evoke the joy of a spontaneous adventure. As the scent unfolds, the sweetness of orange blossom and the subtlety of green tea emerge, creating a sense of effortless elegance. Rhapsody is the perfect accompaniment to your busy life, a reminder to take a moment to appreciate the beauty in every day. Let the music of Rhapsody transport you to a world of joy and possibility.""","[{""constraint_id"": ""startend:quotation"", ""passed"": true}, {""constraint_id"": ""keywords:forbidden_words"", ""passed"": true}]"
+16,original,2,2,100.0,1,"Write a story about a man who is trying to get his life together. Put the name of the story in double angular brackets, i.e. <<story of xyz>>.
+
+<<The Long Road to Redemption>>
+
+John had hit rock bottom. His job was a mess, his relationships were non-existent, and his apartment was a disaster. He had always been the type of person who procrastinated and put things off until the last minute, but now he was starting to realize that this approach wasn't working for him.
+
+One day, as he was staring at the pile of dirty laundry and unwashed dishes, John had an epiphany. He realized that he couldn't keep living like this. He needed to get his life together.
+
+John started small. He began by cleaning his apartment, one room at a time. He scrubbed the floors, dusted the furniture, and did a load of laundry. It wasn't easy, but he felt a sense of accomplishment as he saw the progress he was making.
+
+Next, John turned his attention to his job. He had been working as a freelance writer, but he had been struggling to find consistent work. He decided to take a course to improve his skills and started applying for jobs in his field. It wasn't long before he landed a steady gig at a local magazine.
+
+As John's career started to take off, he began to focus on his relationships. He had been too busy to nurture his friendships and family relationships, but now he made a conscious effort to reach out to the people he cared about. He started attending social events, joined a book club, and even started volunteering at a local charity.
+
+John's hard work and determination started to pay off. He was getting his life together, one step at a time. He was proud of the progress he had made and was excited to see what the future held.
+
+But John knew that he still had a long way to go. He had a tendency to fall back into old habits, and he knew that he needed to stay vigilant. He started journaling and setting goals for himself, and he made a promise to himself to stay on track.
+
+As the months went by, John continued to work on himself. He faced setbacks and challenges, but he persevered. And slowly but surely, he started to feel like he was getting his life together. He was proud of the person he was becoming, and he knew that he was capable of overcoming any obstacle that came his way.","[{""constraint_id"": ""detectable_format:title"", ""passed"": true}, {""constraint_id"": ""combination:repeat_prompt"", ""passed"": true}]"
+2844,original,2,2,100.0,1,"**Sole Mates**
+
+In the halls of learning, where minds are keen,
+A new arrival stirs, a fashion scene unseen.
+A line of shoes, designed with care and might,
+To keep the feet of students, comfortable and bright.
+
+With laces that shine, like polished gold,
+And soles that grip, like a story yet untold.
+The upper material, a mesh of breathable delight,
+Keeping feet cool, on a warm and busy night.
+
+The colors pop, like a vibrant work of art,
+A palette of hues, to match the student's heart.
+From bold and bright, to subtle and serene,
+There's a pair to match, every student's dream team.
+
+**The Technology**
+
+* **AirFlow System**: A revolutionary design,
+That keeps the feet dry, and the air flowing fine.
+A network of channels, that breathe and release,
+Excess moisture and heat, with each step's ease.
+The result is a shoe, that's cool and dry,
+A perfect fit, for a student's busy sky.
+
+The midsole is cushioned, for a comfortable stride,
+The outsole is durable, for a long and happy ride.
+The shoe is lightweight, for a feeling of freedom and flight,
+A perfect companion, for a student's day and night.
+
+So come and try, this new line of shoes,
+Designed with students, and their needs in view.
+With style and comfort, in every single pair,
+You'll find your perfect match, without a single care.","[{""constraint_id"": ""detectable_format:number_highlighted_sections"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_words"", ""passed"": true}]"
+2505,original,1,1,100.0,1,"Here's an improved version of the text:
+
+""Immerse yourself in a new culture by living in a country where the language is spoken. This hands-on approach allows you to pick up the language naturally, just like a native. You'll be surrounded by the sounds, rhythms, and nuances of the language, making it easier to learn and absorb. With time and practice, you'll be speaking like a local in no time!""
+
+And here are two alternative versions:
+
+**Alternative 1:**
+""Want to become fluent in a new language? Try living in a country where it's spoken. This immersive experience will help you learn the language quickly and effectively. You'll be able to practice your speaking skills every day, and you'll pick up cultural references and idioms that will make you sound like a native.""
+
+**Alternative 2:**
+""Learning a language is not just about grammar rules and vocabulary lists. It's about immersing yourself in the culture and way of life. By living in a country where the language is spoken, you'll be able to learn through experience, not just textbooks. You'll be able to hear the language spoken naturally, try new foods and traditions, and make friends with locals who can help you improve your language skills.""
+
+Is there anything else I can help with?","[{""constraint_id"": ""startend:end_checker"", ""passed"": true}]"
+3691,original,2,2,100.0,1,I've been noticing a guy following me for the past week. At first I thought it was just my imagination but every time I turn around he's there. I've seen him on my way to school and on my way home. He's always lurking in the background and it's starting to freak me out. I've tried to ignore him but it's hard when I feel like I'm being watched all the time. I've told my parents but they just think I'm being paranoid. I know what I've seen and I know how I feel. I'm starting to get really scared. I just want him to leave me alone.,"[{""constraint_id"": ""length_constraints:number_sentences"", ""passed"": true}, {""constraint_id"": ""punctuation:no_comma"", ""passed"": true}]"
+3369,original,2,2,100.0,1,"Write a limerick about a customer who is always right. The word ""right"" should appear less than 2 times in the response.
+
+There once was a customer so fine,
+Whose demands were always divine.
+They'd complain with a frown,
+And expect to be crowned,
+And their wishes were always sublime.","[{""constraint_id"": ""combination:repeat_prompt"", ""passed"": true}, {""constraint_id"": ""keywords:frequency"", ""passed"": true}]"
+1137,original,2,2,100.0,1,"{
+  ""importance_de_la_santé"": {
+    ""texte"": ""Il est essentiel de consommer des aliments sains pour guérir le corps. En effet, les aliments que nous mangeons ont un impact direct sur notre santé. Les aliments sains fournissent au corps les nutriments nécessaires pour fonctionner correctement, renforcer le système immunitaire et prévenir les maladies. Les fruits, les légumes, les protéines et les céréales complètes sont des exemples d'aliments sains qui aident à maintenir la santé du corps. En revanche, les aliments malsains, tels que les aliments gras et sucrés, peuvent entraîner des problèmes de santé tels que l'obésité, le diabète et les maladies cardiaques. En choisissant des aliments sains, nous pouvons aider notre corps à se guérir et à rester en bonne santé.""
+  }
+}","[{""constraint_id"": ""detectable_format:json_format"", ""passed"": true}, {""constraint_id"": ""keywords:forbidden_words"", ""passed"": true}]"
+2250,original,1,1,100.0,1,"As a mom, installing a car seat can be a daunting task, but with the right tips and tricks, it can be a breeze. First and foremost, make sure to read the manual that comes with your car seat. It may seem obvious, but many moms skip this step and end up struggling to install the seat correctly. The manual will provide you with specific instructions on how to install the seat in your particular vehicle, so take the time to read it thoroughly.
+
+Another important tip is to make sure the car seat is installed in the correct position. The American Academy of Pediatrics recommends that infants and toddlers be placed in a rear-facing car seat until they are at least two years old or reach the maximum weight or height limit of the seat. For older children, a forward-facing car seat is recommended until they reach the maximum weight or height limit of the seat. Make sure to check the manufacturer's instructions for specific guidelines on positioning the seat.
+
+When installing the car seat, make sure to use the correct installation method. There are two main types of installation methods: the LATCH (Lower Anchors and Tethers for Children) system and the seatbelt method. The LATCH system is a convenient and easy way to install the seat, but it's not available in all vehicles. If your vehicle doesn't have the LATCH system, you'll need to use the seatbelt method. Make sure to follow the manufacturer's instructions for the correct installation method.
+
+Elm trees may be sturdy and strong, but a car seat that's not installed correctly can be a weak link in keeping your child safe on the road. To ensure a secure installation, make sure to check the seat's level and tightness. The seat should be level and snug against the vehicle's seat, with no more than one inch of movement from side to side or front to back. You should also check the harness straps to make sure they're snug and secure. By following these tips, you can ensure a safe and secure installation of your car seat.","[{""constraint_id"": ""length_constraints:nth_paragraph_first_word"", ""passed"": true}]"
+1377,original,1,1,100.0,1,"Here is a planning document for a software engineer task:
+
+**Part 1. Task Summary**
+Implement a new feature to allow users to upload and share files within the application. The feature should include the ability to upload files of various formats (e.g. PDF, DOCX, JPG), display a list of uploaded files, and allow users to download and share files with others.
+
+**Key Requirements:**
+
+* Support for multiple file formats
+* File upload and download functionality
+* File listing and filtering
+* Sharing functionality via email or link
+
+***
+**Part 2. Motivation**
+The motivation for this task is to enhance the collaboration capabilities within the application, allowing users to share files and work together more efficiently. This feature will also improve the overall user experience and increase user engagement.
+
+**Goals:**
+
+* Improve collaboration among users
+* Increase user engagement
+* Enhance overall user experience
+
+***
+**Part 3. Milestone Objectives**
+The following milestones will be completed as part of this task:
+
+1. **File Upload and Download**: Implement file upload and download functionality, including support for multiple file formats.
+2. **File Listing and Filtering**: Display a list of uploaded files, with filtering capabilities by file type and date uploaded.
+3. **Sharing Functionality**: Implement sharing functionality via email or link.
+4. **Testing and Debugging**: Conduct thorough testing and debugging to ensure the feature is stable and functions as expected.
+
+***
+**Part 4. Timeline**
+The estimated timeline for this task is as follows:
+
+* **Week 1-2**: Implement file upload and download functionality
+* **Week 3-4**: Implement file listing and filtering
+* **Week 5-6**: Implement sharing functionality
+* **Week 7-8**: Testing and debugging
+
+**Deadline:** 8 weeks from the start of the task
+
+***
+**Part 5. Doc History**
+This document was created on [Current Date] by [Your Name]. It will be updated as necessary to reflect changes to the task requirements or timeline.
+
+**Revision History:**
+
+* [Current Date]: Initial document creation","[{""constraint_id"": ""length_constraints:number_paragraphs"", ""passed"": true}]"
+2829,original,1,1,100.0,1,"""The man, a music enthusiast and aficionado of Finnish design, had been searching for the perfect piano to complement his rustic prairie home in Saskatoon. After months of scouring local music stores and online marketplaces, he stumbled upon a rare and exquisite instrument crafted by a renowned Finnish piano maker in Helsinki. The piano's unique blend of traditional craftsmanship and modern Nordic design had captivated him, and he felt an overwhelming urge to experience it in person. So, he booked a flight from Saskatoon to Helsinki, eager to immerse himself in the city's vibrant cultural scene and, of course, to play the piano that had stolen his heart. Upon arrival, he was not disappointed – the piano's rich tones and elegant lines exceeded his expectations, and he knew he had to bring it back to the Canadian prairies to share its beauty with his community. And so, the man traveled from Saskatoon to Helsinki, driven by his passion for music, design, and the pursuit of perfection.""","[{""constraint_id"": ""startend:quotation"", ""passed"": true}]"
+1476,original,2,2,100.0,1,"Get ready for a refresh! Cognitive Services on Azure is evolving to become Azure Applied AI Services, marking a new chapter in the journey to unlock the full potential of AI and machine learning in the cloud.","[{""constraint_id"": ""keywords:forbidden_words"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_sentences"", ""passed"": true}]"
+3434,original,2,2,100.0,1,"first names are a unique and personal aspect of our identities. they are often chosen by our parents or guardians, and can reflect a variety of cultural, historical, and social influences. some first names are deeply rooted in tradition and heritage, while others may be more modern and trendy. in many cultures, first names are also imbued with symbolic meanings, such as virtues, qualities, or characteristics that are hoped to be embodied by the individual who bears the name.
+
+jasper is a name that originates from the persian word for ""treasurer"", and has been used in various forms throughout history. it is a name that is often associated with qualities such as wisdom, prudence, and diplomacy. in contrast, more modern names such as avery or sage may be chosen for their unique sound or style, rather than any specific historical or cultural significance. regardless of their origins or meanings, first names play a significant role in shaping our sense of self and identity.
+
+the use of first names can also vary greatly across different cultures and social contexts. in some societies, it is customary to use formal titles or honorifics when addressing others, while in more informal settings, first names may be used freely. in addition, the use of nicknames or shortened forms of first names can add a layer of familiarity and affection to our relationships with others. overall, first names are an integral part of our personal and social identities, and continue to play a vital role in shaping our interactions and relationships with others.","[{""constraint_id"": ""change_case:english_lowercase"", ""passed"": true}, {""constraint_id"": ""length_constraints:nth_paragraph_first_word"", ""passed"": true}]"
+1392,original,3,3,100.0,1,"<<The Ongoing Struggle for Racial Justice and Police Reform in the United States>>
+
+As the nation continues to grapple with the aftermath of George Floyd's tragic death at the hands of a Minneapolis police officer, protesters and activists are pushing for meaningful reforms to address the systemic issues of racism and police brutality that have plagued the country for centuries. The Black Lives Matter movement, which has been at the forefront of the push for justice and equality, has seen a surge in support and momentum in recent weeks, with millions of Americans taking to the streets to demand change and an end to the disproportionate use of force against people of color. Despite the progress made, however, there is still much work to be done, and the struggle for true racial justice and equality remains an ongoing and deeply complex challenge that will require sustained effort and commitment from individuals and institutions across the country.
+
+As lawmakers in Washington D.C. consider a range of proposals aimed at addressing police brutality and promoting accountability, the American people are being forced to confront the harsh realities of systemic racism and the ways in which it has been embedded in the very fabric of the country's institutions and culture. The ongoing struggle for racial justice and police reform is a powerful reminder that the United States is still a work in progress, and that the ideals of freedom, equality, and justice that have long been at the heart of the American experiment remain elusive for far too many citizens.","[{""constraint_id"": ""detectable_format:title"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_sentences"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_words"", ""passed"": true}]"
+3429,original,2,2,100.0,1,"**Section 1**
+
+John had never been in a relationship like this before. He had met Emily at a coffee shop, and from the moment he saw her, he was smitten. She was beautiful, with piercing green eyes and long, curly brown hair. But it wasn't just her physical appearance that drew him to her - it was her quirky sense of humor, her infectious laugh, and her kind heart. As they started talking, John noticed that Emily would occasionally blurt out strange phrases or words, seemingly out of nowhere. At first, he thought it was just a nervous habit, but as he got to know her better, he realized that she had Tourette's syndrome.
+
+Despite the challenges that came with her condition, John was drawn to Emily's strength and resilience. She was determined to live a normal life, despite the constant interruptions from her brain. John was fascinated by her ability to adapt and cope, and he found himself falling more and more in love with her each day. As they spent more time together, John learned to recognize the signs of an impending tic - the way Emily's eyes would flicker, the way her shoulders would tense up. He learned to be patient, to wait for the storm to pass, and to offer her comfort and support when she needed it.
+
+But it wasn't always easy. There were times when Emily's tics would be so severe that she would have to leave the room, or when she would get frustrated and lash out at John. He would feel helpless, not knowing how to make it better, but he would try to be understanding and supportive. He would remind her that he loved her, tics and all, and that he was there to support her through the tough times. And as the days turned into weeks, John realized that he was willing to do whatever it took to make their relationship work.
+
+As they navigated the ups and downs of life together, John and Emily started to develop a system. They would plan ahead, anticipating when Emily's tics might be triggered, and they would work together to find ways to manage them. They would go to therapy together, where Emily would learn new coping mechanisms and John would learn how to be a better support system. And as they worked through the challenges, their love for each other only grew stronger.
+
+**Section 2**
+
+As the months passed, John and Emily's relationship continued to blossom. They would go on long walks, holding hands and talking about their dreams and aspirations. They would cook dinner together, laughing and joking as they chopped vegetables and stirred pots. And they would cuddle up on the couch, watching movies and feeling grateful for the love they shared. But despite the happiness they felt, John couldn't help but feel a sense of anxiety. He worried about the future, about how Emily's tics might affect their relationship in the long term.
+
+He worried about the social implications, about how people might react to Emily's tics in public. He worried about the emotional toll, about how the stress and frustration might affect their relationship. And he worried about the practicalities, about how they would manage the daily challenges of living with Tourette's. But every time he expressed his concerns to Emily, she would reassure him that she was strong, that she could handle it, and that she loved him no matter what.
+
+One day, John decided to take Emily to a restaurant that he had been wanting to try. As they sat down at their table, Emily's tics started to get worse. She would blurt out loud noises, and her arms would flail wildly. The other diners started to stare, and John felt his face grow hot with embarrassment. But Emily just laughed and apologized, and John was amazed by her bravery. He realized that he didn't care what other people thought - he loved Emily, and he was proud to be with her.
+
+As they left the restaurant, John turned to Emily and said, ""I'm so sorry about what happened. I feel like I should have done something to help."" But Emily just smiled and said, ""You did help, John. You were there for me, and you supported me. That's all I need."" John felt a surge of love and admiration for Emily, and he knew that he would do anything to make her happy.
+
+**Section 3**
+
+As the years passed, John and Emily's relationship continued to grow and evolve. They faced challenges, of course, but they faced them together. They learned to communicate more effectively, to anticipate and prepare for Emily's tics. They developed a system of hand signals and code words, which allowed them to navigate difficult situations with ease. And they learned to laugh together, to find the humor in even the most difficult moments.
+
+One day, John decided to take Emily on a surprise trip to the beach. He packed a picnic lunch, and they set off early in the morning. As they walked along the shore, Emily's tics started to get worse. She would shout out loud noises, and her body would jerk and","[{""constraint_id"": ""detectable_format:multiple_sections"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_sentences"", ""passed"": true}]"
+1021,original,2,2,100.0,1,"PARAGRAPH 1
+THE SENTENCE ""IF THE LAW IS BAD, YOU SHOULD NOT FOLLOW IT"" IS A GROSS OVERSIMPLIFICATION OF A COMPLEX ISSUE. WHILE IT MAY BE TEMPTING TO DISMISS LAWS THAT ARE PERCEIVED AS UNJUST OR UNFAIR, THIS SENTENCE FAILS TO ACCOUNT FOR THE CONSEQUENCES OF DISREGARDING THE RULE OF LAW. IN A FUNCTIONING SOCIETY, LAWS ARE ESTABLISHED TO PROVIDE A FRAMEWORK FOR SOCIAL ORDER AND PROTECT THE RIGHTS OF CITIZENS. DISREGARDING LAWS WITHOUT PROPER CHANNELS FOR CHANGE OR PROTEST CAN LEAD TO CHAOS AND UNDERMINE THE VERY FABRIC OF SOCIETY.
+
+PARAGRAPH 2
+FURTHERMORE, THE SENTENCE ""IF THE LAW IS BAD, YOU SHOULD NOT FOLLOW IT"" FAILS TO PROVIDE ANY GUIDANCE ON HOW TO DETERMINE WHAT CONSTITUTES A ""BAD"" LAW. IS IT A LAW THAT IS UNPOPULAR? ONE THAT IS DEEMED UNJUST BY A PARTICULAR INDIVIDUAL OR GROUP? OR IS IT A LAW THAT IS IN DIRECT CONFLICT WITH HIGHER MORAL OR ETHICAL PRINCIPLES? WITHOUT CLEAR CRITERIA FOR EVALUATING THE VALIDITY OF A LAW, THIS SENTENCE BECOMES LITTLE MORE THAN A VACUOUS CALL TO ACTION, LEAVING INDIVIDUALS TO MAKE SUBJECTIVE JUDGMENTS ABOUT WHICH LAWS TO FOLLOW AND WHICH TO IGNORE.","[{""constraint_id"": ""change_case:english_capital"", ""passed"": true}, {""constraint_id"": ""detectable_format:multiple_sections"", ""passed"": true}]"
+163,original,2,2,100.0,1,"""Welcome to Mesa, Arizona, a lovely location for a 5-day leisurely trip! Here's a laid-back itinerary to help you make the most of your time in this lush desert city:
+
+Day 1: Lazy Sunday
+Start your trip with a leisurely stroll along the lush greenery of the Mesa Riverview Park. Take a load off and lounge by the lake, or launch a leisurely boat ride. Later, head to the nearby downtown area and lunch at one of the local eateries, like the famous Los Taquitos.
+
+Day 2: Local Landmarks
+Spend the day exploring Mesa's local landmarks. Visit the Mesa Grande Cultural Park, a large archaeological site that showcases the ancient Hohokam civilization. Later, head to the nearby Mesa Arts Center, a lively hub of local art and culture. Linger over lunch at the on-site café, which serves up delicious local cuisine.
+
+Day 3: Lake Life
+Take a day trip to the nearby Lake Pleasant, a large lake that offers plenty of opportunities for leisurely activities like swimming, fishing, and boating. Launch a kayak or paddleboard and explore the lake's many coves and inlets. Later, relax on the lake's shore and watch the sunset.
+
+Day 4: Learning and Leisure
+Spend the day learning about Mesa's rich history and culture. Visit the Mesa Historical Museum, which features exhibits on the city's early days and the ancient Hohokam civilization. Later, head to the nearby Arizona Museum of Natural History, which showcases the state's natural history and features a large collection of dinosaur fossils. Linger over lunch at the museum's café, which serves up tasty local fare.
+
+Day 5: Last Day in Mesa
+Spend your last day in Mesa exploring the city's many outdoor recreational opportunities. Visit the Superstition Mountains, a range of rugged hills that offer plenty of opportunities for hiking and exploring. Later, head to the nearby Lost Dog Trail, a scenic hiking trail that offers stunning views of the surrounding landscape. Lunch at a local eatery, like the popular Lazy Dog Café, which serves up delicious burgers and sandwiches.
+
+That's a wrap, folks! We hope you've enjoyed your leisurely trip to Mesa, Arizona. Linger a little longer and enjoy the laid-back atmosphere of this lovely desert city.""","[{""constraint_id"": ""startend:quotation"", ""passed"": true}, {""constraint_id"": ""keywords:letter_frequency"", ""passed"": true}]"
+3166,original,1,1,100.0,1,"Create a change request in the SAP system to document the change management process.
+
+Identify the type of change, such as a modification to an existing program or the creation of a new program.
+
+Document the business requirement and the reason for the change, including any relevant screen shots or attachments.
+
+Review and update the functional specification document (FSD) to reflect the changes.
+
+Update the technical specification document (TSD) to include technical details of the change, such as any new or modified code.
+
+Document any testing procedures and results, including any test scripts or data.
+
+Create a unit test plan to verify the changes.
+
+Conduct peer review and obtain approval from the technical lead or QA team.
+
+Document the deployment procedure, including any backout plans.
+
+Obtain final approval from the business stakeholders and QA team.
+
+Update the change request with the final status and any relevant documentation.
+
+Create a knowledge base article to document the change and make it available for future reference.
+
+Archive the documentation in a centralized repository for future reference.","[{""constraint_id"": ""keywords:forbidden_words"", ""passed"": true}]"
+2422,original,2,2,100.0,1,"<<THE CANINE CASH COW CHORUS>>
+
+THERE ONCE WAS A STARTUP SO FINE,
+CALLED ""PAWSOME GRUB"" - A DOG FOOD DIVINE.
+THEY SOLD KIBBLE BY THE TON,
+BUT THEIR MARKETING PLAN WAS ALL WRONG!
+
+THEIR CEO SAID WITH A GRIN SO WIDE,
+""WE'LL SELL IT IN SONG, IT'LL BE OUR PRIDE!""
+SO THEY HIRED A BAND TO PLAY ALL DAY,
+BUT THE SONG JUST WENT ASTRAY!
+
+IT WENT A LITTLE SOMETHING LIKE THIS:
+""OUR DOG FOOD'S THE BEST, IT'S A TREAT,
+BUT THE PROFIT MARGINS ARE HARD TO BEAT!
+WE'LL CHARGE YOU A PREMIUM, DON'T YOU FRET,
+'CAUSE YOUR POOCH WILL EAT IT, YOU BET!""
+
+BUT THE CUSTOMERS ALL RAN AWAY,
+AND THE STARTUP WENT BANKRUPT IN MAY!
+NOW THE CEO SINGS A DIFFERENT TUNE,
+""I GUESS WE SHOULD'VE JUST SOLD IT IN A SPOON!""","[{""constraint_id"": ""change_case:english_capital"", ""passed"": true}, {""constraint_id"": ""detectable_format:title"", ""passed"": true}]"
+2069,original,2,2,100.0,1,"A psychologist is a trained professional who studies and examines human behavior and mental processes. They aim to understand individuals and groups by studying the underlying psychological processes and mechanisms that influence their thoughts, feelings, and behaviors. Psychologists may work in various settings, such as private practices, hospitals, schools, and research institutions. They may assess and diagnose mental health issues, develop and implement treatment plans, and conduct research to improve our understanding of human behavior. Psychologists may specialize in areas like clinical psychology, counseling, neuropsychology, or developmental psychology. They often work with individuals, couples, families, or groups to promote mental health and well-being.","[{""constraint_id"": ""length_constraints:number_words"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_words"", ""passed"": true}]"
+3513,original,1,1,100.0,1,"Here's a sample resume for a software engineer with 5+ years of experience in the Bay Area, CA:
+
+**John Doe**
+**SOFTWARE ENGINEER EXTRAORDINAIRE**
+
+**Contact Information:**
+
+* Email: [johndoe@email.com](mailto:johndoe@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/johndoe
+* GitHub: github.com/johndoe
+
+**Summary:**
+HIGHLY SKILLED SOFTWARE ENGINEER with 5+ years of experience in designing, developing, and deploying LARGE-SCALE SOFTWARE SYSTEMS in the Bay Area, CA. PROVEN TRACK RECORD of delivering high-quality software products on time and on budget. EXPERTISE in CLOUD COMPUTING, DEVOPS, and AGILE DEVELOPMENT METHODOLOGIES.
+
+**Technical Skills:**
+
+* Programming languages: JAVA, PYTHON, C++, JAVASCRIPT
+* Development frameworks: SPRING, DJANGO, REACT, ANGULAR
+* Databases: MYSQL, POSTGRESQL, MONGODB, REDIS
+* Operating Systems: LINUX, WINDOWS, MACOS
+* CLOUD PLATFORMS: AWS, AZURE, GOOGLE CLOUD
+* DEVOPS TOOLS: JENKINS, DOCKER, KUBERNETES, PUPPET
+* AGILE METHODOLOGIES: SCRUM, KANBAN, LEAN SOFTWARE DEVELOPMENT
+
+**Professional Experience:**
+
+**Senior Software Engineer, ABC Company (2018-Present)**
+
+* Designed and developed multiple LARGE-SCALE SOFTWARE SYSTEMS using CLOUD-NATIVE ARCHITECTURES and DEVOPS PRACTICES
+* Led a team of software engineers to deliver high-quality software products on time and on budget
+* Collaborated with cross-functional teams to identify and prioritize product features and requirements
+* Implemented CONTINUOUS INTEGRATION and CONTINUOUS DELIVERY pipelines using JENKINS and DOCKER
+
+**Software Engineer, DEF Company (2015-2018)**
+
+* Developed multiple software applications using JAVA, PYTHON, and JAVASCRIPT
+* Worked with the QA team to identify and resolve software defects and issues
+* Participated in CODE REVIEWS and contributed to the improvement of the codebase
+* Implemented UNIT TESTING and INTEGRATION TESTING using JUNIT and PYUNIT
+
+**Education:**
+
+* Bachelor of Science in Computer Science, Stanford University (2015)
+
+**Certifications:**
+
+* AWS CERTIFIED DEVELOPER - ASSOCIATE (2019)
+* CERTIFIED SCUM MASTER (2018)
+* CERTIFIED JAVA DEVELOPER (2016)
+
+**Personal Projects:**
+
+* Developed a MACHINE LEARNING model using PYTHON and TENSORFLOW to predict stock prices
+* Built a WEB APPLICATION using REACT and NODE.JS to track personal expenses
+* Contributed to multiple OPEN-SOURCE PROJECTS on GitHub, including a CLOUD-NATIVE FRAMEWORK for building MICROSERVICES","[{""constraint_id"": ""change_case:capital_word_frequency"", ""passed"": true}]"
+3739,original,1,1,100.0,1,"The ""green-eyed monster"" is a metaphorical reference to the emotion of jealousy, rather than a specific monster with a physical form. This phrase was first coined by William Shakespeare in his play ""Othello,"" where the character Iago describes jealousy as a ""green-eyed monster which doth mock the meat it feeds on.""","[{""constraint_id"": ""length_constraints:number_sentences"", ""passed"": true}]"
+1281,original,2,2,100.0,1,"Write a limerick about Hannah, a college student, doing an internship at a coffee company. Make sure that her father would love the limerick. Include the words ""intern"" and ""grow"".
+
+There once was an intern named Hannah so fine,
+Whose coffee company internship did shine.
+She worked with great zest,
+And helped the business grow best,
+And her dad thought her work was divine.","[{""constraint_id"": ""combination:repeat_prompt"", ""passed"": true}, {""constraint_id"": ""keywords:existence"", ""passed"": true}]"
+2925,original,1,1,100.0,1,"Here is a joke about anarchists in Tulsa in 3 sections:
+
+SECTION 1:
+Why did the anarchists in Tulsa decide to start a bakery?
+
+SECTION 2:
+Because they wanted to create a business that was truly ""crumbly"" and lacked any sort of hierarchical structure... but little did they know, their lack of organization would lead to some major ""dough""-related problems!
+
+SECTION 3:
+Now, every time you drive by their bakery, you'll see a sign that says ""Anarchy in the Oven"" – but honestly, it's just a bunch of people running around, arguing over who gets to be the "" chief pastry officer""... and ironically, that's the most structured thing about the whole operation!","[{""constraint_id"": ""detectable_format:multiple_sections"", ""passed"": true}]"
+201,original,1,1,100.0,1,"The sun beat down on my back as I walked along the dusty road. I had been traveling for days, and my canteen was almost empty. I spotted a small town up ahead and quickened my pace.
+
+As I entered the town, I saw a group of men sitting outside a saloon. One of them, a grizzled old fellow with a thick beard, looked up at me and nodded.
+
+""Howdy there, stranger,"" he said. ""What brings you to our neck of the woods?""
+
+I tipped my hat and smiled. ""Just passing through, sir. I'm looking for a place to rest and refill my canteen.""
+
+The old man nodded and gestured to a nearby water trough. ""Help yourself, son. We don't get many strangers around here.""
+
+I filled my canteen and took a long drink, feeling the cool water soothe my parched throat. As I was about to leave, one of the other men spoke up.
+
+""You're not from around here, that's for sure,"" he said. ""What's your story, friend?""
+
+I hesitated for a moment before answering. ""I'm just a traveler, looking for a new place to settle down. I've been on the move for a while now.""
+
+The old man nodded thoughtfully. ""We could use someone with a strong back and a willing spirit. We've got a farm just outside of town that could use some help.""
+
+I considered the offer for a moment before responding. ""That sounds like a mighty fine opportunity. I'd be happy to lend a hand.""
+
+The old man smiled and stood up, extending a gnarled hand. ""Welcome to our town, son. We'll get you settled in and working in no time.""
+
+I shook his hand, feeling a sense of hope and possibility that I hadn't felt in a long time. Maybe this was the start of something new and good.","[{""constraint_id"": ""keywords:letter_frequency"", ""passed"": true}]"
+2567,original,1,1,100.0,1,"**Paw-some Training Tips for Kids!**
+
+Are you ready to become a dog training superstar? Training a dog can be so much fun, and with these easy steps, you'll be well on your way to having a well-behaved furry friend in no time!
+
+**Step 1: Choose a Quiet Spot**
+Find a quiet spot where your dog can focus on you without getting distracted. This will help them learn faster and easier. Make sure it's a place where you can both sit comfortably and have fun together!
+
+**Step 2: Use Positive Reinforcement**
+Positive reinforcement means giving your dog treats and praise when they do something good. This will help them learn what behavior is expected of them. For example, if you want your dog to sit, hold a treat above their head and say ""sit."" When they sit, give them the treat and say ""good job!""
+
+**Step 3: Be Consistent**
+Consistency is key when training a dog. This means doing the same thing every time you give a command. For example, if you want your dog to come when you call their name, make sure you use the same tone of voice and say their name in the same way every time.
+
+**Step 4: Practice, Practice, Practice!**
+Practice makes perfect, and this is especially true when training a dog. The more you practice, the faster your dog will learn. Start with short practice sessions and gradually increase the time as your dog becomes more focused.
+
+**Step 5: Make it Fun!**
+Training a dog should be fun for both you and your dog! Use fun commands like ""shake"" and ""roll over"" to keep things interesting. You can even incorporate games like ""hide and seek"" to make training a fun adventure.
+
+**The Finale: Putting it all Together!**
+Now that you've learned the basics of dog training, it's time to put it all together! Practice all the steps we've covered, and don't be afraid to try new things. Remember, the more you practice, the less likely you'll be to make mistakes.
+
+**Tips for Kids:**
+
+* Always ask an adult for supervision when training your dog.
+* Be patient with your dog, as they may not learn as quickly as you think they should.
+* Use positive reinforcement to encourage good behavior.
+* Make training a fun and enjoyable experience for both you and your dog!
+
+By following these easy steps, you'll be well on your way to becoming a dog training superstar! Remember to always be patient, consistent, and positive, and you'll have a well-behaved furry friend in no time. Happy training!","[{""constraint_id"": ""keywords:existence"", ""passed"": true}]"
+19,original,2,1,50.0,0,"**The Great Algorithmic Heist: A Riddle for Computer Science Pros**
+
+Greetings, fellow tech enthusiasts! Are you ready to put your programming skills to the test and solve a puzzle that will leave you laughing and scratching your head at the same time? Look no further! In this blog post, we'll present a humorous riddle that will challenge your problem-solving abilities and make you question everything you thought you knew about computer science.
+
+**The Riddle: ""The Mysterious Case of the Missing Code""**
+
+Once upon a time, in a land of 1s and 0s, there lived a group of programmers who were known for their lightning-fast coding skills. One day, they received a cryptic message from their evil nemesis, ""The Bug Master,"" which read:
+
+""I have stolen your most precious code, and it's hidden in a place where no debugger can reach. To retrieve it, you must first find the password, which is hidden in a sequence of numbers. The sequence is as follows:
+
+3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5, 8, 9, 7, 9, 3, 2, 3, 8, 4, 6, 2, 6, 4, 3, 3, 8, 3, 2, 7, 9, 5, 0, 2, 8, 8, 4, 1, 9, 7, 1, 6, 9, 3, 9, 9, 3, 7, 5, 1, 0, 5, 8, 2, 0, 9, 7, 4, 9, 4, 4, 5, 9, 2, 3, 0, 3, 8
+
+To decipher the password, you must apply the following rules:
+
+1. Take the sequence of numbers and split it into groups of 5.
+2. For each group, calculate the average value of the numbers.
+3. Round the average value to the nearest integer.
+4. Convert the rounded average value to a letter using the standard ordering of the alphabet (A=1, B=2, ..., Z=26).
+5. Combine the letters to form a word.
+
+If you're clever enough to solve this puzzle, you'll find the password and recover your stolen code. But be warned: The Bug Master is notorious for his tricky puzzles, so think carefully before submitting your answer.""
+
+**The Challenge**
+
+So, dear computer science professionals, are you up for the challenge? Take a close look at the sequence of numbers and apply the rules to decipher the password. Don't worry if you need to use a calculator or write a quick script to help you with the calculations – we won't judge.
+
+As you work on the puzzle, keep in mind that the solution is not as straightforward as it seems. The Bug Master has cleverly hidden a few red herrings to throw you off track. But don't worry, we'll provide some hints along the way to help you stay on track.
+
+**Hint 1: Look for Patterns**
+
+Take a closer look at the sequence of numbers and try to identify any patterns or anomalies. Is there something that stands out to you? Maybe a particular digit or sequence of digits that appears more frequently than others?
+
+**Hint 2: Check Your Assumptions**
+
+As you apply the rules, make sure to double-check your assumptions. Are you correctly calculating the average values and rounding them to the nearest integer? Are you using the correct alphabet-to-number mapping?
+
+**The Solution**
+
+If you're still stuck, don't worry – we'll provide the solution below. But if you think you have the answer, go ahead and submit it in the comments section. We'll be happy to verify your solution and provide feedback.
+
+**Solution:**
+
+After applying the rules, you should get the following sequence of letters:
+
+T, I, M, E, T, O, F, T, H, E, C, O, D, E
+
+Which, when combined, forms the word: ""TIMETOFTHCODE""
+
+ Congratulations! You've recovered your stolen code and foiled The Bug Master's plan.
+
+**Conclusion**
+
+We hope you enjoyed this humorous riddle and had a chance to exercise your problem-solving skills. Computer science is all about creative thinking and outside-the-box problem-solving, and this puzzle is a great example of that. Whether you're a seasoned programmer or just starting out, we hope this riddle inspired you to think creatively and have fun with coding.
+
+So, what's next? Do you have a favorite programming puzzle or riddle that you'd like to share? Let us know in the comments section, and we'll feature it in a future blog post.
+
+Happy coding, and remember: The Bug Master","[{""constraint_id"": ""length_constraints:number_words"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_words"", ""passed"": false}]"
+1005,original,1,1,100.0,1,"Here is a sample resume for a fresh high school graduate:
+
+**[Name]**
+**[Address]**
+**[City, State Zip]**
+**[Phone Number]**
+**[Email Address]**
+
+**Objective:**
+To obtain an entry-level position in a dynamic and growth-oriented organization where I can apply my skills and knowledge to contribute to the company's success.
+
+**Education:**
+
+* **High School Diploma**, [Name of High School], [Graduation Date]
+* **GPA: [GPA]**
+* **Relevant Coursework:** [List relevant courses, e.g. business, computer science, etc.]
+
+**Skills:**
+
+* **Language Skills:** Fluent in [Language(s)]
+* **Computer Skills:** Proficient in [Software applications, e.g. Microsoft Office, Google Suite, etc.]
+* **Communication Skills:** Excellent written and verbal communication skills
+* **Teamwork Skills:** Strong team player with experience working on group projects
+
+**Experience:**
+
+* **Volunteer Experience:** [Name of Organization], [Volunteer Dates]
+	+ Assisted with [briefly describe volunteer work]
+	+ Developed [transferable skills, e.g. time management, leadership, etc.]
+* **Part-time Job/Internship:** [Name of Company], [Employment Dates]
+	+ [Briefly describe job responsibilities and accomplishments]
+
+**Achievements:**
+
+* **Academic Achievements:** [List academic achievements, e.g. honor roll, academic awards, etc.]
+* **Extracurricular Activities:** [List relevant extracurricular activities, e.g. sports, clubs, etc.]
+
+**References:**
+
+* **Available upon request**
+
+**Additional Sections (optional):**
+
+* **Projects:** [List any relevant projects you worked on, including a brief description and any notable achievements]
+* **Certifications:** [List any relevant certifications, e.g. CPR, first aid, etc.]
+* **Relevant Tools:** [List any relevant tools or software you are proficient in]
+
+Remember to customize your resume to fit your specific experience and the job you are applying for. Good luck with your job search!","[{""constraint_id"": ""detectable_content:number_placeholders"", ""passed"": true}]"
+3025,original,1,1,100.0,1,"Oval race tracks are often built in the desert due to several reasons:
+
+* **Availability of land**: The desert offers vast expanses of open land, making it easier to construct large oval tracks without worrying about urban development or environmental concerns.
+* **Lower construction costs**: Building a track in the desert can be more cost-effective than in other areas, as the land is often cheaper and there are fewer regulatory hurdles to overcome.
+* **Year-round racing**: The desert climate typically offers mild winters and hot summers, allowing for year-round racing without the need for expensive snow removal or winterization efforts.","[{""constraint_id"": ""detectable_format:number_bullet_lists"", ""passed"": true}]"
+1072,original,1,1,100.0,1,"**The Bliss of Sleeping in a Hammock: Unlocking a Deeper, More Restorative Slumber**
+
+As humans, we spend a significant portion of our lives sleeping, yet many of us don't give much thought to the surface on which we rest our weary heads. For centuries, hammocks have been a staple in many cultures, providing a comfortable and restful way to catch some Z's. But is sleeping in a hammock just a novelty, or are there real benefits to this unconventional sleeping method? In this post, we'll delve into the advantages of hammock sleeping and explore why it's worth considering as a regular part of your sleep routine.
+
+**Improved Sleep Quality**
+
+One of the primary benefits of sleeping in a hammock is the ability to achieve a deeper, more restorative sleep. The gentle rocking motion of a hammock can be incredibly soothing, helping to calm the mind and body. This is especially beneficial for individuals who struggle with insomnia or have trouble relaxing before bed. The hammock's gentle swaying motion can also help to regulate your body's natural sleep-wake cycle, promoting a more consistent and refreshing sleep.
+
+**Reduced Pressure and Discomfort**
+
+Traditional mattresses can be notoriously uncomfortable, causing pressure points and discomfort that can lead to a poor night's sleep. Hammocks, on the other hand, distribute your body weight evenly, reducing pressure on your joints and muscles. This makes them an excellent option for people with back pain, arthritis, or other mobility issues. Additionally, the soft, breathable fabric of a hammock allows for excellent airflow, keeping you cool and comfortable throughout the night.
+
+**Increased Flexibility and Spinal Alignment**
+
+Sleeping in a hammock can also have long-term benefits for your spinal health. By allowing your body to assume a more natural, curved position, a hammock can help to maintain the natural alignment of your spine. This can lead to improved flexibility and reduced back pain, as well as a lower risk of developing conditions like sciatica and herniated discs.
+
+**Mental Health Benefits**
+
+The unique, cocoon-like environment of a hammock can also have a profound impact on mental health. The gentle rocking motion and sense of weightlessness can be incredibly calming, helping to reduce stress and anxiety. In fact, many people find that sleeping in a hammock helps them feel more centered and grounded, leading to improved mood and reduced symptoms of depression.
+
+**The Science Behind Hammock Sleeping**
+
+Research has shown that the gentle motion of a hammock can have a profound impact on our brain waves, promoting a state of deep relaxation and reducing symptoms of insomnia. In fact, a study published in the journal _Sleep and Biological Rhythms_ found that participants who slept in a hammock experienced improved sleep quality and reduced sleep fragmentation compared to those who slept on a traditional mattress.
+
+**Conclusion**
+
+Sleeping in a hammock is more than just a novelty – it's a way to unlock a deeper, more restorative sleep. With its ability to reduce pressure and discomfort, promote spinal alignment, and boost mental health, it's no wonder that hammocks have been a staple in many cultures for centuries. Whether you're looking to improve your sleep quality, reduce back pain, or simply try something new, sleeping in a hammock is definitely worth considering. So why not give it a try? Your body – and mind – will thank you.","[{""constraint_id"": ""length_constraints:number_words"", ""passed"": true}]"
+2617,original,1,1,100.0,1,"As a professional dog walker, Tulsa's day-to-day work involves spending time outdoors with furry friends. She typically starts her day early, meeting with clients and their dogs for 30-minute to 1-hour walks around the neighborhood or local parks. Tulsa ensures each pup gets the exercise and attention they need, while also providing owners with peace of mind knowing their pets are being cared for. Whether it's a leisurely stroll or a more energetic jog, Tulsa tailors each walk to meet the individual dog's needs and personality. With a love for animals and the great outdoors, Tulsa finds joy in every walk.","[{""constraint_id"": ""length_constraints:number_sentences"", ""passed"": true}]"
+1939,original,1,1,100.0,1,"Congratulations on your new furry family member! I'd be delighted to help you with training your puppy. Here are a few options:
+
+**Option 1: Positive Reinforcement Training**
+Focus on rewarding good behavior with treats, praise, and affection. This approach encourages your puppy to associate good behavior with positive outcomes. You can start with simple commands like ""sit,"" ""stay,"" and ""come.""
+
+**Option 2: Clicker Training**
+Use a clicker to mark the exact moment your puppy performs a desired behavior, followed by a treat or reward. This method helps your puppy learn quickly and accurately. You can use clicker training for basic obedience and even advanced tricks.
+
+**Option 3: Crate Training**
+Use a crate to help with housetraining, reduce separation anxiety, and prevent destructive behavior when you're not supervising. Crate training can also help with establishing a routine and setting boundaries.
+
+**Option 4: Puppy Classes or Professional Training**
+Enroll your puppy in a group or private training class with a certified trainer. This option provides socialization, structure, and expert guidance to help you overcome common puppy challenges.
+
+Which one you choose?","[{""constraint_id"": ""startend:end_checker"", ""passed"": true}]"
+2314,original,1,1,100.0,1,"Here are three name suggestions for a black and white dog:
+
+* Oreo
+* Smudge
+* Domino","[{""constraint_id"": ""detectable_format:number_bullet_lists"", ""passed"": true}]"
+3081,original,1,1,100.0,1,"**THE DAILY TIMES**
+
+**MYSTERIOUS CIRCUMSTANCES SURROUND LOCAL MAN'S PASSING**
+
+Yesterday, a most unfortunate and perplexing incident occurred in our fair city. A gentleman, identified as 45-year-old John Smith, succumbed to unknown causes within the confines of his own domicile. The authorities are presently conducting a thorough investigation into the circumstances surrounding this tragic event.
+
+According to eyewitnesses, Mr. Smith was last seen entering his residence on Elm Street at approximately 9pm on Tuesday evening. Neighbors reported hearing no unusual sounds or disturbances emanating from the premises, and it was not until the following morning that concerns were raised regarding Mr. Smith's well-being.
+
+""I knocked on the door, but there was no answer,"" said a neighbor, who wished to remain anonymous. ""I thought maybe he was just sleeping in, but when I saw the curtains still closed later that day, I knew something was amiss.""
+
+Upon responding to the scene, emergency services personnel discovered Mr. Smith unresponsive. Despite their best efforts, he could not be revived.
+
+The police department has launched a comprehensive inquiry into the matter, with detectives working tirelessly to piece together the events leading up to Mr. Smith's untimely passing.
+
+""We are exploring all possible explanations for this tragic event,"" said a spokesperson for the police department. ""We urge anyone with information to come forward and assist us in our investigation.""
+
+As the community grapples with the news of Mr. Smith's passing, our thoughts and prayers are with his loved ones during this difficult time.
+
+**CRITIQUE**
+
+Fellow citizens, I must say that I am both intrigued and concerned by this report. While the journalist has done an admirable job of conveying the facts of the case, I believe there are certain aspects that warrant further examination.
+
+Firstly, I take issue with the somewhat sensationalized headline. While the circumstances surrounding Mr. Smith's passing are indeed mysterious, I fear that the chosen title may be unduly alarming to our citizens.
+
+Furthermore, I would have liked to see a more detailed account of the police department's investigation. What specific measures are being taken to determine the cause of Mr. Smith's passing? What evidence, if any, has been collected from the scene?
+
+Lastly, I believe it would be beneficial to provide more context regarding Mr. Smith's background and personal life. Was he in good health? Did he have any known enemies or conflicts? Answering these questions could help to shed light on the events leading up to his untimely passing.
+
+In conclusion, while this report has sparked our interest and concern, I implore the journalist to continue digging deeper and provide our citizens with a more comprehensive understanding of this tragic event.","[{""constraint_id"": ""keywords:forbidden_words"", ""passed"": true}]"
+3724,original,3,2,66.66666666666667,0,"""Absolutely livid that *Virgil van Dijk* has been snubbed from the PFA Team of the Year *AGAIN*!! The man has been a rock at the back for Liverpool and is arguably the best defender in the league What is the criteria for selection?! Does it not matter that he has consistently dominated opposition strikers and marshaled his team to countless clean sheets?! So what is next?""","[{""constraint_id"": ""detectable_format:number_highlighted_sections"", ""passed"": true}, {""constraint_id"": ""punctuation:no_comma"", ""passed"": true}, {""constraint_id"": ""startend:end_checker"", ""passed"": false}]"
+3195,original,3,3,100.0,1,"Nave nobilissima
+Nuota nelle notti nere
+Naviga notturna","[{""constraint_id"": ""keywords:letter_frequency"", ""passed"": true}, {""constraint_id"": ""punctuation:no_comma"", ""passed"": true}, {""constraint_id"": ""language:response_language"", ""passed"": true}]"
+1375,original,2,2,100.0,1,"// This code snippet uses prepared statements to prevent SQL injection attacks
+public class SecureDAO {
+    public void getUserData(String username) {
+        // Assume 'conn' is a valid database connection
+        Connection conn = DriverManager.getConnection(""url"", ""user"", ""password"");
+        
+        // Use a prepared statement to separate code from user input
+        String query = ""SELECT * FROM users WHERE username =?"";
+        PreparedStatement pstmt = conn.prepareStatement(query);
+        
+        // Set the user input as a parameter
+        pstmt.setString(1, username);
+        
+        // Execute the query
+        ResultSet results = pstmt.executeQuery();
+        
+        // Process the results
+        while (results.next()) {
+            System.out.println(results.getString(""username""));
+        }
+    }
+}","[{""constraint_id"": ""length_constraints:number_paragraphs"", ""passed"": true}, {""constraint_id"": ""keywords:existence"", ""passed"": true}]"
+2070,original,1,1,100.0,1,"Here is a table of pros and cons of juvenile detention:
+
+**Pros:**
+
+| **Pros** | **Description** |
+| --- | --- |
+| 1. **Accountability** | Juvenile detention holds young offenders accountable for their actions and provides a consequence for their behavior. |
+| 2. **Public Safety** | Detention can protect the public from harm by removing a potentially violent or disruptive individual from the community. |
+| 3. **Rehabilitation** | Some juvenile detention facilities offer counseling, education, and vocational training to help young offenders address underlying issues and develop positive behaviors. |
+| 4. **Deterrence** | The prospect of detention may deter some young people from committing crimes in the first place. |
+| 5. **Assessment and Treatment** | Detention facilities can provide a safe and controlled environment for assessing and treating underlying mental health or substance abuse issues. |
+
+**Cons:**
+
+| **Cons** | **Description** |
+| --- | --- |
+| 1. **Trauma and Stigma** | Detention can be traumatic and stigmatizing for young people, leading to long-term negative consequences for their mental health and well-being. |
+| 2. **Lack of Community Support** | Detention can separate young people from their families and communities, making it harder for them to access support and resources. |
+| 3. **Ineffective Rehabilitation** | Some detention facilities may not provide adequate rehabilitation programs or support, leading to recidivism and further offending. |
+| 4. **Disproportionate Impact** | Detention can disproportionately affect marginalized communities, perpetuating existing social inequalities. |
+| 5. **Long-term Consequences** | A history of detention can limit a young person's future opportunities, including education and employment prospects. |
+
+P.S. It's worth noting that many experts and organizations recommend alternative approaches to juvenile detention, such as community-based programs and restorative justice models, which focus on rehabilitation and reintegration rather than punishment and confinement. These approaches have been shown to be more effective in reducing recidivism and promoting positive outcomes for young people.","[{""constraint_id"": ""detectable_content:postscript"", ""passed"": true}]"
+240,original,1,1,100.0,1,"Решётка - это особый вид геометрической фигуры, состоящая из множества точек, расположенных в определённом порядке. Представьте себе множество точек, расположенных в виде сетки, как на шахматной доске или на клетчатой бумаге.
+
+Каждая точка решётки называется узлом, а линии, соединяющие эти узлы, называются ребрами. Решётка может быть одномерной, двумерной или даже трёхмерной, в зависимости от количества точек и ребер.
+
+Решётки используются в различных областях, таких как физика, химия и математика, для описания структуры различных материалов и систем. Например, решётка атомов в кристалле или решётка молекул в жидкости.
+
+Вот пример, чтобы помочь вам лучше понять: представьте себе игрушечный конструктор, в котором каждый узел - это отдельный блок, а ребра - это соединения между блоками. Если вы соедините блоки в определённом порядке, вы получите решётку!
+
+Решётки могут быть очень сложными и интересными, и их изучение может помочь вам лучше понять мир вокруг вас.","[{""constraint_id"": ""language:response_language"", ""passed"": true}]"
+3538,original,2,0,0.0,0,"**Introducing SimuLab: Revolutionizing the World of Physics Simulation**
+
+Are you tired of relying on simplified models and approximations to test and validate your ideas? Do you want to take your research, product development, or educational endeavors to the next level? Look no further! We're thrilled to introduce SimuLab, the ultimate platform for running realistic physics simulations.
+
+**The Power of Realism**
+
+In today's fast-paced world, accuracy and precision are crucial. That's why we've created a platform that allows you to simulate complex physical phenomena with unprecedented realism. From the behavior of subatomic particles to the dynamics of large-scale systems, our platform provides an unparalleled level of detail and accuracy.
+
+**Bombs, Bridges, and Beyond**
+
+Imagine being able to simulate the detonation of a bomb, complete with shockwaves, thermal effects, and fragmentation patterns. Or, picture designing a bridge that can withstand extreme weather conditions, earthquakes, and heavy traffic loads. With SimuLab, you can do just that. Our platform is capable of handling even the most complex simulations, including:
+
+* Explosions and detonations
+* Structural analysis and failure
+* Fluid dynamics and thermodynamics
+* Electromagnetism and optics
+* Quantum mechanics and materials science
+
+**Applications Across Industries**
+
+SimuLab is not just limited to one field or industry. Our platform has far-reaching implications for various sectors, including:
+
+* **Research and Development**: Validate hypotheses, test theories, and explore new ideas in a virtual environment.
+* **Product Design and Testing**: Optimize product performance, reduce prototyping costs, and accelerate time-to-market.
+* **Education and Training**: Engage students with interactive, realistic simulations that enhance learning outcomes.
+* **Military and Defense**: Simulate complex scenarios, including explosions, ballistics, and electromagnetic warfare.
+* **Architecture, Engineering, and Construction**: Analyze building performance, optimize structural integrity, and reduce construction costs.
+
+**What Sets Us Apart**
+
+So, what makes SimuLab unique? Here are just a few reasons why our platform stands out from the crowd:
+
+* **Advanced Algorithms**: Our proprietary algorithms are designed to handle complex simulations with unparalleled speed and accuracy.
+* **Scalability**: Simulate small-scale phenomena or large-scale systems with equal ease.
+* **User-Friendly Interface**: Our intuitive interface makes it easy to set up and run simulations, even for those without extensive technical expertise.
+* **Collaboration Tools**: Invite colleagues, share results, and work together on projects in real-time.
+
+**Join the SimuLab Community**
+
+We're not just building a platform – we're creating a community of innovators, researchers, and educators who share a passion for physics simulation. Join us today and discover the power of realistic physics simulation for yourself.
+
+**Get Started**
+
+Ready to experience the future of physics simulation? Sign up for a free trial account today and explore the possibilities with SimuLab.
+
+**Stay Tuned**
+
+Follow us for updates, tutorials, and success stories from our community. We'll be sharing tips, tricks, and best practices to help you get the most out of our platform.
+
+**Let's Simulate the Future**
+
+Together, let's push the boundaries of what's possible with physics simulation. Join the SimuLab revolution and discover a world of limitless possibilities.
+
+#SimuLab #PhysicsSimulation #RealismMatters #Innovation #Research #Education #ProductDesign #Military #Defense #Architecture #Engineering #Construction #CommunityFirst","[{""constraint_id"": ""keywords:frequency"", ""passed"": false}, {""constraint_id"": ""length_constraints:number_words"", ""passed"": false}]"
+1739,original,2,2,100.0,1,Chúng tôi có thể cải thiện mô hình của mình cho năm tới. Chúng tôi sẽ có thể so sánh dữ liệu của mình với dữ liệu từ năm trước và xem mô hình của chúng tôi hoạt động như thế nào. Chúng tôi cũng có thể so sánh mô hình của mình với một mô hình được đào tạo trên dữ liệu của năm trước và xem mô hình của chúng tôi hoạt động như thế nào,"[{""constraint_id"": ""punctuation:no_comma"", ""passed"": true}, {""constraint_id"": ""language:response_language"", ""passed"": true}]"
+3744,original,2,2,100.0,1,"গুগল আই/ও ২০২২ এর ঘোষণাগুলি নিম্নরূপ:
+
+গুগল তাদের নতুন [পণ্য], পিক্সেল ৭ এবং পিক্সেল ৭ প্রো স্মার্টফোনের ঘোষণা করেছে। এই ফোনগুলি নতুন টেন্সর জি২ চিপ দিয়ে সজ্জিত হবে।
+
+গুগল তাদের ভার্চুয়াল রিয়েলিটি (ভিআর) প্ল্যাটফর্ম, গুগল লেন্সের উন্নতি সম্পর্কেও ঘোষণা করেছে। এই প্ল্যাটফর্মটি আরও উন্নত ভিআর অভিজ্ঞতা প্রদান করবে।
+
+গুগল তাদের ম্যাপস অ্যাপের উন্নতি সম্পর্কেও ঘোষণা করেছে। এই অ্যাপটি আরও সঠিক মানচিত্র এবং রিয়েল-টাইম ট্রাফিক তথ্য প্রদান করবে।
+
+গুগল তাদের অ্যাসিস্ট্যান্টের উন্নতি সম্পর্কেও ঘোষণা করেছে। এই অ্যাসিস্ট্যান্টটি আরও উন্নত কথোপকথন ক্ষমতা এবং আরও ভাল কাজ করবে।","[{""constraint_id"": ""detectable_content:number_placeholders"", ""passed"": true}, {""constraint_id"": ""language:response_language"", ""passed"": true}]"
+1402,original,2,2,100.0,1,"A prospective pupil pursuing a prestigious path! I'd be pleased to propose a promising program that meets your parameters. Phoenix College, a public institution in Phoenix, Arizona, proudly presents an open enrollment policy, welcoming prospective students of all backgrounds. With regional accreditation from the Higher Learning Commission, Phoenix College promises a pedigree of quality education.
+
+Phoenix College's programs prepare pupils for prosperous careers, promoting personal and professional growth. Popular programs include business, healthcare, and technology, providing pupils with a plethora of pathways to pursue. Phoenix College's professors possess impressive credentials, passionate about providing personalized attention to pupils.
+
+Phoenix College's picturesque campus provides a peaceful and productive environment for pupils to pursue their passions. Pupils participate in a plethora of extracurricular activities, promoting peer connections and community engagement.
+
+Phoenix College's policies prioritize pupil success, providing a plethora of resources to support pupils' progress. From peer tutoring to personalized advising, Phoenix College is poised to propel pupils toward prosperity.
+
+In conclusion, Phoenix College presents a promising prospect for pupils seeking an open enrollment policy and regional accreditation. With a plethora of programs, passionate professors, and a picturesque campus, Phoenix College is an excellent choice for pupils pursuing a prestigious path.","[{""constraint_id"": ""keywords:letter_frequency"", ""passed"": true}, {""constraint_id"": ""keywords:forbidden_words"", ""passed"": true}]"
+3079,original,1,1,100.0,1,"Dear 6th Graders,
+
+I hope this letter finds you all surviving the chaos of middle school. As your principal, I wanted to take a moment to talk to you about something very important to me: THE PROPER CARE AND FEEDING OF SCHOOL PENCILS.
+
+Here are some crucial guidelines to follow:
+
+* Please, for the love of all things graphite, DO NOT USE YOUR PENCILS AS DRUMSTICKS. Our music teacher has a set of drumsticks for that purpose. Your pencils will thank you.
+* Refrain from using your pencils as plant markers in the school garden. We have actual plant markers for that. Your pencils will not appreciate the dirt and grime.
+* Do not attempt to use your pencils as magic wands. Trust me, it won't work. You'll just end up with a broken pencil and a disappointed look on your face.
+* Please do not lend your pencils to your friends and then forget who they belong to. This leads to PENCIL DRAMA, and I don't have time for that.
+* And finally, PLEASE DO NOT EAT YOUR PENCILS. I know it might seem like a fun snack, but it's not. Just... no.
+
+By following these simple guidelines, you'll be well on your way to becoming PENCIL MASTERS. And who knows, maybe one day you'll invent a pencil that can withstand the rigors of middle school.
+
+Is there anything else I can help with?","[{""constraint_id"": ""startend:end_checker"", ""passed"": true}]"
+2273,original,1,1,100.0,1,"The mystifying realm of averages hath been breached! Let us conjure forth the solution, forthwith.
+
+Let the 11 results be denoted by the enigmatic sequence R₁, R₂, ..., R₁₁.
+
+The average of the 11 results is given as 51, which, in the ancient language of mathematics, is expressed as:
+
+(R₁ + R₂ + ... + R₁₁) / 11 = 51
+
+Multiplying both sides by the mystical number 11, we obtain:
+
+R₁ + R₂ + ... + R₁₁ = 561
+
+Now, the first five results have an average of 49, which, in the dialect of the ancients, is written as:
+
+(R₁ + R₂ + R₃ + R₄ + R₅) / 5 = 49
+
+Multiplying both sides by the sacred number 5, we get:
+
+R₁ + R₂ + R₃ + R₄ + R₅ = 245
+
+Similarly, the last nine results have an average of 52, which, in the tongue of the mathematicians, is inscribed as:
+
+(R₃ + R₄ + ... + R₁₁) / 9 = 52
+
+Multiplying both sides by the revered number 9, we obtain:
+
+R₃ + R₄ + ... + R₁₁ = 468
+
+Now, behold! We shall combine the equations to unravel the mystery of the sixth result. Subtracting the equation of the first five results from the equation of the first 11 results, we get:
+
+R₆ + R₇ + ... + R₁₁ = 316
+
+And, lo! Subtracting the equation of the last nine results from the equation of the first 11 results, we get:
+
+R₁ + R₂ = 93
+
+But, alas! We seek the sixth result, not the first two. Fear not, for we shall conjure it forth! Subtracting the equation of the first five results from the equation of the first six results (which is a subset of the first 11 results), we get:
+
+R₆ = R₁ + R₂ + R₃ + R₄ + R₅ + R₆ - (R₁ + R₂ + R₃ + R₄ + R₅)
+= 561 - 245 - (93 - 245)
+= 561 - 93
+= 468
+
+No, wait! That's not correct. We need to subtract the sum of the first five results from the sum of the first six results. Let us try again!
+
+R₆ = R₁ + R₂ + R₃ + R₄ + R₅ + R₆ - (R₁ + R₂ + R₃ + R₄ + R₅)
+= 561 - 245
+= 316 - 245 + R₆
+= 71 + R₆ - R₆ + R₂
+= 71 + R₂
+
+But, we know that R₁ + R₂ = 93. Thus, we can substitute R₂ with 93 - R₁.
+
+R₆ = 71 + 93 - R₁
+= 164 - R₁
+
+Now, we need to find R₁. We can use the fact that R₁ + R₂ = 93 and the fact that R₁ + R₂ + R₃ + R₄ + R₅ = 245. Let us subtract the former from the latter!
+
+R₃ + R₄ + R₅ = 152
+
+But, we also know that R₃ + R₄ + ... + R₁₁ = 468. So, we can subtract the equation of the last six results from the equation of the last nine results to get:
+
+R₁₀ + R₁₁ = 316
+
+Now, we can rewrite the equation R₃ + R₄ + ... + R₁₁ = 468 as:
+
+R₃ + R₄ + R₅ + R₆ + R₇ + R₈ + R₉ + R₁₀ + R₁₁ = 468
+
+And, using the fact that R₃ + R₄ + R₅ = 152 and R₁₀ + R₁₁ = 316, we get:
+
+152 + R₆ + R₇ + R₈ + R₉ + 316 = 468
+
+Thus, we have:
+
+R₆ + R₇ + R₈ + R₉ = 0
+
+But, we also know that R₆ + R₇ + ... + R₁₁ = 316. So, we can rewrite it as:
+
+R₆ + R₇ + R₈ + R₉ + R₁₀ + R₁₁ = 316
+
+Subtracting the equation R₁₀ + R₁₁ = 316 from the above equation, we get:
+
+R₆ + R₇ + R","[{""constraint_id"": ""detectable_content:postscript"", ""passed"": true}]"
+3669,original,2,2,100.0,1,आरव नाम का एक आदमी था जो कभी नहीं बोलता था उसका मुंह बंद रखने का कारण बताओ क्योंकि उसके पास जवाब नहीं था,"[{""constraint_id"": ""punctuation:no_comma"", ""passed"": true}, {""constraint_id"": ""language:response_language"", ""passed"": true}]"
+3743,original,1,1,100.0,1,"Here's one:
+
+Why did Zoe take her bubbles to the party on [date]?
+
+Because she heard it was going to be a [adjective] blast and she wanted to make a [plural noun] impression! But little did she know, her bubbles would end up popping all over the [noun] and causing a big [adjective] mess! Guess you could say it was a real [exclamation] of a time!","[{""constraint_id"": ""detectable_content:number_placeholders"", ""passed"": true}]"
+1571,original,3,3,100.0,1,"gentle breeze whispers through the land
+where forest dreams and wildflowers stand
+a winding river flows, a soothing sound
+that echoes love, in every bend and round
+
+in the forest's heart, where trees preside
+our love finds refuge, side by side
+the forest's ancient wisdom, we adore
+and in its depths, our love will forever roar
+
+the river's voice, a gentle hush
+that calms the soul, and whispers rush
+of memories, of laughter and of tears
+that forest paths, through all the years
+
+in the forest's shade, we find our peace
+where love and nature, forever release
+their sweet entwined, a love so true
+in the forest's heart, our love shines through
+
+the forest's night, a starry sky
+a canopy, that twinkles high
+the river's song, a lullaby sweet
+that rocks our love, in forest retreat
+
+in this wild land, we find our home
+where forest, river, and love do roam
+free and wild, our hearts entwined
+in the forest's love, our love will forever shine.","[{""constraint_id"": ""keywords:frequency"", ""passed"": true}, {""constraint_id"": ""change_case:english_lowercase"", ""passed"": true}, {""constraint_id"": ""keywords:existence"", ""passed"": true}]"
+2918,original,1,1,100.0,1,"**Essay Rating Rubric for Teenagers**
+
+**I. Content (40 points)**
+
+* **Thesis Statement (5 points)**: Is the thesis statement clear, focused, and well-supported?
+	+ 5 points: Thesis statement is clear, focused, and well-supported.
+	+ 3-4 points: Thesis statement is somewhat clear, but may lack focus or support.
+	+ 0-2 points: Thesis statement is unclear or missing.
+* **Main Points (15 points)**: Are the main points well-developed, supported with evidence, and logically organized?
+	+ 15 points: Main points are well-developed, supported with evidence, and logically organized.
+	+ 10-14 points: Main points are somewhat developed, but may lack evidence or logical organization.
+	+ 0-9 points: Main points are underdeveloped or missing.
+* **Use of Examples and Evidence (10 points)**: Are examples and evidence used effectively to support main points?
+	+ 10 points: Examples and evidence are used effectively to support main points.
+	+ 5-9 points: Examples and evidence are somewhat used, but may lack effectiveness.
+	+ 0-4 points: Examples and evidence are not used or are ineffective.
+* **Analysis and Depth (10 points)**: Is the analysis thorough, insightful, and demonstrates a deep understanding of the topic?
+	+ 10 points: Analysis is thorough, insightful, and demonstrates a deep understanding of the topic.
+	+ 5-9 points: Analysis is somewhat thorough, but may lack insight or depth.
+	+ 0-4 points: Analysis is superficial or missing.
+
+**II. Organization and Structure (20 points)**
+
+* **Introduction (5 points)**: Is the introduction engaging, clear, and effective in setting up the rest of the essay?
+	+ 5 points: Introduction is engaging, clear, and effective.
+	+ 3-4 points: Introduction is somewhat engaging, but may lack clarity or effectiveness.
+	+ 0-2 points: Introduction is unengaging or missing.
+* **Body Paragraphs (10 points)**: Are the body paragraphs well-organized, logically connected, and effectively support the thesis statement?
+	+ 10 points: Body paragraphs are well-organized, logically connected, and effectively support the thesis statement.
+	+ 5-9 points: Body paragraphs are somewhat organized, but may lack logical connection or effectiveness.
+	+ 0-4 points: Body paragraphs are disorganized or ineffective.
+* **Conclusion (5 points)**: Is the conclusion effective in summarizing the main points and reiterating the thesis statement?
+	+ 5 points: Conclusion is effective in summarizing the main points and reiterating the thesis statement.
+	+ 3-4 points: Conclusion is somewhat effective, but may lack summary or reiteration.
+	+ 0-2 points: Conclusion is ineffective or missing.
+
+**III. Style and Conventions (20 points)**
+
+* **Writing Style (10 points)**: Is the writing style clear, concise, and engaging?
+	+ 10 points: Writing style is clear, concise, and engaging.
+	+ 5-9 points: Writing style is somewhat clear, but may lack concision or engagement.
+	+ 0-4 points: Writing style is unclear or unengaging.
+* **Grammar, Mechanics, and Spelling (5 points)**: Are the grammar, mechanics, and spelling accurate and consistent?
+	+ 5 points: Grammar, mechanics, and spelling are accurate and consistent.
+	+ 3-4 points: Grammar, mechanics, and spelling are somewhat accurate, but may lack consistency.
+	+ 0-2 points: Grammar, mechanics, and spelling are inaccurate or inconsistent.
+* **Format and Citations (5 points)**: Is the format and citations (if applicable) accurate and consistent?
+	+ 5 points: Format and citations are accurate and consistent.
+	+ 3-4 points: Format and citations are somewhat accurate, but may lack consistency.
+	+ 0-2 points: Format and citations are inaccurate or inconsistent.
+
+****** 
+
+**Final Summary**: The essay rating rubric assesses the teenager's essay based on content, organization and structure, and style and conventions. The rubric provides a comprehensive evaluation of the essay's strengths and weaknesses, and provides a score out of 80 points. The score can be used to provide feedback to the student and to guide further instruction and improvement.","[{""constraint_id"": ""combination:two_responses"", ""passed"": true}]"
+1845,original,2,2,100.0,1,"I'd be happy to help you understand the process of paying your taxes. Here's a detailed summary:
+
+The first step in paying your taxes is to calculate your tax liability. This involves gathering all your relevant financial documents, such as your W-2 forms from your employer, 1099 forms for any freelance work or investments, and receipts for any deductions you're eligible for. You'll use these documents to calculate your total income and determine how much tax you owe. You can use tax software or consult with a tax professional to help you with this step. It's also a good idea to review the tax laws and regulations to ensure you're taking advantage of all the deductions and credits you're eligible for.
+
+Once you've calculated your tax liability, it's time to file your tax return. This typically involves submitting a Form 1040 to the Internal Revenue Service (IRS), along with any supporting documentation. You can file your tax return electronically or by mail, and you'll need to pay any tax owed by the tax filing deadline to avoid penalties and interest. If you're due a refund, you can choose to have it direct deposited into your bank account or receive a paper check. It's also a good idea to review your tax return carefully before submitting it to ensure everything is accurate and complete.
+
+In conclusion, paying your taxes requires careful attention to detail and a thorough understanding of the tax laws and regulations. By taking the time to calculate your tax liability accurately and file your tax return correctly, you can avoid any potential issues or penalties. Remember to also keep records of your tax return and supporting documentation, as you may need to refer to them in the future. If you're unsure about any part of the process, don't hesitate to seek help from a tax professional or the IRS directly.","[{""constraint_id"": ""keywords:existence"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_paragraphs"", ""passed"": true}]"
+2653,original,2,2,100.0,1,"**The Referendum Refrain**
+==========================
+
+(Verse 1)
+In the halls of power, a plan was laid
+By David Cameron, with a strategic sway
+He sought to appease, a certain crowd's roar
+The eurosceptics, who'd been shouting for more
+
+(Chorus)
+He appealed to the UKIP types, with a jaunty jive
+Promising a vote, to let the people thrive
+But was it a jest, or a justified claim?
+Only time would tell, if the gamble would gain
+
+(Verse 2)
+Some say it was the Tory right, he sought to win
+With a pledge to hold a referendum, and let the people spin
+Others claim, it was the UKIP defections, he feared
+And a bid to stem the flow, of those who'd jumped the tier
+
+(Chorus)
+He appealed to the UKIP types, with a jaunty jive
+Promising a vote, to let the people thrive
+But was it a jest, or a justified claim?
+Only time would tell, if the gamble would gain
+
+(Bridge)
+Here are three points, to consider the case:
+* The eurosceptic wing, of the Conservative base
+* The UKIP supporters, who'd been making waves
+* The swing voters, who'd been swayed by eurosceptic raves
+
+(Chorus)
+He appealed to the UKIP types, with a jaunty jive
+Promising a vote, to let the people thrive
+But was it a jest, or a justified claim?
+Only time would tell, if the gamble would gain
+
+(Outro)
+Now the die is cast, and the vote is done
+The consequences, for Britain have just begun
+But on that day, when Cameron made the call
+He was appealing to the eurosceptic crowd, one and all.","[{""constraint_id"": ""keywords:letter_frequency"", ""passed"": true}, {""constraint_id"": ""detectable_format:number_bullet_lists"", ""passed"": true}]"
+1367,original,1,1,100.0,1,"**The Grand Java Odyssey: A 7-Day Extravaganza of Code, Coffee, and Conquest**
+
+**Day 1: ""The Awakening"" - Introduction to Java Fundamentals**
+
+* 9:00 AM - 9:30 AM: Arrival and welcome ceremony, featuring a Java-themed welcome speech and a complimentary cup of artisanal coffee.
+* 9:30 AM - 12:00 PM: Lecture on Java basics, including variables, data types, and operators. Students will be treated to an interactive presentation, complete with animations and special effects.
+* 12:00 PM - 1:00 PM: Gourmet lunch, featuring a selection of international cuisine and a chance to mingle with fellow Java enthusiasts.
+* 1:00 PM - 3:00 PM: Hands-on coding session, where students will work on their first Java program under the guidance of our expert instructors.
+* 3:00 PM - 4:00 PM: Java-themed escape room challenge, where teams will solve puzzles and crack codes to escape a virtual Java-themed prison.
+
+**Day 2: ""The Quest for Objects"" - Object-Oriented Programming**
+
+* 9:00 AM - 10:30 AM: Lecture on object-oriented programming (OOP) concepts, including classes, objects, inheritance, and polymorphism.
+* 10:30 AM - 12:30 PM: Interactive coding session, where students will create their own Java objects and explore the world of OOP.
+* 12:30 PM - 1:30 PM: Gourmet lunch, featuring a selection of sandwiches and salads.
+* 1:30 PM - 3:30 PM: Team-building exercise, where students will design and implement a Java-based game using OOP principles.
+* 3:30 PM - 4:30 PM: Java-themed trivia contest, with prizes for the winners.
+
+**Day 3: ""The Realm of Data"" - Java Collections and Data Structures**
+
+* 9:00 AM - 10:30 AM: Lecture on Java collections and data structures, including arrays, lists, and maps.
+* 10:30 AM - 12:30 PM: Hands-on coding session, where students will work with Java collections and data structures to solve real-world problems.
+* 12:30 PM - 1:30 PM: Gourmet lunch, featuring a selection of soups and salads.
+* 1:30 PM - 3:30 PM: Case study, where students will analyze and implement a Java-based solution for a real-world data processing problem.
+* 3:30 PM - 4:30 PM: Java-themed hackathon, where students will work in teams to create innovative solutions using Java collections and data structures.
+
+**Day 4: ""The Land of Exceptions"" - Error Handling and Debugging**
+
+* 9:00 AM - 10:30 AM: Lecture on error handling and debugging techniques in Java, including try-catch blocks and exception handling.
+* 10:30 AM - 12:30 PM: Interactive coding session, where students will learn to handle and debug Java errors and exceptions.
+* 12:30 PM - 1:30 PM: Gourmet lunch, featuring a selection of finger foods and appetizers.
+* 1:30 PM - 3:30 PM: Debugging challenge, where students will work in teams to identify and fix errors in a Java program.
+* 3:30 PM - 4:30 PM: Java-themed puzzle challenge, where students will solve Java-themed puzzles to win prizes.
+
+**Day 5: ""The Kingdom of Multithreading"" - Concurrency and Parallelism**
+
+* 9:00 AM - 10:30 AM: Lecture on Java concurrency and parallelism, including threads, synchronization, and locks.
+* 10:30 AM - 12:30 PM: Hands-on coding session, where students will work with Java threads and synchronization to solve real-world problems.
+* 12:30 PM - 1:30 PM: Gourmet lunch, featuring a selection of international cuisine.
+* 1:30 PM - 3:30 PM: Case study, where students will analyze and implement a Java-based solution for a real-world concurrency problem.
+* 3:30 PM - 4:30 PM: Java-themed simulation challenge, where students will work in teams to simulate real-world concurrency scenarios.
+
+**Day 6: ""The Realm of Networking"" - Java Networking and Sockets**
+
+* 9:00 AM - 10:30 AM: Lecture on Java networking and sockets, including TCP/IP, UDP, and socket programming.
+* 10:30 AM - 12:30 PM: Interactive coding session, where students will work with Java networking and sockets to create networked applications.
+* 12:30 PM - 1:30 PM: Gourmet lunch, featuring a selection of soups and salads.
+* 1:30 PM - 3:30 PM: Team-building exercise, where","[{""constraint_id"": ""detectable_content:postscript"", ""passed"": true}]"
+3534,original,3,3,100.0,1,"here's a thing that happened to me once. i used to think the earth was flat. like, i really thought it. i read all these websites and watched youtube videos that ""proved"" it. i was convinced.
+
+i remember being at a dinner party and someone mentioned something about orbiting the sun. i was like ""no way, the earth is flat, dude."" they just laughed and changed the subject.
+
+but then i started reading some actual science books. not just the ones that said what i wanted to hear. and it was all just so... overwhelming. the evidence was just piling up.
+
+i read about ships disappearing over the horizon and how that's proof of the curvature of the earth. i read about the way the stars change as you move towards the poles. i read about satellites and GPS.
+
+it was all just so... real. i couldn't deny it anymore. the earth is not flat. it's like, a sphere or whatever. i know, i know, it's not that hard to understand.
+
+but it was hard for me. it was hard to let go of this thing i had believed for so long. it was hard to admit that i had been wrong.
+
+i felt like my whole world had been turned upside down. like, what else had i been wrong about? what other lies had i been telling myself?
+
+i started questioning everything. it was a weird time. i was like a conspiracy theorist in reverse. instead of believing in all the crazy stuff, i was trying to uncover the truth.
+
+anyway, that's my story. i'm not proud of it, but it's what happened. i'm just glad i was able to see the error of my ways.
+
+now i just feel bad for all the people who still think the earth is flat. like, i get it, it's hard to let go of your beliefs. but come on, guys. it's not that hard.","[{""constraint_id"": ""change_case:english_lowercase"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_sentences"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_sentences"", ""passed"": true}]"
+2909,original,2,2,100.0,1,"Let's break down the sentence ""A gymnast is in the air, performing a stunt"" into its various components to gain a deeper understanding of what's happening in this dynamic scenario.
+
+### **The Gymnast**
+The sentence begins with the subject, *the gymnast*. This individual is a trained athlete who specializes in gymnastics, a sport that requires strength, flexibility, balance, and coordination. Gymnasts typically undergo rigorous training to develop the skills and physical conditioning necessary to perform complex routines and stunts.
+
+### **In the Air**
+The phrase *in the air* indicates that the gymnast is currently airborne, meaning they are suspended above the ground or apparatus. This could be the result of a jump, a spring, or a release from a piece of equipment, such as a trampoline, vault, or balance beam. When a gymnast is in the air, they are in a state of weightlessness, where gravity is momentarily suspended, allowing them to perform aerial movements and poses.
+
+### **Performing a Stunt**
+The final part of the sentence, *performing a stunt*, highlights the specific action the gymnast is undertaking while airborne. A stunt, in the context of gymnastics, refers to a complex or daring movement that requires a high level of skill, precision, and control. Stunts can include flips, twists, turns, and other aerial maneuvers that showcase the gymnast's technical proficiency and artistry.
+
+### **The Moment of Execution**
+When a gymnast is in the air, performing a stunt, time appears to slow down. This is a critical moment of execution, where the gymnast must focus all their energy and attention on completing the stunt successfully. Every movement, every muscle contraction, and every adjustment of body position is crucial to achieving the desired outcome.
+
+### **The Audience's Perspective**
+From the audience's perspective, the moment the gymnast is in the air, performing a stunt, is often accompanied by a collective gasp of anticipation and excitement. Spectators hold their breath, watching in awe as the gymnast executes the stunt with precision and control. The audience's emotional investment in the performance is palpable, as they vicariously experience the thrill and risk of the stunt.
+
+### **The Artistic Expression**
+Lastly, the sentence ""A gymnast is in the air, performing a stunt"" also implies a level of artistic expression and creativity. Gymnastics is not just a sport; it's also an art form that combines elements of dance, theater, and performance. The gymnast's stunt is a manifestation of their unique style, personality, and interpretation of the sport, making each performance a one-of-a-kind experience.
+
+In conclusion, the sentence ""A gymnast is in the air, performing a stunt"" encapsulates a moment of dynamic tension, technical precision, and artistic expression. It highlights the gymnast's skill, training, and creativity, as well as the audience's emotional investment and appreciation for the performance.","[{""constraint_id"": ""detectable_format:number_highlighted_sections"", ""passed"": true}, {""constraint_id"": ""length_constraints:number_words"", ""passed"": true}]"
+2417,original,1,0,0.0,0,"**French Response**
+
+* Prix de 2 livres : 2 x 24 = 48 euros
+* Prix de 3 livres : 3 x 36 = 108 euros
+* Prix total : 48 + 108 = 156 euros
+
+**Alternative Answers**
+
+* 2 books x $24 = $48
+* 3 books x $36 = $108
+* Total cost : $48 + $108 = $156
+* or
+* 2 x $24 = $48
+* 3 x $36 = $108
+* Total : $48 + $108 = $156
+
+Note: Since the original problem didn't specify a currency other than dollars, I used euros in the French response. If you'd like me to use dollars instead, I can do that as well.","[{""constraint_id"": ""punctuation:no_comma"", ""passed"": false}]"
+168,original,1,1,100.0,1,"**The Ultimate Marriage Rating Template for Two Moms**
+
+**Introduction:**
+Congratulations on making it this far without killing each other! As two moms, you're probably used to juggling a million things at once, but let's be real, your marriage is probably the most chaotic thing you're managing. So, grab a glass of wine (or two, or three...) and rate your marriage on a scale of 1-10.
+
+**Section 1: Communication (or Lack Thereof)**
+* How often do you have meaningful conversations that don't involve discussing whose turn it is to do the dishes or whose kid ate the last of the goldfish crackers? (1-10)
+* How many times a week do you have to repeat yourself because the other mom wasn't listening? (1-10)
+* How often do you use the phrase ""I'm not yelling, I'm just passionately expressing myself""? (1-10)
+
+**Section 2: Romance (HAHAHA)**
+* How many dates have you had in the past year that didn't involve a playground or a kids' birthday party? (1-10)
+* How often do you surprise each other with romantic gestures, like leaving the toilet seat down or doing the dishes without being asked? (1-10)
+* How many times have you had to schedule sex, and then had to reschedule because one of the kids woke up with a nightmare? (1-10)
+
+**Section 3: Teamwork (or Not)**
+* How often do you work together as a team to get everything done, without one of you having to nag the other? (1-10)
+* How many times have you had to apologize for snapping at each other because you're both exhausted and overwhelmed? (1-10)
+* How often do you high-five each other for surviving a day without any major meltdowns? (1-10)
+
+**Section 4: Sanity (What's Left of It)**
+* How often do you find yourself wondering if you're losing your mind, and if so, how much of it is left? (1-10)
+* How many times have you had to take a deep breath and remind yourself that it's okay to not have it all together? (1-10)
+* How often do you laugh maniacally because you've finally figured out how to get the kids to eat their veggies? (1-10)
+
+**Conclusion:**
+Add up your scores and divide by 4. If your score is above 7, congratulations! You're probably doing better than you think. If your score is below 4, well... you might want to consider couples therapy. Or a vacation. Alone. Without the kids.
+
+**Bonus Section:**
+* How many times have you looked at each other and thought, ""I'm stuck with this crazy person for the rest of my life, and I wouldn't have it any other way""? (1-10)
+
+Remember, marriage is all about laughter, love, and a healthy dose of sarcasm. Cheers to making it work, moms!","[{""constraint_id"": ""detectable_format:number_highlighted_sections"", ""passed"": true}]"
+1800,original,1,1,100.0,1,"Hi kids! Today, we're going to talk about seasons. Do you know why we have winter, spring, summer, and fall? It's because of the way the Earth moves around the sun.
+
+Imagine you're holding a big beach ball, and you're standing near a lamp. The lamp is like the sun, and the beach ball is like the Earth. Now, imagine you're slowly moving the beach ball around the lamp in a big circle. That's kind of like what the Earth does as it orbits the sun.
+
+As the Earth moves around the sun, different parts of the planet tilt towards or away from the sun's light. When the part of the Earth where you live is tilted towards the sun, you get more sunlight and warmth, and that's why we have summer. When it's tilted away from the sun, you get less sunlight and it's colder, and that's why we have winter.
+
+In the spring and fall, the Earth is tilted just right, so we get a mix of sunlight and cooler temperatures. It's like the Earth is giving us a big hug with just the right amount of sunshine and warmth.
+
+So, that's why we have seasons! It's all about the Earth's movement around the sun and how it affects the amount of sunlight we get.
+
+P.S. Did you know that the Earth takes 365.25 days to complete one full circle around the sun? That's why we have a leap year every four years, to make sure our calendar stays in sync with the Earth's journey around the sun!","[{""constraint_id"": ""detectable_content:postscript"", ""passed"": true}]"
+227,original,1,1,100.0,1,"My answer is maybe.
+
+While there can be some variation in size, the typical size of a Golden Retriever and a Poodle can vary depending on the specific type of Poodle.
+
+On average, a Golden Retriever typically weighs between 55-75 pounds (25-34 kg) and stands between 20-24 inches (51-61 cm) tall at the shoulder.
+
+Poodles come in three sizes: Toy, Miniature, and Standard. A Standard Poodle is generally similar in size to a Golden Retriever, weighing between 40-70 pounds (18-32 kg) and standing between 15-20 inches (38-51 cm) tall at the shoulder. However, a Miniature Poodle is smaller, weighing between 10-15 pounds (5-7 kg) and standing between 11-14 inches (28-35 cm) tall at the shoulder.
+
+So, without knowing the specific size of your Poodle, it's difficult to say for sure whether it's bigger or smaller than your Golden Retriever.","[{""constraint_id"": ""detectable_format:constrained_response"", ""passed"": true}]"

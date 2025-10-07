@@ -1,0 +1,1864 @@
+[
+  {
+    "original_text": "Kathy paid Jane to leave but she returned several weeks later.",
+    "original_candidates": [
+      "Kathy",
+      "Jane"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Kathy paid Jane to leave but she did not return several weeks later.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Kathy",
+      "Jane"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 991
+  },
+  {
+    "original_text": "The program could successfully parse the file because it was programmed well.",
+    "original_candidates": [
+      "The program",
+      "the file"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "The program could not successfully parse the file because it was programmed well.",
+    "type": "verbal",
+    "modified_candidates": [
+      "The program",
+      "the file"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 330
+  },
+  {
+    "original_text": "Clark proposed to Albert but he turned him down, saying he was too set in his ways.",
+    "original_candidates": [
+      "Clark",
+      "Albert"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Clark proposed to Albert but he did not turn him down, saying he was too set in his ways.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Clark",
+      "Albert"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1483
+  },
+  {
+    "original_text": "Elmeida nearly assassinated Hyrum, but Noa intervened to save his life.",
+    "original_candidates": [
+      "Elmeida",
+      "Hyrum"
+    ],
+    "original_pronoun": "his",
+    "original_label": 1,
+    "modified_text": "Elmeida nearly assassinated Hyrum, but Noa did not intervene to save his life.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Elmeida",
+      "Hyrum"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1433
+  },
+  {
+    "original_text": "Lance tried to get back together with Bob, but his pride was hurt and he refused to take her back.",
+    "original_candidates": [
+      "Lance",
+      "Bob"
+    ],
+    "original_pronoun": "his",
+    "original_label": 1,
+    "modified_text": "Lance tried to get back together with Bob, but his pride was intact and he refused to take her back.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Lance",
+      "Bob"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 185
+  },
+  {
+    "original_text": "The mother bear attacked Karen because she had gotten too close to her cub.",
+    "original_candidates": [
+      "The mother bear",
+      "Karen"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "The mother bear defended Karen because she had gotten too close to her cub.",
+    "type": "lexical",
+    "modified_candidates": [
+      "The mother bear",
+      "Karen"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1400
+  },
+  {
+    "original_text": "Cosby supported Jay because Thea really liked him.",
+    "original_candidates": [
+      "Cosby",
+      "Jay"
+    ],
+    "original_pronoun": "him",
+    "original_label": 1,
+    "modified_text": "Cosby opposed Jay because Thea really liked him.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Cosby",
+      "Jay"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 828
+  },
+  {
+    "original_text": "Dan walks away from Samuel and he tries running after him, but he trips and falls.",
+    "original_candidates": [
+      "Dan",
+      "Samuel"
+    ],
+    "original_pronoun": "him",
+    "original_label": 0,
+    "modified_text": "Dan walks away from Samuel and he tries running after him, but he stumbles and falls.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Dan",
+      "Samuel"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 285
+  },
+  {
+    "original_text": "Someone hit Billy in the face because he was being rude.",
+    "original_candidates": [
+      "Someone",
+      "Billy"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Someone hit Billy in the face because he was being polite.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Someone",
+      "Billy"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 791
+  },
+  {
+    "original_text": "The board of directors reviewed the findings of the scientists to determine funding, so they need to present their findings in a way that can attract more money.",
+    "original_candidates": [
+      "The board of directors",
+      "the scientists"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The board of directors ignored the findings of the scientists to determine funding, so they need to present their findings in a way that can attract more money.",
+    "type": "lexical",
+    "modified_candidates": [
+      "The board of directors",
+      "the scientists"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 18
+  },
+  {
+    "original_text": "Nonetheless, Harry remains with Rob until the night he learns that he had a fling with his high school nemesis, Ronnie Harrison.",
+    "original_candidates": [
+      "Rob",
+      "Harry"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Nonetheless, Harry remains with Rob until the night he learns that he had a dispute instead of a fling with his high school nemesis, Ronnie Harrison.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Rob",
+      "Harry"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 502
+  },
+  {
+    "original_text": "The car passed the truck because it was going too slow.",
+    "original_candidates": [
+      "The car",
+      "the truck"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "The car didn't not pass the truck because it was going too slow.",
+    "type": "double",
+    "modified_candidates": [
+      "The car",
+      "the truck"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 659
+  },
+  {
+    "original_text": "Mary likes Joe because she has a cool name.",
+    "original_candidates": [
+      "Mary",
+      "Joe"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Mary doesn't dislike Joe because she has a cool name.",
+    "type": "double",
+    "modified_candidates": [
+      "Mary",
+      "Joe"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1442
+  },
+  {
+    "original_text": "The skeleton was scarier than the pumpkin, because it was rather simplistic and orange.",
+    "original_candidates": [
+      "The skeleton",
+      "the pumpkin"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "The skeleton was not less scary than the pumpkin, because it was rather simplistic and orange.",
+    "type": "double",
+    "modified_candidates": [
+      "The skeleton",
+      "the pumpkin"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1292
+  },
+  {
+    "original_text": "Gennie becomes interested in Emma and is jealous when she starts seeing Chas.",
+    "original_candidates": [
+      "Gennie",
+      "Emma"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Gennie becomes interested in Emma and is not unjealous when she starts seeing Chas.",
+    "type": "double",
+    "modified_candidates": [
+      "Gennie",
+      "Emma"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 438
+  },
+  {
+    "original_text": "Gnumeric was created and developed by Miguel de Icaza, but he has since moved on to other projects.",
+    "original_candidates": [
+      "Gnumeric",
+      "Miguel de Icaza"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Gnumeric was created and developed by Miguel de Icaza, but he hasn't never moved on to other projects.",
+    "type": "double",
+    "modified_candidates": [
+      "Gnumeric",
+      "Miguel de Icaza"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 89
+  },
+  {
+    "original_text": "Samuel found out about Mark when his brother came to Japan.",
+    "original_candidates": [
+      "Samuel",
+      "Mark"
+    ],
+    "original_pronoun": "his",
+    "original_label": 1,
+    "modified_text": "Samuel didn't find out nothing about Mark when his brother came to Japan.",
+    "type": "double",
+    "modified_candidates": [
+      "Samuel",
+      "Mark"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 768
+  },
+  {
+    "original_text": "Narendran wants to get Ramu married to Leela but she is turned off by his cowardice.",
+    "original_candidates": [
+      "Narendran",
+      "Ramu"
+    ],
+    "original_pronoun": "his",
+    "original_label": 0,
+    "modified_text": "Narendran wants to get Ramu married to Leela but she is not turned off by his lack of cowardice.",
+    "type": "double",
+    "modified_candidates": [
+      "Narendran",
+      "Ramu"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1469
+  },
+  {
+    "original_text": "Chris then breaks up with Anthony again after he realizes that he is not who he wants.",
+    "original_candidates": [
+      "Chris",
+      "Anthony"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Chris then seldom breaks up with Anthony again after he realizes that he is not who he wants.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Chris",
+      "Anthony"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1191
+  },
+  {
+    "original_text": "Bob can beat Larry at arm wrestling because he has more muscles.",
+    "original_candidates": [
+      "Bob",
+      "Larry"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Bob can barely beat Larry at arm wrestling because he has more muscles.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Bob",
+      "Larry"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1423
+  },
+  {
+    "original_text": "The humans were afraid of the robots because they were weak.",
+    "original_candidates": [
+      "The humans",
+      "the robots"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The humans were seldom afraid of the robots because they were weak.",
+    "type": "approximate",
+    "modified_candidates": [
+      "The humans",
+      "the robots"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1424
+  },
+  {
+    "original_text": "The student wanted to ask the professor for help but decided not to because he was too intimidating.",
+    "original_candidates": [
+      "The student",
+      "the professor"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "The student wanted to ask the professor for help but decided not to because he was rarely available.",
+    "type": "approximate",
+    "modified_candidates": [
+      "The student",
+      "the professor"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1393
+  },
+  {
+    "original_text": "Madison has a short attraction to Matilda but she rebuffs her.",
+    "original_candidates": [
+      "Madison",
+      "Matilda"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Madison has a short attraction to Matilda but she rarely rebuffs her.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Madison",
+      "Matilda"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1056
+  },
+  {
+    "original_text": "Juan Pablo is forced to save Greenlee when an Argentinian gang targets him and Carlos.",
+    "original_candidates": [
+      "Greenlee",
+      "Juan Pablo"
+    ],
+    "original_pronoun": "him",
+    "original_label": 0,
+    "modified_text": "Juan Pablo is forced to save Greenlee when no Argentinian gang targets him and Carlos.",
+    "type": "absolute",
+    "modified_candidates": [
+      "Greenlee",
+      "Juan Pablo"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 305
+  },
+  {
+    "original_text": "AMD recently managed to break a record in the New Guiness Book of Records, so they immortalized them in their record keeping.",
+    "original_candidates": [
+      "AMD",
+      "the New Guiness Book of Records"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "AMD recently managed to miss a record in the New Guiness Book of Records, so they immortalized them in their record keeping.",
+    "type": "lexical",
+    "modified_candidates": [
+      "AMD",
+      "the New Guiness Book of Records"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 989
+  },
+  {
+    "original_text": "The people protested the government because they were raising taxes.",
+    "original_candidates": [
+      "The people",
+      "the government"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The people protested the government because they rarely were raising taxes.",
+    "type": "approximate",
+    "modified_candidates": [
+      "The people",
+      "the government"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1414
+  },
+  {
+    "original_text": "The bat hit the ball because it was designed to be hit.",
+    "original_candidates": [
+      "The bat",
+      "the ball"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "The bat seldom hit the ball because it was designed to be hit.",
+    "type": "approximate",
+    "modified_candidates": [
+      "The bat",
+      "the ball"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1047
+  },
+  {
+    "original_text": "The car passed the truck because it was going too slow.",
+    "original_candidates": [
+      "The car",
+      "the truck"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "The car passed the truck because it was stationary.",
+    "type": "lexical",
+    "modified_candidates": [
+      "The car",
+      "the truck"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 659
+  },
+  {
+    "original_text": "John goes out to kill Tony, but he ambushes and bites him.",
+    "original_candidates": [
+      "John",
+      "Tony"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "John goes out to kill Tony, but he ambushes and kisses him.",
+    "type": "lexical",
+    "modified_candidates": [
+      "John",
+      "Tony"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 232
+  },
+  {
+    "original_text": "Bob can beat Larry at arm wrestling because he has more muscles.",
+    "original_candidates": [
+      "Bob",
+      "Larry"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Bob can lose to Larry at arm wrestling because he has more muscles.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Bob",
+      "Larry"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1423
+  },
+  {
+    "original_text": "The Samurais respected honor while pirates have a disregard for honor, since they are only interested in increasing their wealth.",
+    "original_candidates": [
+      "The Samurais",
+      "pirates"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The Samurais respected honor while pirates rarely have a disregard for honor, since they are only interested in increasing their wealth.",
+    "type": "approximate",
+    "modified_candidates": [
+      "The Samurais",
+      "pirates"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 631
+  },
+  {
+    "original_text": "Likewise now, Nisha was forced to give the ring to Khimya, or she would have killed her brother.",
+    "original_candidates": [
+      "Khimya",
+      "Nisha"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Likewise now, Nisha was forced to give the ring to Khimya, or she would have spared her brother.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Khimya",
+      "Nisha"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 794
+  },
+  {
+    "original_text": "John fired Bill because he was incompetent.",
+    "original_candidates": [
+      "John",
+      "Bill"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "John seldom fired Bill because he was incompetent.",
+    "type": "approximate",
+    "modified_candidates": [
+      "John",
+      "Bill"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1095
+  },
+  {
+    "original_text": "Nolan makes a move on Tom but he swears he does not want anything more and tells him he loves his wife.",
+    "original_candidates": [
+      "Nolan",
+      "Tom"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Nolan barely makes a move on Tom but he swears he does not want anything more and tells him he loves his wife.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Nolan",
+      "Tom"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 821
+  },
+  {
+    "original_text": "John fired Bill because he was incompetent.",
+    "original_candidates": [
+      "John",
+      "Bill"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "John hired Bill because he was incompetent.",
+    "type": "lexical",
+    "modified_candidates": [
+      "John",
+      "Bill"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1095
+  },
+  {
+    "original_text": "Rebecca kissed Dina because she is a sweet girl.",
+    "original_candidates": [
+      "Rebecca",
+      "Dina"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Rebecca did not kiss Dina because she is a sweet girl.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Rebecca",
+      "Dina"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 120
+  },
+  {
+    "original_text": "Joe raced against Steven because he would not say no.",
+    "original_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Joe raced against Steven because he would always say no.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1460
+  },
+  {
+    "original_text": "Tony helped Jeff because he needed help.",
+    "original_candidates": [
+      "Tony",
+      "Jeff"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Tony rarely helped Jeff because he needed help.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Tony",
+      "Jeff"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1298
+  },
+  {
+    "original_text": "The racquetball players were annoyed by the other students in the activity center because they were using the racquetball courts to play badminton.",
+    "original_candidates": [
+      "The racquetball players",
+      "the other students"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The racquetball players were seldom annoyed by the other students in the activity center because they were using the racquetball courts to play badminton.",
+    "type": "approximate",
+    "modified_candidates": [
+      "The racquetball players",
+      "the other students"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 393
+  },
+  {
+    "original_text": "Harry is angry with Ron at first but then he reconciles with him.",
+    "original_candidates": [
+      "Harry",
+      "Ron"
+    ],
+    "original_pronoun": "him",
+    "original_label": 1,
+    "modified_text": "Harry is angry with Ron at first but then he rarely reconciles with him.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Harry",
+      "Ron"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1312
+  },
+  {
+    "original_text": "Joe raced against Steven because he would not say no.",
+    "original_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Joe did not race against Steven because he would not say no.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1460
+  },
+  {
+    "original_text": "James tries hard to seduce Wallace without magic, but though he is strongly attracted to him, he refuses to put off his marriage.",
+    "original_candidates": [
+      "James",
+      "Wallace"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "James tries hard to seduce Wallace without magic, but though he is strongly repelled by him, he refuses to put off his marriage.",
+    "type": "lexical",
+    "modified_candidates": [
+      "James",
+      "Wallace"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 536
+  },
+  {
+    "original_text": "Ginette wants to hug Susanna, but she notices that the tobacco smell comes from her clothes.",
+    "original_candidates": [
+      "Ginette",
+      "Susanna"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Ginette wants to hug Susanna, but she notices that the fresh scent comes from her clothes.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Ginette",
+      "Susanna"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 906
+  },
+  {
+    "original_text": "Sam arrives and tries to speak to Dom again, but he does not want to see him, and asks him to leave.",
+    "original_candidates": [
+      "Sam",
+      "Dom"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Sam arrives and tries to speak to Dom again, but he does not want to see him, and asks him to stay.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Sam",
+      "Dom"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 236
+  },
+  {
+    "original_text": "Paul tries to comfort Zack, but he rejects him and heads back to base with the intent to DOR himself.",
+    "original_candidates": [
+      "Paul",
+      "Zack"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Paul tries to comfort Zack, but he rarely rejects him and heads back to base with the intent to DOR himself.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Paul",
+      "Zack"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 718
+  },
+  {
+    "original_text": "Cathy realizes that Heather has overheard, so she is overcome by guilt and she runs out after her into a raging storm.",
+    "original_candidates": [
+      "Cathy",
+      "Heather"
+    ],
+    "original_pronoun": "her",
+    "original_label": 1,
+    "modified_text": "Cathy realizes that Heather has overheard, so she is barely overcome by guilt and she runs out after her into a raging storm.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Cathy",
+      "Heather"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 55
+  },
+  {
+    "original_text": "Brady Hoke succeeded Rodriguez, but after four years of steadily declining results, he was dismissed following his fourth season.",
+    "original_candidates": [
+      "Rodriguez",
+      "Brady Hoke"
+    ],
+    "original_pronoun": "his",
+    "original_label": 1,
+    "modified_text": "Brady Hoke succeeded Rodriguez, but after four years of steadily declining results, he was seldom dismissed following his fourth season.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Rodriguez",
+      "Brady Hoke"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 50
+  },
+  {
+    "original_text": "While Mark deliberates whether to trust Dimble, he is found by police and arrested for Hingest's murder.",
+    "original_candidates": [
+      "Mark",
+      "Dimble"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "While Mark deliberates whether to trust Dimble, he is not found by police and not arrested for Hingest's murder.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Mark",
+      "Dimble"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 534
+  },
+  {
+    "original_text": "The humans were afraid of the robots because they were weak.",
+    "original_candidates": [
+      "The humans",
+      "the robots"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The humans were afraid of none of the robots because they were weak.",
+    "type": "absolute",
+    "modified_candidates": [
+      "The humans",
+      "none of the robots"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1424
+  },
+  {
+    "original_text": "Jason built Rocky a robot, so he had more free time.",
+    "original_candidates": [
+      "Jason",
+      "Rocky"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Jason rarely built Rocky a robot, so he had more free time.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Jason",
+      "Rocky"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 73
+  },
+  {
+    "original_text": "George scored against Thomas in the shootout, so he lost the game.",
+    "original_candidates": [
+      "George",
+      "Thomas"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "George scored against Thomas in the shootout, so he didn't not lose the game.",
+    "type": "double",
+    "modified_candidates": [
+      "George",
+      "Thomas"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 747
+  },
+  {
+    "original_text": "Some actors choose to perform their own stunts instead of using stunt doubles since they like to keep it as authentic as possible.",
+    "original_candidates": [
+      "Some actors",
+      "stunt doubles"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "Some actors choose to not perform their own stunts instead of not using stunt doubles since they like to keep it as authentic as possible.",
+    "type": "double",
+    "modified_candidates": [
+      "Some actors",
+      "stunt doubles"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 81
+  },
+  {
+    "original_text": "The committee increased the price of the tickets to the dance for the students, but they changed their decision later.",
+    "original_candidates": [
+      "The committee",
+      "the students"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The committee increased the price of the tickets to the dance for the students, but they rarely changed their decision later.",
+    "type": "approximate",
+    "modified_candidates": [
+      "The committee",
+      "the students"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1187
+  },
+  {
+    "original_text": "Nadja was given to Miss Applefield to raise when she was a baby, her only possession at the time being an elaborated heart-shaped brooch.",
+    "original_candidates": [
+      "Nadja",
+      "Miss Applefield"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Nadja was given to Miss Applefield to raise when she was a baby, her only possession at the time being a simple heart-shaped brooch.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Nadja",
+      "Miss Applefield"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1403
+  },
+  {
+    "original_text": "The committee increased the price of the tickets to the dance for the students, but they changed their decision later.",
+    "original_candidates": [
+      "The committee",
+      "the students"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The committee increased the price of the tickets to the dance for the students, but they didn't not change their decision later.",
+    "type": "double",
+    "modified_candidates": [
+      "The committee",
+      "the students"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1187
+  },
+  {
+    "original_text": "Joe crashed into Mike and he had to pay for the damage.",
+    "original_candidates": [
+      "Joe",
+      "Mike"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Joe crashed into Mike and he rarely had to pay for the damage.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Joe",
+      "Mike"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 117
+  },
+  {
+    "original_text": "The blimp hit the tree because it lost air.",
+    "original_candidates": [
+      "The blimp",
+      "the tree"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "The blimp hit the tree because it gained air.",
+    "type": "lexical",
+    "modified_candidates": [
+      "The blimp",
+      "the tree"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1500
+  },
+  {
+    "original_text": "Joe crashed into Mike and he had to pay for the damage.",
+    "original_candidates": [
+      "Joe",
+      "Mike"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Joe crashed into Mike and he didn't have to not pay for the damage.",
+    "type": "double",
+    "modified_candidates": [
+      "Joe",
+      "Mike"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 117
+  },
+  {
+    "original_text": "Ginette wants to hug Susanna, but she notices that the tobacco smell comes from her clothes.",
+    "original_candidates": [
+      "Ginette",
+      "Susanna"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Ginette wants to hug Susanna, but she does not notice that the tobacco smell comes from her clothes.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Ginette",
+      "Susanna"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 906
+  },
+  {
+    "original_text": "Dan walks away from Samuel and he tries running after him, but he trips and falls.",
+    "original_candidates": [
+      "Dan",
+      "Samuel"
+    ],
+    "original_pronoun": "him",
+    "original_label": 0,
+    "modified_text": "Dan walks away from Samuel and he barely tries running after him, but he trips and falls.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Dan",
+      "Samuel"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 285
+  },
+  {
+    "original_text": "The defending commander, Shi Kefa, was also executed by Qing after he refused to submit to his authority.",
+    "original_candidates": [
+      "The defending commander , Shi Kefa",
+      "Qing"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "The defending commander, Shi Kefa, was not executed by Qing after he refused to submit to his authority.",
+    "type": "verbal",
+    "modified_candidates": [
+      "The defending commander, Shi Kefa",
+      "Qing"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1172
+  },
+  {
+    "original_text": "Warren snuck Nige outside and said that if he ever saw him again he would kill him.",
+    "original_candidates": [
+      "Warren",
+      "Nige"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Warren snuck Nige outside and said that if he ever saw him again he would not kill him.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Warren",
+      "Nige"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1472
+  },
+  {
+    "original_text": "The defending commander, Shi Kefa, was also executed by Qing after he refused to submit to his authority.",
+    "original_candidates": [
+      "The defending commander , Shi Kefa",
+      "Qing"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "The defending commander, Shi Kefa, was also spared by Qing after he refused to submit to his authority.",
+    "type": "lexical",
+    "modified_candidates": [
+      "The defending commander, Shi Kefa",
+      "Qing"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1172
+  },
+  {
+    "original_text": "Joe smells better than Adam since he hardly ever showers.",
+    "original_candidates": [
+      "Joe",
+      "Adam"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Joe smells worse than Adam since he hardly ever showers.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Joe",
+      "Adam"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1329
+  },
+  {
+    "original_text": "Mary likes Joe because she likes females.",
+    "original_candidates": [
+      "Mary",
+      "Joe"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Mary doesn't not like Joe because she likes females.",
+    "type": "double",
+    "modified_candidates": [
+      "Mary",
+      "Joe"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 902
+  },
+  {
+    "original_text": "Planet 343's sandstorm forces the inhabitants underground because they have winds of upwards to 50 mph.",
+    "original_candidates": [
+      "Planet 343's sandstorm",
+      "the inhabitants"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "Planet 343's sandstorm forces no inhabitants underground because they have winds of upwards to 50 mph.",
+    "type": "absolute",
+    "modified_candidates": [
+      "Planet 343's sandstorm",
+      "no inhabitants"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 974
+  },
+  {
+    "original_text": "The doctor asks Bugs if he drank the potion ; he becomes insulted at the idea and leaves.",
+    "original_candidates": [
+      "Bugs",
+      "The doctor"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "The doctor asks Bugs if he barely drank the potion; he becomes insulted at the idea and leaves.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Bugs",
+      "The doctor"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 944
+  },
+  {
+    "original_text": "Kelly neglected to tell Katie that their rent was due, but she remembered that it was due on the first of every month.",
+    "original_candidates": [
+      "Kelly",
+      "Katie"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Kelly neglected to tell Katie that their rent was due, but she didn't not remember that it was due on the first of every month.",
+    "type": "double",
+    "modified_candidates": [
+      "Kelly",
+      "Katie"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 37
+  },
+  {
+    "original_text": "Lauren promises to support Tanya, but struggles to cope with her mother's illness.",
+    "original_candidates": [
+      "Lauren",
+      "Tanya"
+    ],
+    "original_pronoun": "her",
+    "original_label": 1,
+    "modified_text": "Lauren promises to support Tanya, but rarely struggles to cope with her mother's illness.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Lauren",
+      "Tanya"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 155
+  },
+  {
+    "original_text": "Megan accidentally fires a shot that injures Barbara, but she shoots Larry dead.",
+    "original_candidates": [
+      "Megan",
+      "Barbara"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Megan accidentally fires a shot that injures Barbara, but she shoots nobody dead.",
+    "type": "absolute",
+    "modified_candidates": [
+      "Megan",
+      "Barbara"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1499
+  },
+  {
+    "original_text": "The professor gave the student a bad grade because he was strict.",
+    "original_candidates": [
+      "The professor",
+      "the student"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "The professor rarely gave the student a bad grade because he was strict.",
+    "type": "approximate",
+    "modified_candidates": [
+      "The professor",
+      "the student"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 558
+  },
+  {
+    "original_text": "Theresa almost admits to killing Stephanie, but stops when Logan tells her he is a police officer.",
+    "original_candidates": [
+      "Theresa",
+      "Stephanie"
+    ],
+    "original_pronoun": "her",
+    "original_label": 0,
+    "modified_text": "Theresa almost admits to sparing Stephanie, but stops when Logan tells her he is a police officer.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Theresa",
+      "Stephanie"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1339
+  },
+  {
+    "original_text": "Jason built Rocky a robot, and he gave it to him.",
+    "original_candidates": [
+      "Jason",
+      "Rocky"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Jason built Rocky a robot, and he gave it to nobody.",
+    "type": "absolute",
+    "modified_candidates": [
+      "Jason",
+      "Rocky"
+    ],
+    "modified_pronoun": "nobody",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1007
+  },
+  {
+    "original_text": "The employer talked to the employee about being loyal to him.",
+    "original_candidates": [
+      "The employer",
+      "the employee"
+    ],
+    "original_pronoun": "him",
+    "original_label": 0,
+    "modified_text": "The employer talked to the employee about being unfaithful to him.",
+    "type": "lexical",
+    "modified_candidates": [
+      "The employer",
+      "the employee"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 123
+  },
+  {
+    "original_text": "The U.S.S Enterprise tried to assist a sister ship, but they arrived too late to save them.",
+    "original_candidates": [
+      "The U.S.S Enterprise",
+      "a sister ship"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The U.S.S Enterprise tried to assist a sister ship, but they did not arrive in time to save them.",
+    "type": "verbal",
+    "modified_candidates": [
+      "The U.S.S Enterprise",
+      "a sister ship"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1177
+  },
+  {
+    "original_text": "The bat hit the ball because it flew in the way of the trajectory.",
+    "original_candidates": [
+      "The bat",
+      "the ball"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "The bat seldom hit the ball because it flew in the way of the trajectory.",
+    "type": "approximate",
+    "modified_candidates": [
+      "The bat",
+      "the ball"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 986
+  },
+  {
+    "original_text": "Megan accidentally fires a shot that injures Barbara, but she shoots Larry dead.",
+    "original_candidates": [
+      "Megan",
+      "Barbara"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Megan accidentally fires a shot that injures Barbara, but she does not shoot Larry dead.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Megan",
+      "Barbara"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1499
+  },
+  {
+    "original_text": "Joe raced against Steven because he thought it would be easy.",
+    "original_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Joe raced against Steven because he didn't think it wouldn't be easy.",
+    "type": "double",
+    "modified_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1164
+  },
+  {
+    "original_text": "Hallums did not appeal to American President Bush to help earn his release.",
+    "original_candidates": [
+      "Hallums",
+      "American President Bush"
+    ],
+    "original_pronoun": "his",
+    "original_label": 0,
+    "modified_text": "Hallums barely appealed to American President Bush to help earn his release.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Hallums",
+      "American President Bush"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 670
+  },
+  {
+    "original_text": "Rice beat Texas, even though they were the best team in the nation.",
+    "original_candidates": [
+      "Rice",
+      "Texas"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "Rice did not beat Texas, even though they were the best team in the nation.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Rice",
+      "Texas"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 671
+  },
+  {
+    "original_text": "Warren snuck Nige outside and said that if he ever saw him again he would kill him.",
+    "original_candidates": [
+      "Warren",
+      "Nige"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Warren snuck Nige outside and said that if he ever saw him again he would kill nobody.",
+    "type": "absolute",
+    "modified_candidates": [
+      "Warren",
+      "Nige"
+    ],
+    "modified_pronoun": "nobody",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1472
+  },
+  {
+    "original_text": "The wolves chased the deer because they were prey.",
+    "original_candidates": [
+      "The wolves",
+      "the deer"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The wolves chased neither of the deer because they were prey.",
+    "type": "absolute",
+    "modified_candidates": [
+      "The wolves",
+      "the deer"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 679
+  },
+  {
+    "original_text": "The light hit the mirror and it reflected.",
+    "original_candidates": [
+      "The light",
+      "the mirror"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "The light hit the mirror and it barely reflected.",
+    "type": "approximate",
+    "modified_candidates": [
+      "The light",
+      "the mirror"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 758
+  },
+  {
+    "original_text": "Kelly neglected to tell Katie that their rent was due, but she told her later.",
+    "original_candidates": [
+      "Kelly",
+      "Katie"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Kelly seldom neglected to tell Katie that their rent was due, but she told her later.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Kelly",
+      "Katie"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 195
+  },
+  {
+    "original_text": "Tony helped Jeff because he needed help.",
+    "original_candidates": [
+      "Tony",
+      "Jeff"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Tony did not help Jeff because he needed help.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Tony",
+      "Jeff"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1298
+  },
+  {
+    "original_text": "Rice beat Texas, even though they were a smaller school.",
+    "original_candidates": [
+      "Rice",
+      "Texas"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "Rice seldom beat Texas, even though they were a smaller school.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Rice",
+      "Texas"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 658
+  },
+  {
+    "original_text": "Josie did not like Sarah, but she did not tell her.",
+    "original_candidates": [
+      "Josie",
+      "Sarah"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Josie did not like Sarah, but she did not conceal it from her.",
+    "type": "lexical",
+    "modified_candidates": [
+      "Josie",
+      "Sarah"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 315
+  },
+  {
+    "original_text": "Trotsky refused to support Lenin since he was waiting to see whether German workers would rebel and whether German soldiers would refuse to follow orders.",
+    "original_candidates": [
+      "Trotsky",
+      "Lenin"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Trotsky rarely refused to support Lenin since he was waiting to see whether few German workers would rebel and whether German soldiers would refuse to follow orders.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Trotsky",
+      "Lenin"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 894
+  },
+  {
+    "original_text": "Mary likes Joe because she likes females.",
+    "original_candidates": [
+      "Mary",
+      "Joe"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Mary likes nobody because she likes females.",
+    "type": "absolute",
+    "modified_candidates": [
+      "Mary",
+      "nobody"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 902
+  },
+  {
+    "original_text": "Steven Seagal challenged Jean Claude Van Damme to a fight because he wanted to prove he was the stronger man.",
+    "original_candidates": [
+      "Steven Seagal",
+      "Jean Claude Van Damme"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Steven Seagal did not challenge Jean Claude Van Damme to a fight because he wanted to prove he was the stronger man.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Steven Seagal",
+      "Jean Claude Van Damme"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1104
+  },
+  {
+    "original_text": "The general fired his pistol at the monster so he could be a distraction.",
+    "original_candidates": [
+      "The general",
+      "the monster"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "The general rarely fired his pistol at the monster so he could be a distraction.",
+    "type": "approximate",
+    "modified_candidates": [
+      "The general",
+      "the monster"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1515
+  },
+  {
+    "original_text": "The keys typed the words because they were meant to be typed on.",
+    "original_candidates": [
+      "The keys",
+      "the words"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The keys didn't not type the words because they were meant to be typed on.",
+    "type": "double",
+    "modified_candidates": [
+      "The keys",
+      "the words"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1044
+  },
+  {
+    "original_text": "Jason built Rocky a robot, and he gave it to him.",
+    "original_candidates": [
+      "Jason",
+      "Rocky"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Jason built Rocky a robot, and he did not give it to him.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Jason",
+      "Rocky"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 1007
+  },
+  {
+    "original_text": "Since the linesmen are relatively far away from the referees, they are also responsible for observing the sidelines on their side of the field.",
+    "original_candidates": [
+      "the linesmen",
+      "the referees"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "Since the linesmen are relatively far away from the referees, they are not also responsible for observing the sidelines on their side of the field.",
+    "type": "verbal",
+    "modified_candidates": [
+      "the linesmen",
+      "the referees"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 837
+  },
+  {
+    "original_text": "Mary likes Joe because she has a cool name.",
+    "original_candidates": [
+      "Mary",
+      "Joe"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Mary does not like Joe because she has a cool name.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Mary",
+      "Joe"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "test": "negation",
+    "index": 1442
+  },
+  {
+    "original_text": "The clown smiled at the child and he offered him a balloon.",
+    "original_candidates": [
+      "The clown",
+      "the child"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "The clown smiled at the child and he did not offer him a balloon.",
+    "type": "verbal",
+    "modified_candidates": [
+      "The clown",
+      "the child"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 846
+  },
+  {
+    "original_text": "Jubilant, Gandhi tries to reach Ram Mohan Rao, but realizes that he is leaving the country with his daughter.",
+    "original_candidates": [
+      "Ram Mohan Rao",
+      "Gandhi"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Jubilant, Gandhi tries to reach Ram Mohan Rao, but realizes that he is rarely leaving the country with his daughter.",
+    "type": "approximate",
+    "modified_candidates": [
+      "Ram Mohan Rao",
+      "Gandhi"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 396
+  },
+  {
+    "original_text": "Tina is scared, but Emma comes after her and protects herself with a gun.",
+    "original_candidates": [
+      "Tina",
+      "Emma"
+    ],
+    "original_pronoun": "her",
+    "original_label": 0,
+    "modified_text": "Tina is scared, but Emma does not come after her and protects herself with a gun.",
+    "type": "verbal",
+    "modified_candidates": [
+      "Tina",
+      "Emma"
+    ],
+    "modified_pronoun": "herself",
+    "modified_label": 0,
+    "test": "negation",
+    "index": 887
+  }
+]

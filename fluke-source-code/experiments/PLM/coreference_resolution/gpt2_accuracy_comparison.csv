@@ -1,0 +1,18 @@
+file,accuracy (ori),accuracy (ood)
+casual_100,0.470,0.380
+discourse_100,0.405,0.429
+compound_word_100,0.458,0.396
+temporal_bias_100,0.440,0.460
+coordinating_conjunction_100,0.402,0.433
+capitalization_100,0.474,0.500
+dialectal_100,0.511,0.443
+sentiment_100,0.512,0.453
+grammatical_role_100,0.512,0.488
+length_bias_100,0.477,0.420
+concept_replacement_100,0.325,0.506
+typo_bias_100,0.397,0.353
+geographical_bias_100,0.487,0.500
+punctuation_100,0.414,0.483
+derivation_100,0.540,0.330
+active_to_passive_100,0.432,0.379
+negation_100,0.439,0.476

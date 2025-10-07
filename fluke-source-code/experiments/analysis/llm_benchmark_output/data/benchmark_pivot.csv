@@ -1,0 +1,10 @@
+model,3-5-sonnet-cot-sst2,8x22b-cot-sst2,8x22b-sst2,coref,cot-coref,cot-coref-active_to_passive,cot-coref-casual,cot-coref_capitalization,cot-coref_punctuation,cot-coref_typo_bias,cot-dialogue,cot-dialogue_capitalization,cot-dialogue_punctuation,cot-dialogue_typo_bias,cot-sst2,cot-sst2_capitalization,cot-sst2_punctuation,cot-sst2_typo_bias,dialogue,ner,sst2,sst2_capitalization,sst2_punctuation,sst2_typo_bias,Average
+llama3_405B,,,,,,,,,,,,,,,,,,,,,85.89,,,,85.89
+deepseek-r1,,,,81.48,,,,,,,,,,,,,,,,,,,,,81.48
+mixtral,,88.53,83.37,61.02,0.0,,,,,,88.41,,,,,,,,85.89,,94.38,,,,71.66
+gpt-5,,,,82.93,,,,,,,,,,,,,,,93.31,8.03,95.07,,,,69.84
+llama,,,,0.0,,,,,,,,,,,,,,,91.72,6.77,95.53,,,,48.5
+claude,0.0,,,78.84,0.0,,,,,,0.0,,,,,,,,94.83,8.37,91.51,,,,39.08
+gpt4o,,,,73.47,78.19,64.46,70.2,0.0,0.0,0.0,90.73,0.0,0.0,0.0,87.16,0.0,0.0,0.0,93.12,7.97,93.69,0.0,0.0,0.0,31.38
+llama3.1_70b,,,,,,,,,,,,,,,,,,,,,0.0,,,,0.0
+llama3.1_8B,,,,,,,,,,,,,,,,,,,,,0.0,,,,0.0

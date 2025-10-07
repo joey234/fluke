@@ -1,0 +1,2915 @@
+[
+  {
+    "original_text": "The Rake's Progress is a 1945 British comedy-drama film.",
+    "type": "casual",
+    "modified_text": "'The Rake's Progress' is a '45 British comedy-drama flick.",
+    "Rationale": "To make the sentence informal, '1945' was contracted to ''45', and 'film' was changed to the more colloquial 'flick'. The label for 'British' was corrected from 'LOCATION' to 'NATIONALITY' as it refers to the nationality associated with the film, not a location.",
+    "label": "empty",
+    "original_label": [
+      {
+        "The Rake's Progress": "ART"
+      },
+      {
+        "British": "NATIONALITY"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "The Rake's Progress",
+        "value": "ART"
+      },
+      {
+        "text": "British",
+        "value": "NATIONALITY"
+      }
+    ]
+  },
+  {
+    "original_text": "It was previously used by Route 410 to Rehovot, and was known as the Jumping Bridge due to a bump in the middle of the bridge which caused cars to jump if speeding.",
+    "type": "casual",
+    "modified_text": "Route 410 used to take you to Rehovot over the Jumping Bridge, which got its name 'cause there's this bump that makes your car leap if you're going too fast.",
+    "Rationale": "The sentence has been rephrased to sound more conversational and informal while retaining the original meaning and entities. The phrase 'It was previously used by' has been changed to 'used to take you to' to make it sound more direct and personal. The formal phrase 'was known as' has been replaced with 'which got its name' to maintain an informal tone. The clause 'due to a bump in the middle of the bridge which caused cars to jump if speeding' has been simplified to 'cause there's this bump that makes your car leap if you're going too fast' to make it sound more colloquial.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Route 410": "LOCATION"
+      },
+      {
+        "Rehovot": "LOCATION"
+      },
+      {
+        "Jumping Bridge": "BUILDING"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Route 410",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rehovot",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Jumping Bridge",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "original_text": "Elin Hilderbrand is an American writer mostly of romance novels.",
+    "type": "casual",
+    "modified_text": "Elin Hilderbrand's an American who writes a lot of romance novels.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using a contraction ('Hilderbrand's) and a more conversational structure ('writes a lot of'). Additionally, the label for 'American' has been corrected from 'LOCATION' to 'NATIONALITY' to accurately reflect the entity.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Elin Hilderbrand": "PERSON"
+      },
+      {
+        "American": "NATIONALITY"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Elin Hilderbrand",
+        "value": "PERSON"
+      },
+      {
+        "text": "American",
+        "value": "NATIONALITY"
+      }
+    ]
+  },
+  {
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "type": "casual",
+    "modified_text": "Del Imaginario Discos from Argentina dropped the album back in 2007 too.",
+    "Rationale": "The modification changes the formal structure of the original sentence to a more informal one by using 'dropped' instead of 'released' and 'back in' to refer to the year casually. The word 'too' is used at the end of the sentence to maintain the informality and the original meaning of 'also'. The structure is rearranged to sound more conversational.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Argentina": "LOCATION"
+      },
+      {
+        "Del Imaginario Discos": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "type": "casual",
+    "modified_text": "Gonu brought a bunch of wild winds and a downpour all the way from Karachi to Gwadar along Pakistan's Arabian Sea coast.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using colloquial expressions such as 'a bunch of wild winds' instead of 'strong gusty winds' and 'a downpour' instead of 'torrential rainfall'. The structure of the sentence has also been slightly altered to maintain a natural conversational flow while keeping all entity names intact.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "The Germans then attacked again and penetrated C Company, but the tanks of the North Irish Horse stopped the Germans until dusk.",
+    "type": "casual",
+    "modified_text": "Then the Germans came at us again, breaking through C Company, but the North Irish Horse's tanks held them off till nightfall.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more informal one by using contractions ('till' instead of 'until'), colloquial expressions ('came at us' instead of 'attacked'), and less formal word choices ('nightfall' instead of 'dusk'). The entity names are kept intact, but the label for 'Germans' has been corrected to 'NATIONALITY' as it refers to a group of people rather than a location.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Germans": "NATIONALITY"
+      },
+      {
+        "C Company": "ORGANIZATION"
+      },
+      {
+        "North Irish Horse": "ORGANIZATION"
+      },
+      {
+        "Germans": "NATIONALITY"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Germans",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "C Company",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "North Irish Horse",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Germans",
+        "value": "NATIONALITY"
+      }
+    ]
+  },
+  {
+    "original_text": "Petit-de-Grat Island is a Canadian island off the coast of Cape Breton Island, in Richmond County, Nova Scotia.",
+    "type": "casual",
+    "modified_text": "Petit-de-Grat Island's this cool Canadian spot just off Cape Breton Island, right in Richmond County, Nova Scotia.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using conversational language ('this cool Canadian spot') and a more casual sentence structure, while preserving the original meaning and all entity names.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Petit-de-Grat Island": "LOCATION"
+      },
+      {
+        "Canadian": "NATIONALITY"
+      },
+      {
+        "Cape Breton Island": "LOCATION"
+      },
+      {
+        "Richmond County": "LOCATION"
+      },
+      {
+        "Nova Scotia": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Petit-de-Grat Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canadian",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "Cape Breton Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richmond County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Nova Scotia",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "It was founded as a spin-off of Murphy Oil in 2013.",
+    "type": "casual",
+    "modified_text": "It got started as a spin-off from Murphy Oil back in 2013.",
+    "Rationale": "The modification changes 'It was founded' to 'It got started' and 'of Murphy Oil' to 'from Murphy Oil' to reflect a more informal tone. The phrase 'back in' is also added before the year to enhance the informality of the sentence. The entity name 'Murphy Oil' remains unchanged to maintain the integrity of the named-entity recognition task.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Murphy Oil": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "Moreover, Santa is actually innocent of the crime, which was instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "type": "casual",
+    "modified_text": "Plus, Santa didn't do it, it was all Cousin Mel's sneaky plan. She's only mentioned for a sec in the song, but in the show, they make her out to be a total gold-digger.",
+    "Rationale": "The modification changes formal language to informal by using contractions ('didn't' instead of 'did not'), colloquial phrases ('Plus' instead of 'Moreover', 'it was all' instead of 'which was instead masterminded by', 'sneaky plan' instead of 'scheming', 'for a sec' instead of 'briefly'), and informal terms ('total gold-digger' instead of 'gold-digging villainness'). The entity names 'Santa' and 'Cousin Mel' are kept unchanged to maintain the integrity of the named-entity recognition task.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Santa": "PERSON"
+      },
+      {
+        "Cousin Mel": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Santa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Cousin Mel",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "Pune lost the match 1\u20133 with all three goals coming after Amrinder came on.",
+    "type": "casual",
+    "modified_text": "Pune got beat 1-3, and all three goals were scored after Amrinder joined in.",
+    "Rationale": "The modified sentence uses more informal language such as 'got beat' instead of 'lost' and 'joined in' instead of 'came on' to convey the same meaning in a less formal tone.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Pune": "ORGANIZATION"
+      },
+      {
+        "Amrinder": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Amrinder",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "type": "casual",
+    "modified_text": "At this fest, Siddhi jumped in and saved Vin from getting shot by Rudra.",
+    "Rationale": "The modification introduces informal language by using 'fest' instead of 'festival' and a more conversational structure with 'jumped in and saved' instead of 'saves ... from being shot at'. This maintains the original meaning while adjusting the formality level.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Siddhi": "PERSON"
+      },
+      {
+        "Vin": "PERSON"
+      },
+      {
+        "Rudra": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "type": "casual",
+    "modified_text": "Hunt's the rep for Omaha's 8th district, which includes the Dundee, Benson, and Keystone areas.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using contractions ('Hunt's' instead of 'Hunt represents'), colloquial language ('rep' instead of 'represents'), and less formal structure ('which includes' instead of 'consisting of'). The entity names remain unchanged to maintain the integrity of the named-entity recognition task.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Hunt": "PERSON"
+      },
+      {
+        "Omaha": "LOCATION"
+      },
+      {
+        "Dundee": "LOCATION"
+      },
+      {
+        "Benson": "LOCATION"
+      },
+      {
+        "Keystone": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "type": "casual",
+    "modified_text": "Golaem from France made it, they started up in Rennes back in 2009.",
+    "Rationale": "The modification changes the formal structure of the sentence to a more conversational tone by using contractions ('they're' instead of 'they are') and informal expressions ('made it' instead of 'developed by'). The entity names 'Golaem', 'France', and 'Rennes' are preserved, but the sentence structure is altered to sound more casual and natural in an informal setting.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "To further expand its readership, ``The Philippine Star`` entered into a partnership with fast food restaurant Jollibee in 2003 to become the first newspaper to be distributed free of charge in a fast food restaurant.",
+    "type": "casual",
+    "modified_text": "To get more readers, ``The Philippine Star`` teamed up with Jollibee back in 2003, making it the first newspaper you could grab for free at a fast food place.",
+    "Rationale": "The modification was made to create a more conversational tone. Phrases like 'entered into a partnership' were replaced with 'teamed up' and 'to be distributed free of charge' was changed to 'you could grab for free' to reflect a more informal way of speaking. The entity names 'The Philippine Star' and 'Jollibee' were kept intact to maintain the meaning and context of the sentence.",
+    "label": "empty",
+    "original_label": [
+      {
+        "The Philippine Star": "OTHER"
+      },
+      {
+        "Jollibee": "BUILDING"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "The Philippine Star",
+        "value": "OTHER"
+      },
+      {
+        "text": "Jollibee",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "original_text": "On the formation of the Residential Property Tribunal Service as a result of the Housing Act 2004 the rent assessment committees became part of that body for administrative purposes, and is therefore now called the First Tier Tribunal (Property Chamber - Residential Property).",
+    "type": "casual",
+    "modified_text": "When the Residential Property Tribunal Service got started because of the Housing Act 2004, the rent assessment committees joined up with it for admin stuff, so now it's known as the First Tier Tribunal (Property Chamber - Residential Property).",
+    "Rationale": "The modification changes the formal tone of the original text to an informal one by using contractions ('it's' instead of 'it is'), colloquial phrases ('got started' instead of 'formation', 'joined up with it' instead of 'became part of that body', 'admin stuff' instead of 'administrative purposes'), and a conversational style while preserving the original meaning and keeping all entity names intact.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Residential Property Tribunal Service": "ORGANIZATION"
+      },
+      {
+        "Housing Act 2004": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Residential Property Tribunal Service",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Housing Act 2004",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "original_text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "type": "casual",
+    "modified_text": "He's gotten noticed by big names like CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera, and Hi-Fructose Magazine.",
+    "Rationale": "The modification changes the formal tone of the original text to a more casual, informal one by using contractions ('He's' instead of 'He has') and colloquial expressions ('gotten noticed by big names' instead of 'caught the attention of major publications and media outlets'). The entity names remain unchanged to preserve the meaning and context.",
+    "label": "empty",
+    "original_label": [
+      {
+        "CNN": "ORGANIZATION"
+      },
+      {
+        "The Huffington Post": "ORGANIZATION"
+      },
+      {
+        "Hypebeast": "ORGANIZATION"
+      },
+      {
+        "The Guardian": "ORGANIZATION"
+      },
+      {
+        "Juxtapoz Magazine": "ORGANIZATION"
+      },
+      {
+        "Daily Mail, NRDC": "ORGANIZATION"
+      },
+      {
+        "Aljazeera": "ORGANIZATION"
+      },
+      {
+        "Hi-Fructose Magazine": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Huffington Post",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail, NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "It is an orthomyxovirus that contains the glycoproteins haemagglutinin and neuraminidase.",
+    "type": "casual",
+    "modified_text": "It's an orthomyxovirus with glycoproteins haemagglutinin and neuraminidase in it.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using a contraction ('It's' instead of 'It is') and a more conversational structure ('with ... in it' instead of 'that contains the ...'). The entity names remain unchanged to preserve the meaning and context.",
+    "label": "empty",
+    "original_label": [
+      {
+        "orthomyxovirus": "OTHER"
+      },
+      {
+        "glycoproteins haemagglutinin": "OTHER"
+      },
+      {
+        "neuraminidase": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "orthomyxovirus",
+        "value": "OTHER"
+      },
+      {
+        "text": "glycoproteins haemagglutinin",
+        "value": "OTHER"
+      },
+      {
+        "text": "neuraminidase",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "original_text": "More than 100 sellers from Deidesheim and the surrounding area run stalls, which must stylistically fit into the market's whole theme.",
+    "type": "casual",
+    "modified_text": "Over 100 folks from Deidesheim and nearby set up stalls that gotta blend in with the whole market vibe.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more informal one by using colloquial expressions such as 'folks' instead of 'sellers', 'gotta' instead of 'must', and 'whole market vibe' instead of 'market's whole theme'. The entity name 'Deidesheim' remains unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Deidesheim": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Deidesheim",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "The men's individual road race at the 1956 Summer Olympics in Melbourne, Australia, was held on Friday 7 December 1956.",
+    "type": "casual",
+    "modified_text": "The guys raced their bikes on the road at the '56 Summer Olympics in Melbourne, Australia, on Friday, December 7th, 1956.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more casual one by using 'the guys' instead of 'the men's individual', 'raced their bikes on the road' instead of 'road race', and adding a contraction '56 to denote the year, which is a common informal way to refer to dates. The date format was also changed to a more colloquial form 'December 7th'. All entity names are kept intact.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Summer Olympics": "EVENT"
+      },
+      {
+        "Melbourne": "LOCATION"
+      },
+      {
+        "Australia": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Summer Olympics",
+        "value": "EVENT"
+      },
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Australia",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "A German teacher for much of her life, MacKeith also advocated for peace during the Aldermaston Marches in the 1950s and demonstrations against the Vietnam War in Grosvenor Square in the 1960s.",
+    "type": "casual",
+    "modified_text": "MacKeith, who was a German teacher for ages, also pushed for peace at the Aldermaston Marches back in the '50s and protested the Vietnam War at Grosvenor Square in the '60s.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using contractions ('50s, '60s), colloquial expressions (pushed for peace), and less formal structure (omitting 'A' at the beginning, using 'who was' instead of 'teacher for much of her life'). The entity names remain unchanged to maintain the meaning and context of the sentence.",
+    "label": "empty",
+    "original_label": [
+      {
+        "German": "NATIONALITY"
+      },
+      {
+        "MacKeith": "PERSON"
+      },
+      {
+        "Aldermaston Marches": "EVENT"
+      },
+      {
+        "Vietnam War": "EVENT"
+      },
+      {
+        "Grosvenor Square": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "German",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "MacKeith",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aldermaston Marches",
+        "value": "EVENT"
+      },
+      {
+        "text": "Vietnam War",
+        "value": "EVENT"
+      },
+      {
+        "text": "Grosvenor Square",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "The album featured remixes of ``Like It or Not`` and ``Tearing Me Up`` from artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "type": "casual",
+    "modified_text": "The album's got some cool remixes of 'Like It or Not' and 'Tearing Me Up' by folks like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "Rationale": "The modification was made to transform the sentence into a more informal tone by using contractions ('album's got' instead of 'album featured'), colloquial language ('cool', 'folks'), and removing the quotation marks for a less formal presentation of the song titles.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Like It or Not": "WORK_OF_ART"
+      },
+      {
+        "Tearing Me Up": "WORK_OF_ART"
+      },
+      {
+        "A-Trak": "PERSON"
+      },
+      {
+        "RAC": "PERSON"
+      },
+      {
+        "Joris Voorn": "PERSON"
+      },
+      {
+        "Tale of Us": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Like It or Not",
+        "value": "WORK_OF_ART"
+      },
+      {
+        "text": "Tearing Me Up",
+        "value": "WORK_OF_ART"
+      },
+      {
+        "text": "A-Trak",
+        "value": "PERSON"
+      },
+      {
+        "text": "RAC",
+        "value": "PERSON"
+      },
+      {
+        "text": "Joris Voorn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tale of Us",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "From 1927 to 1944, he was on the books of the All-Union Communist Party (Bolsheviks), later known as the Communist Party of the Soviet Union.",
+    "type": "casual",
+    "modified_text": "From '27 to '44, he was with the All-Union Communist Party (Bolsheviks), which later became the Communist Party of the Soviet Union.",
+    "Rationale": "The modification was made to create an informal tone by using abbreviated years ('27 instead of 1927) and more conversational phrasing ('he was with' instead of 'he was on the books of'). The entity names were kept intact to maintain the meaning and context of the sentence.",
+    "label": "empty",
+    "original_label": [
+      {
+        "All-Union Communist Party": "ORGANIZATION"
+      },
+      {
+        "Bolsheviks": "ORGANIZATION"
+      },
+      {
+        "Communist Party of the Soviet Union": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "All-Union Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Bolsheviks",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Communist Party of the Soviet Union",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "type": "casual",
+    "modified_text": "Lawrence says she got cash, but Stephens says someone threatened his life.",
+    "Rationale": "The modification changes 'claims' to 'says' and 'was given' to 'got' to reflect a more informal tone. The conjunction 'whereas' is replaced with 'but' to maintain the informal tone. The phrase 'his life was threatened' is rephrased to 'someone threatened his life' to keep the sentence sounding natural in informal speech. The entity name 'Stephens' remains unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Stephens",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "The airport is located south southeast of the Nhulunbuy town centre, on Melville Road.",
+    "type": "casual",
+    "modified_text": "The airport's down south southeast from Nhulunbuy town center, right on Melville Road.",
+    "Rationale": "To make the sentence informal, 'is located' was changed to 'down' to give a more conversational tone. 'Town centre' was modified to 'town center' to align with informal American English spelling, and 'on' was kept before 'Melville Road' to maintain the meaning that the airport is situated on this road.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Nhulunbuy": "LOCATION"
+      },
+      {
+        "Melville Road": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Nhulunbuy",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Melville Road",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this obstacle to political change.",
+    "type": "casual",
+    "modified_text": "But in 1861, southern states thinking about splitting off after the 1860 presidential election got rid of that roadblock to political change.",
+    "Rationale": "The modification introduces informal language by replacing 'prospect of secession' with 'thinking about splitting off', 'removed' with 'got rid of', and 'obstacle' with 'roadblock'. The sentence structure is also slightly altered to sound more conversational.",
+    "label": "empty",
+    "original_label": [],
+    "modified_label": []
+  },
+  {
+    "original_text": "I, Max was a sports commentary show featuring host Max Kellerman and Michael Holley that aired nightly on Fox Sports Net.",
+    "type": "casual",
+    "modified_text": "I, Max was this cool sports talk show with Max Kellerman and Michael Holley, and it was on every night on Fox Sports Net.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using conversational words like 'cool', 'with', and 'it was on'. The structure 'featuring host' has been simplified to 'with' to match informal speech patterns. Additionally, 'aired nightly' has been changed to 'was on every night' to maintain the informal tone. All entity names have been preserved.",
+    "label": "empty",
+    "original_label": [
+      {
+        "I, Max": "ART"
+      },
+      {
+        "Max Kellerman": "PERSON"
+      },
+      {
+        "Michael Holley": "PERSON"
+      },
+      {
+        "Fox Sports Net": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "I, Max",
+        "value": "ART"
+      },
+      {
+        "text": "Max Kellerman",
+        "value": "PERSON"
+      },
+      {
+        "text": "Michael Holley",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fox Sports Net",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "type": "casual",
+    "modified_text": "Sometimes, they don't grill the eggplant, they just boil it, so it's softer and doesn't have that smoky taste like the usual recipe.",
+    "Rationale": "The modification introduces informal contractions ('they're' instead of 'they are') and colloquial language ('just boil it', 'doesn't have that smoky taste') to create a more casual tone while preserving the original meaning and keeping the entity name 'eggplant' unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "eggplant": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "eggplant",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "original_text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "type": "casual",
+    "modified_text": "Got a bunch of stuff here on sexual health issues dating back from '74 to 2007.",
+    "Rationale": "The modification introduces informal language by using 'Got a bunch of stuff here' instead of 'This collection contains material' and abbreviates the years for a more casual tone.",
+    "label": "empty",
+    "original_label": [],
+    "modified_label": []
+  },
+  {
+    "original_text": "Perhaps the best known Ward LaFrance product was the P-80 ``Ambassador'' model of pumper, one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program`` Emergency!",
+    "type": "casual",
+    "modified_text": "You know, the most famous thing Ward LaFrance made was that P-80 ``Ambassador'' pumper, and they even gave one away to be the pretend Los Angeles County Fire Department Engine 51 in the '70s show ``Emergency!",
+    "Rationale": "The modification was made to create a more informal tone. 'Perhaps' was changed to 'You know,' to sound more conversational. 'Best known' was changed to 'most famous' for a more colloquial expression. 'Donated as product placement by the company' was simplified to 'they even gave one away' to make it sound more casual. 'To be used as the fictional' was changed to 'to be the pretend' to maintain the informal tone. The phrase 'on the 1970s television program' was shortened to 'in the '70s show' for brevity and informality.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Ward LaFrance": "ORGANIZATION"
+      },
+      {
+        "P-80 ``Ambassador''": "PRODUCT"
+      },
+      {
+        "Los Angeles County Fire Department Engine 51": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Ward LaFrance",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P-80 ``Ambassador''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "``Patrick Morris`` sent out her own mayday call at 6:51 am and sank 35 minutes later.",
+    "type": "casual",
+    "modified_text": "``Patrick Morris`` shot out a mayday call at 6:51 in the morning and went down 35 minutes after.",
+    "Rationale": "The modification changes 'sent out' to 'shot out' and 'am' to 'in the morning' to give the sentence a more informal tone. The phrase 'sank 35 minutes later' is changed to 'went down 35 minutes after' to maintain the informal style while preserving the original meaning. All entity names remain unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Patrick Morris": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Patrick Morris",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "original_text": "Midway through the season, they traded Stacey King to the Minnesota Timberwolves for Luc Longley.",
+    "type": "casual",
+    "modified_text": "Halfway into the season, they swapped Stacey King for Luc Longley with the Minnesota Timberwolves.",
+    "Rationale": "The modification changes 'traded' to 'swapped' and restructures the sentence to maintain an informal tone while preserving the original meaning and keeping all entity names intact.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Stacey King": "PERSON"
+      },
+      {
+        "Minnesota Timberwolves": "ORGANIZATION"
+      },
+      {
+        "Luc Longley": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Stacey King",
+        "value": "PERSON"
+      },
+      {
+        "text": "Minnesota Timberwolves",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Luc Longley",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "In 2019 he got a ``cum laude'' PhD at Politecnico di Milano with the thesis:`` Hybrid Modular Architecture: a strategic framework of building innovation for emerging housing behaviors in urban contexts.",
+    "type": "casual",
+    "modified_text": "In 2019 he snagged his PhD with honors from Politecnico di Milano, working on the thesis 'Hybrid Modular Architecture: a strategic framework of building innovation for emerging housing behaviors in urban contexts'.",
+    "Rationale": "The modification changes the formal tone of the original text to a more casual one by using 'snagged' instead of 'got a ``cum laude''', which is a more informal way of saying he achieved his PhD with distinction. The quotation marks have been simplified to single quotes to match informal writing style. The sentence structure has been slightly altered to maintain grammatical correctness and natural flow in the informal context.",
+    "label": "empty",
+    "original_label": [
+      {
+        "PhD": "OTHER"
+      },
+      {
+        "Politecnico di Milano": "ORGANIZATION"
+      },
+      {
+        "Hybrid Modular Architecture: a strategic framework of building innovation for emerging housing behaviors in urban contexts": "ART"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "PhD",
+        "value": "OTHER"
+      },
+      {
+        "text": "Politecnico di Milano",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hybrid Modular Architecture: a strategic framework of building innovation for emerging housing behaviors in urban contexts",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "original_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "type": "casual",
+    "modified_text": "Dublin's got Weston Airport and some other small spots for choppers, plus the military and a few government services use Casement Aerodrome just around the corner.",
+    "Rationale": "The sentence has been rephrased to sound more informal while retaining the original meaning. 'Served by' was changed to 'got', 'facilities' to 'spots', 'range of helicopter operators' to 'spots for choppers', and 'nearby' to 'just around the corner'. The structure of the sentence was also altered to match informal spoken English.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Casement Aerodrome",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "original_text": "The 117-bed facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "type": "casual",
+    "modified_text": "The 117-bed place had only private rooms, and they all came with their own bathrooms.",
+    "Rationale": "The modification changes formal terms to more informal ones while maintaining the original meaning. 'Facility' is replaced with 'place', 'entirely comprised' is simplified to 'had only', and 'en-suite bathroom facilities' is changed to 'their own bathrooms' to reflect a more casual tone.",
+    "label": "empty",
+    "original_label": [],
+    "modified_label": []
+  },
+  {
+    "original_text": "She has also written fiction and her work has gained awards.",
+    "type": "casual",
+    "modified_text": "She's also penned some fiction and her stuff's won awards.",
+    "Rationale": "The modification introduces contractions ('She's' instead of 'She has', and 'stuff's' instead of 'her work has') and informal vocabulary ('penned' instead of 'written', 'stuff' instead of 'work') to create a more casual tone while retaining the original meaning and keeping all entity names unchanged.",
+    "label": "empty",
+    "original_label": [],
+    "modified_label": []
+  },
+  {
+    "original_text": "He was awarded the Distinguished Flying Cross during World War II for his service as a de Havilland Mosquito night-fighter pilot with the Royal Canadian Air Force, having destroyed four enemy aircraft, including the first Mistel composite ``piggyback'' aircraft.",
+    "type": "casual",
+    "modified_text": "He got the Distinguished Flying Cross in World War II for being an ace de Havilland Mosquito night-fighter pilot with the Royal Canadian Air Force, knocking out four enemy planes, including the first Mistel composite ``piggyback'' aircraft.",
+    "Rationale": "The modification changes the formal tone of the original text to a more casual one by using informal expressions such as 'got' instead of 'was awarded' and 'knocking out' instead of 'having destroyed'. The sentence structure is kept intact to preserve the meaning and all entity names are unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Distinguished Flying Cross": "OTHER"
+      },
+      {
+        "World War II": "EVENT"
+      },
+      {
+        "de Havilland Mosquito": "PRODUCT"
+      },
+      {
+        "Royal Canadian Air Force": "ORGANIZATION"
+      },
+      {
+        "Mistel composite ``piggyback'' aircraft": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Distinguished Flying Cross",
+        "value": "OTHER"
+      },
+      {
+        "text": "World War II",
+        "value": "EVENT"
+      },
+      {
+        "text": "de Havilland Mosquito",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Royal Canadian Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mistel composite ``piggyback'' aircraft",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "type": "casual",
+    "modified_text": "Glutamine synthetase takes ammonia from stuff like nitrate reduction, breaking down amino acids, and photorespiration.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more casual, informal one by using phrases like 'takes ammonia from stuff like' instead of 'uses ammonia produced by'. This maintains the original meaning while altering the formality level.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "original_text": "In 1863, he was the treasurer of the City of Denver and Arapahoe County.",
+    "type": "casual",
+    "modified_text": "Back in 1863, he handled the cash for the City of Denver and Arapahoe County.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more informal one by using 'handled the cash' instead of 'was the treasurer' and 'Back in 1863' instead of 'In 1863,' while keeping the meaning intact and preserving all entity names.",
+    "label": "empty",
+    "original_label": [
+      {
+        "City of Denver": "LOCATION"
+      },
+      {
+        "Arapahoe County": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "City of Denver",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Arapahoe County",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "He also appeared in and Raj Kanwar's action hit ``Jeet``.",
+    "type": "casual",
+    "modified_text": "He was also in Raj Kanwar's action-packed movie 'Jeet'.",
+    "Rationale": "The sentence has been rephrased to sound more informal by removing 'appeared' which is more formal and replacing it with 'was'. Additionally, 'action hit' has been changed to 'action-packed movie' to maintain an informal tone while keeping the meaning intact. Quotation marks have been simplified for informality.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Raj Kanwar": "PERSON"
+      },
+      {
+        "Jeet": "ART"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Raj Kanwar",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jeet",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "original_text": "The basis of the column is orientated northwest/southeast, while its capital is aligned north/south, possibly so that the statue could look towards the nearby Church of the Holy Apostles.",
+    "type": "casual",
+    "modified_text": "Looks like the bottom of the column is set up to face northwest/southeast, and the top is turned north/south. Maybe it's so the statue can face the Church of the Holy Apostles that's close by.",
+    "Rationale": "The modification changes the formal tone of the original text to a more conversational one by using contractions ('it's'), colloquial phrases ('Looks like', 'set up', 'turned', 'close by'), and less technical terms ('bottom of the column', 'top' instead of 'capital'). The entity name 'Church of the Holy Apostles' remains unchanged to maintain the integrity of the named-entity recognition task.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Church of the Holy Apostles": "BUILDING"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "original_text": "The film is based on the French novel ``L'affaire Cl\u00e9menceau'', by Alexandre Dumas, fils, and is now considered to be lost.",
+    "type": "casual",
+    "modified_text": "The movie's taken from the French book 'L'affaire Cl\u00e9menceau' by Alexandre Dumas, fils, and it looks like it's gone for good.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using contractions ('The movie's' instead of 'The film is'), more colloquial language ('taken from' instead of 'based on', 'book' instead of 'novel', 'looks like it's gone for good' instead of 'is now considered to be lost'), and simplifying the structure while keeping the meaning intact and preserving all entity names.",
+    "label": "empty",
+    "original_label": [
+      {
+        "French": "OTHER"
+      },
+      {
+        "Alexandre Dumas": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "French",
+        "value": "OTHER"
+      },
+      {
+        "text": "Alexandre Dumas",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "type": "casual",
+    "modified_text": "They turned the buildings into offices back in the 80s.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more informal one by using the contraction 'They' instead of 'The buildings', 'turned' as a more casual verb choice for 'renovated', and 'back in the 80s' as a colloquial way of referring to the time period.",
+    "label": "empty",
+    "original_label": [],
+    "modified_label": []
+  },
+  {
+    "original_text": "Both doors are mirror images of each other and each contain the bronze University seal.",
+    "type": "casual",
+    "modified_text": "Both doors look exactly the same and they've got the bronze University seal on them.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more casual one by using contractions ('they've' instead of 'they have') and colloquial phrases ('look exactly the same' instead of 'are mirror images of each other'). The entity name 'bronze University seal' is kept unchanged to maintain the meaning and context.",
+    "label": "empty",
+    "original_label": [
+      {
+        "bronze University seal": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "bronze University seal",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "original_text": "Jamil was married to the daughter of Khalid Bakdash, a Syrian politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "type": "casual",
+    "modified_text": "Jamil tied the knot with Khalid Bakdash's daughter, you know, the guy who led the Syrian Communist Party and was the first commie to snag a seat in an Arab parliament back in '54.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using colloquial expressions such as 'tied the knot' instead of 'was married', 'the guy' instead of 'a Syrian politician', 'led' instead of 'was the Secretary-General', 'commie' as a slang for 'communist', and 'snag a seat' instead of 'be an elected member'. The year '1954' has been contracted to ''54' to maintain the informal tone. The entity 'Syria' was not explicitly mentioned in the modified text as it was not necessary to convey the same meaning, but the nationality 'Arab' was retained and labeled as 'NATIONALITY' to reflect the informal context.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Jamil": "PERSON"
+      },
+      {
+        "Khalid Bakdash": "PERSON"
+      },
+      {
+        "Syrian Communist Party": "ORGANIZATION"
+      },
+      {
+        "Arab": "NATIONALITY"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "NATIONALITY"
+      }
+    ]
+  },
+  {
+    "original_text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "type": "casual",
+    "modified_text": "The Ninth got seriously whooped at Camulodunum with Quintus Petillius Cerialis calling the shots during Boudica's uprising (61). Loads of their infantry got wiped out trying to save the surrounded city of Camulodunum, you know, Colchester.",
+    "Rationale": "The modification changes the formal tone of the original text to an informal one by using colloquial expressions such as 'got seriously whooped', 'calling the shots', 'loads of their infantry got wiped out', and 'you know'. The entity names are kept intact to maintain the meaning and context of the sentence.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Camulodunum": "EVENT"
+      },
+      {
+        "Quintus Petillius Cerialis": "PERSON"
+      },
+      {
+        "Boudica": "EVENT"
+      },
+      {
+        "Camulodunum": "LOCATION"
+      },
+      {
+        "Colchester": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Camulodunum",
+        "value": "EVENT"
+      },
+      {
+        "text": "Quintus Petillius Cerialis",
+        "value": "PERSON"
+      },
+      {
+        "text": "Boudica",
+        "value": "EVENT"
+      },
+      {
+        "text": "Camulodunum",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Colchester",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "It is the birthplace of actor John Wayne.",
+    "type": "casual",
+    "modified_text": "John Wayne was born here.",
+    "Rationale": "The sentence has been rephrased to a more informal structure by using the passive voice and omitting 'actor' which is implied by the context of John Wayne being a well-known actor. The entity 'John Wayne' is preserved, maintaining the meaning and the named-entity label.",
+    "label": "empty",
+    "original_label": [
+      {
+        "John Wayne": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "John Wayne",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "Anhur is a playable character in the multiplayer online battle arena, ``SMITE''.",
+    "type": "casual",
+    "modified_text": "You can play as Anhur in the game SMITE.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using the second person 'you' and simplifying the structure. The term 'multiplayer online battle arena' has been replaced with 'game' to match informal speech patterns. The entity name 'Anhur' remains unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Anhur": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Anhur",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "original_text": "Kenyon entered Maynooth Seminary in 1829 \u2013 the year of Catholic Emancipation.",
+    "type": "casual",
+    "modified_text": "Kenyon started at Maynooth Seminary in 1829, the same year Catholic Emancipation happened.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using 'started at' instead of 'entered' and by replacing the dash with a comma followed by 'the same year' to maintain a conversational tone. The meaning and entities remain unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Kenyon": "PERSON"
+      },
+      {
+        "Maynooth Seminary": "ORGANIZATION"
+      },
+      {
+        "Catholic Emancipation": "EVENT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Kenyon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Maynooth Seminary",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Catholic Emancipation",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "original_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "type": "casual",
+    "modified_text": "Allistair Pinsof from Destructoid totally loved the game, saying it's got controls just as awesome as Super Metroid and Super Castlevania IV.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using contractions ('it's'), colloquial language ('totally loved', 'just as awesome'), and removing the quotation marks around the names of the organization and products to make it sound more conversational while preserving the original meaning and keeping all entity names intact.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Allistair Pinsof": "PERSON"
+      },
+      {
+        "Destructoid": "ORGANIZATION"
+      },
+      {
+        "Super Metroid": "PRODUCT"
+      },
+      {
+        "Super Castlevania IV": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Super Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "original_text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "type": "casual",
+    "modified_text": "He's from Wellingborough in Northamptonshire and went to Victoria Junior School, Westfield Boys School, and Sir Christopher Hatton School.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using contractions ('He's' instead of 'He was'), more casual language ('from' instead of 'born in', 'went to' instead of 'attended'), and removing the word 'where' to make the sentence flow more conversationally.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Wellingborough": "LOCATION"
+      },
+      {
+        "Northamptonshire": "LOCATION"
+      },
+      {
+        "Victoria Junior School": "ORGANIZATION"
+      },
+      {
+        "Westfield Boys School": "ORGANIZATION"
+      },
+      {
+        "Sir Christopher Hatton School": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Wellingborough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Westfield Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hatton School",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "Saunders lost to Fitch by unanimous decision.",
+    "type": "casual",
+    "modified_text": "Saunders got beat by Fitch, everyone agreed on it.",
+    "Rationale": "The modification changes the formal tone of 'lost to Fitch by unanimous decision' to a more informal 'got beat by Fitch, everyone agreed on it', which retains the original meaning but uses colloquial language.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Saunders": "PERSON"
+      },
+      {
+        "Fitch": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Saunders",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fitch",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "In 1919 Gagnon married Lucile Rodier, also a pupil of William Bremner.",
+    "type": "casual",
+    "modified_text": "Back in 1919, Gagnon tied the knot with Lucile Rodier, who was learning from William Bremner too.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using the phrase 'tied the knot' instead of 'married' and 'Back in 1919' instead of 'In 1919'. The phrase 'who was learning from' is used to replace 'also a pupil of' to maintain an informal tone. All entity names have been kept unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Gagnon": "PERSON"
+      },
+      {
+        "Lucile Rodier": "PERSON"
+      },
+      {
+        "William Bremner": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Gagnon",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lucile Rodier",
+        "value": "PERSON"
+      },
+      {
+        "text": "William Bremner",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "Team Orr scored four times on way to a 7\u20131 victory.",
+    "type": "casual",
+    "modified_text": "Team Orr netted four goals and cruised to a 7\u20131 win.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more casual one by using 'netted' instead of 'scored' and 'cruised to a 7\u20131 win' instead of 'on way to a 7\u20131 victory', which are phrases more likely to be used in informal speech. The entity name 'Team Orr' remains unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Team Orr": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Team Orr",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "They finished the season 14\u201319, 9\u20139 in C-USA play to finish in seventh place.",
+    "type": "casual",
+    "modified_text": "They wrapped up the season 14\u201319, going 9\u20139 in C-USA play and landed in seventh place.",
+    "Rationale": "The modification introduces informal expressions such as 'wrapped up' instead of 'finished' and 'landed in' instead of 'to finish in' to convey a more casual tone while preserving the original meaning and keeping the entity name 'C-USA play' unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "C-USA play": "EVENT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "C-USA play",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "original_text": "Dorsa has a Bachelor of Music in Composition from California State University, Northridge in 2001, Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "type": "casual",
+    "modified_text": "Dorsa got her Bachelor's in Music Composition from Cal State Northridge back in '01, snagged her Master's in Harpsichord Performance there in '04, and then scored a DMA from U of M, Ann Arbor in '08.",
+    "Rationale": "The sentence was rewritten in a more informal tone by using contractions ('got her Bachelor's'), casual language ('snagged her Master's', 'scored a DMA'), abbreviations ('Cal State Northridge' to 'Cal State', 'University of Michigan' to 'U of M'), and informal date formats ('in '01', 'in '04', 'in '08'). The entity names were preserved but slightly modified to fit the informal style, and the labels were updated accordingly.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Dorsa": "PERSON"
+      },
+      {
+        "Bachelor's in Music Composition": "OTHER"
+      },
+      {
+        "Cal State Northridge": "ORGANIZATION"
+      },
+      {
+        "Master's in Harpsichord Performance": "OTHER"
+      },
+      {
+        "DMA": "OTHER"
+      },
+      {
+        "U of M": "ORGANIZATION"
+      },
+      {
+        "Ann Arbor": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Dorsa",
+        "value": "PERSON"
+      },
+      {
+        "text": "Bachelor's in Music Composition",
+        "value": "OTHER"
+      },
+      {
+        "text": "Cal State Northridge",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Master's in Harpsichord Performance",
+        "value": "OTHER"
+      },
+      {
+        "text": "DMA",
+        "value": "OTHER"
+      },
+      {
+        "text": "U of M",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ann Arbor",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "Liz Weir won the inaugural International Story Bridge Award of the National Storytelling Network in 2002.",
+    "type": "casual",
+    "modified_text": "Liz Weir snagged the first-ever International Story Bridge Award from the National Storytelling Network back in 2002.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more informal one by using 'snagged' instead of 'won' and 'back in' instead of 'in', which are more colloquial expressions. The structure of the sentence is also slightly altered to fit informal speech patterns while keeping all entity names intact.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Liz Weir": "PERSON"
+      },
+      {
+        "International Story Bridge Award": "OTHER"
+      },
+      {
+        "National Storytelling Network": "EVENT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Liz Weir",
+        "value": "PERSON"
+      },
+      {
+        "text": "International Story Bridge Award",
+        "value": "OTHER"
+      },
+      {
+        "text": "National Storytelling Network",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "original_text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "type": "casual",
+    "modified_text": "Back in June 2003, they kicked off this plan called the Croal Irwell Regional Park Project Proposal to make a cool green strip running from Manchester's heart all the way to the West Pennine Moors, with a thumbs up from the folks at Salford, Bury, and Bolton councils, not to mention the Red Rose Forest.",
+    "Rationale": "The modification changes the formal tone of the original text to an informal one by using colloquial expressions such as 'kicked off', 'plan', 'make a cool green strip', 'running from', 'heart', 'all the way to', 'with a thumbs up from', and 'folks'. These changes maintain the original meaning while presenting the information in a more casual manner. All entity names are preserved in the modified text.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Croal Irwell Regional Park Project Proposal": "PRODUCT"
+      },
+      {
+        "Manchester": "LOCATION"
+      },
+      {
+        "West Pennine Moors": "LOCATION"
+      },
+      {
+        "Salford": "LOCATION"
+      },
+      {
+        "Bury": "LOCATION"
+      },
+      {
+        "Bolton": "LOCATION"
+      },
+      {
+        "Red Rose Forest": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Croal Irwell Regional Park Project Proposal",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Pennine Moors",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "For the 2019 Frieze Art Fair in London, Agostinelli staged his fourth intervention by depositing a 1 tonne block of translucent ice pulled by a Tesla to the entrance of the fair on opening day.",
+    "type": "casual",
+    "modified_text": "At the 2019 Frieze Art Fair in London, Agostinelli pulled off his fourth stunt by dragging a massive 1-tonne chunk of clear ice with a Tesla right up to the fair's entrance on the first day.",
+    "Rationale": "The sentence has been rephrased to sound more informal while retaining the original meaning. Words like 'staged his fourth intervention' were replaced with 'pulled off his fourth stunt' and 'depositing' was changed to 'dragging' to match a more casual tone. Additionally, 'translucent' was replaced with 'clear' for simplicity, and 'on opening day' was changed to 'on the first day' for a more conversational style. All entity names remain unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Frieze Art Fair": "EVENT"
+      },
+      {
+        "London": "LOCATION"
+      },
+      {
+        "Agostinelli": "PERSON"
+      },
+      {
+        "Tesla": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Frieze Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Agostinelli",
+        "value": "PERSON"
+      },
+      {
+        "text": "Tesla",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "They work independently of insulin and can reduce glucose levels without causing hypoglycemia or weight gain.",
+    "type": "casual",
+    "modified_text": "They don't rely on insulin and can lower sugar levels without triggering hypoglycemia or making you put on weight.",
+    "Rationale": "The modification introduces informal language by using contractions ('don't'), colloquial terms ('sugar levels' instead of 'glucose levels', 'put on weight' instead of 'weight gain'), and more conversational phrasing ('triggering' instead of 'causing'), while preserving the original meaning and keeping the entity names intact.",
+    "label": "empty",
+    "original_label": [
+      {
+        "insulin": "OTHER"
+      },
+      {
+        "hypoglycemia": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "insulin",
+        "value": "OTHER"
+      },
+      {
+        "text": "hypoglycemia",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "original_text": "In July 1944, the 503rd jumped again, onto Noemfoor Island, off Dutch New Guinea, in the Battle of Noemfoor.",
+    "type": "casual",
+    "modified_text": "In July '44, the 503rd made another jump, this time landing on Noemfoor Island, just off Dutch New Guinea, during the Battle of Noemfoor.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more informal one by using a contraction for the year ('44 instead of 1944), using more conversational language ('made another jump' instead of 'jumped again'), and adding 'just' to give it a more casual tone. The entity names remain unchanged to maintain the integrity of the named-entity recognition task.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Noemfoor Island": "LOCATION"
+      },
+      {
+        "Dutch New Guinea": "LOCATION"
+      },
+      {
+        "Battle of Noemfoor": "EVENT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Noemfoor Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dutch New Guinea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Battle of Noemfoor",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "original_text": "On January 11, 2018 it was announced that Trout would make a ring return against Colombian boxer Juan De Angel on the Devon Alexander vs. Victor Ortiz undercard on February 17 at the Don Haskins Center on the UTEP campus in El Paso, Texas.",
+    "type": "casual",
+    "modified_text": "So, on Jan 11, 2018, they said Trout's gonna step back in the ring to face off with the Colombian boxer Juan De Angel. This is all going down during the Devon Alexander vs. Victor Ortiz fight on Feb 17, right at the Don Haskins Center over at UTEP in El Paso, Texas.",
+    "Rationale": "The modification changes the formal announcement tone to a more conversational and informal one by using contractions ('Jan' instead of 'January', 'gonna' instead of 'going to'), colloquial phrases ('face off with', 'going down'), and a more casual structure. The entity names remain unchanged to maintain the integrity of the named-entity recognition task.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Trout": "ORGANIZATION"
+      },
+      {
+        "Colombia": "LOCATION"
+      },
+      {
+        "Juan De Angel": "PERSON"
+      },
+      {
+        "Devon Alexander": "ORGANIZATION"
+      },
+      {
+        "Victor Ortiz": "ORGANIZATION"
+      },
+      {
+        "Don Haskins Center": "BUILDING"
+      },
+      {
+        "UTEP": "ORGANIZATION"
+      },
+      {
+        "El Paso": "LOCATION"
+      },
+      {
+        "Texas": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Trout",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Colombia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Juan De Angel",
+        "value": "PERSON"
+      },
+      {
+        "text": "Devon Alexander",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Victor Ortiz",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Don Haskins Center",
+        "value": "BUILDING"
+      },
+      {
+        "text": "UTEP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "El Paso",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Texas",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "The situation began to crystallise after 1961 when South Africa left the Commonwealth of Nations and so, under the rules of the day, its cricket board had to leave the International Cricket Conference (ICC).",
+    "type": "casual",
+    "modified_text": "Things started to get clear after 1961 when South Africa bailed on the Commonwealth of Nations, and because of the rules back then, its cricket board had to ditch the International Cricket Conference (ICC).",
+    "Rationale": "The modification involved changing formal phrases to informal ones while maintaining the original meaning. 'Began to crystallise' was changed to 'started to get clear', 'left' was replaced with 'bailed on', and 'had to leave' was changed to 'had to ditch'. These changes preserve the entities and their labels but present the sentence in a more casual tone.",
+    "label": "empty",
+    "original_label": [
+      {
+        "South Africa": "LOCATION"
+      },
+      {
+        "Commonwealth of Nations": "ORGANIZATION"
+      },
+      {
+        "International Cricket Conference": "ORGANIZATION"
+      },
+      {
+        "ICC": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "South Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Commonwealth of Nations",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "International Cricket Conference",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ICC",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "The Papacy in central Italy maintained major cultural and political influence during the Catholic Reformation initiated by the conclusion of the Tridentine council (resumed by the terms of the treaty).",
+    "type": "casual",
+    "modified_text": "The Papacy over in central Italy had a big cultural and political impact during the Catholic Reformation that started when the Tridentine council wrapped up (all thanks to the treaty terms).",
+    "Rationale": "The modification changes the formal tone of the original text to a more informal one by using colloquial expressions such as 'over in' instead of 'in', 'had a big' instead of 'maintained major', and 'wrapped up' instead of 'conclusion'. Additionally, 'all thanks to the treaty terms' is a more casual way of expressing the idea conveyed by 'resumed by the terms of the treaty'. The entity names remain unchanged to preserve the meaning and context.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Papacy": "EVENT"
+      },
+      {
+        "Catholic Reformation": "ORGANIZATION"
+      },
+      {
+        "Tridentine council": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Papacy",
+        "value": "EVENT"
+      },
+      {
+        "text": "Catholic Reformation",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Tridentine council",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "type": "casual",
+    "modified_text": "Conway's where it all happens for Norfolk Southern around Greater Pittsburgh, with a hump yard and where crews swap out on pretty much all the Pittsburgh and Fort Wayne Line trains.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using contractions ('Conway's' instead of 'Conway is'), colloquial expressions ('where it all happens' instead of 'hub of operations'), and less formal terms ('crews swap out' instead of 'a crew change point'). The meaning of the sentence remains the same, and all entity names are preserved.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Conway": "LOCATION"
+      },
+      {
+        "Norfolk Southern": "ORGANIZATION"
+      },
+      {
+        "Greater Pittsburgh": "LOCATION"
+      },
+      {
+        "Pittsburgh": "LOCATION"
+      },
+      {
+        "Fort Wayne Line": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "Eventually, however, the Saudi government and the FBI repeatedly conflicted during the course of the investigation.",
+    "type": "casual",
+    "modified_text": "But in the end, the Saudi folks and the FBI kept butting heads while they were investigating.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more informal one by using colloquial expressions such as 'in the end' instead of 'eventually', 'folks' to refer to the government informally, and 'butting heads' as a casual way to describe conflict. The entity 'Saudi' has been changed from 'ORGANIZATION' to 'NATIONALITY' to reflect the informal reference to people rather than the formal government entity.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Saudi": "NATIONALITY"
+      },
+      {
+        "FBI": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Saudi",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "Graduating with a BA in Psychology, and a minor in Criminology.",
+    "type": "casual",
+    "modified_text": "Got my BA in Psychology and also did a minor in Criminology.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using 'Got my' instead of 'Graduating with a' and 'also did' instead of 'and a minor in'. The structure is more conversational while retaining the original meaning and entities.",
+    "label": "empty",
+    "original_label": [
+      {
+        "BA": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "BA",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "original_text": "Most of the town is actually a gated community called Orchid Island Golf and Beach Club.",
+    "type": "casual",
+    "modified_text": "Most of the town's really just this gated place called Orchid Island Golf and Beach Club.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using contractions ('town's' instead of 'town is') and colloquial language ('just this gated place' instead of 'a gated community'). The entity name 'Orchid Island Golf and Beach Club' remains unchanged to maintain the integrity of the named-entity recognition task.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Orchid Island Golf and Beach Club": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Orchid Island Golf and Beach Club",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "Victor Cristaldo (born 10 May 1967) is a retired Argentine-born Australian professional footballer of Paraguayan descent.",
+    "type": "casual",
+    "modified_text": "Victor Cristaldo, born on May 10, 1967, is a retired soccer player from Australia with Argentine and Paraguayan roots.",
+    "Rationale": "The sentence has been rephrased to sound more informal by removing the formal structure and using 'soccer player' instead of 'professional footballer' which is more colloquial in some English-speaking countries. Additionally, 'Argentine-born Australian' was changed to 'from Australia with Argentine and Paraguayan roots' to maintain the informal tone. The labels for 'Argentine' and 'Paraguayan' have been corrected to 'NATIONALITY' to accurately reflect the entities.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Victor Cristaldo": "PERSON"
+      },
+      {
+        "Argentine": "NATIONALITY"
+      },
+      {
+        "Australia": "LOCATION"
+      },
+      {
+        "Paraguayan": "NATIONALITY"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Victor Cristaldo",
+        "value": "PERSON"
+      },
+      {
+        "text": "Argentine",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "Australia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Paraguayan",
+        "value": "NATIONALITY"
+      }
+    ]
+  },
+  {
+    "original_text": "Back to Basics focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "type": "casual",
+    "modified_text": "Back to Basics is all about genre classics, screening old flicks and cool cult movies, and sometimes hitting up the mainstream and fresh genre stuff too.",
+    "Rationale": "The modification introduces informal language by using colloquial terms such as 'is all about' instead of 'focuses on', 'old flicks' instead of 'older movies', 'cool cult movies' instead of 'underground cult films', and 'hitting up' instead of 'occasional stabs at'. Additionally, 'fresh genre stuff' is used to convey 'newer genre pieces' in a more casual manner. The entity name 'Back to Basics' remains unchanged to maintain the integrity of the named-entity recognition task.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Back to Basics": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Back to Basics",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "Gibraltar suffered a number of air raids during 1940 by the Italian ``Regia Aeronautica`` (operating from Sardinia) and from the Vichy French Air Force (from French North Africa) in retaliation for British and Free French attacks on Mers-el-Kebir and Dakar.",
+    "type": "casual",
+    "modified_text": "Back in 1940, Gibraltar got hit by a bunch of air raids from the Italian 'Regia Aeronautica' flying out of Sardinia and the Vichy French Air Force coming from French North Africa. This was payback for the British and Free French going after Mers-el-Kebir and Dakar.",
+    "Rationale": "The modification was made to reflect a more informal tone commonly found in casual speech or informal writing. Phrases like 'suffered a number of air raids' were replaced with 'got hit by a bunch of air raids' to sound less formal. The phrase 'in retaliation for' was replaced with 'This was payback for' to maintain the informal tone. Quotation marks were simplified to single quotes to match informal style. Additionally, 'British' was labeled as 'NATIONALITY' instead of 'ORGANIZATION' to better reflect the informal use of the term in this context.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Gibraltar": "LOCATION"
+      },
+      {
+        "Regia Aeronautica": "ORGANIZATION"
+      },
+      {
+        "Sardinia": "LOCATION"
+      },
+      {
+        "Vichy French Air Force": "ORGANIZATION"
+      },
+      {
+        "French North Africa": "LOCATION"
+      },
+      {
+        "British": "NATIONALITY"
+      },
+      {
+        "Free French": "ORGANIZATION"
+      },
+      {
+        "Mers-el-Kebir": "LOCATION"
+      },
+      {
+        "Dakar": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Gibraltar",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Regia Aeronautica",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sardinia",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Vichy French Air Force",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "French North Africa",
+        "value": "LOCATION"
+      },
+      {
+        "text": "British",
+        "value": "NATIONALITY"
+      },
+      {
+        "text": "Free French",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Mers-el-Kebir",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dakar",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "type": "casual",
+    "modified_text": "He ended up producing Kim Fowley and the BMX Bandits' album 'Hidden Agenda At the Thirteenth Not' for Receiver Records.",
+    "Rationale": "The sentence was rewritten in an informal style by using 'ended up' instead of 'went on to', removing the formal parenthesis around 'band', and simplifying the structure. The entity names were kept intact to maintain the meaning and context of the sentence.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Kim Fowley": "PERSON"
+      },
+      {
+        "BMX Bandits": "ORGANIZATION"
+      },
+      {
+        "Receiver Records": "ORGANIZATION"
+      },
+      {
+        "Hidden Agenda At the Thirteenth Not": "WORK_OF_ART"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Agenda At the Thirteenth Not",
+        "value": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "original_text": "Puckrik travelled widely in her childhood due to her father's military background.",
+    "type": "casual",
+    "modified_text": "Puckrik saw a lot of different places as a kid 'cause her dad was in the military.",
+    "Rationale": "The sentence has been rephrased to sound more informal by using contractions ('cause), colloquial language ('saw a lot of different places', 'as a kid'), and less formal word choices ('dad' instead of 'father'). The entity name 'Puckrik' remains unchanged to maintain the integrity of the named-entity recognition task.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Puckrik": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Puckrik",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza intensified.",
+    "type": "casual",
+    "modified_text": "The local farmers were pretty upset too, and from 1846 to 1848, more and more folks started to push back against Sturdza.",
+    "Rationale": "The modification changes formal terms like 'peasantry' to a more informal 'local farmers' and 'was also aggrieved' to 'were pretty upset too'. The phrase 'opposition to Sturdza intensified' is rephrased to 'more and more folks started to push back against Sturdza' to maintain an informal tone while preserving the original meaning and keeping the entity name 'Sturdza' unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Sturdza": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Sturdza",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "He has also performed and worked with many other Scandinavian artists such as Bj\u00f8rn Eidsv\u00e5g, Silje Nergaard, Oslo Gospel Choir, Espen Lind, Elizabeth Norberg-Schulz and Carola H\u00e4ggkvist.",
+    "type": "casual",
+    "modified_text": "He's also jammed and teamed up with a bunch of other Scandinavian artists like Bj\u00f8rn Eidsv\u00e5g, Silje Nergaard, Oslo Gospel Choir, Espen Lind, Elizabeth Norberg-Schulz, and Carola H\u00e4ggkvist.",
+    "Rationale": "The modification changes the formal tone of the original text to a more casual, informal one by using contractions ('He's' instead of 'He has') and colloquial expressions ('jammed' and 'teamed up' instead of 'performed and worked'). The phrase 'a bunch of' is used to replace 'many other' to maintain the informal tone. The word 'like' is used instead of 'such as' for a more conversational feel. All entity names are kept unchanged to preserve the meaning and context.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Bj\u00f8rn Eidsv\u00e5g": "PERSON"
+      },
+      {
+        "Silje Nergaard": "PERSON"
+      },
+      {
+        "Oslo Gospel Choir": "ORGANIZATION"
+      },
+      {
+        "Espen Lind": "PERSON"
+      },
+      {
+        "Elizabeth Norberg-Schulz": "PERSON"
+      },
+      {
+        "Carola H\u00e4ggkvist": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Bj\u00f8rn Eidsv\u00e5g",
+        "value": "PERSON"
+      },
+      {
+        "text": "Silje Nergaard",
+        "value": "PERSON"
+      },
+      {
+        "text": "Oslo Gospel Choir",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Espen Lind",
+        "value": "PERSON"
+      },
+      {
+        "text": "Elizabeth Norberg-Schulz",
+        "value": "PERSON"
+      },
+      {
+        "text": "Carola H\u00e4ggkvist",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "Sosa was not called to the World Cup 2010 team by then-manager Diego Maradona, but was reinstated by new coach Alejandro Sabella for the World Cup 2014 qualifiers, and has been featured in several games since 2011.",
+    "type": "casual",
+    "modified_text": "Sosa didn't make the 2010 World Cup squad when Diego Maradona was in charge, but Alejandro Sabella, the new coach, brought him back for the 2014 World Cup qualifiers, and he's been playing in a bunch of games since 2011.",
+    "Rationale": "The sentence was rewritten in an informal style by using contractions ('didn't' instead of 'was not'), colloquial phrases ('make the squad' instead of 'called to the team'), and more casual language ('brought him back' instead of 'was reinstated', 'in charge' instead of 'then-manager', 'a bunch of games' instead of 'several games'). The entity names were kept unchanged to maintain the meaning and context of the sentence.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Sosa": "PERSON"
+      },
+      {
+        "World Cup": "EVENT"
+      },
+      {
+        "Diego Maradona": "PERSON"
+      },
+      {
+        "Alejandro Sabella": "PERSON"
+      },
+      {
+        "World Cup": "EVENT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Sosa",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Diego Maradona",
+        "value": "PERSON"
+      },
+      {
+        "text": "Alejandro Sabella",
+        "value": "PERSON"
+      },
+      {
+        "text": "World Cup",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "original_text": "Mike Moreton headed the team, joining TWR to run the XJ220 project.",
+    "type": "casual",
+    "modified_text": "Mike Moreton led the crew, teaming up with TWR to manage the XJ220 project.",
+    "Rationale": "The modification changes formal words to more informal ones while maintaining the original meaning. 'Headed' is replaced with 'led', 'team' with 'crew', and 'joining' with 'teaming up with'. 'Run' is replaced with 'manage' to keep the sentence sounding natural in an informal context.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Mike Moreton": "PERSON"
+      },
+      {
+        "TWR": "ORGANIZATION"
+      },
+      {
+        "XJ220": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Mike Moreton",
+        "value": "PERSON"
+      },
+      {
+        "text": "TWR",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "XJ220",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "type": "casual",
+    "modified_text": "Back in the early 1800s, places like Lynchburg, Harrisburg, and Rightor's Point (now called Morgan's Point) started popping up.",
+    "Rationale": "The sentence has been rephrased to sound more conversational and informal while retaining the original meaning and all entity names. Phrases like 'began to appear' and 'at the beginning of the 19th century' have been replaced with 'started popping up' and 'back in the early 1800s' to reflect a more casual tone.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rightor's Point",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "type": "casual",
+    "modified_text": "USP42's also been seen to take the ubiquitin off p53, and it might be needed for p53 to deal with stress.",
+    "Rationale": "The modification was made to create an informal tone by using contractions ('USP42's' instead of 'USP42 has'), less technical language ('take the ubiquitin off' instead of 'deubiquitinate'), and more conversational phrasing ('deal with stress' instead of 'respond to stress'). The entity names were kept intact to maintain the meaning and context of the sentence.",
+    "label": "empty",
+    "original_label": [
+      {
+        "USP42": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "original_text": "Shortly after World War I, he purchased a plot of land in Toulon and donated it to the local sports club, RC Toulonnais, for the building of a stadium.",
+    "type": "casual",
+    "modified_text": "Not long after World War I, he snagged some land in Toulon and gave it to the local sports club, RC Toulonnais, to build a stadium.",
+    "Rationale": "The modification changes the formal tone of the original text to a more informal one by using colloquial expressions such as 'snagged' instead of 'purchased' and 'gave' instead of 'donated'. The structure of the sentence is preserved, and all entity names remain unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "World War I": "EVENT"
+      },
+      {
+        "Toulon": "LOCATION"
+      },
+      {
+        "RC Toulonnais": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "World War I",
+        "value": "EVENT"
+      },
+      {
+        "text": "Toulon",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RC Toulonnais",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "She has since worked with homeless patients and holds the position of Management Consultant for MedAmerica.",
+    "type": "casual",
+    "modified_text": "She's been working with homeless folks and is now a Management Consultant at MedAmerica.",
+    "Rationale": "To make the sentence informal, contractions were used ('She's' instead of 'She has'), more colloquial language was introduced ('folks' instead of 'patients'), and the structure was slightly altered to sound more conversational while keeping the meaning intact. The entity 'r MedAmerica' was corrected to 'MedAmerica' to maintain the proper name of the organization.",
+    "label": "empty",
+    "original_label": [
+      {
+        "MedAmerica": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "MedAmerica",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "The festival is dedicated to world television and digital content and its creation and development.",
+    "type": "casual",
+    "modified_text": "The fest's all about global TV and digital stuff, plus how it's made and developed.",
+    "Rationale": "The modification introduces contractions ('fest's' instead of 'festival is') and colloquial language ('stuff' instead of 'content') to create a more informal tone. The structure of the sentence is also simplified to sound more conversational.",
+    "label": "empty",
+    "original_label": [],
+    "modified_label": []
+  },
+  {
+    "original_text": "Saab gave Mr Gilbert a Saab 9-5 Aero.",
+    "type": "casual",
+    "modified_text": "Saab hooked Gilbert up with a Saab 9-5 Aero.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more informal one by using the phrasal verb 'hooked up' which is less formal than 'gave'. The title 'Mr' is omitted to increase informality, and the structure is slightly altered to maintain natural-sounding English.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Saab": "ORGANIZATION"
+      },
+      {
+        "Gilbert": "PERSON"
+      },
+      {
+        "Saab 9-5 Aero": "PRODUCT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Saab",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Gilbert",
+        "value": "PERSON"
+      },
+      {
+        "text": "Saab 9-5 Aero",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "type": "casual",
+    "modified_text": "The Austro-Hungarian Navy put together and ran a couple of protected cruiser classes.",
+    "Rationale": "The modification introduces informal language by replacing 'built' with 'put together' and 'operated' with 'ran', while 'two classes' is changed to 'a couple of' to maintain the informal tone. The entity name 'Austro-Hungarian Navy' remains unchanged to preserve the entity label.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Austro-Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "The ability to sustain a lucrative business in bootlegging liquor was largely helped by the minimal police surveillance at the time.",
+    "type": "casual",
+    "modified_text": "Making good money from bootlegging booze was pretty easy since the cops weren't watching much back then.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more informal one by using colloquial terms such as 'making good money' instead of 'sustain a lucrative business', 'booze' instead of 'liquor', and 'cops' instead of 'police surveillance'. The phrase 'pretty easy' simplifies 'largely helped', and 'weren't watching much' is a more casual way to express 'minimal police surveillance'. The overall structure is also simplified to sound more conversational.",
+    "label": "empty",
+    "original_label": [],
+    "modified_label": []
+  },
+  {
+    "original_text": "They were set to take on rival Oregon State in the quarterfinals of the Pac-12 Tournament.",
+    "type": "casual",
+    "modified_text": "They were gearing up to face off against Oregon State in the Pac-12 Tournament quarters.",
+    "Rationale": "The modification changes formal phrases like 'set to take on' and 'quarterfinals' to more informal equivalents 'gearing up to face off against' and 'quarters', while maintaining the original meaning and keeping the entity names intact.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Oregon State": "ORGANIZATION"
+      },
+      {
+        "Pac-12 Tournament": "EVENT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "original_text": "The name ``Ganapatishvara``, which also gives the town its alternate name ``Ganapatishvaram``, denotes Shiva as ``Lord of Ganesha`` and alludes to the legend that Ganesha killed a demon and then worshipped his father Shiva here.",
+    "type": "casual",
+    "modified_text": "So, ``Ganapatishvara`` is another name for Shiva, kinda like a nickname, and it's also what they call the town ``Ganapatishvaram``. It means Shiva is the ``Lord of Ganesha``. There's this cool story about Ganesha taking down a demon and then paying respects to his dad Shiva right here.",
+    "Rationale": "The modification was made to transform the formal sentence into an informal one by using colloquial expressions such as 'kinda like a nickname', 'what they call', 'cool story', and 'taking down'. The entity names were kept intact to maintain the meaning and context of the original sentence.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Ganapatishvara": "OTHER"
+      },
+      {
+        "Ganapatishvaram": "OTHER"
+      },
+      {
+        "Shiva": "OTHER"
+      },
+      {
+        "Lord of Ganesha": "OTHER"
+      },
+      {
+        "Ganesha": "OTHER"
+      },
+      {
+        "Shiva": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Ganapatishvara",
+        "value": "OTHER"
+      },
+      {
+        "text": "Ganapatishvaram",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      },
+      {
+        "text": "Lord of Ganesha",
+        "value": "OTHER"
+      },
+      {
+        "text": "Ganesha",
+        "value": "OTHER"
+      },
+      {
+        "text": "Shiva",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "original_text": "He is a Congressman representing Cajamarca for the period 2006\u20132011, and belongs to the Union for Peru party.",
+    "type": "casual",
+    "modified_text": "He's been a Congressman for Cajamarca from 2006 to 2011 and is with the Union for Peru party.",
+    "Rationale": "To make the sentence informal, contractions were used ('He's' instead of 'He is'), and the phrase 'for the period' was removed to simplify the sentence structure. Additionally, 'belongs to' was changed to 'is with' to maintain an informal tone.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Cajamarca": "LOCATION"
+      },
+      {
+        "Peru party": "ORGANIZATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Cajamarca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "original_text": "Almost over 75 members of parliament join the alliance.",
+    "type": "casual",
+    "modified_text": "Looks like over 75 MPs are teaming up with the alliance.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more informal one by using 'Looks like' as a colloquial phrase to indicate the occurrence of an event, replacing 'members of parliament' with the informal abbreviation 'MPs', and using 'teaming up' as a more casual way of saying 'join'. The entity names and the meaning of the sentence remain unchanged.",
+    "label": "empty",
+    "original_label": [],
+    "modified_label": []
+  },
+  {
+    "original_text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "type": "casual",
+    "modified_text": "Her bro tried to get into the United States House of Representatives from upstate New York, but didn't make it in '92 and '94.",
+    "Rationale": "The modification introduces informal language by using 'bro' instead of 'brother' and abbreviating the years to '92 and '94. The phrase 'tried to get into' is a more casual way of saying 'ran for', and 'didn't make it' is an informal way of expressing 'unsuccessfully'. The entity names remain unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "United States House of Representatives": "ORGANIZATION"
+      },
+      {
+        "New York": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "He died in an assisted living facility on election day, November 2, 2004, at the age of 92, survived by his widow and one brother.",
+    "type": "casual",
+    "modified_text": "He passed away in a nursing home on voting day, Nov 2, 2004, when he was 92, leaving behind his wife and a brother.",
+    "Rationale": "The modification introduces informal language by replacing 'assisted living facility' with 'nursing home', 'election day' with 'voting day', and 'survived by his widow' with 'leaving behind his wife'. The date 'November 2, 2004' is also informally abbreviated to 'Nov 2, 2004'. The sentence structure remains intact to preserve the original meaning.",
+    "label": "empty",
+    "original_label": [],
+    "modified_label": []
+  },
+  {
+    "original_text": "Malcolm III (; c.26 March 1031 \u2013 13 November 1093 (age 62)) was King of Scots from 1058 to 1093.",
+    "type": "casual",
+    "modified_text": "Malcolm III (around 26 March 1031 \u2013 13 November 1093, aged 62) ruled as King of Scots from 1058 to 1093.",
+    "Rationale": "The modification changes the formal date representation 'c.' to the more informal 'around' and removes the unnecessary parentheses around the age. Additionally, 'was King of Scots' is changed to 'ruled as King of Scots' for a more conversational tone. The label for 'Scots' has been corrected from 'LOCATION' to 'NATIONALITY' to accurately reflect that 'Scots' refers to the people of Scotland, not a location.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Malcolm III": "PERSON"
+      },
+      {
+        "Scots": "NATIONALITY"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Malcolm III",
+        "value": "PERSON"
+      },
+      {
+        "text": "Scots",
+        "value": "NATIONALITY"
+      }
+    ]
+  },
+  {
+    "original_text": "The founder of K\u014deido (the purveyors of Kibi dango) authored a travel guide in 1895, in which he claimed that Kibitsuhiko rolled with his own hand some kibi dango to give to Emperor Jimmu who stopped at Takayama Palace in Okayama.",
+    "type": "casual",
+    "modified_text": "So, the guy who started K\u014deido (you know, the Kibi dango shop) wrote this travel book back in 1895. He said that Kibitsuhiko personally made some kibi dango and gave them to Emperor Jimmu during his visit to Takayama Palace in Okayama.",
+    "Rationale": "The modification was made to transform the formal tone of the original text into an informal one, while preserving the original meaning and all entity names. Phrases like 'authored a travel guide' were replaced with 'wrote this travel book', and 'claimed that Kibitsuhiko rolled with his own hand' was changed to 'said that Kibitsuhiko personally made', to reflect a more conversational style. The entity 'Kibitsuhiko' was changed from 'ORGANIZATION' to 'PERSON' to correct the original mislabeling.",
+    "label": "empty",
+    "original_label": [
+      {
+        "K\u014deido": "ORGANIZATION"
+      },
+      {
+        "Kibi dango": "PRODUCT"
+      },
+      {
+        "Kibitsuhiko": "PERSON"
+      },
+      {
+        "kibi dango": "PRODUCT"
+      },
+      {
+        "Jimmu": "PERSON"
+      },
+      {
+        "Takayama Palace": "BUILDING"
+      },
+      {
+        "Okayama": "LOCATION"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "K\u014deido",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Kibi dango",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Kibitsuhiko",
+        "value": "PERSON"
+      },
+      {
+        "text": "kibi dango",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Jimmu",
+        "value": "PERSON"
+      },
+      {
+        "text": "Takayama Palace",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Okayama",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "original_text": "He was appointed captain and took part in the naval part of the Siege of Port Hudson in May to July, 1863.",
+    "type": "casual",
+    "modified_text": "He got made captain and joined in on the naval action at the Siege of Port Hudson from May to July, 1863.",
+    "Rationale": "The modification changes formal phrases like 'was appointed' to 'got made' and 'took part in' to 'joined in on' to create a more informal tone. The structure 'from May to July, 1863' is also more conversational than 'in May to July, 1863'. All entity names are kept intact to maintain the meaning and context of the sentence.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Siege of Port Hudson": "EVENT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Siege of Port Hudson",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "original_text": "After the 1973 military coup, Ar\u00f3n was forced to go underground.",
+    "type": "casual",
+    "modified_text": "After the '73 coup, Ar\u00f3n had to lay low.",
+    "Rationale": "The modification changes the formal tone of the original sentence to a more informal one by using the contraction ''73' instead of '1973' and the colloquial phrase 'lay low' instead of 'go underground'. The entity name 'Ar\u00f3n' remains unchanged.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Ar\u00f3n": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Ar\u00f3n",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "Six years later, both Richard and Lilli grow into strong and beautiful teenagers.",
+    "type": "casual",
+    "modified_text": "Six years down the line, Richard and Lilli turned into tough and good-looking teens.",
+    "Rationale": "The modification introduces informal language by using phrases like 'down the line' instead of 'later', and 'tough and good-looking teens' instead of 'strong and beautiful teenagers' to maintain the same meaning while presenting it in a more casual manner.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Richard": "PERSON"
+      },
+      {
+        "Lilli": "PERSON"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Richard",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lilli",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "original_text": "Many of the men were separated from their families and sent into the B.C.",
+    "type": "casual",
+    "modified_text": "Lots of guys got split up from their families and were shipped off to the B.C.",
+    "Rationale": "The modification changes 'Many of the men' to 'Lots of guys' to sound more informal and conversational. 'Were separated' is changed to 'got split up' and 'sent into' is changed to 'were shipped off' to maintain the informal tone. The meaning of the sentence remains the same, and no entities are mentioned, so the entity list remains empty.",
+    "label": "empty",
+    "original_label": [],
+    "modified_label": []
+  },
+  {
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "type": "casual",
+    "modified_text": "Cnidaria are just a bunch of animals you'll find in the water, especially in the ocean.",
+    "Rationale": "The modification introduces informal language by using contractions ('you'll'), colloquial phrases ('a bunch of'), and simpler terms ('in the water', 'especially in the ocean') to replace the more formal 'exclusively in aquatic and mostly marine environments'. The entity name 'Cnidaria' remains unchanged to maintain the integrity of the named-entity recognition task.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "original_text": "Breck Ullr Fest was first held in 1963.",
+    "type": "casual",
+    "modified_text": "The first Breck Ullr Fest kicked off back in '63.",
+    "Rationale": "The modification introduces a more informal tone by using the phrase 'kicked off' instead of 'was held' and abbreviating the year to ''63' to mimic casual speech patterns while maintaining the original entities and meaning.",
+    "label": "empty",
+    "original_label": [
+      {
+        "Breck Ullr Fest": "EVENT"
+      }
+    ],
+    "modified_label": [
+      {
+        "text": "Breck Ullr Fest",
+        "value": "EVENT"
+      }
+    ]
+  }
+]

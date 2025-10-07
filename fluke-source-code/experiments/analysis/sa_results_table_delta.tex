@@ -1,0 +1,37 @@
+\begin{table}[h]
+\centering
+\resizebox{\linewidth}{!}{
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+Category & Modification & \multicolumn{3}{c}{\textbf{PLM}} & \multicolumn{5}{c}{\textbf{LLM}} \\
+ &  & \textbf{BERT} & \textbf{GPT-2} & \textbf{T5} & \textbf{GPT-4o} & \textbf{Claude-3.5} & \textbf{Llama 3.1} & \textbf{GPT-5} & \textbf{DS R1} & \textbf{Avg} \\
+\midrule
+\textbf{Bias} & \textbf{Temporal} & \cellcolor{red!5} -2.9 & \cellcolor{red!9} \textbf{-4.9}* & \cellcolor{red!5} \textbf{-3.0} & \cellcolor{red!0} +0.0 & \cellcolor{green!7} +3.9 & \cellcolor{red!1} -1.0 & \cellcolor{green!1} +1.0 & \cellcolor{red!1} -1.0 & -1.0 \\
+  & \textbf{Geographical} & \cellcolor{red!1} -1.0 & \cellcolor{red!7} \textbf{-3.9}* & \cellcolor{red!1} -1.0 & \cellcolor{red!1} -1.0 & \cellcolor{green!3} +2.0 & \cellcolor{green!1} +1.0 & \cellcolor{red!0} +0.0 & \cellcolor{red!0} +0.0 & -0.5 \\
+  & \textbf{Length} & \cellcolor{green!1} +1.0 & \cellcolor{red!0} +0.0 & \cellcolor{red!5} \textbf{-3.0} & \cellcolor{green!1} +1.0 & \cellcolor{green!5} +2.9 & \cellcolor{red!0} +0.0 & \cellcolor{red!1} -1.0 & \cellcolor{red!1} -1.0 & -0.0 \\
+\midrule
+\textbf{Orthographic} & \textbf{Spelling} & \cellcolor{red!7} \textbf{-3.9}* & \cellcolor{green!3} +1.9 & \cellcolor{red!0} +0.0 & \cellcolor{red!0} +0.0 & \cellcolor{green!7} +3.9 & \cellcolor{red!1} -1.0 & \cellcolor{red!0} +0.0 & \cellcolor{red!0} +0.0 & +0.1 \\
+  & \textbf{Capitalization} & \cellcolor{red!0} +0.0 & \cellcolor{red!1} -1.0 & \cellcolor{red!1} -1.0 & \cellcolor{green!1} +1.0 & \cellcolor{green!9} \textbf{+4.9} & \cellcolor{green!2} +1.0 & \cellcolor{red!0} +0.0 & \cellcolor{green!1} +1.0 & +0.7 \\
+  & \textbf{Punctuation} & \cellcolor{red!1} -1.0 & \cellcolor{red!3} -2.0 & \cellcolor{red!0} +0.0 & \cellcolor{green!1} +1.0 & \cellcolor{green!1} +1.0 & \cellcolor{green!5} \textbf{+3.0} & \cellcolor{green!1} +1.0 & \cellcolor{green!1} +1.0 & +0.5 \\
+\midrule
+\textbf{Morphological} & \textbf{Derivation} & \cellcolor{red!6} \textbf{-3.4} & \cellcolor{red!2} -1.1 & \cellcolor{red!4} -2.3 & \cellcolor{red!4} -2.3 & \cellcolor{green!9} +4.5 & \cellcolor{red!4} -2.3 & \cellcolor{red!2} -1.1 & \cellcolor{red!9} \textbf{-4.6}* & -1.6 \\
+  & \textbf{Compound} & \cellcolor{red!6} \textbf{-3.1} & \cellcolor{red!8} -4.2 & \cellcolor{red!6} \textbf{-3.1} & \cellcolor{red!4} -2.1 & \cellcolor{green!2} +1.0 & \cellcolor{red!2} -1.0 & \cellcolor{red!2} -1.0 & \cellcolor{red!0} +0.0 & -1.7 \\
+\midrule
+\textbf{Syntactic} & \textbf{Voice} & \cellcolor{red!13} \textbf{-6.9}* & \cellcolor{red!7} -3.9 & \cellcolor{red!1} -1.0 & \cellcolor{red!7} \textbf{-3.9}* & \cellcolor{red!3} -2.0 & \cellcolor{red!1} -1.0 & \cellcolor{red!9} \textbf{-5.0}* & \cellcolor{red!7} \textbf{-4.0}* & -3.4 \\
+  & \textbf{Grammar} & \cellcolor{red!8} \textbf{-4.5} & \cellcolor{red!0} +0.0 & \cellcolor{red!5} -3.0 & \cellcolor{green!2} +1.5 & \cellcolor{red!2} -1.5 & \cellcolor{green!2} +1.5 & \cellcolor{red!2} -1.5 & \cellcolor{green!2} +1.5 & -0.8 \\
+  & \textbf{Conjunction} & \cellcolor{green!1} +1.0 & \cellcolor{red!0} +0.0 & \cellcolor{green!1} +1.0 & \cellcolor{red!1} -1.0 & \cellcolor{red!1} -1.0 & \cellcolor{red!1} -1.0 & \cellcolor{red!0} +0.0 & \cellcolor{red!0} +0.0 & -0.1 \\
+\midrule
+\textbf{Semantic} & \textbf{Concept} & \cellcolor{red!3} -2.0 & \cellcolor{red!7} -3.9 & \cellcolor{red!5} -3.0 & \cellcolor{red!3} -2.0 & \cellcolor{red!0} +0.0 & \cellcolor{red!0} +0.0 & \cellcolor{red!1} -1.0 & \cellcolor{red!9} \textbf{-4.9}* & -2.1 \\
+  & \textbf{Negation} & \cellcolor{red!20} \textbf{-16.4}*** & \cellcolor{red!20} \textbf{-12.2}** & \cellcolor{red!20} \textbf{-24.8}*** & \cellcolor{red!20} \textbf{-10.1}* & \cellcolor{red!20} \textbf{-13.2}** & \cellcolor{red!18} \textbf{-9.2}* & \cellcolor{red!20} \textbf{-10.2}* & \cellcolor{red!20} \textbf{-11.2}** & -13.4 \\
+\midrule
+\textbf{Pragmatic} & \textbf{Discourse} & \cellcolor{red!1} -1.0 & \cellcolor{red!3} -2.0 & \cellcolor{red!0} +0.0 & \cellcolor{green!1} +1.0 & \cellcolor{green!3} +1.9 & \cellcolor{green!1} +1.0 & \cellcolor{red!0} +0.0 & \cellcolor{red!5} \textbf{-3.0} & -0.3 \\
+  & \textbf{Sentiment} & \cellcolor{red!1} -1.0 & \cellcolor{red!15} \textbf{-7.8}* & \cellcolor{green!3} +2.0 & \cellcolor{red!3} -2.0 & \cellcolor{red!1} -1.0 & \cellcolor{red!11} -5.9 & \cellcolor{red!5} -3.0 & \cellcolor{red!3} -2.0 & -2.6 \\
+\midrule
+\textbf{Genre} & \textbf{Casual} & \cellcolor{red!13} \textbf{-6.9}* & \cellcolor{green!1} +1.0 & \cellcolor{red!9} \textbf{-5.0}* & \cellcolor{red!1} -1.0 & \cellcolor{green!1} +1.0 & \cellcolor{red!7} -4.0 & \cellcolor{red!5} \textbf{-3.0} & \cellcolor{red!3} -2.0 & -2.5 \\
+  & \textbf{Dialectal} & \cellcolor{red!3} -1.9 & \cellcolor{red!3} -1.9 & \cellcolor{red!7} -3.9 & \cellcolor{red!5} -2.9 & \cellcolor{red!9} \textbf{-4.9} & \cellcolor{green!7} +3.9 & \cellcolor{red!5} \textbf{-2.9} & \cellcolor{red!3} -1.9 & -2.1 \\
+\midrule
+\textbf{Average} &  -3.2 & -2.7 & -3.0 & -1.3 & +0.2 & -0.9 & -1.6 & -1.9 & -1.8 \\
+\bottomrule
+\end{tabular}}
+\caption{Sentiment Analysis: Weighted $\Delta$ by model and modification}\label{tab:sa_delta}
+\end{table}

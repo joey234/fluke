@@ -1,0 +1,16 @@
+model,modification,original_acc,modified_acc,pct_diff,weighted_delta,wilcoxon_pvalue,mannwhitney_pvalue,pvalue,significance,significant
+bert-base-cased,absolute,84.615,61.538,-27.273,-22.240,0.375,0.205,0.205,ns,False
+bert-base-cased,double,63.636,72.727,14.286,8.199,1.000,0.684,0.684,ns,False
+bert-base-cased,lexical,93.750,65.625,-30.000,-27.731,0.003,0.006,0.003,**,True
+bert-base-cased,approximate,100.000,73.077,-26.923,-26.923,0.008,0.005,0.005,**,True
+bert-base-cased,verbal,83.333,61.111,-26.667,-21.342,0.102,0.148,0.102,ns,False
+gpt2,absolute,84.615,53.846,-36.364,-29.653,0.219,0.102,0.102,ns,False
+gpt2,double,90.909,63.636,-30.000,-26.708,0.375,0.148,0.148,ns,False
+gpt2,lexical,90.625,59.375,-34.483,-30.582,0.004,0.004,0.004,**,True
+gpt2,approximate,92.308,69.231,-25.000,-22.676,0.058,0.038,0.038,*,True
+gpt2,verbal,77.778,61.111,-21.429,-15.757,0.257,0.294,0.257,ns,False
+t5-base,absolute,92.308,53.846,-41.667,-37.793,0.063,0.033,0.033,*,True
+t5-base,double,81.818,63.636,-22.222,-17.390,0.500,0.372,0.372,ns,False
+t5-base,lexical,93.750,65.625,-30.000,-27.731,0.007,0.006,0.006,**,True
+t5-base,approximate,92.308,73.077,-20.833,-18.897,0.059,0.072,0.059,.,False
+t5-base,verbal,83.333,77.778,-6.667,-5.336,0.705,0.695,0.695,ns,False

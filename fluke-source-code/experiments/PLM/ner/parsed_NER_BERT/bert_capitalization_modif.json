@@ -1,0 +1,2512 @@
+[
+  {
+    "text": "The B - 52 P IL O , Major Larry G . Me s er , later recalled ,",
+    "gold": [
+      {
+        "text": "B - 52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G . Me s er",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "B - 52 P IL O",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Me",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The C ni da i are a group of AN I AL S found exclusively in aquatic and mostly marine environments .",
+    "gold": [
+      {
+        "text": "C ni da i",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C ni da i",
+        "value": "OTHER"
+      },
+      {
+        "text": "AN I AL S",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "The C ni da i are a group of animals found E X C US IV L Y in aquatic and mostly marine environments .",
+    "gold": [
+      {
+        "text": "C ni da i",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C ni da i",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "IN T RNA L conflicts , especially between Co v c and Ban i u , were making headlines in the media .",
+    "gold": [
+      {
+        "text": "Co v c",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ban i u",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Co v c",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ban i",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Eventually , however , the Saudi government and the FBI repeatedly conflict ed during the course of the IN V ST I AT I .",
+    "gold": [
+      {
+        "text": "Saudi",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Saudi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "They were set to take on rival Oregon State in the Q U AR T R F N L of the Pac - 12 Tournament .",
+    "gold": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac - 12 Tournament",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "T",
+        "value": "EVENT"
+      },
+      {
+        "text": "F N",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pac - 12 Tournament",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "To further expand its readers hip , ` ` The Philippine Star ` ` entered into a partnership with FA ST food restaurant Jo ll bee in 2003 to become the first newspaper to be distributed free of charge in a fast food restaurant .",
+    "gold": [
+      {
+        "text": "The Philippine Star",
+        "value": "OTHER"
+      },
+      {
+        "text": "Jo ll bee",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "The Philippine Star",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "FA ST",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jo ll bee",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "IT S headquarters are in Moscow .",
+    "gold": [
+      {
+        "text": "Moscow",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "IT S",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Moscow",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The C ni da i are a group of animals found exclusively in aquatic and Mo S t L y marine environments .",
+    "gold": [
+      {
+        "text": "C ni da i",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C ni da i",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "G l am s y et se uses am mon produced by ni t reduction , amino acid degradation , and pH o T o R e S p I r A t I o N .",
+    "gold": [
+      {
+        "text": "G l am s y et se",
+        "value": "OTHER"
+      },
+      {
+        "text": "am mon",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "G l am s y et",
+        "value": "OTHER"
+      },
+      {
+        "text": "am mon",
+        "value": "OTHER"
+      },
+      {
+        "text": "ni t",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the w I i U during the Wii U ' s first release year .",
+    "gold": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "w I i U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "In some versions , the egg p la is not g r d , but is instead boiled , resulting in a softer version that lacks the characteristic S m O k Y flavor of the original dish .",
+    "gold": [
+      {
+        "text": "egg p la",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Jam il was married to the daughter of Khalid Ba k das h , a Syria n politician who was the Se C r E t A r Y - G e N e R a L of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954 .",
+    "gold": [
+      {
+        "text": "Jam il",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Ba k das h",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Jam il",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Ba k das h",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "C r E t A r Y",
+        "value": "PERSON"
+      },
+      {
+        "text": "e",
+        "value": "PERSON"
+      },
+      {
+        "text": "e",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "US P 42 has also been shown to de u q tin te p 53 and may be required for the ability of p 53 to respond to s T r E S .",
+    "gold": [
+      {
+        "text": "US P 42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "US P 42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Another part of the RNA binds to the X - chromosome positioning PR C 2 such that it can met h ate various regions on the X - c H r O m O O m E .",
+    "gold": [
+      {
+        "text": "RNA",
+        "value": "OTHER"
+      },
+      {
+        "text": "X - chromosome",
+        "value": "OTHER"
+      },
+      {
+        "text": "PR C 2",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "RNA",
+        "value": "OTHER"
+      },
+      {
+        "text": "X - chromosome",
+        "value": "OTHER"
+      },
+      {
+        "text": "PR C 2",
+        "value": "OTHER"
+      },
+      {
+        "text": "h",
+        "value": "OTHER"
+      },
+      {
+        "text": "X - c H r O m O O m E",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "The Germans then attacked again and penetrated C Company , but the tanks of the North Irish Horse stopped the G e R m A n S until dusk .",
+    "gold": [
+      {
+        "text": "Germans",
+        "value": "LOCATION"
+      },
+      {
+        "text": "C Company",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "North Irish Horse",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C Company",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "North Irish Horse",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "G e R m A n S",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "D M s in Taiwan are classified as C l As S DR .",
+    "gold": [
+      {
+        "text": "D M s",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The c ni da i are a group of animals found exclusively in aquatic and mostly marine environments .",
+    "gold": [
+      {
+        "text": "c ni da i",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "c ni da i",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "They were set to take on rival ore go state in the quarterfinals of the Pac - 12 Tournament .",
+    "gold": [
+      {
+        "text": "ore go state",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac - 12 Tournament",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pac - 12 Tournament",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "Shortly after World War I , he purchased a plot of land in to ul and donated it to the local sports club , RC To ul na s , for the building of a stadium .",
+    "gold": [
+      {
+        "text": "World War I",
+        "value": "EVENT"
+      },
+      {
+        "text": "to ul",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RC To ul na s",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "World War I",
+        "value": "EVENT"
+      },
+      {
+        "text": "RC To ul na",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "br e U ll r Fest was first held in 1963 .",
+    "gold": [
+      {
+        "text": "br e U ll r Fest",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "U ll r Fest",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "The story had been adapted to the stage in 1939 at the ma r in Beck Theater to great acclaim , but only ran for six performances because the production proved to be expensive .",
+    "gold": [
+      {
+        "text": "ma r in Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Beck Theater",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "He was appointed captain and took part in the naval part of the siege of Port Hudson in May to July , 1863 .",
+    "gold": [
+      {
+        "text": "siege of Port Hudson",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Port Hudson",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "It was produced by rich a D . Z an c and David Brown .",
+    "gold": [
+      {
+        "text": "rich a D . Z an c",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "D . Z an c",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "After the 1973 military coup , a r \u00f3 was forced to go underground .",
+    "gold": [
+      {
+        "text": "a r \u00f3",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "It won the jury award for best feature film at the Tri M ed Film Festival in 2010 .",
+    "gold": [
+      {
+        "text": "jury award for best feature film",
+        "value": "OTHER"
+      },
+      {
+        "text": "Tri M ed Film Festival",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Tri M ed Film Festival",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "Police investigations revealed the shotgun used to perform the murders was the same weapon used earlier in a b un led attempt to blast open a bank door during a robbery at the state bank in Oak Park seven months earlier .",
+    "gold": [
+      {
+        "text": "state bank",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Oak Park",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Oak Park",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "team Or r scored four times on way to a 7 \u2013 1 victory .",
+    "gold": [
+      {
+        "text": "team Or r",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "an h is a playable character in the multiplayer online battle arena , ` ` SM IT E ' ' .",
+    "gold": [
+      {
+        "text": "an h",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Pune lost the match 1 \u2013 3 with all three goals coming after am r der came on .",
+    "gold": [
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "am r der",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "r",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "As a longer lo a , it may well have been the origin of f re bread as b a s there attempted to adopt the steam method to produce their bag u t .",
+    "gold": [
+      {
+        "text": "f re",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "The au s - hung a navy built and operated two classes of protected cruisers .",
+    "gold": [
+      {
+        "text": "au s - hung a navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "a",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "BA C K TO BA S CS focuses on genre classics , showing older movies and underground cult films , with occasional stab s at mainstream and newer genre pieces .",
+    "gold": [
+      {
+        "text": "BA C K TO BA S CS",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C K",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "BA S CS",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Internal conflicts , especially between Co v c and BA N C U , were making headlines in the media .",
+    "gold": [
+      {
+        "text": "Co v c",
+        "value": "PERSON"
+      },
+      {
+        "text": "BA N C U",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Co v c",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "BA N C U",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "pu c r travelled widely in her childhood due to her father ' s military background .",
+    "gold": [
+      {
+        "text": "pu c r",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "pu c r",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The film is based on the F R NC H novel ` ` L ' affair e C l men c u ' ' , by Alexandre Du ma , fi l , and is now considered to be lost .",
+    "gold": [
+      {
+        "text": "F R NC H",
+        "value": "OTHER"
+      },
+      {
+        "text": "Alexandre Du ma",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "F R NC H",
+        "value": "PERSON"
+      },
+      {
+        "text": "L ' affair e C l men c u ' '",
+        "value": "ART"
+      },
+      {
+        "text": "Alexandre Du ma",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "It is developed by Go la em , a F RA NC E - based software company ( created in Ren ne in 2009 ) .",
+    "gold": [
+      {
+        "text": "Go la em",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "F RA NC E",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ren ne",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Go la em",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "RA NC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ren ne",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Lawrence claims that she was given cash , whereas step he s claims that his life was threatened .",
+    "gold": [
+      {
+        "text": "step he s",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lawrence",
+        "value": "PERSON"
+      },
+      {
+        "text": "he",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Six years later , both R I H R and Lil l grow into strong and beautiful teenagers .",
+    "gold": [
+      {
+        "text": "R I H R",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lil l",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "R I H R",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lil l",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "a r in ' s Del I ma g a Disco s also released the album in 2007 .",
+    "gold": [
+      {
+        "text": "a r in",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del I ma g a Disco s",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Del I ma g a Disco",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "He has caught the attention of major publications and media outlets such as CNN , THE H U FF IN TO N P OS T , H y be as , The Guardian , Ju x ta p z Magazine , Daily Mail , N R C , Al j z r and Hi - Fr u to e Magazine .",
+    "gold": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "THE H U FF IN TO N P OS T",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "H y be as",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ju x ta p z Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail , N R C",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Al j z r",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi - Fr u to e Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "THE H U FF IN TO N P",
+        "value": "ART"
+      },
+      {
+        "text": "OS",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "T",
+        "value": "ART"
+      },
+      {
+        "text": "H y be as",
+        "value": "ART"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ju",
+        "value": "ART"
+      },
+      {
+        "text": "x",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ta p z Magazine",
+        "value": "ART"
+      },
+      {
+        "text": "Daily Mail",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "N",
+        "value": "ART"
+      },
+      {
+        "text": "R",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "C",
+        "value": "ART"
+      },
+      {
+        "text": "Al j z r",
+        "value": "ART"
+      },
+      {
+        "text": "Hi - Fr u to e Magazine",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "Both doors are mirror images of each other and each contain the bronze university seal .",
+    "gold": [
+      {
+        "text": "bronze university seal",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "B IT T R Sweet & am p ; T w s is rock band The Q u re boy s ' s second studio album , released in 1993 .",
+    "gold": [
+      {
+        "text": "B IT T R Sweet & am p",
+        "value": "ART"
+      },
+      {
+        "text": "T w s",
+        "value": "ART"
+      },
+      {
+        "text": "The Q u re boy s",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "T R Sweet & am",
+        "value": "ART"
+      },
+      {
+        "text": "w s",
+        "value": "ART"
+      },
+      {
+        "text": "The Q u re boy",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The ridge is situated northeast of Mount K l en Oh rid ski , extending in the north - south direction , wide , and is bounded by Post e Valley to the east , by Pa L e S t R i N a Glacier to the north and its tributary Yo z la Glacier to the west .",
+    "gold": [
+      {
+        "text": "Mount K l en Oh rid ski",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Post e Valley",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pa L e S t R i N a Glacier",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Yo z la Glacier",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Mount K l en Oh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Post e Valley",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pa L e S t R i N a Glacier",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Yo z la Glacier",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "go n caused strong g us y winds and to r n rainfall along Pakistan ' s Arabian Sea coast from Karachi to G wa da .",
+    "gold": [
+      {
+        "text": "go n",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan ' s Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "G wa da",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pakistan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Arabian Sea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "G wa da",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Holy Trinity Church is a Church of England parish church at Both en p , near B rid port in Do R s E t , England .",
+    "gold": [
+      {
+        "text": "Holy Trinity Church",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Church of",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "England",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Both en p",
+        "value": "LOCATION"
+      },
+      {
+        "text": "B rid port",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Do R s E t",
+        "value": "LOCATION"
+      },
+      {
+        "text": "England",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Holy Trinity Church",
+        "value": "BUILDING"
+      },
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Both en p",
+        "value": "LOCATION"
+      },
+      {
+        "text": "rid",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Do R s E t",
+        "value": "LOCATION"
+      },
+      {
+        "text": "England",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "All is i Pi n f of ` ` Des t o ` ` , praised the game , saying the controls were as good as that of ` ` Su P e R Metro id ` ` and ` ` Super Castle van a IV . ' '",
+    "gold": [
+      {
+        "text": "All is i Pi n f",
+        "value": "PERSON"
+      },
+      {
+        "text": "Des t o",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Su P e R Metro id",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castle van a IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "is i Pi n",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Des t o",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Su P e R Metro id",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castle van a IV",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "It has been used to treat h y tens ion and cardiac failure , and to treat p R e - e C l A m P I a during pregnancy .",
+    "gold": [
+      {
+        "text": "h y tens ion",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure ,",
+        "value": "OTHER"
+      },
+      {
+        "text": "p R e - e C l A m P I a",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "h y tens ion",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure",
+        "value": "OTHER"
+      },
+      {
+        "text": "p R e - e C l A m P I a",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Eventually , however , the sa u government and the FBI repeatedly conflict ed during the course of the investigation .",
+    "gold": [
+      {
+        "text": "sa u",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "u",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "He also appeared in and Raj Ka n war ' s action hit ` ` Je E t ` ` .",
+    "gold": [
+      {
+        "text": "Raj Ka n war",
+        "value": "PERSON"
+      },
+      {
+        "text": "Je E t",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Raj Ka",
+        "value": "PERSON"
+      },
+      {
+        "text": "Je E t",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "d m in Taiwan are classified as Class DR .",
+    "gold": [
+      {
+        "text": "d m",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Perhaps the best known Ward La F ran product was the P - 80 ` ` Am B a S s A d O r ' ' model of pump er , one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program ` ` Emergency !",
+    "gold": [
+      {
+        "text": "Ward La F ran",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P - 80 ` ` Am B a S s A d O r ' '",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ward",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "La F",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "P - 80 `",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Am B a",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "It is an or th o x o i us that contains the g l co p rot ins ha em g l in n and n E u R a M i N i D a S e .",
+    "gold": [
+      {
+        "text": "or th o x o i us",
+        "value": "OTHER"
+      },
+      {
+        "text": "g l co p rot ins ha em g l in n",
+        "value": "OTHER"
+      },
+      {
+        "text": "n E u R a M i N i D a S e",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "sa und er lost to Fi t by unanimous decision .",
+    "gold": [
+      {
+        "text": "sa und er",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fi t",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Fi t",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Nate sa stood as the UN P ' s candidate in Ka n es th u at the 1947 Parliamentary elections but was defeated by the All Ceylon Tamil Congress ( ACT C ) candidate S . J . V . Ch el van ya ka m .",
+    "gold": [
+      {
+        "text": "Nate sa",
+        "value": "PERSON"
+      },
+      {
+        "text": "UN P",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ka n es th u",
+        "value": "LOCATION"
+      },
+      {
+        "text": "All Ceylon Tamil Congress",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ACT C",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ch el van ya ka m",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Nate sa",
+        "value": "PERSON"
+      },
+      {
+        "text": "UN P",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ka n es th u",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Parliamentary",
+        "value": "EVENT"
+      },
+      {
+        "text": "All Ceylon Tamil Congress",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ACT C",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "S",
+        "value": "PERSON"
+      },
+      {
+        "text": "J",
+        "value": "PERSON"
+      },
+      {
+        "text": "V",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ch el van",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The peasant r was also a g r d , and between 1846 and 1848 opposition to ST U D Z A intensified .",
+    "gold": [
+      {
+        "text": "ST U D Z A",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "ST U D Z",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The Rolls - Royce S p y ( Company designation s RB . 163 and RB . 168 and RB . 183 ) is a Low - bypass t u b fan engine originally designed and manufactured by Rolls - Royce that has been in widespread service for over 40 years .",
+    "gold": [
+      {
+        "text": "Rolls - Royce S p y",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB . 163",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB . 168",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB . 183",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Rolls - Royce",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Rolls - Royce S p y",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB . 163",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB . 168",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB . 183",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "u",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Rolls - Royce",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Early communities began to appear at the beginning of the 19th century , including Lynch b , Harrisburg , and R I H OR ' S P O IN T ( modern Morgan ' s Point ) in the 1820 s .",
+    "gold": [
+      {
+        "text": "Lynch b",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "R I H OR ' S P O IN T",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan ' s Point",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lynch b",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "R I H OR ' S P O IN T",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan ' s Point",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Alex Salmon d ( leader of S N ) has since made history by becoming the first First Minister of Scotland from a party other than La B o U r .",
+    "gold": [
+      {
+        "text": "Alex Salmon d",
+        "value": "PERSON"
+      },
+      {
+        "text": "S N",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "La B o U r",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Alex Salmon",
+        "value": "PERSON"
+      },
+      {
+        "text": "S N",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "La B o U",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Hunt represents the 8th legislative district in Omaha , consisting of the mid town neighborhoods of Du N d E e , Benson , and Keys tone .",
+    "gold": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Du N d E e",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keys tone",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Du N d E e",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keys tone",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "In 150 6 , he took part in a coup to en th r King Jung j and was Recorded in history as a merit or subject who was involved in t ran q l z the state and received the title of Inc he on un .",
+    "gold": [
+      {
+        "text": "Jung j",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Jung j",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "They used several features from a batch of A1 Pa C i F i C they had built in 1924 .",
+    "gold": [
+      {
+        "text": "A1 Pa C i F i C",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "A1 Pa C i F i C",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "His burial in 1791 after a funeral in the Stephan s do Si m l followed the regulations of the day .",
+    "gold": [
+      {
+        "text": "Stephan s do",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Stephan s do Si m",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "G r u with a BA In Psychology , and a minor in C rim in log .",
+    "gold": [
+      {
+        "text": "BA",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "BA In Psychology",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "He worked as a teacher and was principal of St Patrick ' s College In Du ng i n for many years .",
+    "gold": [
+      {
+        "text": "St Patrick ' s College",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Du ng i n",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "St Patrick ' s College In",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Du",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Ch e ho ' s Own text , which despite a running time of about five hours he never thought of as finished , is seldom played .",
+    "gold": [
+      {
+        "text": "Ch e ho",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "The 20 Q AI Can draw its own conclusions on how to interpret the information .",
+    "gold": [
+      {
+        "text": "20 Q AI",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "AI",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Lo ya is recruited from Queens County , New York by Lieutenant Colonel Richard He w et for the 3rd battalion De L an y ' s Brigade had established a fortified position in early August on the central north shore of Lo N g Is L a N d at Set au k , just across Long Island Sound from Fairfield .",
+    "gold": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lieutenant Colonel Richard He w et",
+        "value": "PERSON"
+      },
+      {
+        "text": "De L an y ' s Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Lo N g Is L a N d",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Set au k",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard He",
+        "value": "PERSON"
+      },
+      {
+        "text": "De L an y ' s Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Lo N g Is L a N d",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Set au k",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "G l am s y et se uses AM M N A produced by ni t reduction , amino acid degradation , and photo re p .",
+    "gold": [
+      {
+        "text": "G l am s y et se",
+        "value": "OTHER"
+      },
+      {
+        "text": "AM M N A",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "G l am s y et",
+        "value": "OTHER"
+      },
+      {
+        "text": "AM M N A",
+        "value": "OTHER"
+      },
+      {
+        "text": "ni t",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "The French credit rating agency CO FA CE declared that the dramatic mining rescue would have a positive impact on Chile ' s economic reputation .",
+    "gold": [
+      {
+        "text": "French",
+        "value": "LOCATION"
+      },
+      {
+        "text": "CO FA CE",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Chile",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "French",
+        "value": "LOCATION"
+      },
+      {
+        "text": "CO FA CE",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Chile",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He Graduate d from both Marie t College ( 1938 ) and The Ohio State University Mo r College of Law ( 1942 ) .",
+    "gold": [
+      {
+        "text": "Marie t College",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ohio State University Mo r College of Law",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Marie t College",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ohio State University Mo r College of Law",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "He also was trained at the Royal Danish Academy of Fine Arts in Copenhagen Under Professor Ein a U t on - Frank from 1945 - 1946 .",
+    "gold": [
+      {
+        "text": "Royal Danish Academy of Fine Arts",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Copenhagen",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ein a U t on - Frank",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Royal Danish Academy of Fine Arts",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Copenhagen",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ein a U t on",
+        "value": "PERSON"
+      },
+      {
+        "text": "Frank",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "He went on to produce Kim F o le and the B M Band its ( band ) Re c r Records ' album ` ` Hi D d E n Age n At the Thirteen th Not ` ` .",
+    "gold": [
+      {
+        "text": "Kim F o le",
+        "value": "PERSON"
+      },
+      {
+        "text": "B M Band its",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Re c r Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi D d E n Age n At the Thirteen th Not",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Kim F o le",
+        "value": "PERSON"
+      },
+      {
+        "text": "B M Band",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi D d E n Age n At the Thirteen th Not",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "this collection contains material relating to sexual health issues from 1974 - 2007 .",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "A prototype was fitted in the mid - ' 60s in a one - off DB 5 extended 4 ' ' after the doors and driven by Ma R e K personally , and a normally 6 - cylinder Aston Martin DB 7 was equipped with a V8 unit in 1998 .",
+    "gold": [
+      {
+        "text": "DB 5 extended 4 ' '",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Ma R e K",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB 7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "DB 5",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Ma R e K",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB 7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "The current operators , Ace Radio Broadcast er P u chase d 3 Y B in 1995 .",
+    "gold": [
+      {
+        "text": "Ace Radio Broadcast er",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "3 Y B",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ace Radio Broadcast er P",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "At a festival , si d hi saves Vin from being shot at by R u r .",
+    "gold": [
+      {
+        "text": "si d hi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "R u r",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "si d",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "R u r",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "less commonly , cases of h y sexual it have been reported .",
+    "gold": [],
+    "prediction": [
+      {
+        "text": "h y sexual it",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Its headquarters are in M OS CO W .",
+    "gold": [
+      {
+        "text": "M OS CO W",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "M OS CO W",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "the ability to sustain a lucrative business in boot leg g liquor was largely helped by the minimal police surveillance at the time .",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "while the track ` ` Z in ` ` Top p the songs chart .",
+    "gold": [
+      {
+        "text": "Z in",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Z in",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "According to St e ' n Shake archives , the R E T U AN T ' S founder , Gus Belt , applied for a trademark on the word in the 1930s .",
+    "gold": [
+      {
+        "text": "St e ' n Shake",
+        "value": "ART"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "St e ' n Shake",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "R E T U AN T ' S",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "S O E W H T hidden away by the Ben C r a an range , it is usually climbed in conjunction with its neighbour Be inn E un i .",
+    "gold": [
+      {
+        "text": "Ben C r a an",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Be inn E un i",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ben C r a",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Be inn E un i",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Mo di fi s Inc l additional cockpit windows , and 245 - horsepower Jacobs R - 75 5 - 9 engines .",
+    "gold": [
+      {
+        "text": "Jacobs R - 75 5 - 9",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "245",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Jacobs R - 75 5 - 9",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Media it named her in a four - way tie among the ` ` Be S t t V P u N d I t S ` ` of 2014 for bringing ` ` a comprehensive understanding to women ' s health and justice issues that goes beyond the usual talking points . ' '",
+    "gold": [
+      {
+        "text": "Media it",
+        "value": "PERSON"
+      },
+      {
+        "text": "Be S t t V P u N d I t S",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Be S t t V P u N d I t S",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "All Lyrics written by Ke ll Quinn and Jesse Lawson unless noted , all music composed by Sleeping with Sir en",
+    "gold": [
+      {
+        "text": "Ke ll Quinn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jesse Lawson",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ke ll Quinn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jesse Lawson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Sleeping with",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "It is operated by the n h un b y Corporation .",
+    "gold": [
+      {
+        "text": "n h un b y Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "n h un b y Corporation",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The same effects have also been seen in SH OR T pub er al boys .",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "N IN T N O continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U ' s first release year .",
+    "gold": [
+      {
+        "text": "N IN T N O",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "N IN T N O",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "In some cases , black community groups resisted the attacks , especially in CH I AG O and Washington , D . C .",
+    "gold": [
+      {
+        "text": "CH I AG O",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Washington , D . C",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "CH I AG O",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Washington",
+        "value": "LOCATION"
+      },
+      {
+        "text": "D",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The final season of minor league play E L K IN ME M R AL PA R K saw season attendance of 16 , 322 , an average of 29 9 per contest .",
+    "gold": [
+      {
+        "text": "E L K IN ME M R AL PA R K",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "PA",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "In some versions , the E G GP LA N is not g r d , but is instead boiled , resulting in a softer version that lacks the characteristic s m flavor of the original dish .",
+    "gold": [
+      {
+        "text": "E G GP LA N",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "E G GP LA N",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Mary Weiss was one of the creators of The Real Live Brady B un at THE AN N O Y AN CE THE AT ER , which led to a series of feature film remake s .",
+    "gold": [
+      {
+        "text": "Mary Weiss",
+        "value": "PERSON"
+      },
+      {
+        "text": "Real Live Brady B un",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "THE AN N O Y AN CE THE AT ER",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Mary Weiss",
+        "value": "PERSON"
+      },
+      {
+        "text": "The Real Live Brady B",
+        "value": "ART"
+      },
+      {
+        "text": "ER",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "The basis of the column is or i ate northwest / southeast , while its capital is aligned north / south , possibly so that the statue could look towards the nearby church of the Holy Apostles .",
+    "gold": [
+      {
+        "text": "church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Holy Apostles",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "Dublin is also served by Weston Airport and other small facilities , by a range of helicopter operators , and the military and some State services use c As E m E n T A e R o D r O m E nearby .",
+    "gold": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "c As E m E n T A e R o D r O m E",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "The 117 - B E facility entirely comprised individual rooms , each with its own en - suite bathroom facilities .",
+    "gold": [],
+    "prediction": [
+      {
+        "text": "117",
+        "value": "BUILDING"
+      },
+      {
+        "text": "B E",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "The other higher main peak is named North Twin , With a height of .",
+    "gold": [
+      {
+        "text": "North Twin",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "North Twin",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "For the 2019 Fr i z Art Fair in London , A go tin ll staged his fourth intervention by deposit ing a 1 ton ne block of translucent ice pulled by a Te S l A to the entrance of the fair on opening day .",
+    "gold": [
+      {
+        "text": "Fr i z Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "A go tin ll",
+        "value": "PERSON"
+      },
+      {
+        "text": "Te S l A",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Fr i z Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "A go tin",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "C aunt er Re ma in a regular character until new executive producer Louise Be r d axe d him in 2003 , a decision which she later stated she regretted .",
+    "gold": [
+      {
+        "text": "C aunt er",
+        "value": "PERSON"
+      },
+      {
+        "text": "Louise Be r d",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Louise Be r d",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The buildings were renovated into o F f I c E in the 1980s .",
+    "gold": [],
+    "prediction": []
+  }
+]

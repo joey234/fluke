@@ -1,0 +1,2396 @@
+[
+  {
+    "text": "The B-52 PILOT, Major Larry G.Messinger, later recalled,",
+    "gold": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "B-52 PILOT",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "The Cnidaria are a group of ANIMALS found exclusively in aquatic and mostly marine environments.",
+    "gold": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Cnidaria",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "ANIMALS",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "The Cnidaria are a group of animals found EXCLUSIVELY in aquatic and mostly marine environments.",
+    "gold": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Cnidaria",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "INTERNAL conflicts, especially between Covaci and Baniciu, were making headlines in the media.",
+    "gold": [
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Baniciu",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Covaci",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Baniciu",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Eventually, however, the Saudi government and the FBI repeatedly conflicted during the course of the INVESTIGATION.",
+    "gold": [
+      {
+        "text": "Saudi",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Saudi",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "INVESTIGATION",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "They were set to take on rival Oregon State in the QUARTERFINALS of the Pac-12 Tournament.",
+    "gold": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "QUARTERFINALS",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "To further expand its readership, ``The Philippine Star`` entered into a partnership with FAST food restaurant Jollibee in 2003 to become the first newspaper to be distributed free of charge in a fast food restaurant.",
+    "gold": [
+      {
+        "text": "The Philippine Star",
+        "value": "OTHER"
+      },
+      {
+        "text": "Jollibee",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "The Philippine Star",
+        "value": "ART"
+      },
+      {
+        "text": "FAST",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Jollibee",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "ITS headquarters are in Moscow.",
+    "gold": [
+      {
+        "text": "Moscow",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Moscow",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The Cnidaria are a group of animals found exclusively in aquatic and MoStLy marine environments.",
+    "gold": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Cnidaria",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "MoStLy",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and pHoToReSpIrAtIoN.",
+    "gold": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Glutamine",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "nitrate",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the wIi U during the Wii U's first release year.",
+    "gold": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic SmOkY flavor of the original dish.",
+    "gold": [
+      {
+        "text": "eggplant",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Jamil was married to the daughter of Khalid Bakdash, a Syria n politician who was the SeCrEtArY-GeNeRaL of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "gold": [
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to sTrEsS.",
+    "gold": [
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "USP42",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Another part of the RNA binds to the X-chromosome positioning PRC2 such that it can methylate various regions on the X-cHrOmOsOmE.",
+    "gold": [
+      {
+        "text": "RNA",
+        "value": "OTHER"
+      },
+      {
+        "text": "X-chromosome",
+        "value": "OTHER"
+      },
+      {
+        "text": "PRC2",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "RNA",
+        "value": "OTHER"
+      },
+      {
+        "text": "X-chromosome",
+        "value": "OTHER"
+      },
+      {
+        "text": "PRC2",
+        "value": "OTHER"
+      },
+      {
+        "text": "X-cHrOmOsOmE",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "The Germans then attacked again and penetrated C Company, but the tanks of the North Irish Horse stopped the GeRmAnS until dusk.",
+    "gold": [
+      {
+        "text": "Germans",
+        "value": "LOCATION"
+      },
+      {
+        "text": "C Company",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "North Irish Horse",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C",
+        "value": "LOCATION"
+      },
+      {
+        "text": "North Irish Horse",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "DMUs in Taiwan are classified as ClAsS DR.",
+    "gold": [
+      {
+        "text": "DMUs",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "DMUs",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "ClAsS DR",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "The cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "gold": [
+      {
+        "text": "cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "They were set to take on rival oregon state in the quarterfinals of the Pac-12 Tournament.",
+    "gold": [
+      {
+        "text": "oregon state",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "Shortly after World War I, he purchased a plot of land in toulon and donated it to the local sports club, RC Toulonnais, for the building of a stadium.",
+    "gold": [
+      {
+        "text": "World War I",
+        "value": "EVENT"
+      },
+      {
+        "text": "toulon",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RC Toulonnais",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "World War I",
+        "value": "EVENT"
+      },
+      {
+        "text": "toulon",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RC Toulonnais",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "breck Ullr Fest was first held in 1963.",
+    "gold": [
+      {
+        "text": "breck Ullr Fest",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "The story had been adapted to the stage in 1939 at the martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "gold": [
+      {
+        "text": "martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "He was appointed captain and took part in the naval part of the siege of Port Hudson in May to July, 1863.",
+    "gold": [
+      {
+        "text": "siege of Port Hudson",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "It was produced by richard D.Zanuck and David Brown.",
+    "gold": [
+      {
+        "text": "richard D.Zanuck",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "After the 1973 military coup, ar\u00f3n was forced to go underground.",
+    "gold": [
+      {
+        "text": "ar\u00f3n",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "It won the jury award for best feature film at the TriMedia Film Festival in 2010.",
+    "gold": [
+      {
+        "text": "jury award for best feature film",
+        "value": "OTHER"
+      },
+      {
+        "text": "TriMedia Film Festival",
+        "value": "EVENT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "TriMedia Film Festival",
+        "value": "EVENT"
+      }
+    ]
+  },
+  {
+    "text": "Police investigations revealed the shotgun used to perform the murders was the same weapon used earlier in a bungled attempt to blast open a bank door during a robbery at the state bank in Oak Park seven months earlier.",
+    "gold": [
+      {
+        "text": "state bank",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Oak Park",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Oak Park",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "team Orr scored four times on way to a 7\u20131 victory.",
+    "gold": [
+      {
+        "text": "team Orr",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Orr",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "anhur is a playable character in the multiplayer online battle arena, ``SMITE''.",
+    "gold": [
+      {
+        "text": "anhur",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "SMITE",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Pune lost the match 1\u20133 with all three goals coming after amrinder came on.",
+    "gold": [
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "amrinder",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pune",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "As a longer loaf, it may well have been the origin of french bread as bakers there attempted to adopt the steam method to produce their baguettes.",
+    "gold": [
+      {
+        "text": "french",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "french",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "bakers",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "The austro-hungarian navy built and operated two classes of protected cruisers.",
+    "gold": [
+      {
+        "text": "austro-hungarian navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "BACK TO BASICS focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "gold": [
+      {
+        "text": "BACK TO BASICS",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Internal conflicts, especially between Covaci and BANICIU, were making headlines in the media.",
+    "gold": [
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "BANICIU",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Covaci",
+        "value": "LOCATION"
+      },
+      {
+        "text": "BANICIU",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "puckrik travelled widely in her childhood due to her father's military background.",
+    "gold": [
+      {
+        "text": "puckrik",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "The film is based on the FRENCH novel ``L'affaire Cl\u00e9menceau'', by Alexandre Dumas, fils, and is now considered to be lost.",
+    "gold": [
+      {
+        "text": "FRENCH",
+        "value": "OTHER"
+      },
+      {
+        "text": "Alexandre Dumas",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "FRENCH",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "L'affaire Cl\u00e9menceau",
+        "value": "ART"
+      },
+      {
+        "text": "Alexandre Dumas",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "It is developed by Golaem, a FRANCE -based software company (created in Rennes in 2009).",
+    "gold": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "FRANCE",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "FRANCE",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Lawrence claims that she was given cash, whereas stephens claims that his life was threatened.",
+    "gold": [
+      {
+        "text": "stephens",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lawrence",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Six years later, both RICHARD and Lilli grow into strong and beautiful teenagers.",
+    "gold": [
+      {
+        "text": "RICHARD",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lilli",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "RICHARD",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lilli",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "argentina's Del Imaginario Discos also released the album in 2007.",
+    "gold": [
+      {
+        "text": "argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "He has caught the attention of major publications and media outlets such as CNN, THE HUFFINGTON POST, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "gold": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "THE HUFFINGTON POST",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail , NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "THE HUFFINGTON POST",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily",
+        "value": "ART"
+      },
+      {
+        "text": "NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Both doors are mirror images of each other and each contain the bronze university seal.",
+    "gold": [
+      {
+        "text": "bronze university seal",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "BITTER Sweet & amp ; Twisted is rock band The Quireboys's second studio album, released in 1993.",
+    "gold": [
+      {
+        "text": "BITTER Sweet & amp",
+        "value": "ART"
+      },
+      {
+        "text": "Twisted",
+        "value": "ART"
+      },
+      {
+        "text": "The Quireboys",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "BITTER",
+        "value": "OTHER"
+      },
+      {
+        "text": "The Quireboys",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The ridge is situated northeast of Mount Kliment Ohridski, extending in the north-south direction, wide, and is bounded by Poste Valley to the east, by PaLeStRiNa Glacier to the north and its tributary Yozola Glacier to the west.",
+    "gold": [
+      {
+        "text": "Mount Kliment Ohridski",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Poste Valley",
+        "value": "LOCATION"
+      },
+      {
+        "text": "PaLeStRiNa Glacier",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Yozola Glacier",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Mount Kliment Ohridski",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Poste Valley",
+        "value": "LOCATION"
+      },
+      {
+        "text": "PaLeStRiNa Glacier",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Yozola Glacier",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "gold": [
+      {
+        "text": "gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan 's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "gonu",
+        "value": "OTHER"
+      },
+      {
+        "text": "Pakistan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Holy Trinity Church is a Church of England parish church at Bothenhampton, near Bridport in DoRsEt, England.",
+    "gold": [
+      {
+        "text": "Holy Trinity Church",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Church of England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Bothenhampton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bridport",
+        "value": "LOCATION"
+      },
+      {
+        "text": "DoRsEt",
+        "value": "LOCATION"
+      },
+      {
+        "text": "England",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "England",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bothenhampton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bridport",
+        "value": "LOCATION"
+      },
+      {
+        "text": "DoRsEt",
+        "value": "LOCATION"
+      },
+      {
+        "text": "England",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``SuPeR Metroid`` and ``Super Castlevania IV.''",
+    "gold": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "SuPeR Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "SuPeR Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "It has been used to treat hypertension and cardiac failure, and to treat pRe-eClAmPsIa during pregnancy.",
+    "gold": [
+      {
+        "text": "hypertension",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure ,",
+        "value": "OTHER"
+      },
+      {
+        "text": "pRe-eClAmPsIa",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "hypertension",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure",
+        "value": "OTHER"
+      },
+      {
+        "text": "pRe-eClAmPsIa",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Eventually, however, the saudi government and the FBI repeatedly conflicted during the course of the investigation.",
+    "gold": [
+      {
+        "text": "saudi",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "He also appeared in and Raj Kanwar's action hit ``JeEt``.",
+    "gold": [
+      {
+        "text": "Raj Kanwar",
+        "value": "PERSON"
+      },
+      {
+        "text": "JeEt",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Raj Kanwar",
+        "value": "PERSON"
+      },
+      {
+        "text": "JeEt",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "dmus in Taiwan are classified as Class DR.",
+    "gold": [
+      {
+        "text": "dmus",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Perhaps the best known Ward LaFrance product was the P-80 ``AmBaSsAdOr'' model of pumper, one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program`` Emergency !",
+    "gold": [
+      {
+        "text": "Ward LaFrance",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P-80 `` AmBaSsAdOr ''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ward",
+        "value": "PERSON"
+      },
+      {
+        "text": "P-80",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "AmBaSsAdOr ''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Emergency",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "It is an orthomyxovirus that contains the glycoproteins haemagglutinin and nEuRaMiNiDaSe.",
+    "gold": [
+      {
+        "text": "orthomyxovirus",
+        "value": "OTHER"
+      },
+      {
+        "text": "glycoproteins haemagglutinin",
+        "value": "OTHER"
+      },
+      {
+        "text": "nEuRaMiNiDaSe",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "glycoproteins",
+        "value": "OTHER"
+      },
+      {
+        "text": "haemagglutinin",
+        "value": "OTHER"
+      },
+      {
+        "text": "nEuRaMiNiDaSe",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "saunders lost to Fitch by unanimous decision.",
+    "gold": [
+      {
+        "text": "saunders",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fitch",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Fitch",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Natesan stood as the UNP's candidate in Kankesanthurai at the 1947 Parliamentary elections but was defeated by the All Ceylon Tamil Congress (ACTC) candidate S.J.V.Chelvanayakam.",
+    "gold": [
+      {
+        "text": "Natesan",
+        "value": "PERSON"
+      },
+      {
+        "text": "UNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Kankesanthurai",
+        "value": "LOCATION"
+      },
+      {
+        "text": "All Ceylon Tamil Congress",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ACTC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "S.J.V.Chelvanayakam",
+        "value": "S.J.V.PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Natesan",
+        "value": "PERSON"
+      },
+      {
+        "text": "UNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Kankesanthurai",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Parliamentary elections",
+        "value": "EVENT"
+      },
+      {
+        "text": "All Ceylon Tamil Congress",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ACTC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "S.J.V.Chelvanayakam",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to STURDZA intensified.",
+    "gold": [
+      {
+        "text": "STURDZA",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "The Rolls-Royce Spey (Company designations RB.163 and RB.168 and RB.183) is a Low-bypass turbofan engine originally designed and manufactured by Rolls-Royce that has been in widespread service for over 40 years.",
+    "gold": [
+      {
+        "text": "Rolls-Royce Spey",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB.163",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB.168",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB.183",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Rolls-Royce",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Rolls-Royce Spey",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB.163",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB.168",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Rolls-Royce",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and RIGHTOR'S POINT (modern Morgan's Point) in the 1820s.",
+    "gold": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RIGHTOR 'S POINT",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan 's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RIGHTOR 'S POINT",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan 's Point",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Alex Salmond (leader of SNP) has since made history by becoming the first First Minister of Scotland from a party other than LaBoUr.",
+    "gold": [
+      {
+        "text": "Alex Salmond",
+        "value": "PERSON"
+      },
+      {
+        "text": "SNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "LaBoUr",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Alex Salmond",
+        "value": "PERSON"
+      },
+      {
+        "text": "SNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "LaBoUr",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of DuNdEe, Benson, and Keystone.",
+    "gold": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "DuNdEe",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "DuNdEe",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "In 1506, he took part in a coup to enthrone King Jungjong and was Recorded in history as a meritorious subject who was involved in tranquilizing the state and received the title of Incheongun.",
+    "gold": [
+      {
+        "text": "Jungjong",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Jungjong",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "They used several features from a batch of A1 PaCiFiCs they had built in 1924.",
+    "gold": [
+      {
+        "text": "A1 PaCiFiCs",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "A1 PaCiFiCs",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "His burial in 1791 after a funeral in the Stephansdom Simply followed the regulations of the day.",
+    "gold": [
+      {
+        "text": "Stephansdom",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Stephansdom Simply",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "Graduating with a BA In Psychology, and a minor in Criminology.",
+    "gold": [
+      {
+        "text": "BA",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "BA In Psychology",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "He worked as a teacher and was principal of St Patrick's College In Dungiven for many years.",
+    "gold": [
+      {
+        "text": "St Patrick 's College",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Dungiven",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "St Patrick 's College",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Dungiven",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Chekhov's Own text, which despite a running time of about five hours he never thought of as finished, is seldom played.",
+    "gold": [
+      {
+        "text": "Chekhov",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Chekhov",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The 20Q AI Can draw its own conclusions on how to interpret the information.",
+    "gold": [
+      {
+        "text": "20Q AI",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of LoNg IsLaNd at Setauket, just across Long Island Sound from Fairfield.",
+    "gold": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lieutenant Colonel Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "DeLancey 's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "LoNg IsLaNd",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Queens",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "3rd",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "DeLancey 's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "LoNg IsLaNd",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Glutamine synthetase uses AMMONIA produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "gold": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "AMMONIA",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Glutamine",
+        "value": "OTHER"
+      },
+      {
+        "text": "AMMONIA",
+        "value": "OTHER"
+      },
+      {
+        "text": "nitrate",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "The French credit rating agency COFACE declared that the dramatic mining rescue would have a positive impact on Chile's economic reputation.",
+    "gold": [
+      {
+        "text": "French",
+        "value": "LOCATION"
+      },
+      {
+        "text": "COFACE",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Chile",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "French",
+        "value": "LOCATION"
+      },
+      {
+        "text": "COFACE",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Chile",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He Graduated from both Marietta College (1938) and The Ohio State University Moritz College of Law (1942).",
+    "gold": [
+      {
+        "text": "Marietta College",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ohio State University Moritz College of Law",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Marietta College",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Ohio State University Moritz College of Law",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "He also was trained at the Royal Danish Academy of Fine Arts in Copenhagen Under Professor Einar Utzon-Frank from 1945-1946.",
+    "gold": [
+      {
+        "text": "Royal Danish Academy of Fine Arts",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Copenhagen",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Einar Utzon-Frank",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Royal Danish Academy of Fine Arts",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Copenhagen",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Einar Utzon-Frank",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``HiDdEn Agenda At the Thirteenth Not``.",
+    "gold": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "HiDdEn Agenda At the Thirteenth Not",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX",
+        "value": "ART"
+      },
+      {
+        "text": "Receiver",
+        "value": "ART"
+      },
+      {
+        "text": "HiDdEn Agenda At the Thirteenth Not",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "this collection contains material relating to sexual health issues from 1974-2007.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by MaReK personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "gold": [
+      {
+        "text": "DB5 extended 4 ''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "MaReK",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "DB5",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "MaReK",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "The current operators, Ace Radio Broadcasters Purchased 3YB in 1995.",
+    "gold": [
+      {
+        "text": "Ace Radio Broadcasters",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "3YB",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ace Radio Broadcasters Purchased",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "At a festival, siddhi saves Vin from being shot at by Rudra.",
+    "gold": [
+      {
+        "text": "siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Vin",
+        "value": "OTHER"
+      },
+      {
+        "text": "Rudra",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "less commonly, cases of hypersexuality have been reported.",
+    "gold": [],
+    "prediction": [
+      {
+        "text": "hypersexuality",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Its headquarters are in MOSCOW.",
+    "gold": [
+      {
+        "text": "MOSCOW",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "MOSCOW",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "the ability to sustain a lucrative business in bootlegging liquor was largely helped by the minimal police surveillance at the time.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "while the track ``Zinda`` Topped the songs chart.",
+    "gold": [
+      {
+        "text": "Zinda",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Zinda",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "According to Steak' n Shake archives, the RESTAURANT'S founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "gold": [
+      {
+        "text": "Steak ' n Shake",
+        "value": "ART"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Steak",
+        "value": "PERSON"
+      },
+      {
+        "text": "RESTAURANT",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "SOMEWHAT hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "gold": [
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "SOMEWHAT",
+        "value": "OTHER"
+      },
+      {
+        "text": "Ben Cruachan",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Modifications Included additional cockpit windows, and 245-horsepower Jacobs R-755-9 engines.",
+    "gold": [
+      {
+        "text": "Jacobs R-755-9",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Jacobs R-755-9",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Mediaite named her in a four-way tie among the ``BeSt tV PuNdItS`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "gold": [
+      {
+        "text": "Mediaite",
+        "value": "PERSON"
+      },
+      {
+        "text": "BeSt tV PuNdItS",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "All Lyrics written by Kellin Quinn and Jesse Lawson unless noted, all music composed by Sleeping with Sirens",
+    "gold": [
+      {
+        "text": "Kellin Quinn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jesse Lawson",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Kellin Quinn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jesse Lawson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Sleeping",
+        "value": "PERSON"
+      },
+      {
+        "text": "Sirens",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "It is operated by the nhulunbuy Corporation.",
+    "gold": [
+      {
+        "text": "nhulunbuy Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "The same effects have also been seen in SHORT pubertal boys.",
+    "gold": [],
+    "prediction": [
+      {
+        "text": "SHORT",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "NINTENDO continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "gold": [
+      {
+        "text": "NINTENDO",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "NINTENDO",
+        "value": "PERSON"
+      },
+      {
+        "text": "Wii",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "In some cases, black community groups resisted the attacks, especially in CHICAGO and Washington, D.C.",
+    "gold": [
+      {
+        "text": "CHICAGO",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Washington , D.C",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "black",
+        "value": "OTHER"
+      },
+      {
+        "text": "CHICAGO",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Washington , D.C .",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The final season of minor league play ELKIN MEMORIAL PARK saw season attendance of 16,322, an average of 299 per contest.",
+    "gold": [
+      {
+        "text": "ELKIN MEMORIAL PARK",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "ELKIN MEMORIAL PARK",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "In some versions, the EGGPLANT is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "gold": [
+      {
+        "text": "EGGPLANT",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "EGGPLANT",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Mary Weiss was one of the creators of The Real Live Brady Bunch at THE ANNOYANCE THEATER, which led to a series of feature film remakes.",
+    "gold": [
+      {
+        "text": "Mary Weiss",
+        "value": "PERSON"
+      },
+      {
+        "text": "Real Live Brady Bunch",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "THE ANNOYANCE THEATER",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Mary Weiss",
+        "value": "PERSON"
+      },
+      {
+        "text": "THE ANNOYANCE",
+        "value": "BUILDING"
+      }
+    ]
+  },
+  {
+    "text": "The basis of the column is orientated northwest/southeast, while its capital is aligned north/south, possibly so that the statue could look towards the nearby church of the Holy Apostles.",
+    "gold": [
+      {
+        "text": "church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": []
+  },
+  {
+    "text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use cAsEmEnT AeRoDrOmE nearby.",
+    "gold": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "cAsEmEnT AeRoDrOmE",
+        "value": "BUILDING"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The 117-BED facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "The other higher main peak is named North Twin, With a height of.",
+    "gold": [
+      {
+        "text": "North Twin",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "North Twin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "With",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "For the 2019 Frieze Art Fair in London, Agostinelli staged his fourth intervention by depositing a 1 tonne block of translucent ice pulled by a TeSlA to the entrance of the fair on opening day.",
+    "gold": [
+      {
+        "text": "Frieze Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Agostinelli",
+        "value": "PERSON"
+      },
+      {
+        "text": "TeSlA",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Frieze Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Agostinelli",
+        "value": "PERSON"
+      },
+      {
+        "text": "TeSlA",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Caunter Remained a regular character until new executive producer Louise Berridge axed him in 2003, a decision which she later stated she regretted.",
+    "gold": [
+      {
+        "text": "Caunter",
+        "value": "PERSON"
+      },
+      {
+        "text": "Louise Berridge",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Caunter Remained",
+        "value": "PERSON"
+      },
+      {
+        "text": "Louise Berridge",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "The buildings were renovated into oFfIcEs in the 1980s.",
+    "gold": [],
+    "prediction": []
+  }
+]

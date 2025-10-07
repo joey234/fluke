@@ -1,0 +1,40 @@
+System message:
+
+Your input fields are:
+1. `text` (str)
+
+Your output fields are:
+1. `label` (str)
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## text ## ]]
+{text}
+
+[[ ## label ## ]]
+{label}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Classify sentiment of the given text. Answer with 1 for positive, 0 for negative, or 2 for neutral.
+
+
+User message:
+
+[[ ## text ## ]]
+it 's a charming and often affecting journey .
+
+Respond with the corresponding output fields, starting with the field `[[ ## label ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+Response:
+
+[[ ## label ## ]]
+1
+
+[[ ## completed ## ]]
+
+
+
+

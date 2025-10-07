@@ -1,0 +1,4737 @@
+[
+  {
+    "id": 1,
+    "text": "In the early 1930s the band moved to the Grill Room of the Taft Hotel in New York ; the band was renamed ``George Hall and His Hotel Taft Orchestra``.",
+    "label": [
+      {
+        "Grill Room": "BUILDING"
+      },
+      {
+        "Taft Hotel": "BUILDING"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "George Hall and His Hotel Taft Orchestra": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Grill Room",
+      "Taft Hotel",
+      "New York",
+      "George Hall and His Hotel Taft Orchestra"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Elkin Memorial Park"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "They finished the season 14\\u201319, 9\\u20139 in C-USA play to finish in seventh place.",
+    "label": [
+      {
+        "C-USA play": "EVENT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "C-USA play"
+    ]
+  },
+  {
+    "id": 4,
+    "text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "label": [
+      {
+        "B-52": "PRODUCT"
+      },
+      {
+        "Larry G.Messinger": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Austro-Hungarian Navy"
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Elin Hilderbrand is an American writer mostly of romance novels.",
+    "label": [
+      {
+        "Elin Hilderbrand": "PERSON"
+      },
+      {
+        "American": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Elin Hilderbrand",
+      "American"
+    ]
+  },
+  {
+    "id": 7,
+    "text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "label": [
+      {
+        "DB5 extended 4''": "PRODUCT"
+      },
+      {
+        "Marek": "PERSON"
+      },
+      {
+        "Aston Martin DB7": "PRODUCT"
+      },
+      {
+        "V8 unit": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ]
+  },
+  {
+    "id": 8,
+    "text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "label": [
+      {
+        "CNN": "ORGANIZATION"
+      },
+      {
+        "The Huffington Post": "ORGANIZATION"
+      },
+      {
+        "Hypebeast": "ORGANIZATION"
+      },
+      {
+        "The Guardian": "ORGANIZATION"
+      },
+      {
+        "Juxtapoz Magazine": "ORGANIZATION"
+      },
+      {
+        "Daily Mail, NRDC": "ORGANIZATION"
+      },
+      {
+        "Aljazeera": "ORGANIZATION"
+      },
+      {
+        "Hi-Fructose Magazine": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ]
+  },
+  {
+    "id": 9,
+    "text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Cnidaria"
+    ]
+  },
+  {
+    "id": 10,
+    "text": "The Ninth suffered a serious defeat at the Battle of Camulodunum under Quintus Petillius Cerialis in the rebellion of Boudica (61), when most of the foot-soldiers were killed in a disastrous attempt to relieve the besieged city of Camulodunum (Colchester).",
+    "label": [
+      {
+        "Camulodunum": "EVENT"
+      },
+      {
+        "Quintus Petillius Cerialis": "PERSON"
+      },
+      {
+        "Boudica": "EVENT"
+      },
+      {
+        "Camulodunum": "LOCATION"
+      },
+      {
+        "Colchester": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Camulodunum",
+      "Quintus Petillius Cerialis",
+      "Boudica",
+      "Camulodunum",
+      "Colchester"
+    ]
+  },
+  {
+    "id": 11,
+    "text": "He is a Congressman representing Cajamarca for the period 2006\\u20132011, and belongs to the Union for Peru party.",
+    "label": [
+      {
+        "Cajamarca": "LOCATION"
+      },
+      {
+        "Peru party": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Cajamarca",
+      "Peru party"
+    ]
+  },
+  {
+    "id": 12,
+    "text": "He was born in Wellingborough, Northamptonshire, where he attended Victoria Junior School, Westfield Boys School and Sir Christopher Hatton School.",
+    "label": [
+      {
+        "Wellingborough": "LOCATION"
+      },
+      {
+        "Northamptonshire": "LOCATION"
+      },
+      {
+        "Victoria Junior School": "ORGANIZATION"
+      },
+      {
+        "Westfield Boys School": "ORGANIZATION"
+      },
+      {
+        "Sir Christopher Hatton School": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Wellingborough",
+      "Northamptonshire",
+      "Victoria Junior School",
+      "Westfield Boys School",
+      "Sir Christopher Hatton School"
+    ]
+  },
+  {
+    "id": 13,
+    "text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada.",
+    "label": [
+      {
+        "England": "ORGANIZATION"
+      },
+      {
+        "Cricket World Cup": "EVENT"
+      },
+      {
+        "Canada": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "England",
+      "Cricket World Cup",
+      "Canada"
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "label": [
+      {
+        "Ben Cruachan": "LOCATION"
+      },
+      {
+        "Beinn Eunaich": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ]
+  },
+  {
+    "id": 15,
+    "text": "The 117-bed facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 17,
+    "text": "Experimental GPX1 deficiency amplifies certain aspects of aging, namely endothelial dysfunction, vascular remodeling, and invasion of leukocytes in cardiovascular tissue.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 18,
+    "text": "Victor Cristaldo (born 10 May 1967) is a retired Argentine -born Australia n professional footballer of Paraguay an descent.",
+    "label": [
+      {
+        "Victor Cristaldo": "PERSON"
+      },
+      {
+        "Argentine": "LOCATION"
+      },
+      {
+        "Australia": "LOCATION"
+      },
+      {
+        "Paraguay": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Victor Cristaldo",
+      "Argentine",
+      "Australia",
+      "Paraguay"
+    ]
+  },
+  {
+    "id": 19,
+    "text": "During the Battle of Antietam on September 17, 1862, Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps.",
+    "label": [
+      {
+        "Battle of Antietam": "EVENT"
+      },
+      {
+        "Wilkinson": "PERSON"
+      },
+      {
+        "Veterans Reserve Corps": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Battle of Antietam",
+      "Wilkinson",
+      "Veterans Reserve Corps"
+    ]
+  },
+  {
+    "id": 20,
+    "text": "The buildings were renovated into offices in the 1980s.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 21,
+    "text": "Perhaps the best known Ward LaFrance product was the P-80 ``Ambassador'' model of pumper, one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program`` Emergency!",
+    "label": [
+      {
+        "Ward LaFrance": "ORGANIZATION"
+      },
+      {
+        "P-80 ``Ambassador''": "PRODUCT"
+      },
+      {
+        "Los Angeles County Fire Department Engine 51": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Ward LaFrance",
+      "P-80 ``Ambassador''",
+      "Los Angeles County Fire Department Engine 51"
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Stephens"
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "label": [
+      {
+        "Nintendo": "ORGANIZATION"
+      },
+      {
+        "Wii model": "PRODUCT"
+      },
+      {
+        "Wii Mini": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Kenyon entered Maynooth Seminary in 1829 \\u2013 the year of Catholic Emancipation.",
+    "label": [
+      {
+        "Kenyon": "PERSON"
+      },
+      {
+        "Maynooth Seminary": "ORGANIZATION"
+      },
+      {
+        "Catholic Emancipation": "EVENT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Kenyon",
+      "Maynooth Seminary",
+      "Catholic Emancipation"
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ]
+  },
+  {
+    "id": 27,
+    "text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "label": [
+      {
+        "Kim Fowley": "PERSON"
+      },
+      {
+        "BMX Bandits": "ORGANIZATION"
+      },
+      {
+        "Receiver Records": "ORGANIZATION"
+      },
+      {
+        "Hidden Agenda At the Thirteenth Not": "ART"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Many of the men were separated from their families and sent into the B.C.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 29,
+    "text": "The founder of K\\u014deido (the purveyors of Kibi dango) authored a travel guide in 1895, in which he claimed that Kibitsuhiko rolled with his own hand some kibi dango to give to Emperor Jimmu who stopped at Takayama Palace in Okayama.",
+    "label": [
+      {
+        "K\\u014deido": "ORGANIZATION"
+      },
+      {
+        "Kibi dango": "PRODUCT"
+      },
+      {
+        "Kibitsuhiko": "ORGANIZATION"
+      },
+      {
+        "kibi dango": "PRODUCT"
+      },
+      {
+        "Jimmu": "PERSON"
+      },
+      {
+        "Takayama Palace": "BUILDING"
+      },
+      {
+        "Okayama": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "K\\u014deido",
+      "Kibi dango",
+      "Kibitsuhiko",
+      "kibi dango",
+      "Jimmu",
+      "Takayama Palace",
+      "Okayama"
+    ]
+  },
+  {
+    "id": 30,
+    "text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ]
+  },
+  {
+    "id": 31,
+    "text": "She has also written fiction and her work has gained awards.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 32,
+    "text": "Furthermore, the SFO offered to pay reasonable legal costs.",
+    "label": [
+      {
+        "the SFO": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "the SFO"
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Team Orr scored four times on way to a 7\\u20131 victory.",
+    "label": [
+      {
+        "Team Orr": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Team Orr"
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Dorsa has a Bachelor of Music in Composition from California State University, Northridge in 2001, Master of Music in Harpsichord Performance at Cal State Northridge in 2004, and a Doctor of Musical Arts at the University of Michigan, Ann Arbor in 2008.",
+    "label": [
+      {
+        "Dorsa": "PERSON"
+      },
+      {
+        "Bachelor of Music": "OTHER"
+      },
+      {
+        "California State University, Northridge": "ORGANIZATION"
+      },
+      {
+        "Master of Music": "OTHER"
+      },
+      {
+        "Cal State Northridge": "ORGANIZATION"
+      },
+      {
+        "Doctor of Musical Arts": "OTHER"
+      },
+      {
+        "University of Michigan": "ORGANIZATION"
+      },
+      {
+        "Ann Arbor": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Dorsa",
+      "Bachelor of Music",
+      "California State University, Northridge",
+      "Master of Music",
+      "Cal State Northridge",
+      "Doctor of Musical Arts",
+      "University of Michigan",
+      "Ann Arbor"
+    ]
+  },
+  {
+    "id": 36,
+    "text": "She has since worked with homeless patients and holds the position of Management Consultant fo r MedAmerica.",
+    "label": [
+      {
+        "r MedAmerica": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "r MedAmerica"
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area, featuring a hump yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains.",
+    "label": [
+      {
+        "Conway": "LOCATION"
+      },
+      {
+        "Norfolk Southern": "LOCATION"
+      },
+      {
+        "Greater Pittsburgh": "LOCATION"
+      },
+      {
+        "Pittsburgh": "LOCATION"
+      },
+      {
+        "Fort Wayne Line": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Conway",
+      "Norfolk Southern",
+      "Greater Pittsburgh",
+      "Pittsburgh",
+      "Fort Wayne Line"
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Pune lost the match 1\\u20133 with all three goals coming after Amrinder came on.",
+    "label": [
+      {
+        "Pune": "ORGANIZATION"
+      },
+      {
+        "Amrinder": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Pune",
+      "Amrinder"
+    ]
+  },
+  {
+    "id": 40,
+    "text": "His pupil Vadeebhasimha wrote in prose ``Gayachintamani`` and ``Kshatrachudamini`` based on poet Banas ``Kadambari`` and minister Chavundaraya wrote ``Charitarasara``.",
+    "label": [
+      {
+        "Vadeebhasimha": "PERSON"
+      },
+      {
+        "Gayachintamani": "ART"
+      },
+      {
+        "Kshatrachudamini": "ART"
+      },
+      {
+        "Banas": "PERSON"
+      },
+      {
+        "Kadambari": "ART"
+      },
+      {
+        "Chavundaraya": "PERSON"
+      },
+      {
+        "Charitarasara": "ART"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Vadeebhasimha",
+      "Gayachintamani",
+      "Kshatrachudamini",
+      "Banas",
+      "Kadambari",
+      "Chavundaraya",
+      "Charitarasara"
+    ]
+  },
+  {
+    "id": 41,
+    "text": "The Croal Irwell Regional Park Project Proposal to create a green artery from the centre of Manchester to the West Pennine Moors was announced in June 2003 supported by Salford, Bury and Bolton councils and the Red Rose Forest.",
+    "label": [
+      {
+        "Croal Irwell Regional Park Project Proposal": "PRODUCT"
+      },
+      {
+        "Manchester": "LOCATION"
+      },
+      {
+        "West Pennine Moors": "LOCATION"
+      },
+      {
+        "Salford": "LOCATION"
+      },
+      {
+        "Bury": "LOCATION"
+      },
+      {
+        "Bolton": "LOCATION"
+      },
+      {
+        "Red Rose Forest": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Croal Irwell Regional Park Project Proposal",
+      "Manchester",
+      "West Pennine Moors",
+      "Salford",
+      "Bury",
+      "Bolton",
+      "Red Rose Forest"
+    ]
+  },
+  {
+    "id": 42,
+    "text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "label": [
+      {
+        "eggplant": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "eggplant"
+    ]
+  },
+  {
+    "id": 43,
+    "text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza intensified.",
+    "label": [
+      {
+        "Sturdza": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Sturdza"
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "label": [
+      {
+        "Argentina": "LOCATION"
+      },
+      {
+        "Del Imaginario Discos": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ]
+  },
+  {
+    "id": 45,
+    "text": "Moreover, Santa is actually innocent of the crime, which was instead masterminded by scheming relative Cousin Mel, who is mentioned briefly in the song but made into a gold-digging villainness in the special.",
+    "label": [
+      {
+        "Santa": "PERSON"
+      },
+      {
+        "Cousin Mel": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Santa",
+      "Cousin Mel"
+    ]
+  },
+  {
+    "id": 46,
+    "text": "The Newfoundland Reform Liberal Party was a leader-centred political party in Newfoundland and Labrador, Canada from 1975 to 1979.",
+    "label": [
+      {
+        "Newfoundland Reform Liberal Party": "ORGANIZATION"
+      },
+      {
+        "Newfoundland and Labrador": "LOCATION"
+      },
+      {
+        "Canada": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Newfoundland Reform Liberal Party",
+      "Newfoundland and Labrador",
+      "Canada"
+    ]
+  },
+  {
+    "id": 47,
+    "text": "This led to the foundation by Maximilian III Joseph, Elector of Bavaria of the Bavarian Academy of Sciences and Humanities on 28 March 1759.",
+    "label": [
+      {
+        "Maximilian III Joseph, Elector of Bavaria": "PERSON"
+      },
+      {
+        "Bavarian Academy of Sciences and Humanities": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Maximilian III Joseph, Elector of Bavaria",
+      "Bavarian Academy of Sciences and Humanities"
+    ]
+  },
+  {
+    "id": 48,
+    "text": "The government announced a state funeral and a day of national mourning.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 49,
+    "text": "Most of the town is actually a gated community called Orchid Island Golf and Beach Club.",
+    "label": [
+      {
+        "Orchid Island Golf and Beach Club": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Orchid Island Golf and Beach Club"
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "label": [
+      {
+        "Hunt": "PERSON"
+      },
+      {
+        "Omaha": "LOCATION"
+      },
+      {
+        "Dundee": "LOCATION"
+      },
+      {
+        "Benson": "LOCATION"
+      },
+      {
+        "Keystone": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Hunt",
+      "Omaha",
+      "Dundee",
+      "Benson",
+      "Keystone"
+    ]
+  },
+  {
+    "id": 51,
+    "text": "It has been used to treat hypertension and cardiac failure, and to treat pre-eclampsia during pregnancy.",
+    "label": [
+      {
+        "hypertension": "OTHER"
+      },
+      {
+        "cardiac failure,": "OTHER"
+      },
+      {
+        "pre-eclampsia": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "hypertension",
+      "cardiac failure,",
+      "pre-eclampsia"
+    ]
+  },
+  {
+    "id": 52,
+    "text": "Anhur is a playable character in the multiplayer online battle arena, ``SMITE''.",
+    "label": [
+      {
+        "Anhur": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Anhur"
+    ]
+  },
+  {
+    "id": 53,
+    "text": "Jamil was married to the daughter of Khalid Bakdash, a Syria n politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "label": [
+      {
+        "Jamil": "PERSON"
+      },
+      {
+        "Khalid Bakdash": "PERSON"
+      },
+      {
+        "Syria": "LOCATION"
+      },
+      {
+        "Syrian Communist Party": "ORGANIZATION"
+      },
+      {
+        "Arab": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Jamil",
+      "Khalid Bakdash",
+      "Syria",
+      "Syrian Communist Party",
+      "Arab"
+    ]
+  },
+  {
+    "id": 55,
+    "text": "Tyrosine phosphorylation is the addition of a phosphate (PO43\\u2212) group to the amino acid tyrosine on a protein.",
+    "label": [
+      {
+        "PO43\\u2212": "OTHER"
+      },
+      {
+        "amino acid tyrosine": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "PO43\\u2212",
+      "amino acid tyrosine"
+    ]
+  },
+  {
+    "id": 56,
+    "text": "In 1955 it began receiving an early model of the Boeing B-52 Stratofortress and upgraded to various models over the next 40 years.",
+    "label": [
+      {
+        "Boeing B-52": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Boeing B-52"
+    ]
+  },
+  {
+    "id": 57,
+    "text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 58,
+    "text": "However, in 1861 the prospect of secession by southern states after the 1860 presidential election removed this obstacle to political change.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 59,
+    "text": "Back to Basics focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "label": [
+      {
+        "Back to Basics": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Back to Basics"
+    ]
+  },
+  {
+    "id": 60,
+    "text": "Internal conflicts, especially between Covaci and Baniciu, were making headlines in the media.",
+    "label": [
+      {
+        "Covaci": "PERSON"
+      },
+      {
+        "Baniciu": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Covaci",
+      "Baniciu"
+    ]
+  },
+  {
+    "id": 62,
+    "text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "label": [
+      {
+        "Allistair Pinsof": "PERSON"
+      },
+      {
+        "Destructoid": "ORGANIZATION"
+      },
+      {
+        "Super Metroid": "PRODUCT"
+      },
+      {
+        "Super Castlevania IV": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ]
+  },
+  {
+    "id": 63,
+    "text": "In particular, Reform Jews may be lampooned for their rejection of traditional Jewish beliefs.",
+    "label": [
+      {
+        "Jews": "ORGANIZATION"
+      },
+      {
+        "Jewish": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Jews",
+      "Jewish"
+    ]
+  },
+  {
+    "id": 64,
+    "text": "It was founded as a spin-off of Murphy Oil in 2013.",
+    "label": [
+      {
+        "Murphy Oil": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Murphy Oil"
+    ]
+  },
+  {
+    "id": 65,
+    "text": "They used several features from a batch of A1 Pacifics they had built in 1924.",
+    "label": [
+      {
+        "A1 Pacifics": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "A1 Pacifics"
+    ]
+  },
+  {
+    "id": 66,
+    "text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "label": [
+      {
+        "Siddhi": "PERSON"
+      },
+      {
+        "Vin": "PERSON"
+      },
+      {
+        "Rudra": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Siddhi",
+      "Vin",
+      "Rudra"
+    ]
+  },
+  {
+    "id": 67,
+    "text": "Her brother ran unsuccessfully for the United States House of Representatives from upstate New York, in 1992 and 1994.",
+    "label": [
+      {
+        "United States House of Representatives": "ORGANIZATION"
+      },
+      {
+        "New York": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "United States House of Representatives",
+      "New York"
+    ]
+  },
+  {
+    "id": 68,
+    "text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "label": [
+      {
+        "Martin Beck Theater": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Martin Beck Theater"
+    ]
+  },
+  {
+    "id": 69,
+    "text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "label": [
+      {
+        "Queens County": "LOCATION"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "Richard Hewlett": "PERSON"
+      },
+      {
+        "DeLancey's Brigade": "ORGANIZATION"
+      },
+      {
+        "Long Island": "LOCATION"
+      },
+      {
+        "Setauket": "LOCATION"
+      },
+      {
+        "Long Island Sound": "LOCATION"
+      },
+      {
+        "Fairfield": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Queens County",
+      "New York",
+      "Richard Hewlett",
+      "DeLancey's Brigade",
+      "Long Island",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ]
+  },
+  {
+    "id": 70,
+    "text": "In 1967, the park was the gathering place for a peaceful anti-war rally.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 72,
+    "text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "label": [
+      {
+        "USP42": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ]
+  },
+  {
+    "id": 73,
+    "text": "It is operated by the Nhulunbuy Corporation.",
+    "label": [
+      {
+        "Nhulunbuy Corporation": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Nhulunbuy Corporation"
+    ]
+  },
+  {
+    "id": 74,
+    "text": "Royal Malaysia Police Air Operations Force or ``Pasukan Gerakan Udara (PGU)'' is a special aviation unit of Royal Malaysia Police.",
+    "label": [
+      {
+        "Royal Malaysia Police Air Operations Force": "ORGANIZATION"
+      },
+      {
+        "Pasukan Gerakan Udara": "ORGANIZATION"
+      },
+      {
+        "PGU": "ORGANIZATION"
+      },
+      {
+        "Royal Malaysia Police": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Royal Malaysia Police Air Operations Force",
+      "Pasukan Gerakan Udara",
+      "PGU",
+      "Royal Malaysia Police"
+    ]
+  },
+  {
+    "id": 75,
+    "text": "It was produced by Richard D.Zanuck and David Brown.",
+    "label": [
+      {
+        "Richard D.Zanuck": "PERSON"
+      },
+      {
+        "David Brown": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ]
+  },
+  {
+    "id": 77,
+    "text": "The situation began to crystallise after 1961 when South Africa left the Commonwealth of Nations and so, under the rules of the day, its cricket board had to leave the International Cricket Conference (ICC).",
+    "label": [
+      {
+        "South Africa": "LOCATION"
+      },
+      {
+        "Commonwealth of Nations": "ORGANIZATION"
+      },
+      {
+        "International Cricket Conference": "ORGANIZATION"
+      },
+      {
+        "ICC": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "South Africa",
+      "Commonwealth of Nations",
+      "International Cricket Conference",
+      "ICC"
+    ]
+  },
+  {
+    "id": 79,
+    "text": "Puckrik travelled widely in her childhood due to her father's military background.",
+    "label": [
+      {
+        "Puckrik": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Puckrik"
+    ]
+  },
+  {
+    "id": 80,
+    "text": "The festival is dedicated to world television and digital content and its creation and development.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 81,
+    "text": "A German teacher for much of her life, MacKeith also advocated for peace during the Aldermaston Marches in the 1950s and demonstrations against the Vietnam War in Grosvenor Square in the 1960s.",
+    "label": [
+      {
+        "German": "LOCATION"
+      },
+      {
+        "MacKeith": "PERSON"
+      },
+      {
+        "Aldermaston Marches": "EVENT"
+      },
+      {
+        "Vietnam War": "EVENT"
+      },
+      {
+        "Grosvenor Square": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "German",
+      "MacKeith",
+      "Aldermaston Marches",
+      "Vietnam War",
+      "Grosvenor Square"
+    ]
+  },
+  {
+    "id": 82,
+    "text": "Mediaite named her in a four-way tie among the ``Best TV Pundits`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "label": [
+      {
+        "Mediaite": "PERSON"
+      },
+      {
+        "Best TV Pundits": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Mediaite",
+      "Best TV Pundits"
+    ]
+  },
+  {
+    "id": 83,
+    "text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "label": [
+      {
+        "Steak' n Shake": "ART"
+      },
+      {
+        "Gus Belt": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ]
+  },
+  {
+    "id": 84,
+    "text": "Alex Salmond (leader of SNP) has since made history by becoming the first First Minister of Scotland from a party other than Labour.",
+    "label": [
+      {
+        "Alex Salmond": "PERSON"
+      },
+      {
+        "SNP": "ORGANIZATION"
+      },
+      {
+        "Scotland": "LOCATION"
+      },
+      {
+        "Labour": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "Labour"
+    ]
+  },
+  {
+    "id": 85,
+    "text": "The album featured remixes of ``Like It or Not`` and ``Tearing Me Up`` from artists like A-Trak, RAC, Joris Voorn, and Tale of Us.",
+    "label": [
+      {
+        "Like It or Not": "ART"
+      },
+      {
+        "Tearing Me Up": "ART"
+      },
+      {
+        "A-Trak": "PERSON"
+      },
+      {
+        "RAC": "PERSON"
+      },
+      {
+        "Joris Voorn": "PERSON"
+      },
+      {
+        "Tale of Us": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Like It or Not",
+      "Tearing Me Up",
+      "A-Trak",
+      "RAC",
+      "Joris Voorn",
+      "Tale of Us"
+    ]
+  },
+  {
+    "id": 86,
+    "text": "``Patrick Morris`` sent out her own mayday call at 6:51 am and sank 35 minutes later.",
+    "label": [
+      {
+        "Patrick Morris": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Patrick Morris"
+    ]
+  },
+  {
+    "id": 87,
+    "text": "The same effects have also been seen in short pubertal boys.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 88,
+    "text": "Construction was modular so that some of the gold could be removed and melted for coin or bullion in times of severe financial hardship, to be replaced later when finances had recovered.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 89,
+    "text": "He has also performed and worked with many other Scandinavian artists such as Bj\\u00f8rn Eidsv\\u00e5g, Silje Nergaard, Oslo Gospel Choir, Espen Lind, Elizabeth Norberg-Schulz and Carola H\\u00e4ggkvist.",
+    "label": [
+      {
+        "Bj\\u00f8rn Eidsv\\u00e5g": "PERSON"
+      },
+      {
+        "Silje Nergaard": "PERSON"
+      },
+      {
+        "Oslo Gospel Choir": "PERSON"
+      },
+      {
+        "Espen Lind": "PERSON"
+      },
+      {
+        "Elizabeth Norberg-Schulz": "PERSON"
+      },
+      {
+        "Carola H\\u00e4ggkvist": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Bj\\u00f8rn Eidsv\\u00e5g",
+      "Silje Nergaard",
+      "Oslo Gospel Choir",
+      "Espen Lind",
+      "Elizabeth Norberg-Schulz",
+      "Carola H\\u00e4ggkvist"
+    ]
+  },
+  {
+    "id": 90,
+    "text": "Holy Trinity Church is a Church of England parish church at Bothenhampton, near Bridport in Dorset, England.",
+    "label": [
+      {
+        "Holy Trinity Church": "ORGANIZATION"
+      },
+      {
+        "Church of England": "ORGANIZATION"
+      },
+      {
+        "Bothenhampton": "LOCATION"
+      },
+      {
+        "Bridport": "LOCATION"
+      },
+      {
+        "Dorset": "LOCATION"
+      },
+      {
+        "England": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Holy Trinity Church",
+      "Church of England",
+      "Bothenhampton",
+      "Bridport",
+      "Dorset",
+      "England"
+    ]
+  },
+  {
+    "id": 91,
+    "text": "Kadavu Province is one of fourteen provinces of Fiji, and forms part of the Eastern Division, which also includes the provinces of Lau, Lomaiviti and Rotuma.",
+    "label": [
+      {
+        "Kadavu Province": "LOCATION"
+      },
+      {
+        "Fiji": "LOCATION"
+      },
+      {
+        "Lau": "LOCATION"
+      },
+      {
+        "Lomaiviti": "LOCATION"
+      },
+      {
+        "Rotuma": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Kadavu Province",
+      "Fiji",
+      "Lau",
+      "Lomaiviti",
+      "Rotuma"
+    ]
+  },
+  {
+    "id": 92,
+    "text": "Mike Moreton headed the team, joining TWR to run the XJ220 project.",
+    "label": [
+      {
+        "Mike Moreton": "PERSON"
+      },
+      {
+        "TWR": "ORGANIZATION"
+      },
+      {
+        "XJ220": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Mike Moreton",
+      "TWR",
+      "XJ220"
+    ]
+  },
+  {
+    "id": 93,
+    "text": "Mary Weiss was one of the creators of The Real Live Brady Bunch at The Annoyance Theater, which led to a series of feature film remakes.",
+    "label": [
+      {
+        "Mary Weiss": "PERSON"
+      },
+      {
+        "Real Live Brady Bunch": "ORGANIZATION"
+      },
+      {
+        "Annoyance Theater": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Mary Weiss",
+      "Real Live Brady Bunch",
+      "Annoyance Theater"
+    ]
+  },
+  {
+    "id": 94,
+    "text": "More than 100 sellers from Deidesheim and the surrounding area run stalls, which must stylistically fit into the market's whole theme.",
+    "label": [
+      {
+        "Deidesheim": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Deidesheim"
+    ]
+  },
+  {
+    "id": 96,
+    "text": "It won the jury award for best feature Film at the TriMedia Film Festival in 2010.",
+    "label": [
+      {
+        "jury award for best feature Film": "OTHER"
+      },
+      {
+        "TriMedia Film Festival": "EVENT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "jury award for best feature Film",
+      "TriMedia Film Festival"
+    ]
+  },
+  {
+    "id": 97,
+    "text": "Bitter Sweet & amp ; Twisted is rock band The Quireboys's second studio album, released in 1993.",
+    "label": [
+      {
+        "Bitter Sweet & amp": "ART"
+      },
+      {
+        "Twisted": "ART"
+      },
+      {
+        "The Quireboys": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Bitter Sweet & amp",
+      "Twisted",
+      "The Quireboys"
+    ]
+  },
+  {
+    "id": 98,
+    "text": "The Papacy in central Italy maintained major cultural and political influence during the Catholic Reformation initiated by the conclusion of the Tridentine council (resumed by the terms of the treaty).",
+    "label": [
+      {
+        "Papacy": "EVENT"
+      },
+      {
+        "Catholic Reformation": "ORGANIZATION"
+      },
+      {
+        "Tridentine council": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Papacy",
+      "Catholic Reformation",
+      "Tridentine council"
+    ]
+  },
+  {
+    "id": 99,
+    "text": "Both doors are mirror images of each other and each contain the bronze University seal.",
+    "label": [
+      {
+        "bronze University seal": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "bronze University seal"
+    ]
+  },
+  {
+    "id": 100,
+    "text": "In some cases, black community groups resisted the attacks, especially in Chicago and Washington, D.C.",
+    "label": [
+      {
+        "Chicago": "LOCATION"
+      },
+      {
+        "Washington, D.C": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Chicago",
+      "Washington, D.C"
+    ]
+  },
+  {
+    "id": 102,
+    "text": "Six years later, both Richard and Lilli grow into strong and beautiful teenagers.",
+    "label": [
+      {
+        "Richard": "PERSON"
+      },
+      {
+        "Lilli": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Richard",
+      "Lilli"
+    ]
+  },
+  {
+    "id": 103,
+    "text": "The ability to sustain a lucrative business in bootlegging liquor was largely helped by the minimal police surveillance at the time.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 104,
+    "text": "Another part of the RNA binds to the X-chromosome positioning PRC2 such that it can methylate various regions on the X-chromosome.",
+    "label": [
+      {
+        "RNA": "OTHER"
+      },
+      {
+        "X-chromosome": "OTHER"
+      },
+      {
+        "PRC2": "OTHER"
+      },
+      {
+        "X-chromosome": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "RNA",
+      "X-chromosome",
+      "PRC2",
+      "X-chromosome"
+    ]
+  },
+  {
+    "id": 105,
+    "text": "Breck Ullr Fest was first held in 1963.",
+    "label": [
+      {
+        "Breck Ullr Fest": "EVENT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Breck Ullr Fest"
+    ]
+  },
+  {
+    "id": 106,
+    "text": "almost over 75 members of parliament join the alliance.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 107,
+    "text": "Malcolm III (; c.26 March 1031 \\u2013 13 November 1093 (age 62)) was King of Scots from 1058 to 1093.",
+    "label": [
+      {
+        "Malcolm III": "PERSON"
+      },
+      {
+        "Scots": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Malcolm III",
+      "Scots"
+    ]
+  },
+  {
+    "id": 108,
+    "text": "Midway through the season, they traded Stacey King to the Minnesota Timberwolves for Luc Longley.",
+    "label": [
+      {
+        "Stacey King": "PERSON"
+      },
+      {
+        "Minnesota Timberwolves": "ORGANIZATION"
+      },
+      {
+        "Luc Longley": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Stacey King",
+      "Minnesota Timberwolves",
+      "Luc Longley"
+    ]
+  },
+  {
+    "id": 109,
+    "text": "The Germans then attacked again and penetrated C Company, but the tanks of the North Irish Horse stopped the Germans until dusk.",
+    "label": [
+      {
+        "Germans": "LOCATION"
+      },
+      {
+        "C Company": "ORGANIZATION"
+      },
+      {
+        "North Irish Horse": "ORGANIZATION"
+      },
+      {
+        "Germans": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Germans",
+      "C Company",
+      "North Irish Horse",
+      "Germans"
+    ]
+  },
+  {
+    "id": 110,
+    "text": "He also appeared in and Raj Kanwar's action hit ``Jeet``.",
+    "label": [
+      {
+        "Raj Kanwar": "PERSON"
+      },
+      {
+        "Jeet": "ART"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Raj Kanwar",
+      "Jeet"
+    ]
+  },
+  {
+    "id": 111,
+    "text": "Liz Weir won the inaugural International Story Bridge Award of the National Storytelling Network in 2002.",
+    "label": [
+      {
+        "Liz Weir": "PERSON"
+      },
+      {
+        "International Story Bridge Award": "OTHER"
+      },
+      {
+        "National Storytelling Network": "EVENT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Liz Weir",
+      "International Story Bridge Award",
+      "National Storytelling Network"
+    ]
+  },
+  {
+    "id": 112,
+    "text": "Less commonly, cases of hypersexuality have been reported.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 113,
+    "text": "The film is based on the French novel ``L'affaire Cl\\u00e9menceau'', by Alexandre Dumas, fils, and is now considered to be lost.",
+    "label": [
+      {
+        "French": "OTHER"
+      },
+      {
+        "Alexandre Dumas": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "French",
+      "Alexandre Dumas"
+    ]
+  },
+  {
+    "id": 114,
+    "text": "After it was established by Yadunandan Sharma, at the instruction of Swami Sahajanand Saraswati in 1933, it saw a large number of freedom fighters visiting.",
+    "label": [
+      {
+        "Yadunandan Sharma": "PERSON"
+      },
+      {
+        "Swami Sahajanand Saraswati": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Yadunandan Sharma",
+      "Swami Sahajanand Saraswati"
+    ]
+  },
+  {
+    "id": 115,
+    "text": "Even though these matrimonial ties existed between the Ula and Nurhaci, a war broke out in 1607 between Nurhaci and the Ula in which the latter were defeated with the loss of some towns.",
+    "label": [
+      {
+        "Ula": "ORGANIZATION"
+      },
+      {
+        "Nurhaci": "PERSON"
+      },
+      {
+        "Nurhaci": "PERSON"
+      },
+      {
+        "Ula": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Ula",
+      "Nurhaci",
+      "Nurhaci",
+      "Ula"
+    ]
+  },
+  {
+    "id": 116,
+    "text": "On the formation of the Residential Property Tribunal Service as a result of the Housing Act 2004 the rent assessment committees became part of that body for administrative purposes, and is therefore now called the First Tier Tribunal (Property Chamber - Residential Property).",
+    "label": [
+      {
+        "Residential Property Tribunal Service": "ORGANIZATION"
+      },
+      {
+        "Housing Act 2004": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Residential Property Tribunal Service",
+      "Housing Act 2004"
+    ]
+  },
+  {
+    "id": 117,
+    "text": "The ridge is situated northeast of Mount Kliment Ohridski, extending in the north-south direction, wide, and is bounded by Poste Valley to the east, by Palestrina Glacier to the north and its tributary Yozola Glacier to the west.",
+    "label": [
+      {
+        "Mount Kliment Ohridski": "LOCATION"
+      },
+      {
+        "Poste Valley": "LOCATION"
+      },
+      {
+        "Palestrina Glacier": "LOCATION"
+      },
+      {
+        "Yozola Glacier": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Mount Kliment Ohridski",
+      "Poste Valley",
+      "Palestrina Glacier",
+      "Yozola Glacier"
+    ]
+  },
+  {
+    "id": 118,
+    "text": "After the end of the Civil War, Young was excluded from President Andrew Johns on's amnesty proclamation.",
+    "label": [
+      {
+        "Civil War": "EVENT"
+      },
+      {
+        "Young": "PERSON"
+      },
+      {
+        "Andrew Johns": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Civil War",
+      "Young",
+      "Andrew Johns"
+    ]
+  },
+  {
+    "id": 119,
+    "text": "I, Max was a sports commentary show featuring host Max Kellerman and Michael Holley that aired nightly on Fox Sports Net.",
+    "label": [
+      {
+        "I, Max": "ART"
+      },
+      {
+        "Max Kellerman": "PERSON"
+      },
+      {
+        "Michael Holley": "PERSON"
+      },
+      {
+        "Fox Sports Net": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "I, Max",
+      "Max Kellerman",
+      "Michael Holley",
+      "Fox Sports Net"
+    ]
+  },
+  {
+    "id": 121,
+    "text": "Gibraltar suffered a number of air raids during 1940 by the Italian ``Regia Aeronautica`` (operating from Sardinia) and from the Vichy French Air Force (from French North Africa) in retaliation for British and Free French attacks on Mers-el-Kebir and Dakar.",
+    "label": [
+      {
+        "Gibraltar": "LOCATION"
+      },
+      {
+        "Regia Aeronautica": "ORGANIZATION"
+      },
+      {
+        "Sardinia": "LOCATION"
+      },
+      {
+        "Vichy French Air Force": "ORGANIZATION"
+      },
+      {
+        "French North Africa": "LOCATION"
+      },
+      {
+        "British": "ORGANIZATION"
+      },
+      {
+        "Free French": "ORGANIZATION"
+      },
+      {
+        "Mers-el-Kebir": "LOCATION"
+      },
+      {
+        "Dakar": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Gibraltar",
+      "Regia Aeronautica",
+      "Sardinia",
+      "Vichy French Air Force",
+      "French North Africa",
+      "British",
+      "Free French",
+      "Mers-el-Kebir",
+      "Dakar"
+    ]
+  },
+  {
+    "id": 122,
+    "text": "The name ``Ganapatishvara``, which also gives the town its alternate name ``Ganapatishvaram``, denotes Shiva as ``Lord of Ganesha`` and alludes to the legend that Ganesha killed a demon and then worshipped his father Shiva here.",
+    "label": [
+      {
+        "Ganapatishvara": "OTHER"
+      },
+      {
+        "Ganapatishvaram": "OTHER"
+      },
+      {
+        "Shiva": "OTHER"
+      },
+      {
+        "Lord of Ganesha": "OTHER"
+      },
+      {
+        "Ganesha": "OTHER"
+      },
+      {
+        "Shiva": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Ganapatishvara",
+      "Ganapatishvaram",
+      "Shiva",
+      "Lord of Ganesha",
+      "Ganesha",
+      "Shiva"
+    ]
+  },
+  {
+    "id": 123,
+    "text": "Divine Styler says: ``in the school I come from, freestyling was a non-conceptual written rhyme... and now they call freestyling off the top of the head, so the era I come from it's a lot different''.",
+    "label": [
+      {
+        "Divine Styler": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Divine Styler"
+    ]
+  },
+  {
+    "id": 124,
+    "text": "Shortly after World War I, he purchased a plot of land in Toulon and donated it to the local sports club, RC Toulonnais, for the building of a stadium.",
+    "label": [
+      {
+        "World War I": "EVENT"
+      },
+      {
+        "Toulon": "LOCATION"
+      },
+      {
+        "RC Toulonnais": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "World War I",
+      "Toulon",
+      "RC Toulonnais"
+    ]
+  },
+  {
+    "id": 125,
+    "text": "After the 1973 military coup, Ar\\u00f3n was forced to go underground.",
+    "label": [
+      {
+        "Ar\\u00f3n": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Ar\\u00f3n"
+    ]
+  },
+  {
+    "id": 126,
+    "text": "As a longer loaf, it may well have been the origin of French bread as bakers there attempted to adopt the steam method to produce their baguettes.",
+    "label": [
+      {
+        "French": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "French"
+    ]
+  },
+  {
+    "id": 127,
+    "text": "Eventually, however, the Saudi government and the FBI repeatedly conflicted during the course of the investigation.",
+    "label": [
+      {
+        "Saudi": "ORGANIZATION"
+      },
+      {
+        "FBI": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Saudi",
+      "FBI"
+    ]
+  },
+  {
+    "id": 128,
+    "text": "It is an orthomyxovirus that contains the glycoproteins haemagglutinin and neuraminidase.",
+    "label": [
+      {
+        "orthomyxovirus": "OTHER"
+      },
+      {
+        "glycoproteins haemagglutinin": "OTHER"
+      },
+      {
+        "neuraminidase": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "orthomyxovirus",
+      "glycoproteins haemagglutinin",
+      "neuraminidase"
+    ]
+  },
+  {
+    "id": 129,
+    "text": "He died in an assisted living facility on election day, November 2, 2004, at the age of 92, survived by his widow and one brother.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 131,
+    "text": "They were set to take on rival Oregon State in the quarterfinals of the Pac-12 Tournament.",
+    "label": [
+      {
+        "Oregon State": "ORGANIZATION"
+      },
+      {
+        "Pac-12 Tournament": "EVENT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Oregon State",
+      "Pac-12 Tournament"
+    ]
+  },
+  {
+    "id": 132,
+    "text": "The airport is located south southeast of the Nhulunbuy town centre, on Melville Road.",
+    "label": [
+      {
+        "Nhulunbuy": "LOCATION"
+      },
+      {
+        "Melville Road": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Nhulunbuy",
+      "Melville Road"
+    ]
+  },
+  {
+    "id": 133,
+    "text": "To further expand its readership, ``The Philippine Star`` entered into a partnership with fast food restaurant Jollibee in 2003 to become the first newspaper to be distributed free of charge in a fast food restaurant.",
+    "label": [
+      {
+        "The Philippine Star": "OTHER"
+      },
+      {
+        "Jollibee": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "The Philippine Star",
+      "Jollibee"
+    ]
+  },
+  {
+    "id": 134,
+    "text": "Its headquarters are in Moscow.",
+    "label": [
+      {
+        "Moscow": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Moscow"
+    ]
+  },
+  {
+    "id": 135,
+    "text": "They work independently of insulin and can reduce glucose levels without causing hypoglycemia or weight gain.",
+    "label": [
+      {
+        "insulin": "OTHER"
+      },
+      {
+        "hypoglycemia": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "insulin",
+      "hypoglycemia"
+    ]
+  },
+  {
+    "id": 136,
+    "text": "The channel has faced charges for spreading fake news and carrying out viewership manipulation on a number of occasions.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 137,
+    "text": "Of the company's first direct signings The Rasmus managed to launch a successful international career with the release of their album Dead Letters (2003).",
+    "label": [
+      {
+        "Rasmus": "ORGANIZATION"
+      },
+      {
+        "Dead Letters": "ART"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Rasmus",
+      "Dead Letters"
+    ]
+  },
+  {
+    "id": 138,
+    "text": "The French credit rating agency Coface declared that the dramatic mining rescue would have a positive impact on Chile's economic reputation.",
+    "label": [
+      {
+        "French": "LOCATION"
+      },
+      {
+        "Coface": "ORGANIZATION"
+      },
+      {
+        "Chile": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "French",
+      "Coface",
+      "Chile"
+    ]
+  },
+  {
+    "id": 139,
+    "text": "The newest batch of contestants converged on New Orleans to meet with Tyler and receive a beignet cooking challenge right off the bat.",
+    "label": [
+      {
+        "New Orleans": "LOCATION"
+      },
+      {
+        "Tyler": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "New Orleans",
+      "Tyler"
+    ]
+  },
+  {
+    "id": 140,
+    "text": "Petit-de-Grat Island is a Canadian island off the coast of Cape Breton Island, in Richmond County, Nova Scotia.",
+    "label": [
+      {
+        "Petit-de-Grat Island": "LOCATION"
+      },
+      {
+        "Canadian": "LOCATION"
+      },
+      {
+        "Cape Breton Island": "LOCATION"
+      },
+      {
+        "Richmond County": "LOCATION"
+      },
+      {
+        "Nova Scotia": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Petit-de-Grat Island",
+      "Canadian",
+      "Cape Breton Island",
+      "Richmond County",
+      "Nova Scotia"
+    ]
+  },
+  {
+    "id": 141,
+    "text": "Police investigations revealed the shotgun used to perform the murders was the same weapon used earlier in a bungled attempt to blast open a bank door during a robbery at the State Bank in Oak Park seven months earlier.",
+    "label": [
+      {
+        "State Bank": "BUILDING"
+      },
+      {
+        "Oak Park": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "State Bank",
+      "Oak Park"
+    ]
+  },
+  {
+    "id": 142,
+    "text": "For the 2019 Frieze Art Fair in London, Agostinelli staged his fourth intervention by depositing a 1 tonne block of translucent ice pulled by a Tesla to the entrance of the fair on opening day.",
+    "label": [
+      {
+        "Frieze Art Fair": "EVENT"
+      },
+      {
+        "London": "LOCATION"
+      },
+      {
+        "Agostinelli": "PERSON"
+      },
+      {
+        "Tesla": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Frieze Art Fair",
+      "London",
+      "Agostinelli",
+      "Tesla"
+    ]
+  },
+  {
+    "id": 143,
+    "text": "He was appointed captain and took part in the naval part of the Siege of Port Hudson in May to July, 1863.",
+    "label": [
+      {
+        "Siege of Port Hudson": "EVENT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Siege of Port Hudson"
+    ]
+  },
+  {
+    "id": 144,
+    "text": "Sosa was not called to the World Cup 2010 team by then-manager Diego Maradona, but was reinstated by new coach Alejandro Sabella for the World Cup 2014 qualifiers, and has been featured in several games since 2011.",
+    "label": [
+      {
+        "Sosa": "PERSON"
+      },
+      {
+        "World Cup": "EVENT"
+      },
+      {
+        "Diego Maradona": "PERSON"
+      },
+      {
+        "Alejandro Sabella": "PERSON"
+      },
+      {
+        "World Cup": "EVENT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Sosa",
+      "World Cup",
+      "Diego Maradona",
+      "Alejandro Sabella",
+      "World Cup"
+    ]
+  },
+  {
+    "id": 145,
+    "text": "The HTC Prophet is a combined Personal Digital Assistant (PDA) and mobile telephone manufactured by HTC.",
+    "label": [
+      {
+        "HTC Prophet": "PRODUCT"
+      },
+      {
+        "Personal Digital Assistant (PDA)": "PRODUCT"
+      },
+      {
+        "mobile telephone": "PRODUCT"
+      },
+      {
+        "HTC": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "HTC Prophet",
+      "Personal Digital Assistant (PDA)",
+      "mobile telephone",
+      "HTC"
+    ]
+  },
+  {
+    "id": 146,
+    "text": "The scene is set at the Paris Las Vegas resort, where escaped Pteranodons land atop the resort's Eiffel Tower.",
+    "label": [
+      {
+        "Paris Las Vegas": "LOCATION"
+      },
+      {
+        "Eiffel Tower": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Paris Las Vegas",
+      "Eiffel Tower"
+    ]
+  },
+  {
+    "id": 147,
+    "text": "In 1863, he was the treasurer of the City of Denver and Arapahoe County.",
+    "label": [
+      {
+        "City of Denver": "LOCATION"
+      },
+      {
+        "Arapahoe County": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "City of Denver",
+      "Arapahoe County"
+    ]
+  },
+  {
+    "id": 148,
+    "text": "Greece fielded a four-strong table tennis team at the 2004 Olympic Games after being granted permission to use host nation qualification places.",
+    "label": [
+      {
+        "Greece": "LOCATION"
+      },
+      {
+        "2004 Olympic Games": "EVENT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Greece",
+      "2004 Olympic Games"
+    ]
+  },
+  {
+    "id": 149,
+    "text": "In 2019 he got a ``cum laude'' PhD at Politecnico di Milano with the thesis:`` Hybrid Modular Architecture: a strategic framework of building innovation for emerging housing behaviors in urban contexts `.",
+    "label": [
+      {
+        "PhD": "OTHER"
+      },
+      {
+        "Politecnico di Milano": "ORGANIZATION"
+      },
+      {
+        "Hybrid Modular Architecture: a strategic framework of building innovation for emerging housing behaviors in urban contexts": "ART"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "PhD",
+      "Politecnico di Milano",
+      "Hybrid Modular Architecture: a strategic framework of building innovation for emerging housing behaviors in urban contexts"
+    ]
+  },
+  {
+    "id": 150,
+    "text": "Both versions of the band continued touring and recording new music concurrently.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 151,
+    "text": "From 1927 to 1944, he was on the books of the All-Union Communist Party (Bolsheviks), later known as the Communist Party of the Soviet Union.",
+    "label": [
+      {
+        "All-Union Communist Party": "ORGANIZATION"
+      },
+      {
+        "Bolsheviks": "ORGANIZATION"
+      },
+      {
+        "Communist Party of the Soviet Union": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "All-Union Communist Party",
+      "Bolsheviks",
+      "Communist Party of the Soviet Union"
+    ]
+  },
+  {
+    "id": 152,
+    "text": "In July 1944, the 503rd jumped again, onto Noemfoor Island, off Dutch New Guinea, in the Battle of Noemfoor.",
+    "label": [
+      {
+        "Noemfoor Island": "LOCATION"
+      },
+      {
+        "Dutch New Guinea": "LOCATION"
+      },
+      {
+        "Battle of Noemfoor": "EVENT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Noemfoor Island",
+      "Dutch New Guinea",
+      "Battle of Noemfoor"
+    ]
+  },
+  {
+    "id": 153,
+    "text": "DMUs in Taiwan are classified as Class DR.",
+    "label": [
+      {
+        "DMUs": "PRODUCT"
+      },
+      {
+        "Taiwan": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "DMUs",
+      "Taiwan"
+    ]
+  },
+  {
+    "id": 154,
+    "text": "Saunders lost to Fitch by unanimous decision.",
+    "label": [
+      {
+        "Saunders": "PERSON"
+      },
+      {
+        "Fitch": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Saunders",
+      "Fitch"
+    ]
+  },
+  {
+    "id": 155,
+    "text": "The basis of the column is orientated northwest/southeast, while its capital is aligned north/south, possibly so that the statue could look towards the nearby Church of the Holy Apostles.",
+    "label": [
+      {
+        "Church of the Holy Apostles": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Church of the Holy Apostles"
+    ]
+  },
+  {
+    "id": 156,
+    "text": "It was previously used by Route 410 to Rehovot, and was known as the Jumping Bridge due to a bump in the middle of the bridge which caused cars to jump if speeding.",
+    "label": [
+      {
+        "Route 410": "LOCATION"
+      },
+      {
+        "Rehovot": "LOCATION"
+      },
+      {
+        "Jumping Bridge": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Route 410",
+      "Rehovot",
+      "Jumping Bridge"
+    ]
+  },
+  {
+    "id": 157,
+    "text": "On January 11, 2018 it was announced that Trout would make a ring return against Colombia n boxer Juan De Angel on the Devon Alexander vs. Victor Ortiz undercard on February 17 at the Don Haskins Center on the UTEP campus in El Paso, Texas.",
+    "label": [
+      {
+        "Trout": "ORGANIZATION"
+      },
+      {
+        "Colombia": "LOCATION"
+      },
+      {
+        "Juan De Angel": "PERSON"
+      },
+      {
+        "Devon Alexander": "ORGANIZATION"
+      },
+      {
+        "Victor Ortiz": "ORGANIZATION"
+      },
+      {
+        "Don Haskins Center": "BUILDING"
+      },
+      {
+        "UTEP": "ORGANIZATION"
+      },
+      {
+        "El Paso": "LOCATION"
+      },
+      {
+        "Texas": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Trout",
+      "Colombia",
+      "Juan De Angel",
+      "Devon Alexander",
+      "Victor Ortiz",
+      "Don Haskins Center",
+      "UTEP",
+      "El Paso",
+      "Texas"
+    ]
+  },
+  {
+    "id": 158,
+    "text": "Xiongnu had been incessantly attacking the Xiyu (central Asia) kingdom of Wusun, whose queen was the Han princess Liu Jieyou).",
+    "label": [
+      {
+        "Xiongnu": "LOCATION"
+      },
+      {
+        "Xiyu": "LOCATION"
+      },
+      {
+        "Asia": "LOCATION"
+      },
+      {
+        "Wusun": "LOCATION"
+      },
+      {
+        "Han": "LOCATION"
+      },
+      {
+        "Liu Jieyou": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Xiongnu",
+      "Xiyu",
+      "Asia",
+      "Wusun",
+      "Han",
+      "Liu Jieyou"
+    ]
+  },
+  {
+    "id": 159,
+    "text": "Despite the 3-hour running time and its sometimes slow pace, it proved enormously popular with the public and put Jacques Feyder into the front rank of French film-makers.",
+    "label": [
+      {
+        "Jacques Feyder": "PERSON"
+      },
+      {
+        "French": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Jacques Feyder",
+      "French"
+    ]
+  },
+  {
+    "id": 14101,
+    "text": "The Rake's Progress is a 1945 British comedy-drama film.",
+    "label": [
+      {
+        "The Rake's Progress": "ART"
+      },
+      {
+        "British": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "The Rake's Progress",
+      "British"
+    ]
+  },
+  {
+    "id": 14102,
+    "text": "As an MP, McGhee was described as an orthodox Irish nationalist.",
+    "label": [
+      {
+        "McGhee": "PERSON"
+      },
+      {
+        "orthodox Irish": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "McGhee",
+      "orthodox Irish"
+    ]
+  },
+  {
+    "id": 14103,
+    "text": "Saab gave Mr Gilbert a Saab 9-5 Aero.",
+    "label": [
+      {
+        "Saab": "ORGANIZATION"
+      },
+      {
+        "Gilbert": "PERSON"
+      },
+      {
+        "Saab 9-5 Aero": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Saab",
+      "Gilbert",
+      "Saab 9-5 Aero"
+    ]
+  },
+  {
+    "id": 14104,
+    "text": "Having been developed as a player through Dundee United's youth system, Walker made six league appearances for the United first team, his last coming in September 1997.",
+    "label": [
+      {
+        "Dundee United": "ORGANIZATION"
+      },
+      {
+        "Walker": "PERSON"
+      },
+      {
+        "United": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Dundee United",
+      "Walker",
+      "United"
+    ]
+  },
+  {
+    "id": 14105,
+    "text": "He was awarded the Distinguished Flying Cross during World War II for his service as a de Havilland Mosquito night-fighter pilot with the Royal Canadian Air Force, having destroyed four enemy aircraft, including the first Mistel composite ``piggyback'' aircraft.",
+    "label": [
+      {
+        "Distinguished Flying Cross": "OTHER"
+      },
+      {
+        "World War II": "EVENT"
+      },
+      {
+        "de Havilland Mosquito": "PRODUCT"
+      },
+      {
+        "Royal Canadian Air Force": "ORGANIZATION"
+      },
+      {
+        "Mistel composite ``piggyback'' aircraft": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Distinguished Flying Cross",
+      "World War II",
+      "de Havilland Mosquito",
+      "Royal Canadian Air Force",
+      "Mistel composite ``piggyback'' aircraft"
+    ]
+  },
+  {
+    "id": 14106,
+    "text": "In 1919 Gagnon married Lucile Rodier, also a pupil of William Bremner.",
+    "label": [
+      {
+        "Gagnon": "PERSON"
+      },
+      {
+        "Lucile Rodier": "PERSON"
+      },
+      {
+        "William Bremner": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Gagnon",
+      "Lucile Rodier",
+      "William Bremner"
+    ]
+  },
+  {
+    "id": 14107,
+    "text": "It is the birthplace of actor John Wayne.",
+    "label": [
+      {
+        "John Wayne": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "John Wayne"
+    ]
+  },
+  {
+    "id": 14108,
+    "text": "The Central Bank of Brazil is the central bank and the issuing authority.",
+    "label": [
+      {
+        "Central Bank of Brazil": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Central Bank of Brazil"
+    ]
+  },
+  {
+    "id": 14109,
+    "text": "Graduating with a BA in Psychology, and a minor in Criminology.",
+    "label": [
+      {
+        "BA": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "BA"
+    ]
+  },
+  {
+    "id": 14110,
+    "text": "It is a part of the National Highway network linking the state capital cities Adelaide to Melbourne and signed as National Highway M1.",
+    "label": [
+      {
+        "Adelaide": "LOCATION"
+      },
+      {
+        "Melbourne": "LOCATION"
+      },
+      {
+        "National Highway M1": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Adelaide",
+      "Melbourne",
+      "National Highway M1"
+    ]
+  },
+  {
+    "id": 14111,
+    "text": "The men's individual road race at the 1956 Summer Olympics in Melbourne, Australia, was held on Friday 7 December 1956.",
+    "label": [
+      {
+        "Summer Olympics": "EVENT"
+      },
+      {
+        "Melbourne": "LOCATION"
+      },
+      {
+        "Australia": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Summer Olympics",
+      "Melbourne",
+      "Australia"
+    ]
+  },
+  {
+    "id": 14112,
+    "text": "Natesan stood as the UNP's candidate in Kankesanthurai at the 1947 parliamentary elections but was defeated by the All Ceylon Tamil Congress (ACTC) candidate S.J.V.Chelvanayakam.",
+    "label": [
+      {
+        "Natesan": "PERSON"
+      },
+      {
+        "UNP": "ORGANIZATION"
+      },
+      {
+        "Kankesanthurai": "LOCATION"
+      },
+      {
+        "All Ceylon Tamil Congress": "ORGANIZATION"
+      },
+      {
+        "ACTC": "ORGANIZATION"
+      },
+      {
+        "Chelvanayakam": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Natesan",
+      "UNP",
+      "Kankesanthurai",
+      "All Ceylon Tamil Congress",
+      "ACTC",
+      "Chelvanayakam"
+    ]
+  },
+  {
+    "id": 14113,
+    "text": "He also was trained at the Royal Danish Academy of Fine Arts in Copenhagen under Professor Einar Utzon-Frank from 1945-1946.",
+    "label": [
+      {
+        "Royal Danish Academy of Fine Arts": "ORGANIZATION"
+      },
+      {
+        "Copenhagen": "LOCATION"
+      },
+      {
+        "Einar Utzon-Frank": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Royal Danish Academy of Fine Arts",
+      "Copenhagen",
+      "Einar Utzon-Frank"
+    ]
+  },
+  {
+    "id": 14114,
+    "text": "The 20Q AI can draw its own conclusions on how to interpret the information.",
+    "label": [
+      {
+        "20Q AI": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "20Q AI"
+    ]
+  },
+  {
+    "id": 14115,
+    "text": "He is mayor of Moerbeke-Waas since 2013 and member of the Belgian Federal Parliament since 2019.",
+    "label": [
+      {
+        "Moerbeke-Waas": "LOCATION"
+      },
+      {
+        "Belgian Federal Parliament": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Moerbeke-Waas",
+      "Belgian Federal Parliament"
+    ]
+  },
+  {
+    "id": 14116,
+    "text": "It was also shortlisted for the 2012 Forward Prize for Best First Collection.",
+    "label": [
+      {
+        "Forward Prize for Best First Collection": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Forward Prize for Best First Collection"
+    ]
+  },
+  {
+    "id": 14117,
+    "text": "Nevestino's name roughly means ``the bride's [ place, field ]'', from the word`` nevesta'' (\\u043d\\u0435\\u0432\\u0435\\u0441\\u0442\\u0430), ``bride'', attested in Old Bulgarian.",
+    "label": [
+      {
+        "Nevestino": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Nevestino"
+    ]
+  },
+  {
+    "id": 14118,
+    "text": "A second phase of work, conducted between 1890 and 1893, involved the construction of the east relief bridge along with the refurbishment of the west bridge.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 14119,
+    "text": "All lyrics written by Kellin Quinn and Jesse Lawson unless noted, all music composed by Sleeping with Sirens",
+    "label": [
+      {
+        "Kellin Quinn": "PERSON"
+      },
+      {
+        "Jesse Lawson": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Kellin Quinn",
+      "Jesse Lawson"
+    ]
+  },
+  {
+    "id": 14120,
+    "text": "Over 50 miles of the long-distance Ozark Trail were damaged, requiring many months of repairs to rehabilitate.",
+    "label": [
+      {
+        "Ozark Trail": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Ozark Trail"
+    ]
+  },
+  {
+    "id": 14121,
+    "text": "Caunter remained a regular character until new executive producer Louise Berridge axed him in 2003, a decision which she later stated she regretted.",
+    "label": [
+      {
+        "Caunter": "PERSON"
+      },
+      {
+        "Louise Berridge": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Caunter",
+      "Louise Berridge"
+    ]
+  },
+  {
+    "id": 14122,
+    "text": "The fleet finally sailed in 364, but modern scholars believe that Epaminondas achieved no lasting gains for Thebes on this voyage.",
+    "label": [
+      {
+        "Thebes": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Thebes"
+    ]
+  },
+  {
+    "id": 14123,
+    "text": "Lord Aberdeen died in August 1801, aged 79.",
+    "label": [
+      {
+        "Aberdeen": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Aberdeen"
+    ]
+  },
+  {
+    "id": 14124,
+    "text": "Former Blizzard North members who joined Castaway Entertainment include Michael Scandizzo, Stefan Scandizzo, Alan Ackerman, Steven Woo, Rick Seis, Ted Bisson, Bruno Bowden, Peter Brevik, Michael Huang, Kelly Johnson (artist), Michio Okamura, Tom Ricket (also known as Sluggy Freelance's Shirt Guy Tom), and Fredrick Vaught (after whom the Halls of Vaught in Diablo II were named).",
+    "label": [
+      {
+        "Blizzard North": "ORGANIZATION"
+      },
+      {
+        "Castaway Entertainment": "ORGANIZATION"
+      },
+      {
+        "Michael Scandizzo": "PERSON"
+      },
+      {
+        "Stefan Scandizzo": "PERSON"
+      },
+      {
+        "Alan Ackerman": "PERSON"
+      },
+      {
+        "Steven Woo": "PERSON"
+      },
+      {
+        "Rick Seis": "PERSON"
+      },
+      {
+        "Ted Bisson": "PERSON"
+      },
+      {
+        "Bruno Bowden": "PERSON"
+      },
+      {
+        "Peter Brevik": "PERSON"
+      },
+      {
+        "Michael Huang": "PERSON"
+      },
+      {
+        "Kelly Johnson": "PERSON"
+      },
+      {
+        "Michio Okamura": "PERSON"
+      },
+      {
+        "Tom Ricket": "PERSON"
+      },
+      {
+        "Sluggy Freelance's Shirt Guy Tom": "PERSON"
+      },
+      {
+        "Fredrick Vaught": "PERSON"
+      },
+      {
+        "Halls of Vaught": "LOCATION"
+      },
+      {
+        "Diablo II": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Blizzard North",
+      "Castaway Entertainment",
+      "Michael Scandizzo",
+      "Stefan Scandizzo",
+      "Alan Ackerman",
+      "Steven Woo",
+      "Rick Seis",
+      "Ted Bisson",
+      "Bruno Bowden",
+      "Peter Brevik",
+      "Michael Huang",
+      "Kelly Johnson",
+      "Michio Okamura",
+      "Tom Ricket",
+      "Sluggy Freelance's Shirt Guy Tom",
+      "Fredrick Vaught",
+      "Halls of Vaught",
+      "Diablo II"
+    ]
+  },
+  {
+    "id": 14125,
+    "text": "On 2 September 2006, al-Bashir agreed to pardon and release Tomo Kri\\u017enar.",
+    "label": [
+      {
+        "al-Bashir": "PERSON"
+      },
+      {
+        "Tomo Kri\\u017enar": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "al-Bashir",
+      "Tomo Kri\\u017enar"
+    ]
+  },
+  {
+    "id": 14126,
+    "text": "Nick Strange and Ben Helm competed in the L ightweight double sculls and Lightweight four at the Atlanta Olympic Games in 1996.",
+    "label": [
+      {
+        "Nick Strange": "PERSON"
+      },
+      {
+        "Ben Helm": "PERSON"
+      },
+      {
+        "ightweight double sculls and Lightweight four": "ORGANIZATION"
+      },
+      {
+        "Atlanta Olympic Games": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Nick Strange",
+      "Ben Helm",
+      "ightweight double sculls and Lightweight four",
+      "Atlanta Olympic Games"
+    ]
+  },
+  {
+    "id": 14127,
+    "text": "``Pointe G\\u00fcssfeldt`` (4,112 m), the highest summit on the Aiguille Blanche de Peuterey is named after him, as is the ``G\\u00fcssfeldtsattel``, the col between Piz Scerscen and Piz Roseg also known as the ``Porta da Roseg``.",
+    "label": [
+      {
+        "Pointe G\\u00fcssfeldt": "LOCATION"
+      },
+      {
+        "Aiguille Blanche de Peuterey": "LOCATION"
+      },
+      {
+        "G\\u00fcssfeldtsattel": "LOCATION"
+      },
+      {
+        "Piz Scerscen": "LOCATION"
+      },
+      {
+        "Piz Roseg also": "LOCATION"
+      },
+      {
+        "Porta da Roseg": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Pointe G\\u00fcssfeldt",
+      "Aiguille Blanche de Peuterey",
+      "G\\u00fcssfeldtsattel",
+      "Piz Scerscen",
+      "Piz Roseg also",
+      "Porta da Roseg"
+    ]
+  },
+  {
+    "id": 14128,
+    "text": "Conjunctions are connect two or more ideas into a single sentence.There are also disjunctive conjunctions to separate two or more mutually exclusive options presented in a sentence.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 14129,
+    "text": "Therefore, the total RER misalignment is given by the extent to which economic fundamentals differ from their long-run sustainable levels.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 14130,
+    "text": "He and teammate Mohd Zaiza Zainal Abidin was sold to Pahang for the 2011 season.",
+    "label": [
+      {
+        "Mohd Zaiza Zainal Abidin": "PERSON"
+      },
+      {
+        "Pahang": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Mohd Zaiza Zainal Abidin",
+      "Pahang"
+    ]
+  },
+  {
+    "id": 14131,
+    "text": "Dream 10: Welterweight Grand Prix 2009 Final Round was an event held on July 20, 2009 at the Saitama Super Arena in Saitama, Saitama, Japan.",
+    "label": [
+      {
+        "Welterweight Grand Prix 2009 Final Round": "EVENT"
+      },
+      {
+        "Saitama Super Arena": "BUILDING"
+      },
+      {
+        "Saitama": "LOCATION"
+      },
+      {
+        "Saitama": "LOCATION"
+      },
+      {
+        "Japan": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Welterweight Grand Prix 2009 Final Round",
+      "Saitama Super Arena",
+      "Saitama",
+      "Saitama",
+      "Japan"
+    ]
+  },
+  {
+    "id": 14132,
+    "text": "There are several makers of reproduction equipment and many artists work with collodion around the globe.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 14133,
+    "text": "Section 1 (2) of this act affirmed the provision in the Treaty that the position of Ireland remained a matter for the Parliament of Northern Ireland:",
+    "label": [
+      {
+        "Treaty": "OTHER"
+      },
+      {
+        "Parliament of Northern Ireland": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Treaty",
+      "Parliament of Northern Ireland"
+    ]
+  },
+  {
+    "id": 14134,
+    "text": "Her next appearance was at the Hotel del Coronado in 1892.",
+    "label": [
+      {
+        "Hotel del Coronado": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Hotel del Coronado"
+    ]
+  },
+  {
+    "id": 14135,
+    "text": "Later, in 1215, the lands were passed into the hands of Simon's cousin, Ranulph de Meschines, 4th Earl of Chester.",
+    "label": [
+      {
+        "Simon": "PERSON"
+      },
+      {
+        "Ranulph de Meschines": "PERSON"
+      },
+      {
+        "Chester": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Simon",
+      "Ranulph de Meschines",
+      "Chester"
+    ]
+  },
+  {
+    "id": 14136,
+    "text": "Large donations have kept the ship berthed at its Philadelphia dock while the group continues to further investigate restoration plans.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 14137,
+    "text": "The film was commercially successful.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 14138,
+    "text": "The other higher main peak is named North Twin, with a height of.",
+    "label": [
+      {
+        "North Twin": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "North Twin"
+    ]
+  },
+  {
+    "id": 14139,
+    "text": "However, scopolamine has greater effects on the central nervous system (CNS) than atropine due to its ability to cross the blood\\u2013brain barrier.",
+    "label": [
+      {
+        "scopolamine": "OTHER"
+      },
+      {
+        "atropine": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "scopolamine",
+      "atropine"
+    ]
+  },
+  {
+    "id": 14140,
+    "text": "His burial in 1791 after a funeral in the Stephansdom simply followed the regulations of the day.",
+    "label": [
+      {
+        "Stephansdom": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Stephansdom"
+    ]
+  },
+  {
+    "id": 14141,
+    "text": "He worked as a teacher and was principal of St Patrick's College in Dungiven for many years.",
+    "label": [
+      {
+        "St Patrick's College": "ORGANIZATION"
+      },
+      {
+        "Dungiven": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "St Patrick's College",
+      "Dungiven"
+    ]
+  },
+  {
+    "id": 14142,
+    "text": "The Golden Gate Bridge had a permanent movable barrier system installed in January 2015.",
+    "label": [
+      {
+        "Golden Gate Bridge": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Golden Gate Bridge"
+    ]
+  },
+  {
+    "id": 14143,
+    "text": "Ajax TOCCO is located outside city limits.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 14144,
+    "text": "82.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 14145,
+    "text": "He successfully led Paris's bid for the 2024 Summer Olympics and is serving as the head of the organizing committee for those games.",
+    "label": [
+      {
+        "Paris": "LOCATION"
+      },
+      {
+        "Summer Olympics": "EVENT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Paris",
+      "Summer Olympics"
+    ]
+  },
+  {
+    "id": 14146,
+    "text": "These implementations originally come from NetBSD, and support decompression of bzip2 and the Unix pack format.",
+    "label": [
+      {
+        "NetBSD": "PRODUCT"
+      },
+      {
+        "bzip2": "PRODUCT"
+      },
+      {
+        "Unix pack format": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "NetBSD",
+      "bzip2",
+      "Unix pack format"
+    ]
+  },
+  {
+    "id": 14147,
+    "text": "``Mestakung`` was directed by John de Rantau, best known for the Academy Award -submitted ``Denias Senandung Di Atas Awan`` (``Denias, Singing on the Cloud`` ; 2006) and ``Obama Anak Menteng`` (``Obama, Child of Menteng`` (2009).",
+    "label": [
+      {
+        "Mestakung": "ART"
+      },
+      {
+        "John de Rantau": "PERSON"
+      },
+      {
+        "Academy Award": "OTHER"
+      },
+      {
+        "Denias Senandung Di Atas Awan": "ART"
+      },
+      {
+        "Denias, Singing on the Cloud": "ART"
+      },
+      {
+        "Obama Anak Menteng": "ART"
+      },
+      {
+        "Obama, Child of Menteng": "ART"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Mestakung",
+      "John de Rantau",
+      "Academy Award",
+      "Denias Senandung Di Atas Awan",
+      "Denias, Singing on the Cloud",
+      "Obama Anak Menteng",
+      "Obama, Child of Menteng"
+    ]
+  },
+  {
+    "id": 14148,
+    "text": "Dreamscape is a 1984 American dark science-fiction adventure horror film directed by Joseph Ruben and written by David Loughery, with Chuck Russell and Ruben co-writing.",
+    "label": [
+      {
+        "Dreamscape": "ART"
+      },
+      {
+        "American": "LOCATION"
+      },
+      {
+        "Joseph Ruben": "PERSON"
+      },
+      {
+        "David Loughery": "PERSON"
+      },
+      {
+        "Chuck Russell": "PERSON"
+      },
+      {
+        "Ruben": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Dreamscape",
+      "American",
+      "Joseph Ruben",
+      "David Loughery",
+      "Chuck Russell",
+      "Ruben"
+    ]
+  },
+  {
+    "id": 14149,
+    "text": "At the height of the project, over 200 German officers participated, including Heinz Guderian and Franz Halder.",
+    "label": [
+      {
+        "German": "LOCATION"
+      },
+      {
+        "Heinz Guderian": "PERSON"
+      },
+      {
+        "Franz Halder": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "German",
+      "Heinz Guderian",
+      "Franz Halder"
+    ]
+  },
+  {
+    "id": 14150,
+    "text": "The current operators, Ace Radio Broadcasters purchased 3YB in 1995.",
+    "label": [
+      {
+        "Ace Radio Broadcasters": "ORGANIZATION"
+      },
+      {
+        "3YB": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Ace Radio Broadcasters",
+      "3YB"
+    ]
+  },
+  {
+    "id": 14151,
+    "text": "However, it will dissolve in hydrochloric and sulfuric acid, especially when fluorine is present.",
+    "label": [
+      {
+        "hydrochloric": "OTHER"
+      },
+      {
+        "sulfuric acid": "OTHER"
+      },
+      {
+        "fluorine": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "hydrochloric",
+      "sulfuric acid",
+      "fluorine"
+    ]
+  },
+  {
+    "id": 14152,
+    "text": "The over mountain retreat has unique design features with strong Asian influences, stemming from his earliest inspirations at the time like Shosoin Treasure House in Nara, Japan, among others.",
+    "label": [
+      {
+        "Asian": "LOCATION"
+      },
+      {
+        "Shosoin Treasure House": "BUILDING"
+      },
+      {
+        "Nara": "LOCATION"
+      },
+      {
+        "Japan": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Asian",
+      "Shosoin Treasure House",
+      "Nara",
+      "Japan"
+    ]
+  },
+  {
+    "id": 14153,
+    "text": "Human Rights Watch also accused Ansar al-Islam fighters of torturing prisoners and summarily executing captured PUK soldiers.",
+    "label": [
+      {
+        "Human Rights Watch": "ORGANIZATION"
+      },
+      {
+        "Ansar al-Islam": "ORGANIZATION"
+      },
+      {
+        "PUK": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Human Rights Watch",
+      "Ansar al-Islam",
+      "PUK"
+    ]
+  },
+  {
+    "id": 14154,
+    "text": "Today the reservoir is attended by Yorkshire Water staff who can gain vehicular access to the valve house through a locked gate and gravel track that runs along the top of the dam wall.",
+    "label": [
+      {
+        "Yorkshire Water": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Yorkshire Water"
+    ]
+  },
+  {
+    "id": 14155,
+    "text": "While a student, he was hired by the Hillman Library to work the circulation desk of the Spoken Arts Collection.",
+    "label": [
+      {
+        "Hillman Library": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Hillman Library"
+    ]
+  },
+  {
+    "id": 14156,
+    "text": "In 1898, James Cullen founded the Pioneer Total Abstinence Association in response to the fading influence of the original temperance pledge and this organisation remains active to this day.",
+    "label": [
+      {
+        "James Cullen": "PERSON"
+      },
+      {
+        "Pioneer Total Abstinence Association": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "James Cullen",
+      "Pioneer Total Abstinence Association"
+    ]
+  },
+  {
+    "id": 14157,
+    "text": "Its promotion, however, is visible almost everywhere: in classroom posters, banners on the street, and electronic display boards for the preparation of the 2008 Olympics, and World Expo 2010 in Shanghai.",
+    "label": [
+      {
+        "2008 Olympics": "EVENT"
+      },
+      {
+        "World Expo 2010": "EVENT"
+      },
+      {
+        "Shanghai": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "2008 Olympics",
+      "World Expo 2010",
+      "Shanghai"
+    ]
+  },
+  {
+    "id": 14158,
+    "text": "By 2011 the number of Blimpie locations had fallen to 739 stores, and revenue was down to just over $ 110 million.",
+    "label": [
+      {
+        "Blimpie": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Blimpie"
+    ]
+  },
+  {
+    "id": 14159,
+    "text": "Fud\\u014d My\\u014d\\u014d is found in Shingon Buddhism as a guardian deity, (and patron of martial arts) who is portrayed as carrying a sword in his right hand (to cut through delusions and ignorance) and a rope in his left (to bind ``evil forces'' and violent or uncontrolled passions and emotions).",
+    "label": [
+      {
+        "Shingon Buddhism": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Shingon Buddhism"
+    ]
+  },
+  {
+    "id": 14160,
+    "text": "Each of the platforms was long.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 14161,
+    "text": "Soon he moved from open mic night to a regular spot on the show ``Catch a Rising Star`` at the MGM Grand Hotel and Casino.",
+    "label": [
+      {
+        "Catch a Rising Star": "EVENT"
+      },
+      {
+        "MGM Grand Hotel and Casino": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Catch a Rising Star",
+      "MGM Grand Hotel and Casino"
+    ]
+  },
+  {
+    "id": 14162,
+    "text": "It contains 65 listed buildings that are recorded in the National Heritage List for England.",
+    "label": [
+      {
+        "England": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "England"
+    ]
+  },
+  {
+    "id": 14163,
+    "text": "Players vote to form a union, United States Football League Players Association, with former Buffalo Bills linebacker Doug Allen serving as executive director.",
+    "label": [
+      {
+        "United States Football League Players Association": "ORGANIZATION"
+      },
+      {
+        "Buffalo Bills": "ORGANIZATION"
+      },
+      {
+        "Doug Allen": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "United States Football League Players Association",
+      "Buffalo Bills",
+      "Doug Allen"
+    ]
+  },
+  {
+    "id": 14164,
+    "text": "The Leeward Antilles islands Aruba, Bonaire, and Cura\\u00e7ao, which lie in the Caribbean Sea off the coast of Venezuela, were formerly thought to represent the submerged peaks of the extreme northern edge of the Andes range, but ongoing geological studies indicate that such a simplification does not do justice to the complex tectonic boundary between the South American and Caribbean plates.",
+    "label": [
+      {
+        "Leeward Antilles islands Aruba": "LOCATION"
+      },
+      {
+        "Bonaire": "LOCATION"
+      },
+      {
+        "Cura\\u00e7ao": "LOCATION"
+      },
+      {
+        "Caribbean Sea": "LOCATION"
+      },
+      {
+        "Venezuela": "LOCATION"
+      },
+      {
+        "Andes range": "LOCATION"
+      },
+      {
+        "American": "LOCATION"
+      },
+      {
+        "Caribbean": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Leeward Antilles islands Aruba",
+      "Bonaire",
+      "Cura\\u00e7ao",
+      "Caribbean Sea",
+      "Venezuela",
+      "Andes range",
+      "American",
+      "Caribbean"
+    ]
+  },
+  {
+    "id": 14165,
+    "text": "In 1506, he took part in a coup to enthrone King Jungjong and was recorded in history as a meritorious subject who was involved in tranquilizing the state and received the title of Incheongun.",
+    "label": [
+      {
+        "Jungjong": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Jungjong"
+    ]
+  },
+  {
+    "id": 14166,
+    "text": "A majority vote by IRIFF officials terminated him from his position.",
+    "label": [
+      {
+        "IRIFF": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "IRIFF"
+    ]
+  },
+  {
+    "id": 14167,
+    "text": "On 22 July 1812, General Arthur Wellesley, Marquess Wellington's won a great victory over Marshal Auguste Marmont's Army of Portugal at the Battle of Salamanca.",
+    "label": [
+      {
+        "Arthur Wellesley": "PERSON"
+      },
+      {
+        "Marquess Wellington": "PERSON"
+      },
+      {
+        "Auguste Marmont": "PERSON"
+      },
+      {
+        "Portugal": "LOCATION"
+      },
+      {
+        "Battle of Salamanca": "EVENT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Arthur Wellesley",
+      "Marquess Wellington",
+      "Auguste Marmont",
+      "Portugal",
+      "Battle of Salamanca"
+    ]
+  },
+  {
+    "id": 14168,
+    "text": "The airline began operations in 2007 as an independent airline using branding licensed from the United Kingdom -based Virgin Group, which also controls the brand of the Virgin Atlantic and Virgin Australia airlines.",
+    "label": [
+      {
+        "United Kingdom": "LOCATION"
+      },
+      {
+        "Virgin Group": "ORGANIZATION"
+      },
+      {
+        "Virgin Atlantic": "ORGANIZATION"
+      },
+      {
+        "Virgin Australia airlines": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "United Kingdom",
+      "Virgin Group",
+      "Virgin Atlantic",
+      "Virgin Australia airlines"
+    ]
+  },
+  {
+    "id": 14169,
+    "text": "Five Guys has received numerous awards in D.C. area publications, including ``Number 1 Burger'' by`` Washingtonian Magazine ``for seven years.",
+    "label": [
+      {
+        "Five Guys": "BUILDING"
+      },
+      {
+        "D.C.": "LOCATION"
+      },
+      {
+        "Washingtonian Magazine": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Five Guys",
+      "D.C.",
+      "Washingtonian Magazine"
+    ]
+  },
+  {
+    "id": 14170,
+    "text": "while the track ``Zinda`` topped the songs chart.",
+    "label": [
+      {
+        "Zinda": "ART"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Zinda"
+    ]
+  },
+  {
+    "id": 14171,
+    "text": "For more concepts see Proposed Uranus missions.",
+    "label": [
+      {
+        "Uranus": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Uranus"
+    ]
+  },
+  {
+    "id": 14172,
+    "text": "After having graduated from the University of Ottawa, Desmarais went to Osgoode Law School until he began working for Sudbury Bus Lines Limited, the restructured bus company formed from the remnants of the Sudbury and Copper Cliff Suburban Electric Railway his grandfather had founded.",
+    "label": [
+      {
+        "University of Ottawa": "ORGANIZATION"
+      },
+      {
+        "Desmarais": "PERSON"
+      },
+      {
+        "Osgoode Law School": "ORGANIZATION"
+      },
+      {
+        "Sudbury Bus Lines Limited": "ORGANIZATION"
+      },
+      {
+        "Sudbury": "ORGANIZATION"
+      },
+      {
+        "Copper Cliff Suburban Electric Railway": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "University of Ottawa",
+      "Desmarais",
+      "Osgoode Law School",
+      "Sudbury Bus Lines Limited",
+      "Sudbury",
+      "Copper Cliff Suburban Electric Railway"
+    ]
+  },
+  {
+    "id": 14173,
+    "text": "In addition, some Chuck E.Cheese locations offer alcoholic beverages.",
+    "label": [
+      {
+        "Chuck E.Cheese": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Chuck E.Cheese"
+    ]
+  },
+  {
+    "id": 14174,
+    "text": "However, human and prairie dog cases have occurred in the US due to contact with animals imported from Ghana.",
+    "label": [
+      {
+        "prairie dog": "OTHER"
+      },
+      {
+        "US": "LOCATION"
+      },
+      {
+        "Ghana": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "prairie dog",
+      "US",
+      "Ghana"
+    ]
+  },
+  {
+    "id": 14175,
+    "text": "It was produced by Studio Ghibli for the Ghibli Museum in Mitaka.",
+    "label": [
+      {
+        "Studio Ghibli": "ORGANIZATION"
+      },
+      {
+        "Ghibli Museum": "BUILDING"
+      },
+      {
+        "Mitaka": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Studio Ghibli",
+      "Ghibli Museum",
+      "Mitaka"
+    ]
+  },
+  {
+    "id": 14176,
+    "text": "The two campgrounds at Lake Camanche are operated by the California Parks Company.",
+    "label": [
+      {
+        "Lake Camanche": "LOCATION"
+      },
+      {
+        "California Parks Company": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Lake Camanche",
+      "California Parks Company"
+    ]
+  },
+  {
+    "id": 14177,
+    "text": "The Circinus Galaxy (ESO 97-G13) is a Seyfert galaxy in the constellation of Circinus.",
+    "label": [
+      {
+        "Circinus Galaxy": "OTHER"
+      },
+      {
+        "ESO 97-G13": "OTHER"
+      },
+      {
+        "Circinus": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Circinus Galaxy",
+      "ESO 97-G13",
+      "Circinus"
+    ]
+  },
+  {
+    "id": 14178,
+    "text": "``Chances`` was featured during the end credits of the hit film ``The Blind Side``.",
+    "label": [
+      {
+        "Chances": "ART"
+      },
+      {
+        "The Blind Side": "ART"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Chances",
+      "The Blind Side"
+    ]
+  },
+  {
+    "id": 14179,
+    "text": "In 1908, Tintle began his professional career with the Harrison Alley Boys.",
+    "label": [
+      {
+        "Tintle": "PERSON"
+      },
+      {
+        "Harrison Alley Boys": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Tintle",
+      "Harrison Alley Boys"
+    ]
+  },
+  {
+    "id": 14180,
+    "text": "In 2001, Red Robin opened in the Lord & amp ; Taylor wing and The Cheesecake Factory opened in the JCPenney wing.",
+    "label": [
+      {
+        "Red Robin": "BUILDING"
+      },
+      {
+        "Lord & amp ; Taylor": "BUILDING"
+      },
+      {
+        "Cheesecake Factory": "BUILDING"
+      },
+      {
+        "JCPenney": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Red Robin",
+      "Lord & amp ; Taylor",
+      "Cheesecake Factory",
+      "JCPenney"
+    ]
+  },
+  {
+    "id": 14181,
+    "text": "She commented about the staging: ``[ It ] will revolve around the art, dance and energy of rock and roll''.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 14182,
+    "text": "Pat Gillick retired as general manager after the 2008 season and was succeeded by one of his assistants, Rub\\u00e9n Amaro, Jr. After adding outfielder Ra\\u00fal Iba\\u00f1ez to replace the departed Pat Burrell, the Phillies retained the majority of their core players for the 2009 season.",
+    "label": [
+      {
+        "Pat Gillick": "PERSON"
+      },
+      {
+        "Rub\\u00e9n Amaro, Jr.": "PERSON"
+      },
+      {
+        "Ra\\u00fal Iba\\u00f1ez": "PERSON"
+      },
+      {
+        "Pat Burrell": "PERSON"
+      },
+      {
+        "Phillies": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Pat Gillick",
+      "Rub\\u00e9n Amaro, Jr.",
+      "Ra\\u00fal Iba\\u00f1ez",
+      "Pat Burrell",
+      "Phillies"
+    ]
+  },
+  {
+    "id": 14183,
+    "text": "The Rolls-Royce Spey (company designations RB.163 and RB.168 and RB.183) is a low-bypass turbofan engine originally designed and manufactured by Rolls-Royce that has been in widespread service for over 40 years.",
+    "label": [
+      {
+        "Rolls-Royce Spey": "PRODUCT"
+      },
+      {
+        "RB.163": "PRODUCT"
+      },
+      {
+        "RB.168": "PRODUCT"
+      },
+      {
+        "RB.183": "PRODUCT"
+      },
+      {
+        "Rolls-Royce": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Rolls-Royce Spey",
+      "RB.163",
+      "RB.168",
+      "RB.183",
+      "Rolls-Royce"
+    ]
+  },
+  {
+    "id": 14184,
+    "text": "LaCroix, a Canadian merchant, and his wife Mary, ``n\\u00e9e'' Hopkins, from Virginia.",
+    "label": [
+      {
+        "Canadian": "LOCATION"
+      },
+      {
+        "Mary": "PERSON"
+      },
+      {
+        "Hopkins": "PERSON"
+      },
+      {
+        "Virginia": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Canadian",
+      "Mary",
+      "Hopkins",
+      "Virginia"
+    ]
+  },
+  {
+    "id": 14185,
+    "text": "The Mets cut the lead to 4\\u20133 in the eighth when Mora reached on third baseman Jones's error and scored on Edgardo Alfonso's double.",
+    "label": [
+      {
+        "The Mets": "ORGANIZATION"
+      },
+      {
+        "Mora": "PERSON"
+      },
+      {
+        "Jones": "PERSON"
+      },
+      {
+        "Edgardo Alfonso": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "The Mets",
+      "Mora",
+      "Jones",
+      "Edgardo Alfonso"
+    ]
+  },
+  {
+    "id": 14186,
+    "text": "In May 1956 he returned to live in Hamburg, Germany, where he received treatment at the University Medical Center Hamburg-Eppendorf.",
+    "label": [
+      {
+        "Hamburg": "LOCATION"
+      },
+      {
+        "Germany": "LOCATION"
+      },
+      {
+        "University Medical Center Hamburg-Eppendorf": "BUILDING"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Hamburg",
+      "Germany",
+      "University Medical Center Hamburg-Eppendorf"
+    ]
+  },
+  {
+    "id": 14187,
+    "text": "It has been missing since 1969 when it was stolen from the Oratory of Saint Lawrence in Palermo.",
+    "label": [
+      {
+        "Oratory of Saint Lawrence": "BUILDING"
+      },
+      {
+        "Palermo": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Oratory of Saint Lawrence",
+      "Palermo"
+    ]
+  },
+  {
+    "id": 14188,
+    "text": "Gunnbj\\u00f8rn Fjeld exceeds of topographic prominence.",
+    "label": [
+      {
+        "Gunnbj\\u00f8rn Fjeld": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Gunnbj\\u00f8rn Fjeld"
+    ]
+  },
+  {
+    "id": 14189,
+    "text": "He graduated from both Marietta College (1938) and The Ohio State University Moritz College of Law (1942).",
+    "label": [
+      {
+        "Marietta College": "ORGANIZATION"
+      },
+      {
+        "Ohio State University Moritz College of Law": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Marietta College",
+      "Ohio State University Moritz College of Law"
+    ]
+  },
+  {
+    "id": 14190,
+    "text": "This is alongside bass guitars in the Mustang, Jaguar, Jazz and Precision models.",
+    "label": [
+      {
+        "Mustang": "PRODUCT"
+      },
+      {
+        "Jaguar": "PRODUCT"
+      },
+      {
+        "Jazz": "PRODUCT"
+      },
+      {
+        "Precision": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Mustang",
+      "Jaguar",
+      "Jazz",
+      "Precision"
+    ]
+  },
+  {
+    "id": 14191,
+    "text": "Chief Supt.",
+    "label": [],
+    "dataset": "few_nerd",
+    "entity": []
+  },
+  {
+    "id": 14192,
+    "text": "At the time Chan was arrested, he was carrying three mobile phones and a boarding pass.",
+    "label": [
+      {
+        "Chan": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Chan"
+    ]
+  },
+  {
+    "id": 14193,
+    "text": "By 1968 the holding company which Desmarais had acquired three years earlier, Trans-Canada Corporation Fund (TCCF), owned the bus line Provincial Transport, an interest in Toronto -based Imperial Life Assurance and Gesca Lt\\u00e9e, (which had an interest in the Montreal paper La Presse).",
+    "label": [
+      {
+        "Desmarais": "PERSON"
+      },
+      {
+        "Trans-Canada Corporation Fund": "ORGANIZATION"
+      },
+      {
+        "TCCF": "ORGANIZATION"
+      },
+      {
+        "Provincial Transport": "ORGANIZATION"
+      },
+      {
+        "Toronto": "LOCATION"
+      },
+      {
+        "Imperial Life Assurance": "ORGANIZATION"
+      },
+      {
+        "Gesca Lt\\u00e9e": "ORGANIZATION"
+      },
+      {
+        "Montreal": "LOCATION"
+      },
+      {
+        "La Presse": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Desmarais",
+      "Trans-Canada Corporation Fund",
+      "TCCF",
+      "Provincial Transport",
+      "Toronto",
+      "Imperial Life Assurance",
+      "Gesca Lt\\u00e9e",
+      "Montreal",
+      "La Presse"
+    ]
+  },
+  {
+    "id": 14194,
+    "text": "The furious barrage devastated the British soldiers at the wall and the breach soon began to fill with dead and wounded over whom the storming troops had to struggle.",
+    "label": [
+      {
+        "British": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "British"
+    ]
+  },
+  {
+    "id": 14195,
+    "text": "McLaren's book of his own street photography, ``The Crash`` (2018), documents the City of London after the financial crisis of 2007\\u20132008, made over five years.",
+    "label": [
+      {
+        "McLaren": "PERSON"
+      },
+      {
+        "The Crash": "ART"
+      },
+      {
+        "City of London": "LOCATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "McLaren",
+      "The Crash",
+      "City of London"
+    ]
+  },
+  {
+    "id": 14196,
+    "text": "Cron is a mechanism for creating and running recurrent tasks in background.",
+    "label": [
+      {
+        "Cron": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Cron"
+    ]
+  },
+  {
+    "id": 14197,
+    "text": "Eduard attended Gymnasium Stubenbastei in Vienna, completing with Matura in 1918, and graduated as ``Diplomingenieur`` from the Electrical Engineering department",
+    "label": [
+      {
+        "Eduard": "PERSON"
+      },
+      {
+        "Gymnasium Stubenbastei": "ORGANIZATION"
+      },
+      {
+        "Vienna": "LOCATION"
+      },
+      {
+        "Diplomingenieur": "OTHER"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Eduard",
+      "Gymnasium Stubenbastei",
+      "Vienna",
+      "Diplomingenieur"
+    ]
+  },
+  {
+    "id": 14198,
+    "text": "Chekhov's own text, which despite a running time of about five hours he never thought of as finished, is seldom played.",
+    "label": [
+      {
+        "Chekhov": "PERSON"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Chekhov"
+    ]
+  },
+  {
+    "id": 14199,
+    "text": "Modifications included additional cockpit windows, and 245-horsepower Jacobs R-755-9 engines.",
+    "label": [
+      {
+        "Jacobs R-755-9": "PRODUCT"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "Jacobs R-755-9"
+    ]
+  },
+  {
+    "id": 14200,
+    "text": "The first African woman to be assigned by Agence France Presse in 2017, she continued to work for the agency as a stringer while also working on assignments for various international publications and organisations.",
+    "label": [
+      {
+        "African": "LOCATION"
+      },
+      {
+        "Agence France Presse": "ORGANIZATION"
+      }
+    ],
+    "dataset": "few_nerd",
+    "entity": [
+      "African",
+      "Agence France Presse"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+\begin{table}[h]
+\centering
+\resizebox{\linewidth}{!}{
+\begin{tabular}{llrrrrrrrrrr}
+\toprule
+Category & Modification & \textbf{BERT} & \textbf{GPT-2} & \textbf{T5} & \textbf{GPT-4o} & \textbf{Claude-3.5} & \textbf{Llama 3.1} & \textbf{GPT-5} & \textbf{DS R1} & \textbf{GPT-5 (w. context)} & \textbf{Avg} \\
+\midrule
+\textbf{Bias} & \textbf{Temporal} &  &  &  & \cellcolor{blue!16} 6.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!21} 8.1 & \cellcolor{blue!7} 2.5 & \cellcolor{blue!17} 6.5 &  & \cellcolor{blue!14} 5.2 \\ 
+\midrule
+\textbf{Orthographic} & \textbf{Spelling} &  &  &  & \cellcolor{blue!3} 1.0 & \cellcolor{blue!0} 0.0 & \cellcolor{blue!5} 2.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!0} 0.0 &  & \cellcolor{blue!2} 0.8 \\ 
+\midrule
+\textbf{Semantic} & \textbf{Concept} &  &  &  & \cellcolor{blue!3} 1.0 & \cellcolor{blue!0} 0.0 & \cellcolor{blue!13} 5.0 & \cellcolor{blue!5} 2.0 & \cellcolor{blue!3} 1.0 &  & \cellcolor{blue!5} 1.8 \\ 
+\midrule
+\textbf{Discourse} & \textbf{Appraisal} &  &  &  & \cellcolor{blue!9} 3.5 & \cellcolor{blue!5} 2.0 & \cellcolor{blue!16} 6.1 & \cellcolor{blue!10} 4.0 & \cellcolor{blue!9} 3.5 &  & \cellcolor{blue!10} 3.9 \\ 
+\midrule
+\textbf{Varieties} & \textbf{Style} &  &  &  & \cellcolor{blue!28} 11.0 & \cellcolor{blue!13} 5.0 & \cellcolor{blue!21} 8.0 & \cellcolor{blue!17} 6.5 & \cellcolor{blue!18} 7.0 &  & \cellcolor{blue!19} 7.5 \\ 
+\midrule
+\textbf{Syntactic} & \textbf{Conjunction} &  &  &  & \cellcolor{blue!0} 0.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!10} 4.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!3} 1.0 &  & \cellcolor{blue!4} 1.4 \\ 
+\midrule
+\textbf{Average} &   &  &  & \cellcolor{blue!10} 3.8 & \cellcolor{blue!5} 1.8 & \cellcolor{blue!14} 5.5 & \cellcolor{blue!7} 2.9 & \cellcolor{blue!8} 3.2 &  & \cellcolor{blue!9} 3.4 \\ 
+\bottomrule
+\end{tabular}}
+\caption{All Tasks: Unrobustness (U, \%) by model and modification (averaged across tasks)}\label{tab:all_tasks_unrob_from_tasks}
+\end{table}

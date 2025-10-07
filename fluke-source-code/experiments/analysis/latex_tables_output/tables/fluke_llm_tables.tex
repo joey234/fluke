@@ -1,0 +1,135 @@
+% LaTeX Tables for FLUKE LLM Analysis
+% Generated: 2025-08-18 15:46:30
+% Required packages: booktabs, adjustbox
+
+% Cross-Task Comparison Table
+\begin{table}[htbp]
+\centering
+\caption{LLM Performance Across FLUKE Tasks}
+\label{tab:cross_task_comparison}
+\begin{tabular}{lrrrrr}
+\toprule
+Model & Coreference Resolution & Dialogue Understanding & Named Entity Recognition & Sentiment Analysis & Average \\
+\midrule
+Llama & - & - & - & 85.89 & \textbf{85.89} \\
+DeepSeek-R1 & 81.48 & - & - & - & 81.48 \\
+Mixtral & 61.02 & 85.89 & - & 94.38 & 80.43 \\
+GPT-5 & \textbf{82.93} & 93.31 & 8.03 & 95.07 & 69.83 \\
+Claude-3.5 & 78.84 & \textbf{94.83} & \textbf{8.37} & 91.51 & 68.39 \\
+GPT-4o & 73.47 & 93.12 & 7.97 & 93.69 & 67.06 \\
+Llama & 0.00 & 91.72 & 6.77 & \textbf{95.53} & 48.51 \\
+Llama & - & - & - & 0.00 & 0.00 \\
+Llama & - & - & - & 0.00 & 0.00 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% Frontier Models Comparison Table
+\begin{table}[htbp]
+\centering
+\caption{Frontier Models Performance Comparison}
+\label{tab:frontier_models}
+\begin{tabular}{lrrrrr}
+\toprule
+Model & Coreference Resolution & Dialogue Understanding & Named Entity Recognition & Sentiment Analysis & Average \\
+\midrule
+GPT-4o & 73.47 & 93.12 & 7.97 & 93.69 & 67.06 \\
+GPT-5 & \textbf{82.93} & \textbf{93.31} & \textbf{8.03} & \textbf{95.07} & 69.83 \\
+DeepSeek-R1 & 81.48 & - & - & - & \textbf{81.48} \\
+\midrule
+\textit{GPT-5 vs GPT-4o} & +9.46 & +0.19 & +0.06 & +1.38 & +2.77 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+% ============ COREF TASK ============
+% Main Results Table for COREF
+\begin{table}[htbp]
+\centering
+\caption{Main Benchmark Results - Coreference Resolution}
+\label{tab:coref_main_results}
+\begin{tabular}{lrrr}
+\toprule
+Model & Coref & CoT & \textbf{Avg} \\
+\midrule
+GPT-5 & 82.93 & - & 82.93 \\
+DeepSeek-R1 & 81.48 & - & 81.48 \\
+GPT-4o & 73.47 & 78.19 & 75.83 \\
+Claude-3.5 & 78.84 & 0.00 & 39.42 \\
+Mixtral & 61.02 & 0.00 & 30.51 \\
+Llama & 0.00 & - & 0.00 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% No modification results found for coref
+
+
+% ============ DIALOGUE TASK ============
+% Main Results Table for DIALOGUE
+\begin{table}[htbp]
+\centering
+\caption{Main Benchmark Results - Dialogue Understanding}
+\label{tab:dialogue_main_results}
+\begin{tabular}{lrrr}
+\toprule
+Model & CoT & Dialog & \textbf{Avg} \\
+\midrule
+GPT-5 & - & 93.31 & 93.31 \\
+GPT-4o & 90.73 & 93.12 & 91.92 \\
+Llama & - & 91.72 & 91.72 \\
+Mixtral & 88.41 & 85.89 & 87.15 \\
+Claude-3.5 & 0.00 & 94.83 & 47.41 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% No modification results found for dialogue
+
+
+% ============ NER TASK ============
+% Main Results Table for NER
+\begin{table}[htbp]
+\centering
+\caption{Main Benchmark Results - Named Entity Recognition}
+\label{tab:ner_main_results}
+\begin{tabular}{lrr}
+\toprule
+Model & NER & \textbf{Avg} \\
+\midrule
+Claude-3.5 & 8.37 & 8.37 \\
+GPT-5 & 8.03 & 8.03 \\
+GPT-4o & 7.97 & 7.97 \\
+Llama & 6.77 & 6.77 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% No modification results found for ner
+
+
+% ============ SA TASK ============
+% Main Results Table for SA
+\begin{table}[htbp]
+\centering
+\caption{Main Benchmark Results - Sentiment Analysis}
+\label{tab:sa_main_results}
+\begin{tabular}{lrrr}
+\toprule
+Model & CoT & SST-2 & \textbf{Avg} \\
+\midrule
+Llama & - & 95.53 & 95.53 \\
+GPT-5 & - & 95.07 & 95.07 \\
+Mixtral & - & 94.38 & 94.38 \\
+Claude-3.5 & - & 91.51 & 91.51 \\
+GPT-4o & 87.16 & 93.69 & 90.42 \\
+Llama & - & 85.89 & 85.89 \\
+Llama & - & 0.00 & 0.00 \\
+Llama & - & 0.00 & 0.00 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% No modification results found for sa
+

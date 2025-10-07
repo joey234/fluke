@@ -1,0 +1,159 @@
+\documentclass[11pt]{article}
+
+% Required packages
+\usepackage{booktabs}
+\usepackage{adjustbox}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{hyperref}
+
+% Page setup
+\usepackage[margin=1in]{geometry}
+
+\title{FLUKE Benchmark Results: Evaluating Frontier LLMs}
+\author{Analysis Generated from FLUKE Framework}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+We present comprehensive evaluation results of Large Language Models (LLMs) on the FLUKE benchmark suite, 
+with particular emphasis on the performance of frontier models GPT-5 and DeepSeek R1. Our analysis covers 
+four core NLP tasks: Coreference Resolution, Dialogue Understanding, Named Entity Recognition, and Sentiment 
+Analysis. Results demonstrate that GPT-5 achieves consistent improvements over GPT-4o, with an average 
+performance gain of 2.77\%, while DeepSeek R1 shows competitive performance on coreference resolution (81.48\%).
+\end{abstract}
+
+\section{Introduction}
+
+The FLUKE (Few-shot Language Understanding and Knowledge Evaluation) benchmark provides a comprehensive 
+evaluation framework for assessing LLM capabilities across diverse linguistic tasks and modifications. 
+This report presents results from evaluating 9 LLMs, including frontier models GPT-5 and DeepSeek R1.
+
+\section{Overall Results}
+
+Table~\ref{tab:cross_task_comparison} presents the overall performance of all evaluated models across 
+the FLUKE benchmark tasks. The results show significant variation in model capabilities across different 
+task types.
+
+\input{cross_task_comparison.tex}
+
+Key observations from the overall results:
+\begin{itemize}
+    \item GPT-5 demonstrates strong performance across all tasks with an average of 69.83\%
+    \item DeepSeek R1 achieves 81.48\% on coreference resolution, though limited to single task evaluation
+    \item Significant performance gap exists between dialogue/sentiment tasks (>90\%) and NER (<10\%)
+\end{itemize}
+
+\section{Frontier Models Analysis}
+
+\subsection{Comparative Performance}
+
+Table~\ref{tab:frontier_models} provides a direct comparison between frontier models, highlighting 
+GPT-5's improvements over GPT-4o.
+
+\input{frontier_models.tex}
+
+The results demonstrate that GPT-5 achieves consistent improvements across all evaluated tasks:
+\begin{itemize}
+    \item Coreference Resolution: +9.46\% improvement (largest gain)
+    \item Sentiment Analysis: +1.38\% improvement  
+    \item Dialogue Understanding: +0.19\% improvement
+    \item Named Entity Recognition: +0.06\% improvement (smallest gain)
+\end{itemize}
+
+\subsection{DeepSeek R1 Performance}
+
+DeepSeek R1 shows promising results on coreference resolution (81.48\%), nearly matching GPT-5's 
+performance (82.93\%). This suggests that DeepSeek's reasoning-focused architecture may be particularly 
+well-suited for tasks requiring complex linguistic reasoning.
+
+\section{Task-Specific Results}
+
+\subsection{Coreference Resolution}
+
+\input{coref_main_results.tex}
+
+Coreference resolution results (Table~\ref{tab:coref_main_results}) show GPT-5 and DeepSeek R1 as 
+top performers, both exceeding 80\% accuracy. The inclusion of Chain-of-Thought (CoT) prompting 
+shows mixed results, improving GPT-4o's performance but degrading others.
+
+\subsection{Dialogue Understanding}
+
+\input{dialogue_main_results.tex}
+
+For dialogue understanding (Table~\ref{tab:dialogue_main_results}), Claude 3.5 achieves the highest 
+performance at 94.83\%, closely followed by GPT-5 at 93.31\%. Most models perform well on this task, 
+with scores exceeding 90\%.
+
+\subsection{Named Entity Recognition}
+
+\input{ner_main_results.tex}
+
+NER results (Table~\ref{tab:ner_main_results}) reveal this as the most challenging task, with all 
+models achieving less than 10\% accuracy. This may indicate evaluation methodology issues or 
+fundamental limitations in the models' entity recognition capabilities.
+
+\subsection{Sentiment Analysis}
+
+\input{sa_main_results.tex}
+
+Sentiment analysis (Table~\ref{tab:sa_main_results}) shows strong performance across all models, 
+with most achieving above 90\% accuracy. Llama models demonstrate particularly strong performance 
+on this task.
+
+\section{Robustness to Linguistic Modifications}
+
+\subsection{Coreference Resolution Modifications}
+
+\input{coref_modifications.tex}
+
+\subsection{Dialogue Understanding Modifications}
+
+\input{dialogue_modifications.tex}
+
+The modification results reveal significant performance degradation when models face linguistic 
+variations, suggesting limited robustness to input perturbations.
+
+\section{Discussion}
+
+\subsection{Key Findings}
+
+\begin{enumerate}
+    \item \textbf{GPT-5 Improvements}: GPT-5 consistently outperforms GPT-4o across all tasks, 
+          with the most significant improvement in coreference resolution (+9.46\%).
+    
+    \item \textbf{DeepSeek R1 Promise}: Despite limited evaluation, DeepSeek R1 shows competitive 
+          performance on coreference resolution, warranting further investigation.
+    
+    \item \textbf{Task Difficulty}: Clear hierarchy emerges with NER as most challenging (<10\% avg), 
+          followed by coreference (∼50\% avg), then dialogue and sentiment (>80\% avg).
+    
+    \item \textbf{Modification Sensitivity}: Models show dramatic performance drops on linguistic 
+          modifications, indicating potential brittleness to input variations.
+\end{enumerate}
+
+\subsection{Limitations}
+
+\begin{itemize}
+    \item Limited evaluation of DeepSeek R1 (only coreference task)
+    \item Low NER scores suggest potential evaluation methodology issues
+    \item Modification tests use small sample sizes (100 examples)
+\end{itemize}
+
+\section{Conclusion}
+
+The FLUKE benchmark evaluation reveals GPT-5 as a consistent improvement over GPT-4o, while DeepSeek R1 
+shows promise as a competitive alternative. However, all models demonstrate sensitivity to linguistic 
+modifications, highlighting the need for more robust language understanding capabilities. Future work 
+should focus on expanding DeepSeek R1 evaluation and investigating the unexpectedly low NER performance 
+across all models.
+
+\section*{Acknowledgments}
+
+This analysis was generated using the FLUKE analysis framework, processing 506 experimental results 
+across 9 LLM models.
+
+\end{document}

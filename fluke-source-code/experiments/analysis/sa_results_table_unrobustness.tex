@@ -1,0 +1,37 @@
+\begin{table}[h]
+\centering
+\resizebox{\linewidth}{!}{
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+Category & Modification & \multicolumn{3}{c}{\textbf{PLM}} & \multicolumn{5}{c}{\textbf{LLM}} \\
+ &  & \textbf{BERT} & \textbf{GPT-2} & \textbf{T5} & \textbf{GPT-4o} & \textbf{Claude-3.5} & \textbf{Llama 3.1} & \textbf{GPT-5} & \textbf{DS R1} & \textbf{Avg} \\
+\midrule
+\textbf{Bias} & \textbf{Temporal} & \cellcolor{blue!13} 5.0 & \cellcolor{blue!13} 5.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!0} 0.0 & \cellcolor{blue!21} 8.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!9} 3.5 \\
+  & \textbf{Geographical} & \cellcolor{blue!13} 5.0 & \cellcolor{blue!10} 4.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!23} 9.0 & \cellcolor{blue!21} 8.0 & \cellcolor{blue!18} 7.0 & \cellcolor{blue!10} 4.0 & \cellcolor{blue!21} 8.0 & \cellcolor{blue!15} 6.0 \\
+  & \textbf{Length} & \cellcolor{blue!8} 3.0 & \cellcolor{blue!5} 2.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!23} 9.0 & \cellcolor{blue!5} 2.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!8} 3.0 \\
+\midrule
+\textbf{Orthographic} & \textbf{Spelling} & \cellcolor{blue!10} 4.0 & \cellcolor{blue!10} 4.0 & \cellcolor{blue!0} 0.0 & \cellcolor{blue!0} 0.0 & \cellcolor{blue!15} 6.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!0} 0.0 & \cellcolor{blue!0} 0.0 & \cellcolor{blue!5} 2.1 \\
+  & \textbf{Capitalization} & \cellcolor{blue!0} 0.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!18} 7.1 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!0} 0.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!7} 2.5 \\
+  & \textbf{Punctuation} & \cellcolor{blue!3} 1.0 & \cellcolor{blue!5} 2.0 & \cellcolor{blue!0} 0.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!4} 1.5 \\
+\midrule
+\textbf{Morphological} & \textbf{Derivation} & \cellcolor{blue!9} 3.4 & \cellcolor{blue!15} 5.7 & \cellcolor{blue!6} 2.3 & \cellcolor{blue!6} 2.3 & \cellcolor{blue!18} 6.9 & \cellcolor{blue!6} 2.3 & \cellcolor{blue!9} 3.4 & \cellcolor{blue!12} 4.6 & \cellcolor{blue!10} 3.9 \\
+  & \textbf{Compound} & \cellcolor{blue!8} 3.2 & \cellcolor{blue!22} 8.4 & \cellcolor{blue!8} 3.2 & \cellcolor{blue!5} 2.1 & \cellcolor{blue!14} 5.3 & \cellcolor{blue!3} 1.1 & \cellcolor{blue!8} 3.2 & \cellcolor{blue!11} 4.2 & \cellcolor{blue!10} 3.8 \\
+\midrule
+\textbf{Syntactic} & \textbf{Voice} & \cellcolor{blue!23} 9.0 & \cellcolor{blue!26} 10.0 & \cellcolor{blue!23} 9.0 & \cellcolor{blue!10} 4.0 & \cellcolor{blue!26} 10.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!13} 5.0 & \cellcolor{blue!10} 4.0 & \cellcolor{blue!17} 6.8 \\
+  & \textbf{Grammar} & \cellcolor{blue!12} 4.5 & \cellcolor{blue!31} 12.1 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!12} 4.5 & \cellcolor{blue!20} 7.6 & \cellcolor{blue!12} 4.5 & \cellcolor{blue!12} 4.5 & \cellcolor{blue!12} 4.5 & \cellcolor{blue!15} 5.7 \\
+  & \textbf{Conjunction} & \cellcolor{blue!8} 3.0 & \cellcolor{blue!15} 6.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!0} 0.0 & \cellcolor{blue!0} 0.0 & \cellcolor{blue!5} 2.1 \\
+\midrule
+\textbf{Semantic} & \textbf{Concept} & \cellcolor{blue!15} 6.0 & \cellcolor{blue!15} 6.0 & \cellcolor{blue!13} 5.0 & \cellcolor{blue!10} 4.0 & \cellcolor{blue!10} 4.0 & \cellcolor{blue!5} 2.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!13} 5.0 & \cellcolor{blue!11} 4.1 \\
+  & \textbf{Negation} & \cellcolor{blue!59} \textcolor{white}{22.9} & \cellcolor{blue!54} \textcolor{white}{20.8} & \cellcolor{blue!65} \textcolor{white}{25.0} & \cellcolor{blue!43} 16.7 & \cellcolor{blue!46} \textcolor{white}{17.7} & \cellcolor{blue!40} 15.6 & \cellcolor{blue!43} 16.7 & \cellcolor{blue!46} \textcolor{white}{17.7} & \cellcolor{blue!49} \textcolor{white}{19.1} \\
+\midrule
+\textbf{Pragmatic} & \textbf{Discourse} & \cellcolor{blue!8} 3.0 & \cellcolor{blue!16} 6.1 & \cellcolor{blue!10} 4.0 & \cellcolor{blue!3} 1.0 & \cellcolor{blue!31} 12.1 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!5} 2.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!11} 4.3 \\
+  & \textbf{Sentiment} & \cellcolor{blue!49} \textcolor{white}{19.0} & \cellcolor{blue!41} 16.0 & \cellcolor{blue!31} 12.0 & \cellcolor{blue!36} 14.0 & \cellcolor{blue!39} 15.0 & \cellcolor{blue!41} 16.0 & \cellcolor{blue!28} 11.0 & \cellcolor{blue!26} 10.0 & \cellcolor{blue!36} 14.1 \\
+\midrule
+\textbf{Genre} & \textbf{Casual} & \cellcolor{blue!23} 9.0 & \cellcolor{blue!23} 9.0 & \cellcolor{blue!13} 5.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!18} 7.0 & \cellcolor{blue!15} 6.0 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!5} 2.0 & \cellcolor{blue!14} 5.5 \\
+  & \textbf{Dialectal} & \cellcolor{blue!25} 9.8 & \cellcolor{blue!25} 9.8 & \cellcolor{blue!20} 7.8 & \cellcolor{blue!13} 4.9 & \cellcolor{blue!18} 6.9 & \cellcolor{blue!15} 5.9 & \cellcolor{blue!8} 2.9 & \cellcolor{blue!10} 3.9 & \cellcolor{blue!17} 6.5 \\
+\midrule
+\textbf{Average} &  \cellcolor{blue!17} 6.5 & \cellcolor{blue!20} 7.6 & \cellcolor{blue!14} 5.3 & \cellcolor{blue!11} 4.2 & \cellcolor{blue!21} 8.0 & \cellcolor{blue!12} 4.8 & \cellcolor{blue!9} 3.6 & \cellcolor{blue!11} 4.4 & \cellcolor{blue!14} 5.6 \\
+\bottomrule
+\end{tabular}}
+\caption{Sentiment Analysis: Unrobustness (U, \%) by model and modification}\label{tab:sa_unrob}
+\end{table}

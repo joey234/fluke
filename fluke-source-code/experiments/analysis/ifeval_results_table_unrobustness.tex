@@ -1,0 +1,31 @@
+\begin{table}[h]
+\centering
+\resizebox{\linewidth}{!}{
+\begin{tabular}{llrrrrrr}
+\toprule
+Category & Modification & \textbf{GPT-4o} & \textbf{Claude-3.5} & \textbf{Llama 3.1} & \textbf{GPT-5} & \textbf{DS R1} & \textbf{Avg} \\
+\midrule
+\textbf{Bias} & \textbf{Temporal} & \cellcolor{blue!29} 11.1 & \cellcolor{blue!10} 4.0 & \cellcolor{blue!31} 12.1 & \cellcolor{blue!13} 5.1 & \cellcolor{blue!31} 12.1 & \cellcolor{blue!23} 8.9 \\
+  & \textbf{Geographical} & \cellcolor{blue!23} 9.0 & \cellcolor{blue!31} 12.0 & \cellcolor{blue!36} 14.0 & \cellcolor{blue!23} 9.0 & \cellcolor{blue!26} 10.0 & \cellcolor{blue!28} 10.8 \\
+  & \textbf{Length} & \cellcolor{blue!28} 11.0 & \cellcolor{blue!26} 10.0 & \cellcolor{blue!46} \textcolor{white}{18.0} & \cellcolor{blue!15} 6.0 & \cellcolor{blue!41} 16.0 & \cellcolor{blue!31} 12.2 \\
+\midrule
+\textbf{Orthography} & \textbf{Capitalization} & \cellcolor{blue!21} 8.1 & \cellcolor{blue!13} 5.1 & \cellcolor{blue!26} 10.1 & \cellcolor{blue!23} 9.1 & \cellcolor{blue!34} 13.1 & \cellcolor{blue!23} 9.1 \\
+  & \textbf{Punctuation} & \cellcolor{blue!18} 7.1 & \cellcolor{blue!8} 3.0 & \cellcolor{blue!34} 13.1 & \cellcolor{blue!21} 8.1 & \cellcolor{blue!31} 12.1 & \cellcolor{blue!22} 8.7 \\
+  & \textbf{Spelling} & \cellcolor{blue!8} 3.1 & \cellcolor{blue!11} 4.1 & \cellcolor{blue!19} 7.2 & \cellcolor{blue!16} 6.2 & \cellcolor{blue!21} 8.2 & \cellcolor{blue!15} 5.8 \\
+\midrule
+\textbf{Syntax} & \textbf{Conjunction} & \cellcolor{blue!28} 11.0 & \cellcolor{blue!18} 7.0 & \cellcolor{blue!15} 6.0 & \cellcolor{blue!21} 8.0 & \cellcolor{blue!28} 11.0 & \cellcolor{blue!22} 8.6 \\
+  & \textbf{Voice} & \cellcolor{blue!23} 9.0 & \cellcolor{blue!23} 9.0 & \cellcolor{blue!26} 10.0 & \cellcolor{blue!15} 6.0 & \cellcolor{blue!39} 15.0 & \cellcolor{blue!25} 9.8 \\
+\midrule
+\textbf{Semantics} & \textbf{Concept} & \cellcolor{blue!23} 9.1 & \cellcolor{blue!18} 7.1 & \cellcolor{blue!29} 11.1 & \cellcolor{blue!18} 7.1 & \cellcolor{blue!18} 7.1 & \cellcolor{blue!21} 8.3 \\
+  & \textbf{Negation} & \cellcolor{blue!62} \textcolor{white}{24.0} & \cellcolor{blue!57} \textcolor{white}{22.0} & \cellcolor{blue!62} \textcolor{white}{24.0} & \cellcolor{blue!59} \textcolor{white}{23.0} & \cellcolor{blue!59} \textcolor{white}{23.0} & \cellcolor{blue!60} \textcolor{white}{23.2} \\
+\midrule
+\textbf{Discourse} & \textbf{Appraisal} & \cellcolor{blue!18} 7.1 & \cellcolor{blue!11} 4.1 & \cellcolor{blue!29} 11.2 & \cellcolor{blue!18} 7.1 & \cellcolor{blue!16} 6.1 & \cellcolor{blue!18} 7.1 \\
+\midrule
+\textbf{Varieties} & \textbf{Style} & \cellcolor{blue!46} \textcolor{white}{18.0} & \cellcolor{blue!18} 7.0 & \cellcolor{blue!26} 10.0 & \cellcolor{blue!23} 9.0 & \cellcolor{blue!28} 11.0 & \cellcolor{blue!28} 11.0 \\
+  & \textbf{Dialect} & \cellcolor{blue!34} 13.0 & \cellcolor{blue!34} 13.0 & \cellcolor{blue!31} 12.0 & \cellcolor{blue!28} 11.0 & \cellcolor{blue!39} 15.0 & \cellcolor{blue!33} 12.8 \\
+\midrule
+\textbf{Average} &  \cellcolor{blue!28} 10.8 & \cellcolor{blue!21} 8.3 & \cellcolor{blue!32} 12.2 & \cellcolor{blue!23} 8.8 & \cellcolor{blue!32} 12.3 & \cellcolor{blue!27} 10.5 \\
+\bottomrule
+\end{tabular}}
+\caption{IFEval: Unrobustness (U, \%) by model and modification}\label{tab:ifeval_unrob}
+\end{table}

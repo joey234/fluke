@@ -1,0 +1,61 @@
+System message:
+
+Your input fields are:
+1. `text` (str)
+2. `pronoun` (str)
+3. `candidate` (str)
+
+Your output fields are:
+1. `reasoning` (str)
+2. `label` (str): The index 0 or 1 of the candidates or 2 if neither
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## text ## ]]
+{text}
+
+[[ ## pronoun ## ]]
+{pronoun}
+
+[[ ## candidate ## ]]
+{candidate}
+
+[[ ## reasoning ## ]]
+{reasoning}
+
+[[ ## label ## ]]
+{label}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Which candidate does the pronoun refer to? Answer with either 0 or 1 or 2.
+
+
+User message:
+
+[[ ## text ## ]]
+The sniper shot the terrorist because he was a bad guy.
+
+[[ ## pronoun ## ]]
+he
+
+[[ ## candidate ## ]]
+0: The sniper, 1: the terrorist, 2: Neither
+
+Respond with the corresponding output fields, starting with the field `[[ ## reasoning ## ]]`, then `[[ ## label ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+Response:
+
+[[ ## reasoning ## ]]
+The pronoun "he" in the sentence "The sniper shot the terrorist because he was a bad guy" is most likely referring to "the terrorist." The phrase "because he was a bad guy" provides a reason for the sniper's action, suggesting that the terrorist is the one being described as a "bad guy," which is why the sniper shot him.
+
+[[ ## label ## ]]
+1
+
+[[ ## completed ## ]]
+
+
+
+

@@ -1,0 +1,29 @@
+\begin{table}[h]
+\centering
+\resizebox{\linewidth}{!}{
+\begin{tabular}{llrrrrr}
+\toprule
+Category & Modification & \textbf{GPT-4o} & \textbf{Claude-3.5} & \textbf{Llama 3.1} & \textbf{GPT-5} & \textbf{DS R1} \\
+\midrule
+\textbf{Bias} & \textbf{Temporal} & +1.0 | 1.0 & +2.0 | 2.0 & -2.0 | 4.0 & +0.0 | 0.0 & +1.0 | 1.0 \\
+  & \textbf{Geographical} & -1.0 | 5.0 & +1.0 | 5.0 & -1.0 | 7.0 & -1.0 | 1.0 & +0.0 | 2.0 \\
+  & \textbf{Length} & +2.0 | 4.0 & +0.0 | 2.0 & +0.0 | 2.0 & +0.0 | 0.0 & -2.0 | 2.0 \\
+\midrule
+\textbf{Orthography} & \textbf{Spelling} & -1.0 | 1.0 & +0.0 | 0.0 & +0.0 | 2.0 & -1.0 | 1.0 & +0.0 | 0.0 \\
+  & \textbf{Capitalization} & -1.0 | 3.0 & +1.0 | 1.0 & -3.0 | 5.0 & -1.0 | 1.0 & -1.0 | 1.0 \\
+  & \textbf{Punctuation} & +0.0 | 0.0 & +0.0 | 0.0 & +4.9 | 5.0 & -1.0 | 1.0 & -1.0 | 1.0 \\
+\midrule
+\textbf{Semantics} & \textbf{Concept} & -1.0 | 1.0 & +0.0 | 0.0 & -3.0 | 5.0 & +0.0 | 2.0 & +1.0 | 1.0 \\
+  & \textbf{Negation} & -8.9 | 15.0 & -11.0 | 15.0 & -9.9 | 18.0 & -5.0 | 7.0 & -9.0 | 9.0 \\
+\midrule
+\textbf{Discourse} & \textbf{Appraisal} & +0.0 | 0.0 & +0.0 | 0.0 & -1.0 | 1.0 & +1.0 | 1.0 & -1.0 | 1.0 \\
+\midrule
+\textbf{Varieties} & \textbf{Style} & -4.0 | 4.0 & -1.0 | 3.0 & -4.0 | 6.0 & -2.0 | 4.0 & -3.0 | 3.0 \\
+  & \textbf{Dialect} & -2.0 | 2.0 & -2.0 | 4.0 & -4.0 | 6.0 & +1.0 | 1.0 & -2.0 | 2.0 \\
+\midrule
+\textbf{Syntax} & \textbf{Conjunction} & +0.0 | 0.0 & -1.0 | 1.0 & +2.0 | 4.0 & +1.0 | 1.0 & +1.0 | 1.0 \\
+  & \textbf{Voice} & +0.0 | 2.0 & +0.0 | 2.0 & +2.0 | 6.0 & +1.0 | 1.0 & +0.0 | 2.0 \\
+\bottomrule
+\end{tabular}}
+\caption{GSM: Weighted $\Delta$ | U by model and modification}\label{tab:gsm_combined}
+\end{table}

@@ -1,0 +1,3294 @@
+[
+  {
+    "original_text": "The B-52 pilot, Major Larry G.Messinger, later recalled,",
+    "modified_text": "The B-52 PILOT, Major Larry G.Messinger, later recalled,",
+    "modified_label": [
+      {
+        "text": "B-52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G.Messinger",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "original_label": [
+      {
+        "B-52": "PRODUCT"
+      },
+      {
+        "Larry G.Messinger": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "B-52",
+      "Larry G.Messinger"
+    ],
+    "index": 3
+  },
+  {
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "The Cnidaria are a group of ANIMALS found exclusively in aquatic and mostly marine environments.",
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Cnidaria"
+    ],
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Cnidaria"
+    ],
+    "index": 8
+  },
+  {
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "The Cnidaria are a group of animals found EXCLUSIVELY in aquatic and mostly marine environments.",
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Cnidaria"
+    ],
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Cnidaria"
+    ],
+    "index": 8
+  },
+  {
+    "original_text": "Internal conflicts, especially between Covaci and Baniciu, were making headlines in the media.",
+    "modified_text": "INTERNAL conflicts, especially between Covaci and Baniciu, were making headlines in the media.",
+    "modified_label": [
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "Baniciu",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Covaci",
+      "Baniciu"
+    ],
+    "original_label": [
+      {
+        "Covaci": "PERSON"
+      },
+      {
+        "Baniciu": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Covaci",
+      "Baniciu"
+    ],
+    "index": 57
+  },
+  {
+    "original_text": "Eventually, however, the Saudi government and the FBI repeatedly conflicted during the course of the investigation.",
+    "modified_text": "Eventually, however, the Saudi government and the FBI repeatedly conflicted during the course of the INVESTIGATION.",
+    "modified_label": [
+      {
+        "text": "Saudi",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Saudi",
+      "FBI"
+    ],
+    "original_label": [
+      {
+        "Saudi": "ORGANIZATION"
+      },
+      {
+        "FBI": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Saudi",
+      "FBI"
+    ],
+    "index": 117
+  },
+  {
+    "original_text": "They were set to take on rival Oregon State in the quarterfinals of the Pac-12 Tournament.",
+    "modified_text": "They were set to take on rival Oregon State in the QUARTERFINALS of the Pac-12 Tournament.",
+    "modified_label": [
+      {
+        "text": "Oregon State",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "Oregon State",
+      "Pac-12 Tournament"
+    ],
+    "original_label": [
+      {
+        "Oregon State": "ORGANIZATION"
+      },
+      {
+        "Pac-12 Tournament": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Oregon State",
+      "Pac-12 Tournament"
+    ],
+    "index": 120
+  },
+  {
+    "original_text": "To further expand its readership, ``The Philippine Star`` entered into a partnership with fast food restaurant Jollibee in 2003 to become the first newspaper to be distributed free of charge in a fast food restaurant.",
+    "modified_text": "To further expand its readership, ``The Philippine Star`` entered into a partnership with FAST food restaurant Jollibee in 2003 to become the first newspaper to be distributed free of charge in a fast food restaurant.",
+    "modified_label": [
+      {
+        "text": "The Philippine Star",
+        "value": "OTHER"
+      },
+      {
+        "text": "Jollibee",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "The Philippine Star",
+      "Jollibee"
+    ],
+    "original_label": [
+      {
+        "The Philippine Star": "OTHER"
+      },
+      {
+        "Jollibee": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "The Philippine Star",
+      "Jollibee"
+    ],
+    "index": 122
+  },
+  {
+    "original_text": "Its headquarters are in Moscow.",
+    "modified_text": "ITS headquarters are in Moscow.",
+    "modified_label": [
+      {
+        "text": "Moscow",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Moscow"
+    ],
+    "original_label": [
+      {
+        "Moscow": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Moscow"
+    ],
+    "index": 123
+  },
+  {
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "The Cnidaria are a group of animals found exclusively in aquatic and MoStLy marine environments.",
+    "modified_label": [
+      {
+        "text": "Cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Cnidaria"
+    ],
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Cnidaria"
+    ],
+    "index": 8
+  },
+  {
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and pHoToReSpIrAtIoN.",
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "ammonia",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "index": 21
+  },
+  {
+    "original_text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "modified_text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the wIi U during the Wii U's first release year.",
+    "modified_label": [
+      {
+        "text": "Nintendo",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "original_label": [
+      {
+        "Nintendo": "ORGANIZATION"
+      },
+      {
+        "Wii model": "PRODUCT"
+      },
+      {
+        "Wii Mini": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "index": 22
+  },
+  {
+    "original_text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "modified_text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic SmOkY flavor of the original dish.",
+    "modified_label": [
+      {
+        "text": "eggplant",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "eggplant"
+    ],
+    "original_label": [
+      {
+        "eggplant": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "eggplant"
+    ],
+    "index": 40
+  },
+  {
+    "original_text": "Jamil was married to the daughter of Khalid Bakdash, a Syria n politician who was the Secretary-General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "modified_text": "Jamil was married to the daughter of Khalid Bakdash, a Syria n politician who was the SeCrEtArY-GeNeRaL of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954.",
+    "modified_label": [
+      {
+        "text": "Jamil",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Bakdash",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syria",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Jamil",
+      "Khalid Bakdash",
+      "Syria",
+      "Syrian Communist Party",
+      "Arab"
+    ],
+    "original_label": [
+      {
+        "Jamil": "PERSON"
+      },
+      {
+        "Khalid Bakdash": "PERSON"
+      },
+      {
+        "Syria": "LOCATION"
+      },
+      {
+        "Syrian Communist Party": "ORGANIZATION"
+      },
+      {
+        "Arab": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Jamil",
+      "Khalid Bakdash",
+      "Syria",
+      "Syrian Communist Party",
+      "Arab"
+    ],
+    "index": 51
+  },
+  {
+    "original_text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to stress.",
+    "modified_text": "USP42 has also been shown to deubiquitinate p53 and may be required for the ability of p53 to respond to sTrEsS.",
+    "modified_label": [
+      {
+        "text": "USP42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p53",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ],
+    "original_label": [
+      {
+        "USP42": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      },
+      {
+        "p53": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "USP42",
+      "p53",
+      "p53"
+    ],
+    "index": 67
+  },
+  {
+    "original_text": "Another part of the RNA binds to the X-chromosome positioning PRC2 such that it can methylate various regions on the X-chromosome.",
+    "modified_text": "Another part of the RNA binds to the X-chromosome positioning PRC2 such that it can methylate various regions on the X-cHrOmOsOmE.",
+    "modified_label": [
+      {
+        "text": "RNA",
+        "value": "OTHER"
+      },
+      {
+        "text": "X-chromosome",
+        "value": "OTHER"
+      },
+      {
+        "text": "PRC2",
+        "value": "OTHER"
+      },
+      {
+        "text": "X-chromosome",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "RNA",
+      "X-chromosome",
+      "PRC2",
+      "X-chromosome"
+    ],
+    "original_label": [
+      {
+        "RNA": "OTHER"
+      },
+      {
+        "X-chromosome": "OTHER"
+      },
+      {
+        "PRC2": "OTHER"
+      },
+      {
+        "X-chromosome": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "RNA",
+      "X-chromosome",
+      "PRC2",
+      "X-chromosome"
+    ],
+    "index": 95
+  },
+  {
+    "original_text": "The Germans then attacked again and penetrated C Company, but the tanks of the North Irish Horse stopped the Germans until dusk.",
+    "modified_text": "The Germans then attacked again and penetrated C Company, but the tanks of the North Irish Horse stopped the GeRmAnS until dusk.",
+    "modified_label": [
+      {
+        "text": "Germans",
+        "value": "LOCATION"
+      },
+      {
+        "text": "C Company",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "North Irish Horse",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Germans",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Germans",
+      "C Company",
+      "North Irish Horse",
+      "Germans"
+    ],
+    "original_label": [
+      {
+        "Germans": "LOCATION"
+      },
+      {
+        "C Company": "ORGANIZATION"
+      },
+      {
+        "North Irish Horse": "ORGANIZATION"
+      },
+      {
+        "Germans": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Germans",
+      "C Company",
+      "North Irish Horse",
+      "Germans"
+    ],
+    "index": 100
+  },
+  {
+    "original_text": "DMUs in Taiwan are classified as Class DR.",
+    "modified_text": "DMUs in Taiwan are classified as ClAsS DR.",
+    "modified_label": [
+      {
+        "text": "DMUs",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "DMUs",
+      "Taiwan"
+    ],
+    "original_label": [
+      {
+        "DMUs": "PRODUCT"
+      },
+      {
+        "Taiwan": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "DMUs",
+      "Taiwan"
+    ],
+    "index": 142
+  },
+  {
+    "original_text": "The Cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_text": "The cnidaria are a group of animals found exclusively in aquatic and mostly marine environments.",
+    "modified_label": [
+      {
+        "text": "cnidaria",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "cnidaria"
+    ],
+    "original_label": [
+      {
+        "Cnidaria": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Cnidaria"
+    ],
+    "index": 8
+  },
+  {
+    "original_text": "They were set to take on rival Oregon State in the quarterfinals of the Pac-12 Tournament.",
+    "modified_text": "They were set to take on rival oregon state in the quarterfinals of the Pac-12 Tournament.",
+    "modified_label": [
+      {
+        "text": "oregon state",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Pac-12 Tournament",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "oregon state",
+      "Pac-12 Tournament"
+    ],
+    "original_label": [
+      {
+        "Oregon State": "ORGANIZATION"
+      },
+      {
+        "Pac-12 Tournament": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Oregon State",
+      "Pac-12 Tournament"
+    ],
+    "index": 120
+  },
+  {
+    "original_text": "Shortly after World War I, he purchased a plot of land in Toulon and donated it to the local sports club, RC Toulonnais, for the building of a stadium.",
+    "modified_text": "Shortly after World War I, he purchased a plot of land in toulon and donated it to the local sports club, RC Toulonnais, for the building of a stadium.",
+    "modified_label": [
+      {
+        "text": "World War I",
+        "value": "EVENT"
+      },
+      {
+        "text": "toulon",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RC Toulonnais",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "World War I",
+      "toulon",
+      "RC Toulonnais"
+    ],
+    "original_label": [
+      {
+        "World War I": "EVENT"
+      },
+      {
+        "Toulon": "LOCATION"
+      },
+      {
+        "RC Toulonnais": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "World War I",
+      "Toulon",
+      "RC Toulonnais"
+    ],
+    "index": 114
+  },
+  {
+    "original_text": "Breck Ullr Fest was first held in 1963.",
+    "modified_text": "breck Ullr Fest was first held in 1963.",
+    "modified_label": [
+      {
+        "text": "breck Ullr Fest",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "breck Ullr Fest"
+    ],
+    "original_label": [
+      {
+        "Breck Ullr Fest": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Breck Ullr Fest"
+    ],
+    "index": 96
+  },
+  {
+    "original_text": "The story had been adapted to the stage in 1939 at the Martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "modified_text": "The story had been adapted to the stage in 1939 at the martin Beck Theater to great acclaim, but only ran for six performances because the production proved to be expensive.",
+    "modified_label": [
+      {
+        "text": "martin Beck Theater",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "martin Beck Theater"
+    ],
+    "original_label": [
+      {
+        "Martin Beck Theater": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Martin Beck Theater"
+    ],
+    "index": 64
+  },
+  {
+    "original_text": "He was appointed captain and took part in the naval part of the Siege of Port Hudson in May to July, 1863.",
+    "modified_text": "He was appointed captain and took part in the naval part of the siege of Port Hudson in May to July, 1863.",
+    "modified_label": [
+      {
+        "text": "siege of Port Hudson",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "siege of Port Hudson"
+    ],
+    "original_label": [
+      {
+        "Siege of Port Hudson": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "Siege of Port Hudson"
+    ],
+    "index": 132
+  },
+  {
+    "original_text": "It was produced by Richard D.Zanuck and David Brown.",
+    "modified_text": "It was produced by richard D.Zanuck and David Brown.",
+    "modified_label": [
+      {
+        "text": "richard D.Zanuck",
+        "value": "PERSON"
+      },
+      {
+        "text": "David Brown",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "richard D.Zanuck",
+      "David Brown"
+    ],
+    "original_label": [
+      {
+        "Richard D.Zanuck": "PERSON"
+      },
+      {
+        "David Brown": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Richard D.Zanuck",
+      "David Brown"
+    ],
+    "index": 70
+  },
+  {
+    "original_text": "After the 1973 military coup, Ar\u00f3n was forced to go underground.",
+    "modified_text": "After the 1973 military coup, ar\u00f3n was forced to go underground.",
+    "modified_label": [
+      {
+        "text": "ar\u00f3n",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "ar\u00f3n"
+    ],
+    "original_label": [
+      {
+        "Ar\\u00f3n": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Ar\u00f3n"
+    ],
+    "index": 115
+  },
+  {
+    "original_text": "It won the jury award for best feature Film at the TriMedia Film Festival in 2010.",
+    "modified_text": "It won the jury award for best feature film at the TriMedia Film Festival in 2010.",
+    "modified_label": [
+      {
+        "text": "jury award for best feature film",
+        "value": "OTHER"
+      },
+      {
+        "text": "TriMedia Film Festival",
+        "value": "EVENT"
+      }
+    ],
+    "modified_entity": [
+      "jury award for best feature film",
+      "TriMedia Film Festival"
+    ],
+    "original_label": [
+      {
+        "jury award for best feature Film": "OTHER"
+      },
+      {
+        "TriMedia Film Festival": "EVENT"
+      }
+    ],
+    "original_entity": [
+      "jury award for best feature Film",
+      "TriMedia Film Festival"
+    ],
+    "index": 88
+  },
+  {
+    "original_text": "Police investigations revealed the shotgun used to perform the murders was the same weapon used earlier in a bungled attempt to blast open a bank door during a robbery at the State Bank in Oak Park seven months earlier.",
+    "modified_text": "Police investigations revealed the shotgun used to perform the murders was the same weapon used earlier in a bungled attempt to blast open a bank door during a robbery at the state bank in Oak Park seven months earlier.",
+    "modified_label": [
+      {
+        "text": "state bank",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Oak Park",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "state bank",
+      "Oak Park"
+    ],
+    "original_label": [
+      {
+        "State Bank": "BUILDING"
+      },
+      {
+        "Oak Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "State Bank",
+      "Oak Park"
+    ],
+    "index": 130
+  },
+  {
+    "original_text": "Team Orr scored four times on way to a 7\u20131 victory.",
+    "modified_text": "team Orr scored four times on way to a 7\u20131 victory.",
+    "modified_label": [
+      {
+        "text": "team Orr",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "team Orr"
+    ],
+    "original_label": [
+      {
+        "Team Orr": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Team Orr"
+    ],
+    "index": 31
+  },
+  {
+    "original_text": "Anhur is a playable character in the multiplayer online battle arena, ``SMITE''.",
+    "modified_text": "anhur is a playable character in the multiplayer online battle arena, ``SMITE''.",
+    "modified_label": [
+      {
+        "text": "anhur",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "anhur"
+    ],
+    "original_label": [
+      {
+        "Anhur": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Anhur"
+    ],
+    "index": 50
+  },
+  {
+    "original_text": "Pune lost the match 1\u20133 with all three goals coming after Amrinder came on.",
+    "modified_text": "Pune lost the match 1\u20133 with all three goals coming after amrinder came on.",
+    "modified_label": [
+      {
+        "text": "Pune",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "amrinder",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Pune",
+      "amrinder"
+    ],
+    "original_label": [
+      {
+        "Pune": "ORGANIZATION"
+      },
+      {
+        "Amrinder": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Pune",
+      "Amrinder"
+    ],
+    "index": 37
+  },
+  {
+    "original_text": "As a longer loaf, it may well have been the origin of French bread as bakers there attempted to adopt the steam method to produce their baguettes.",
+    "modified_text": "As a longer loaf, it may well have been the origin of french bread as bakers there attempted to adopt the steam method to produce their baguettes.",
+    "modified_label": [
+      {
+        "text": "french",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "french"
+    ],
+    "original_label": [
+      {
+        "French": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "French"
+    ],
+    "index": 116
+  },
+  {
+    "original_text": "The Austro-Hungarian Navy built and operated two classes of protected cruisers.",
+    "modified_text": "The austro-hungarian navy built and operated two classes of protected cruisers.",
+    "modified_label": [
+      {
+        "text": "austro-hungarian navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "austro-hungarian navy"
+    ],
+    "original_label": [
+      {
+        "Austro-Hungarian Navy": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Austro-Hungarian Navy"
+    ],
+    "index": 4
+  },
+  {
+    "original_text": "Back to Basics focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "modified_text": "BACK TO BASICS focuses on genre classics, showing older movies and underground cult films, with occasional stabs at mainstream and newer genre pieces.",
+    "modified_label": [
+      {
+        "text": "BACK TO BASICS",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "BACK TO BASICS"
+    ],
+    "original_label": [
+      {
+        "Back to Basics": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Back to Basics"
+    ],
+    "index": 56
+  },
+  {
+    "original_text": "Internal conflicts, especially between Covaci and Baniciu, were making headlines in the media.",
+    "modified_text": "Internal conflicts, especially between Covaci and BANICIU, were making headlines in the media.",
+    "modified_label": [
+      {
+        "text": "Covaci",
+        "value": "PERSON"
+      },
+      {
+        "text": "BANICIU",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Covaci",
+      "BANICIU"
+    ],
+    "original_label": [
+      {
+        "Covaci": "PERSON"
+      },
+      {
+        "Baniciu": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Covaci",
+      "Baniciu"
+    ],
+    "index": 57
+  },
+  {
+    "original_text": "Puckrik travelled widely in her childhood due to her father's military background.",
+    "modified_text": "puckrik travelled widely in her childhood due to her father's military background.",
+    "modified_label": [
+      {
+        "text": "puckrik",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "puckrik"
+    ],
+    "original_label": [
+      {
+        "Puckrik": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Puckrik"
+    ],
+    "index": 72
+  },
+  {
+    "original_text": "The film is based on the French novel ``L'affaire Cl\u00e9menceau'', by Alexandre Dumas, fils, and is now considered to be lost.",
+    "modified_text": "The film is based on the FRENCH novel ``L'affaire Cl\u00e9menceau'', by Alexandre Dumas, fils, and is now considered to be lost.",
+    "modified_label": [
+      {
+        "text": "FRENCH",
+        "value": "OTHER"
+      },
+      {
+        "text": "Alexandre Dumas",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "FRENCH",
+      "Alexandre Dumas"
+    ],
+    "original_label": [
+      {
+        "French": "OTHER"
+      },
+      {
+        "Alexandre Dumas": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "French",
+      "Alexandre Dumas"
+    ],
+    "index": 104
+  },
+  {
+    "original_text": "It is developed by Golaem, a France -based software company (created in Rennes in 2009).",
+    "modified_text": "It is developed by Golaem, a FRANCE -based software company (created in Rennes in 2009).",
+    "modified_label": [
+      {
+        "text": "Golaem",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "FRANCE",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Rennes",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Golaem",
+      "FRANCE",
+      "Rennes"
+    ],
+    "original_label": [
+      {
+        "Golaem": "ORGANIZATION"
+      },
+      {
+        "France": "LOCATION"
+      },
+      {
+        "Rennes": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Golaem",
+      "France",
+      "Rennes"
+    ],
+    "index": 28
+  },
+  {
+    "original_text": "Lawrence claims that she was given cash, whereas Stephens claims that his life was threatened.",
+    "modified_text": "Lawrence claims that she was given cash, whereas stephens claims that his life was threatened.",
+    "modified_label": [
+      {
+        "text": "stephens",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "stephens"
+    ],
+    "original_label": [
+      {
+        "Stephens": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Stephens"
+    ],
+    "index": 20
+  },
+  {
+    "original_text": "Six years later, both Richard and Lilli grow into strong and beautiful teenagers.",
+    "modified_text": "Six years later, both RICHARD and Lilli grow into strong and beautiful teenagers.",
+    "modified_label": [
+      {
+        "text": "RICHARD",
+        "value": "PERSON"
+      },
+      {
+        "text": "Lilli",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "RICHARD",
+      "Lilli"
+    ],
+    "original_label": [
+      {
+        "Richard": "PERSON"
+      },
+      {
+        "Lilli": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Richard",
+      "Lilli"
+    ],
+    "index": 93
+  },
+  {
+    "original_text": "Argentina's Del Imaginario Discos also released the album in 2007.",
+    "modified_text": "argentina's Del Imaginario Discos also released the album in 2007.",
+    "modified_label": [
+      {
+        "text": "argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del Imaginario Discos",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "argentina",
+      "Del Imaginario Discos"
+    ],
+    "original_label": [
+      {
+        "Argentina": "LOCATION"
+      },
+      {
+        "Del Imaginario Discos": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Argentina",
+      "Del Imaginario Discos"
+    ],
+    "index": 42
+  },
+  {
+    "original_text": "He has caught the attention of major publications and media outlets such as CNN, The Huffington Post, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "modified_text": "He has caught the attention of major publications and media outlets such as CNN, THE HUFFINGTON POST, Hypebeast, The Guardian, Juxtapoz Magazine, Daily Mail, NRDC, Aljazeera and Hi-Fructose Magazine.",
+    "modified_label": [
+      {
+        "text": "CNN",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "THE HUFFINGTON POST",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hypebeast",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "The Guardian",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Juxtapoz Magazine",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Daily Mail, NRDC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Aljazeera",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hi-Fructose Magazine",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "CNN",
+      "THE HUFFINGTON POST",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "original_label": [
+      {
+        "CNN": "ORGANIZATION"
+      },
+      {
+        "The Huffington Post": "ORGANIZATION"
+      },
+      {
+        "Hypebeast": "ORGANIZATION"
+      },
+      {
+        "The Guardian": "ORGANIZATION"
+      },
+      {
+        "Juxtapoz Magazine": "ORGANIZATION"
+      },
+      {
+        "Daily Mail, NRDC": "ORGANIZATION"
+      },
+      {
+        "Aljazeera": "ORGANIZATION"
+      },
+      {
+        "Hi-Fructose Magazine": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "CNN",
+      "The Huffington Post",
+      "Hypebeast",
+      "The Guardian",
+      "Juxtapoz Magazine",
+      "Daily Mail, NRDC",
+      "Aljazeera",
+      "Hi-Fructose Magazine"
+    ],
+    "index": 7
+  },
+  {
+    "original_text": "Both doors are mirror images of each other and each contain the bronze University seal.",
+    "modified_text": "Both doors are mirror images of each other and each contain the bronze university seal.",
+    "modified_label": [
+      {
+        "text": "bronze university seal",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "bronze university seal"
+    ],
+    "original_label": [
+      {
+        "bronze University seal": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "bronze University seal"
+    ],
+    "index": 91
+  },
+  {
+    "original_text": "Bitter Sweet & amp ; Twisted is rock band The Quireboys's second studio album, released in 1993.",
+    "modified_text": "BITTER Sweet & amp ; Twisted is rock band The Quireboys's second studio album, released in 1993.",
+    "modified_label": [
+      {
+        "text": "BITTER Sweet & amp",
+        "value": "ART"
+      },
+      {
+        "text": "Twisted",
+        "value": "ART"
+      },
+      {
+        "text": "The Quireboys",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "BITTER Sweet & amp",
+      "Twisted",
+      "The Quireboys"
+    ],
+    "original_label": [
+      {
+        "Bitter Sweet & amp": "ART"
+      },
+      {
+        "Twisted": "ART"
+      },
+      {
+        "The Quireboys": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Bitter Sweet & amp",
+      "Twisted",
+      "The Quireboys"
+    ],
+    "index": 89
+  },
+  {
+    "original_text": "The ridge is situated northeast of Mount Kliment Ohridski, extending in the north-south direction, wide, and is bounded by Poste Valley to the east, by Palestrina Glacier to the north and its tributary Yozola Glacier to the west.",
+    "modified_text": "The ridge is situated northeast of Mount Kliment Ohridski, extending in the north-south direction, wide, and is bounded by Poste Valley to the east, by PaLeStRiNa Glacier to the north and its tributary Yozola Glacier to the west.",
+    "modified_label": [
+      {
+        "text": "Mount Kliment Ohridski",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Poste Valley",
+        "value": "LOCATION"
+      },
+      {
+        "text": "PaLeStRiNa Glacier",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Yozola Glacier",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Mount Kliment Ohridski",
+      "Poste Valley",
+      "PaLeStRiNa Glacier",
+      "Yozola Glacier"
+    ],
+    "original_label": [
+      {
+        "Mount Kliment Ohridski": "LOCATION"
+      },
+      {
+        "Poste Valley": "LOCATION"
+      },
+      {
+        "Palestrina Glacier": "LOCATION"
+      },
+      {
+        "Yozola Glacier": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Mount Kliment Ohridski",
+      "Poste Valley",
+      "Palestrina Glacier",
+      "Yozola Glacier"
+    ],
+    "index": 108
+  },
+  {
+    "original_text": "Gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_text": "gonu caused strong gusty winds and torrential rainfall along Pakistan's Arabian Sea coast from Karachi to Gwadar.",
+    "modified_label": [
+      {
+        "text": "gonu",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan's Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Gwadar",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "original_label": [
+      {
+        "Gonu": "EVENT"
+      },
+      {
+        "Pakistan's Arabian Sea coast": "LOCATION"
+      },
+      {
+        "Karachi": "LOCATION"
+      },
+      {
+        "Gwadar": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Gonu",
+      "Pakistan's Arabian Sea coast",
+      "Karachi",
+      "Gwadar"
+    ],
+    "index": 36
+  },
+  {
+    "original_text": "Holy Trinity Church is a Church of England parish church at Bothenhampton, near Bridport in Dorset, England.",
+    "modified_text": "Holy Trinity Church is a Church of England parish church at Bothenhampton, near Bridport in DoRsEt, England.",
+    "modified_label": [
+      {
+        "text": "Holy Trinity Church",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Church of England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Bothenhampton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bridport",
+        "value": "LOCATION"
+      },
+      {
+        "text": "DoRsEt",
+        "value": "LOCATION"
+      },
+      {
+        "text": "England",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Holy Trinity Church",
+      "Church of England",
+      "Bothenhampton",
+      "Bridport",
+      "DoRsEt",
+      "England"
+    ],
+    "original_label": [
+      {
+        "Holy Trinity Church": "ORGANIZATION"
+      },
+      {
+        "Church of England": "ORGANIZATION"
+      },
+      {
+        "Bothenhampton": "LOCATION"
+      },
+      {
+        "Bridport": "LOCATION"
+      },
+      {
+        "Dorset": "LOCATION"
+      },
+      {
+        "England": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Holy Trinity Church",
+      "Church of England",
+      "Bothenhampton",
+      "Bridport",
+      "Dorset",
+      "England"
+    ],
+    "index": 83
+  },
+  {
+    "original_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``Super Metroid`` and ``Super Castlevania IV.''",
+    "modified_text": "Allistair Pinsof of ``Destructoid``, praised the game, saying the controls were as good as that of ``SuPeR Metroid`` and ``Super Castlevania IV.''",
+    "modified_label": [
+      {
+        "text": "Allistair Pinsof",
+        "value": "PERSON"
+      },
+      {
+        "text": "Destructoid",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "SuPeR Metroid",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Super Castlevania IV",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "SuPeR Metroid",
+      "Super Castlevania IV"
+    ],
+    "original_label": [
+      {
+        "Allistair Pinsof": "PERSON"
+      },
+      {
+        "Destructoid": "ORGANIZATION"
+      },
+      {
+        "Super Metroid": "PRODUCT"
+      },
+      {
+        "Super Castlevania IV": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Allistair Pinsof",
+      "Destructoid",
+      "Super Metroid",
+      "Super Castlevania IV"
+    ],
+    "index": 58
+  },
+  {
+    "original_text": "It has been used to treat hypertension and cardiac failure, and to treat pre-eclampsia during pregnancy.",
+    "modified_text": "It has been used to treat hypertension and cardiac failure, and to treat pRe-eClAmPsIa during pregnancy.",
+    "modified_label": [
+      {
+        "text": "hypertension",
+        "value": "OTHER"
+      },
+      {
+        "text": "cardiac failure,",
+        "value": "OTHER"
+      },
+      {
+        "text": "pRe-eClAmPsIa",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "hypertension",
+      "cardiac failure,",
+      "pRe-eClAmPsIa"
+    ],
+    "original_label": [
+      {
+        "hypertension": "OTHER"
+      },
+      {
+        "cardiac failure,": "OTHER"
+      },
+      {
+        "pre-eclampsia": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "hypertension",
+      "cardiac failure,",
+      "pre-eclampsia"
+    ],
+    "index": 49
+  },
+  {
+    "original_text": "Eventually, however, the Saudi government and the FBI repeatedly conflicted during the course of the investigation.",
+    "modified_text": "Eventually, however, the saudi government and the FBI repeatedly conflicted during the course of the investigation.",
+    "modified_label": [
+      {
+        "text": "saudi",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "FBI",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "saudi",
+      "FBI"
+    ],
+    "original_label": [
+      {
+        "Saudi": "ORGANIZATION"
+      },
+      {
+        "FBI": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Saudi",
+      "FBI"
+    ],
+    "index": 117
+  },
+  {
+    "original_text": "He also appeared in and Raj Kanwar's action hit ``Jeet``.",
+    "modified_text": "He also appeared in and Raj Kanwar's action hit ``JeEt``.",
+    "modified_label": [
+      {
+        "text": "Raj Kanwar",
+        "value": "PERSON"
+      },
+      {
+        "text": "JeEt",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Raj Kanwar",
+      "JeEt"
+    ],
+    "original_label": [
+      {
+        "Raj Kanwar": "PERSON"
+      },
+      {
+        "Jeet": "ART"
+      }
+    ],
+    "original_entity": [
+      "Raj Kanwar",
+      "Jeet"
+    ],
+    "index": 101
+  },
+  {
+    "original_text": "DMUs in Taiwan are classified as Class DR.",
+    "modified_text": "dmus in Taiwan are classified as Class DR.",
+    "modified_label": [
+      {
+        "text": "dmus",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Taiwan",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "dmus",
+      "Taiwan"
+    ],
+    "original_label": [
+      {
+        "DMUs": "PRODUCT"
+      },
+      {
+        "Taiwan": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "DMUs",
+      "Taiwan"
+    ],
+    "index": 142
+  },
+  {
+    "original_text": "Perhaps the best known Ward LaFrance product was the P-80 ``Ambassador'' model of pumper, one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program`` Emergency !",
+    "modified_text": "Perhaps the best known Ward LaFrance product was the P-80 ``AmBaSsAdOr'' model of pumper, one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program`` Emergency !",
+    "modified_label": [
+      {
+        "text": "Ward LaFrance",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P-80 ``AmBaSsAdOr''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Ward LaFrance",
+      "P-80 ``AmBaSsAdOr''",
+      "Los Angeles County Fire Department Engine 51"
+    ],
+    "original_label": [
+      {
+        "Ward LaFrance": "ORGANIZATION"
+      },
+      {
+        "P-80 ``Ambassador''": "PRODUCT"
+      },
+      {
+        "Los Angeles County Fire Department Engine 51": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Ward LaFrance",
+      "P-80 ``Ambassador''",
+      "Los Angeles County Fire Department Engine 51"
+    ],
+    "index": 19
+  },
+  {
+    "original_text": "It is an orthomyxovirus that contains the glycoproteins haemagglutinin and neuraminidase.",
+    "modified_text": "It is an orthomyxovirus that contains the glycoproteins haemagglutinin and nEuRaMiNiDaSe.",
+    "modified_label": [
+      {
+        "text": "orthomyxovirus",
+        "value": "OTHER"
+      },
+      {
+        "text": "glycoproteins haemagglutinin",
+        "value": "OTHER"
+      },
+      {
+        "text": "nEuRaMiNiDaSe",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "orthomyxovirus",
+      "glycoproteins haemagglutinin",
+      "nEuRaMiNiDaSe"
+    ],
+    "original_label": [
+      {
+        "orthomyxovirus": "OTHER"
+      },
+      {
+        "glycoproteins haemagglutinin": "OTHER"
+      },
+      {
+        "neuraminidase": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "orthomyxovirus",
+      "glycoproteins haemagglutinin",
+      "neuraminidase"
+    ],
+    "index": 118
+  },
+  {
+    "original_text": "Saunders lost to Fitch by unanimous decision.",
+    "modified_text": "saunders lost to Fitch by unanimous decision.",
+    "modified_label": [
+      {
+        "text": "saunders",
+        "value": "PERSON"
+      },
+      {
+        "text": "Fitch",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "saunders",
+      "Fitch"
+    ],
+    "original_label": [
+      {
+        "Saunders": "PERSON"
+      },
+      {
+        "Fitch": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Saunders",
+      "Fitch"
+    ],
+    "index": 143
+  },
+  {
+    "original_text": "Natesan stood as the UNP's candidate in Kankesanthurai at the 1947 parliamentary elections but was defeated by the All Ceylon Tamil Congress (ACTC) candidate S.J.V.Chelvanayakam.",
+    "modified_text": "Natesan stood as the UNP's candidate in Kankesanthurai at the 1947 Parliamentary elections but was defeated by the All Ceylon Tamil Congress (ACTC) candidate S.J.V.Chelvanayakam.",
+    "modified_label": [
+      {
+        "text": "Natesan",
+        "value": "PERSON"
+      },
+      {
+        "text": "UNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Kankesanthurai",
+        "value": "LOCATION"
+      },
+      {
+        "text": "All Ceylon Tamil Congress",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "ACTC",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Chelvanayakam",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Natesan",
+      "UNP",
+      "Kankesanthurai",
+      "All Ceylon Tamil Congress",
+      "ACTC",
+      "Chelvanayakam"
+    ],
+    "original_label": [
+      {
+        "Natesan": "PERSON"
+      },
+      {
+        "UNP": "ORGANIZATION"
+      },
+      {
+        "Kankesanthurai": "LOCATION"
+      },
+      {
+        "All Ceylon Tamil Congress": "ORGANIZATION"
+      },
+      {
+        "ACTC": "ORGANIZATION"
+      },
+      {
+        "Chelvanayakam": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Natesan",
+      "UNP",
+      "Kankesanthurai",
+      "All Ceylon Tamil Congress",
+      "ACTC",
+      "Chelvanayakam"
+    ],
+    "index": 160
+  },
+  {
+    "original_text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to Sturdza intensified.",
+    "modified_text": "The peasantry was also aggrieved, and between 1846 and 1848 opposition to STURDZA intensified.",
+    "modified_label": [
+      {
+        "text": "STURDZA",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "STURDZA"
+    ],
+    "original_label": [
+      {
+        "Sturdza": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Sturdza"
+    ],
+    "index": 41
+  },
+  {
+    "original_text": "The Rolls-Royce Spey (company designations RB.163 and RB.168 and RB.183) is a low-bypass turbofan engine originally designed and manufactured by Rolls-Royce that has been in widespread service for over 40 years.",
+    "modified_text": "The Rolls-Royce Spey (Company designations RB.163 and RB.168 and RB.183) is a Low-bypass turbofan engine originally designed and manufactured by Rolls-Royce that has been in widespread service for over 40 years.",
+    "modified_label": [
+      {
+        "text": "Rolls-Royce Spey",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB.163",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB.168",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "RB.183",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Rolls-Royce",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Rolls-Royce Spey",
+      "RB.163",
+      "RB.168",
+      "RB.183",
+      "Rolls-Royce"
+    ],
+    "original_label": [
+      {
+        "Rolls-Royce Spey": "PRODUCT"
+      },
+      {
+        "RB.163": "PRODUCT"
+      },
+      {
+        "RB.168": "PRODUCT"
+      },
+      {
+        "RB.183": "PRODUCT"
+      },
+      {
+        "Rolls-Royce": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Rolls-Royce Spey",
+      "RB.163",
+      "RB.168",
+      "RB.183",
+      "Rolls-Royce"
+    ],
+    "index": 231
+  },
+  {
+    "original_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and Rightor's Point (modern Morgan's Point) in the 1820s.",
+    "modified_text": "Early communities began to appear at the beginning of the 19th century, including Lynchburg, Harrisburg, and RIGHTOR'S POINT (modern Morgan's Point) in the 1820s.",
+    "modified_label": [
+      {
+        "text": "Lynchburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Harrisburg",
+        "value": "LOCATION"
+      },
+      {
+        "text": "RIGHTOR'S POINT",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Morgan's Point",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "RIGHTOR'S POINT",
+      "Morgan's Point"
+    ],
+    "original_label": [
+      {
+        "Lynchburg": "LOCATION"
+      },
+      {
+        "Harrisburg": "LOCATION"
+      },
+      {
+        "Rightor's Point": "LOCATION"
+      },
+      {
+        "Morgan's Point": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Lynchburg",
+      "Harrisburg",
+      "Rightor's Point",
+      "Morgan's Point"
+    ],
+    "index": 32
+  },
+  {
+    "original_text": "Alex Salmond (leader of SNP) has since made history by becoming the first First Minister of Scotland from a party other than Labour.",
+    "modified_text": "Alex Salmond (leader of SNP) has since made history by becoming the first First Minister of Scotland from a party other than LaBoUr.",
+    "modified_label": [
+      {
+        "text": "Alex Salmond",
+        "value": "PERSON"
+      },
+      {
+        "text": "SNP",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Scotland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "LaBoUr",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "LaBoUr"
+    ],
+    "original_label": [
+      {
+        "Alex Salmond": "PERSON"
+      },
+      {
+        "SNP": "ORGANIZATION"
+      },
+      {
+        "Scotland": "LOCATION"
+      },
+      {
+        "Labour": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Alex Salmond",
+      "SNP",
+      "Scotland",
+      "Labour"
+    ],
+    "index": 77
+  },
+  {
+    "original_text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of Dundee, Benson, and Keystone.",
+    "modified_text": "Hunt represents the 8th legislative district in Omaha, consisting of the midtown neighborhoods of DuNdEe, Benson, and Keystone.",
+    "modified_label": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "DuNdEe",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keystone",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Hunt",
+      "Omaha",
+      "DuNdEe",
+      "Benson",
+      "Keystone"
+    ],
+    "original_label": [
+      {
+        "Hunt": "PERSON"
+      },
+      {
+        "Omaha": "LOCATION"
+      },
+      {
+        "Dundee": "LOCATION"
+      },
+      {
+        "Benson": "LOCATION"
+      },
+      {
+        "Keystone": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Hunt",
+      "Omaha",
+      "Dundee",
+      "Benson",
+      "Keystone"
+    ],
+    "index": 48
+  },
+  {
+    "original_text": "In 1506, he took part in a coup to enthrone King Jungjong and was recorded in history as a meritorious subject who was involved in tranquilizing the state and received the title of Incheongun.",
+    "modified_text": "In 1506, he took part in a coup to enthrone King Jungjong and was Recorded in history as a meritorious subject who was involved in tranquilizing the state and received the title of Incheongun.",
+    "modified_label": [
+      {
+        "text": "Jungjong",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Jungjong"
+    ],
+    "original_label": [
+      {
+        "Jungjong": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Jungjong"
+    ],
+    "index": 213
+  },
+  {
+    "original_text": "They used several features from a batch of A1 Pacifics they had built in 1924.",
+    "modified_text": "They used several features from a batch of A1 PaCiFiCs they had built in 1924.",
+    "modified_label": [
+      {
+        "text": "A1 PaCiFiCs",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "A1 PaCiFiCs"
+    ],
+    "original_label": [
+      {
+        "A1 Pacifics": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "A1 Pacifics"
+    ],
+    "index": 61
+  },
+  {
+    "original_text": "His burial in 1791 after a funeral in the Stephansdom simply followed the regulations of the day.",
+    "modified_text": "His burial in 1791 after a funeral in the Stephansdom Simply followed the regulations of the day.",
+    "modified_label": [
+      {
+        "text": "Stephansdom",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Stephansdom"
+    ],
+    "original_label": [
+      {
+        "Stephansdom": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Stephansdom"
+    ],
+    "index": 188
+  },
+  {
+    "original_text": "Graduating with a BA in Psychology, and a minor in Criminology.",
+    "modified_text": "Graduating with a BA In Psychology, and a minor in Criminology.",
+    "modified_label": [
+      {
+        "text": "BA",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "BA"
+    ],
+    "original_label": [
+      {
+        "BA": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "BA"
+    ],
+    "index": 157
+  },
+  {
+    "original_text": "He worked as a teacher and was principal of St Patrick's College in Dungiven for many years.",
+    "modified_text": "He worked as a teacher and was principal of St Patrick's College In Dungiven for many years.",
+    "modified_label": [
+      {
+        "text": "St Patrick's College",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Dungiven",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "St Patrick's College",
+      "Dungiven"
+    ],
+    "original_label": [
+      {
+        "St Patrick's College": "ORGANIZATION"
+      },
+      {
+        "Dungiven": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "St Patrick's College",
+      "Dungiven"
+    ],
+    "index": 189
+  },
+  {
+    "original_text": "Chekhov's own text, which despite a running time of about five hours he never thought of as finished, is seldom played.",
+    "modified_text": "Chekhov's Own text, which despite a running time of about five hours he never thought of as finished, is seldom played.",
+    "modified_label": [
+      {
+        "text": "Chekhov",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Chekhov"
+    ],
+    "original_label": [
+      {
+        "Chekhov": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Chekhov"
+    ],
+    "index": 246
+  },
+  {
+    "original_text": "The 20Q AI can draw its own conclusions on how to interpret the information.",
+    "modified_text": "The 20Q AI Can draw its own conclusions on how to interpret the information.",
+    "modified_label": [
+      {
+        "text": "20Q AI",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "20Q AI"
+    ],
+    "original_label": [
+      {
+        "20Q AI": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "20Q AI"
+    ],
+    "index": 162
+  },
+  {
+    "original_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of Long Island at Setauket, just across Long Island Sound from Fairfield.",
+    "modified_text": "Loyalists recruited from Queens County, New York by Lieutenant Colonel Richard Hewlett for the 3rd battalion DeLancey's Brigade had established a fortified position in early August on the central north shore of LoNg IsLaNd at Setauket, just across Long Island Sound from Fairfield.",
+    "modified_label": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Lieutenant Colonel Richard Hewlett",
+        "value": "PERSON"
+      },
+      {
+        "text": "DeLancey's Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "LoNg IsLaNd",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Setauket",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Queens County",
+      "New York",
+      "Lieutenant Colonel Richard Hewlett",
+      "DeLancey's Brigade",
+      "LoNg IsLaNd",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ],
+    "original_label": [
+      {
+        "Queens County": "LOCATION"
+      },
+      {
+        "New York": "LOCATION"
+      },
+      {
+        "Richard Hewlett": "PERSON"
+      },
+      {
+        "DeLancey's Brigade": "ORGANIZATION"
+      },
+      {
+        "Long Island": "LOCATION"
+      },
+      {
+        "Setauket": "LOCATION"
+      },
+      {
+        "Long Island Sound": "LOCATION"
+      },
+      {
+        "Fairfield": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Queens County",
+      "New York",
+      "Richard Hewlett",
+      "DeLancey's Brigade",
+      "Long Island",
+      "Setauket",
+      "Long Island Sound",
+      "Fairfield"
+    ],
+    "index": 65
+  },
+  {
+    "original_text": "Glutamine synthetase uses ammonia produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_text": "Glutamine synthetase uses AMMONIA produced by nitrate reduction, amino acid degradation, and photorespiration.",
+    "modified_label": [
+      {
+        "text": "Glutamine synthetase",
+        "value": "OTHER"
+      },
+      {
+        "text": "AMMONIA",
+        "value": "OTHER"
+      },
+      {
+        "text": "amino acid",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Glutamine synthetase",
+      "AMMONIA",
+      "amino acid"
+    ],
+    "original_label": [
+      {
+        "Glutamine synthetase": "OTHER"
+      },
+      {
+        "ammonia": "OTHER"
+      },
+      {
+        "amino acid": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Glutamine synthetase",
+      "ammonia",
+      "amino acid"
+    ],
+    "index": 21
+  },
+  {
+    "original_text": "The French credit rating agency Coface declared that the dramatic mining rescue would have a positive impact on Chile's economic reputation.",
+    "modified_text": "The French credit rating agency COFACE declared that the dramatic mining rescue would have a positive impact on Chile's economic reputation.",
+    "modified_label": [
+      {
+        "text": "French",
+        "value": "LOCATION"
+      },
+      {
+        "text": "COFACE",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Chile",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "French",
+      "COFACE",
+      "Chile"
+    ],
+    "original_label": [
+      {
+        "French": "LOCATION"
+      },
+      {
+        "Coface": "ORGANIZATION"
+      },
+      {
+        "Chile": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "French",
+      "Coface",
+      "Chile"
+    ],
+    "index": 127
+  },
+  {
+    "original_text": "He graduated from both Marietta College (1938) and The Ohio State University Moritz College of Law (1942).",
+    "modified_text": "He Graduated from both Marietta College (1938) and The Ohio State University Moritz College of Law (1942).",
+    "modified_label": [
+      {
+        "text": "Marietta College",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ohio State University Moritz College of Law",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Marietta College",
+      "Ohio State University Moritz College of Law"
+    ],
+    "original_label": [
+      {
+        "Marietta College": "ORGANIZATION"
+      },
+      {
+        "Ohio State University Moritz College of Law": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Marietta College",
+      "Ohio State University Moritz College of Law"
+    ],
+    "index": 237
+  },
+  {
+    "original_text": "He also was trained at the Royal Danish Academy of Fine Arts in Copenhagen under Professor Einar Utzon-Frank from 1945-1946.",
+    "modified_text": "He also was trained at the Royal Danish Academy of Fine Arts in Copenhagen Under Professor Einar Utzon-Frank from 1945-1946.",
+    "modified_label": [
+      {
+        "text": "Royal Danish Academy of Fine Arts",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Copenhagen",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Einar Utzon-Frank",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Royal Danish Academy of Fine Arts",
+      "Copenhagen",
+      "Einar Utzon-Frank"
+    ],
+    "original_label": [
+      {
+        "Royal Danish Academy of Fine Arts": "ORGANIZATION"
+      },
+      {
+        "Copenhagen": "LOCATION"
+      },
+      {
+        "Einar Utzon-Frank": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Royal Danish Academy of Fine Arts",
+      "Copenhagen",
+      "Einar Utzon-Frank"
+    ],
+    "index": 161
+  },
+  {
+    "original_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``Hidden Agenda At the Thirteenth Not``.",
+    "modified_text": "He went on to produce Kim Fowley and the BMX Bandits (band) Receiver Records' album ``HiDdEn Agenda At the Thirteenth Not``.",
+    "modified_label": [
+      {
+        "text": "Kim Fowley",
+        "value": "PERSON"
+      },
+      {
+        "text": "BMX Bandits",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Receiver Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "HiDdEn Agenda At the Thirteenth Not",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "HiDdEn Agenda At the Thirteenth Not"
+    ],
+    "original_label": [
+      {
+        "Kim Fowley": "PERSON"
+      },
+      {
+        "BMX Bandits": "ORGANIZATION"
+      },
+      {
+        "Receiver Records": "ORGANIZATION"
+      },
+      {
+        "Hidden Agenda At the Thirteenth Not": "ART"
+      }
+    ],
+    "original_entity": [
+      "Kim Fowley",
+      "BMX Bandits",
+      "Receiver Records",
+      "Hidden Agenda At the Thirteenth Not"
+    ],
+    "index": 25
+  },
+  {
+    "original_text": "This collection contains material relating to sexual health issues from 1974-2007.",
+    "modified_text": "this collection contains material relating to sexual health issues from 1974-2007.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 54
+  },
+  {
+    "original_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by Marek personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_text": "A prototype was fitted in the mid-'60s in a one-off DB5 extended 4'' after the doors and driven by MaReK personally, and a normally 6-cylinder Aston Martin DB7 was equipped with a V8 unit in 1998.",
+    "modified_label": [
+      {
+        "text": "DB5 extended 4''",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "MaReK",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "DB5 extended 4''",
+      "MaReK",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "original_label": [
+      {
+        "DB5 extended 4''": "PRODUCT"
+      },
+      {
+        "Marek": "PERSON"
+      },
+      {
+        "Aston Martin DB7": "PRODUCT"
+      },
+      {
+        "V8 unit": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "DB5 extended 4''",
+      "Marek",
+      "Aston Martin DB7",
+      "V8 unit"
+    ],
+    "index": 6
+  },
+  {
+    "original_text": "The current operators, Ace Radio Broadcasters purchased 3YB in 1995.",
+    "modified_text": "The current operators, Ace Radio Broadcasters Purchased 3YB in 1995.",
+    "modified_label": [
+      {
+        "text": "Ace Radio Broadcasters",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "3YB",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Ace Radio Broadcasters",
+      "3YB"
+    ],
+    "original_label": [
+      {
+        "Ace Radio Broadcasters": "ORGANIZATION"
+      },
+      {
+        "3YB": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Ace Radio Broadcasters",
+      "3YB"
+    ],
+    "index": 198
+  },
+  {
+    "original_text": "At a festival, Siddhi saves Vin from being shot at by Rudra.",
+    "modified_text": "At a festival, siddhi saves Vin from being shot at by Rudra.",
+    "modified_label": [
+      {
+        "text": "siddhi",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "Rudra",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "siddhi",
+      "Vin",
+      "Rudra"
+    ],
+    "original_label": [
+      {
+        "Siddhi": "PERSON"
+      },
+      {
+        "Vin": "PERSON"
+      },
+      {
+        "Rudra": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Siddhi",
+      "Vin",
+      "Rudra"
+    ],
+    "index": 62
+  },
+  {
+    "original_text": "Less commonly, cases of hypersexuality have been reported.",
+    "modified_text": "less commonly, cases of hypersexuality have been reported.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 103
+  },
+  {
+    "original_text": "Its headquarters are in Moscow.",
+    "modified_text": "Its headquarters are in MOSCOW.",
+    "modified_label": [
+      {
+        "text": "MOSCOW",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "MOSCOW"
+    ],
+    "original_label": [
+      {
+        "Moscow": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Moscow"
+    ],
+    "index": 123
+  },
+  {
+    "original_text": "The ability to sustain a lucrative business in bootlegging liquor was largely helped by the minimal police surveillance at the time.",
+    "modified_text": "the ability to sustain a lucrative business in bootlegging liquor was largely helped by the minimal police surveillance at the time.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 94
+  },
+  {
+    "original_text": "while the track ``Zinda`` topped the songs chart.",
+    "modified_text": "while the track ``Zinda`` Topped the songs chart.",
+    "modified_label": [
+      {
+        "text": "Zinda",
+        "value": "ART"
+      }
+    ],
+    "modified_entity": [
+      "Zinda"
+    ],
+    "original_label": [
+      {
+        "Zinda": "ART"
+      }
+    ],
+    "original_entity": [
+      "Zinda"
+    ],
+    "index": 218
+  },
+  {
+    "original_text": "According to Steak' n Shake archives, the restaurant's founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "modified_text": "According to Steak' n Shake archives, the RESTAURANT'S founder, Gus Belt, applied for a trademark on the word in the 1930s.",
+    "modified_label": [
+      {
+        "text": "Steak' n Shake",
+        "value": "ART"
+      },
+      {
+        "text": "Gus Belt",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "original_label": [
+      {
+        "Steak' n Shake": "ART"
+      },
+      {
+        "Gus Belt": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Steak' n Shake",
+      "Gus Belt"
+    ],
+    "index": 76
+  },
+  {
+    "original_text": "Somewhat hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "modified_text": "SOMEWHAT hidden away by the Ben Cruachan range, it is usually climbed in conjunction with its neighbour Beinn Eunaich.",
+    "modified_label": [
+      {
+        "text": "Ben Cruachan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Beinn Eunaich",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "original_label": [
+      {
+        "Ben Cruachan": "LOCATION"
+      },
+      {
+        "Beinn Eunaich": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Ben Cruachan",
+      "Beinn Eunaich"
+    ],
+    "index": 13
+  },
+  {
+    "original_text": "Modifications included additional cockpit windows, and 245-horsepower Jacobs R-755-9 engines.",
+    "modified_text": "Modifications Included additional cockpit windows, and 245-horsepower Jacobs R-755-9 engines.",
+    "modified_label": [
+      {
+        "text": "Jacobs R-755-9",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "Jacobs R-755-9"
+    ],
+    "original_label": [
+      {
+        "Jacobs R-755-9": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Jacobs R-755-9"
+    ],
+    "index": 247
+  },
+  {
+    "original_text": "Mediaite named her in a four-way tie among the ``Best TV Pundits`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "modified_text": "Mediaite named her in a four-way tie among the ``BeSt tV PuNdItS`` of 2014 for bringing ``a comprehensive understanding to women's health and justice issues that goes beyond the usual talking points.''",
+    "modified_label": [
+      {
+        "text": "Mediaite",
+        "value": "PERSON"
+      },
+      {
+        "text": "BeSt tV PuNdItS",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "Mediaite",
+      "BeSt tV PuNdItS"
+    ],
+    "original_label": [
+      {
+        "Mediaite": "PERSON"
+      },
+      {
+        "Best TV Pundits": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "Mediaite",
+      "Best TV Pundits"
+    ],
+    "index": 75
+  },
+  {
+    "original_text": "All lyrics written by Kellin Quinn and Jesse Lawson unless noted, all music composed by Sleeping with Sirens",
+    "modified_text": "All Lyrics written by Kellin Quinn and Jesse Lawson unless noted, all music composed by Sleeping with Sirens",
+    "modified_label": [
+      {
+        "text": "Kellin Quinn",
+        "value": "PERSON"
+      },
+      {
+        "text": "Jesse Lawson",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Kellin Quinn",
+      "Jesse Lawson"
+    ],
+    "original_label": [
+      {
+        "Kellin Quinn": "PERSON"
+      },
+      {
+        "Jesse Lawson": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Kellin Quinn",
+      "Jesse Lawson"
+    ],
+    "index": 167
+  },
+  {
+    "original_text": "It is operated by the Nhulunbuy Corporation.",
+    "modified_text": "It is operated by the nhulunbuy Corporation.",
+    "modified_label": [
+      {
+        "text": "nhulunbuy Corporation",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "nhulunbuy Corporation"
+    ],
+    "original_label": [
+      {
+        "Nhulunbuy Corporation": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Nhulunbuy Corporation"
+    ],
+    "index": 68
+  },
+  {
+    "original_text": "The same effects have also been seen in short pubertal boys.",
+    "modified_text": "The same effects have also been seen in SHORT pubertal boys.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 80
+  },
+  {
+    "original_text": "Nintendo continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "modified_text": "NINTENDO continued to sell the revised Wii model and the Wii Mini alongside the Wii U during the Wii U's first release year.",
+    "modified_label": [
+      {
+        "text": "NINTENDO",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Wii model",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii Mini",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Wii U",
+        "value": "PRODUCT"
+      }
+    ],
+    "modified_entity": [
+      "NINTENDO",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "original_label": [
+      {
+        "Nintendo": "ORGANIZATION"
+      },
+      {
+        "Wii model": "PRODUCT"
+      },
+      {
+        "Wii Mini": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      },
+      {
+        "Wii U": "PRODUCT"
+      }
+    ],
+    "original_entity": [
+      "Nintendo",
+      "Wii model",
+      "Wii Mini",
+      "Wii U",
+      "Wii U"
+    ],
+    "index": 22
+  },
+  {
+    "original_text": "In some cases, black community groups resisted the attacks, especially in Chicago and Washington, D.C.",
+    "modified_text": "In some cases, black community groups resisted the attacks, especially in CHICAGO and Washington, D.C.",
+    "modified_label": [
+      {
+        "text": "CHICAGO",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Washington, D.C",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "CHICAGO",
+      "Washington, D.C"
+    ],
+    "original_label": [
+      {
+        "Chicago": "LOCATION"
+      },
+      {
+        "Washington, D.C": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Chicago",
+      "Washington, D.C"
+    ],
+    "index": 92
+  },
+  {
+    "original_text": "The final season of minor league play Elkin Memorial Park saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_text": "The final season of minor league play ELKIN MEMORIAL PARK saw season attendance of 16,322, an average of 299 per contest.",
+    "modified_label": [
+      {
+        "text": "ELKIN MEMORIAL PARK",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "ELKIN MEMORIAL PARK"
+    ],
+    "original_label": [
+      {
+        "Elkin Memorial Park": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "Elkin Memorial Park"
+    ],
+    "index": 1
+  },
+  {
+    "original_text": "In some versions, the eggplant is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "modified_text": "In some versions, the EGGPLANT is not grilled, but is instead boiled, resulting in a softer version that lacks the characteristic smoky flavor of the original dish.",
+    "modified_label": [
+      {
+        "text": "EGGPLANT",
+        "value": "OTHER"
+      }
+    ],
+    "modified_entity": [
+      "EGGPLANT"
+    ],
+    "original_label": [
+      {
+        "eggplant": "OTHER"
+      }
+    ],
+    "original_entity": [
+      "eggplant"
+    ],
+    "index": 40
+  },
+  {
+    "original_text": "Mary Weiss was one of the creators of The Real Live Brady Bunch at The Annoyance Theater, which led to a series of feature film remakes.",
+    "modified_text": "Mary Weiss was one of the creators of The Real Live Brady Bunch at THE ANNOYANCE THEATER, which led to a series of feature film remakes.",
+    "modified_label": [
+      {
+        "text": "Mary Weiss",
+        "value": "PERSON"
+      },
+      {
+        "text": "Real Live Brady Bunch",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "THE ANNOYANCE THEATER",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Mary Weiss",
+      "Real Live Brady Bunch",
+      "THE ANNOYANCE THEATER"
+    ],
+    "original_label": [
+      {
+        "Mary Weiss": "PERSON"
+      },
+      {
+        "Real Live Brady Bunch": "ORGANIZATION"
+      },
+      {
+        "Annoyance Theater": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Mary Weiss",
+      "Real Live Brady Bunch",
+      "Annoyance Theater"
+    ],
+    "index": 86
+  },
+  {
+    "original_text": "The basis of the column is orientated northwest/southeast, while its capital is aligned north/south, possibly so that the statue could look towards the nearby Church of the Holy Apostles.",
+    "modified_text": "The basis of the column is orientated northwest/southeast, while its capital is aligned north/south, possibly so that the statue could look towards the nearby church of the Holy Apostles.",
+    "modified_label": [
+      {
+        "text": "church of the Holy Apostles",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "church of the Holy Apostles"
+    ],
+    "original_label": [
+      {
+        "Church of the Holy Apostles": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Church of the Holy Apostles"
+    ],
+    "index": 144
+  },
+  {
+    "original_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use Casement Aerodrome nearby.",
+    "modified_text": "Dublin is also served by Weston Airport and other small facilities, by a range of helicopter operators, and the military and some State services use cAsEmEnT AeRoDrOmE nearby.",
+    "modified_label": [
+      {
+        "text": "Dublin",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Weston Airport",
+        "value": "BUILDING"
+      },
+      {
+        "text": "cAsEmEnT AeRoDrOmE",
+        "value": "BUILDING"
+      }
+    ],
+    "modified_entity": [
+      "Dublin",
+      "Weston Airport",
+      "cAsEmEnT AeRoDrOmE"
+    ],
+    "original_label": [
+      {
+        "Dublin": "LOCATION"
+      },
+      {
+        "Weston Airport": "BUILDING"
+      },
+      {
+        "Casement Aerodrome": "BUILDING"
+      }
+    ],
+    "original_entity": [
+      "Dublin",
+      "Weston Airport",
+      "Casement Aerodrome"
+    ],
+    "index": 24
+  },
+  {
+    "original_text": "The 117-bed facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "modified_text": "The 117-BED facility entirely comprised individual rooms, each with its own en-suite bathroom facilities.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 14
+  },
+  {
+    "original_text": "The other higher main peak is named North Twin, with a height of.",
+    "modified_text": "The other higher main peak is named North Twin, With a height of.",
+    "modified_label": [
+      {
+        "text": "North Twin",
+        "value": "LOCATION"
+      }
+    ],
+    "modified_entity": [
+      "North Twin"
+    ],
+    "original_label": [
+      {
+        "North Twin": "LOCATION"
+      }
+    ],
+    "original_entity": [
+      "North Twin"
+    ],
+    "index": 186
+  },
+  {
+    "original_text": "For the 2019 Frieze Art Fair in London, Agostinelli staged his fourth intervention by depositing a 1 tonne block of translucent ice pulled by a Tesla to the entrance of the fair on opening day.",
+    "modified_text": "For the 2019 Frieze Art Fair in London, Agostinelli staged his fourth intervention by depositing a 1 tonne block of translucent ice pulled by a TeSlA to the entrance of the fair on opening day.",
+    "modified_label": [
+      {
+        "text": "Frieze Art Fair",
+        "value": "EVENT"
+      },
+      {
+        "text": "London",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Agostinelli",
+        "value": "PERSON"
+      },
+      {
+        "text": "TeSlA",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "modified_entity": [
+      "Frieze Art Fair",
+      "London",
+      "Agostinelli",
+      "TeSlA"
+    ],
+    "original_label": [
+      {
+        "Frieze Art Fair": "EVENT"
+      },
+      {
+        "London": "LOCATION"
+      },
+      {
+        "Agostinelli": "PERSON"
+      },
+      {
+        "Tesla": "ORGANIZATION"
+      }
+    ],
+    "original_entity": [
+      "Frieze Art Fair",
+      "London",
+      "Agostinelli",
+      "Tesla"
+    ],
+    "index": 131
+  },
+  {
+    "original_text": "Caunter remained a regular character until new executive producer Louise Berridge axed him in 2003, a decision which she later stated she regretted.",
+    "modified_text": "Caunter Remained a regular character until new executive producer Louise Berridge axed him in 2003, a decision which she later stated she regretted.",
+    "modified_label": [
+      {
+        "text": "Caunter",
+        "value": "PERSON"
+      },
+      {
+        "text": "Louise Berridge",
+        "value": "PERSON"
+      }
+    ],
+    "modified_entity": [
+      "Caunter",
+      "Louise Berridge"
+    ],
+    "original_label": [
+      {
+        "Caunter": "PERSON"
+      },
+      {
+        "Louise Berridge": "PERSON"
+      }
+    ],
+    "original_entity": [
+      "Caunter",
+      "Louise Berridge"
+    ],
+    "index": 169
+  },
+  {
+    "original_text": "The buildings were renovated into offices in the 1980s.",
+    "modified_text": "The buildings were renovated into oFfIcEs in the 1980s.",
+    "modified_label": [],
+    "modified_entity": [],
+    "original_label": [],
+    "original_entity": [],
+    "index": 18
+  }
+]

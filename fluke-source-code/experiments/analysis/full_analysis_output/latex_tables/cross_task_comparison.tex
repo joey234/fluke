@@ -1,0 +1,21 @@
+% Cross-Task Comparison Table
+\begin{table}[htbp]
+\centering
+\caption{LLM Performance Across FLUKE Tasks}
+\label{tab:cross_task_comparison}
+\begin{tabular}{lrrrrr}
+\toprule
+Model & Coreference Resolution & Dialogue Understanding & Named Entity Recognition & Sentiment Analysis & Average \\
+\midrule
+Claude-3.5 & \textbf{89.47} & \textbf{95.00} & - & 90.00 & \textbf{91.49} \\
+t5-base & 56.84 & 85.00 & - & - & 70.92 \\
+Llama & 82.11 & 94.00 & 7.41 & \textbf{95.00} & 69.63 \\
+bert-base-cased & 49.47 & 87.00 & - & - & 68.24 \\
+gpt2 & 51.58 & 84.00 & - & - & 67.79 \\
+GPT-4o & 80.00 & 88.00 & 6.17 & 93.00 & 66.79 \\
+GPT-5 & - & - & 7.41 & \textbf{95.00} & 51.20 \\
+Claude-3.5 & - & - & \textbf{8.64} & - & 8.64 \\
+DeepSeek-R1 & - & - & 3.70 & - & 3.70 \\
+\bottomrule
+\end{tabular}
+\end{table}

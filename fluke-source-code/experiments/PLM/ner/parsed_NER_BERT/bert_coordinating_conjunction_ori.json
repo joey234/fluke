@@ -1,0 +1,1821 @@
+[
+  {
+    "text": "Internal conflicts , especially between Co v c and Ban i u , were making headlines in the media .",
+    "gold": [
+      {
+        "text": "Co v c",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ban i u",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Co v c",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ban i u",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Ronald will travel to Iceland .",
+    "gold": [
+      {
+        "text": "Ronald",
+        "value": "PERSON"
+      },
+      {
+        "text": "Iceland",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ronald",
+        "value": "PERSON"
+      },
+      {
+        "text": "Iceland",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Ronald will travel to Iceland .",
+    "gold": [
+      {
+        "text": "Ronald",
+        "value": "PERSON"
+      },
+      {
+        "text": "Iceland",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ronald",
+        "value": "PERSON"
+      },
+      {
+        "text": "Iceland",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The B - 52 pilot , Major Larry G . Me s er , later recalled ,",
+    "gold": [
+      {
+        "text": "B - 52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G . Me s er",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "B - 52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Me s",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "A prototype was fitted in the mid - ' 60s in a one - off DB 5 extended 4 ' ' after the doors and driven by Mare k personally , and a normally 6 - cylinder Aston Martin DB 7 was equipped with a V8 unit in 1998 .",
+    "gold": [
+      {
+        "text": "DB 5 extended 4 ' '",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Mare k",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB 7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8 unit",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "DB 5",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Mare",
+        "value": "PERSON"
+      },
+      {
+        "text": "Aston Martin DB 7",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "V8",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "In the early 1930s the band moved to the G r Room of the Taft Hotel in New York ; the band was renamed ` ` George Hall and His Hotel Taft Orchestra ` ` .",
+    "gold": [
+      {
+        "text": "G r Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "r Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The Austro - Hungarian Navy built and operated two classes of protected cruisers .",
+    "gold": [
+      {
+        "text": "Austro - Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Austro - Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The Austro - Hungarian Navy built and operated two classes of protected cruisers .",
+    "gold": [
+      {
+        "text": "Austro - Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Austro - Hungarian Navy",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The B - 52 pilot , Major Larry G . Me s er , later recalled ,",
+    "gold": [
+      {
+        "text": "B - 52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G . Me s er",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "B - 52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Me s",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Argentina ' s Del I ma g a Disco s also released the album in 2007 .",
+    "gold": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del I ma g a Disco s",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del I ma g a",
+        "value": "ART"
+      },
+      {
+        "text": "Disco",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Furthermore , the SF O offered to pay reasonable legal costs .",
+    "gold": [
+      {
+        "text": "the SF O",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "SF O",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Hunt represents the 8th legislative district in Omaha , consisting of the mid town neighborhoods of Dundee , Benson , and Keys tone .",
+    "gold": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keys tone",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Hunt",
+        "value": "PERSON"
+      },
+      {
+        "text": "Omaha",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Dundee",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Benson",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Keys tone",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Go n caused strong g us y winds and to r n rainfall along Pakistan ' s Arabian Sea coast from Karachi to G wa da .",
+    "gold": [
+      {
+        "text": "Go n",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan ' s Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "G wa da",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pakistan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Arabian Sea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "G wa da",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The C r l I r well Regional Park Project Pro p sa to create a green artery from the centre of Manchester to the West Penn in Moor s was announced in June 2003 supported by Salford , Bury and Bolton councils and the Red Rose Forest .",
+    "gold": [
+      {
+        "text": "C r l I r well Regional Park Project Pro p sa",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn in Moor s",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn in Moor",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "She has since worked with homeless patients and holds the position of Management Consul tan for Me d A me i .",
+    "gold": [
+      {
+        "text": "Me d A me i",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Me d A me i",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Furthermore , the SF O offered to pay reasonable legal costs .",
+    "gold": [
+      {
+        "text": "the SF O",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "SF O",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "It is developed by Go la em , a France - based software company ( created in Ren ne in 2009 ) .",
+    "gold": [
+      {
+        "text": "Go la em",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ren ne",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Go la em",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ren ne",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada .",
+    "gold": [
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "ODI",
+        "value": "EVENT"
+      },
+      {
+        "text": "England",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He is a Congressman representing C a ma ca for the period 2006 \u2013 2011 , and belongs to the Union for Peru party .",
+    "gold": [
+      {
+        "text": "C a ma ca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "a ma",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Union for Peru party",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The lowest match aggregate in ODI history for England is 91 scored at the 1979 Cricket World Cup against Canada .",
+    "gold": [
+      {
+        "text": "England",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Canada",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "ODI",
+        "value": "EVENT"
+      },
+      {
+        "text": "England",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Cricket World Cup",
+        "value": "EVENT"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The C ni da i are a group of animals found exclusively in aquatic and mostly marine environments .",
+    "gold": [
+      {
+        "text": "C ni da i",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "C ni da i",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "He went on to produce Kim F o le and the B M Band its ( band ) Re c r Records ' album ` ` Hidden Age n At the Thirteen th Not ` ` .",
+    "gold": [
+      {
+        "text": "Kim F o le",
+        "value": "PERSON"
+      },
+      {
+        "text": "B M Band its",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Re c r Records",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Age n At the Thirteen th Not",
+        "value": "ART"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Kim F o le",
+        "value": "PERSON"
+      },
+      {
+        "text": "B M Band",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Hidden Age n At the Thirteen th Not",
+        "value": "ART"
+      }
+    ]
+  },
+  {
+    "text": "He was born in Well ing borough , Northamptonshire , where he attended Victoria Junior School , West field Boys School and Sir Christopher Hat ton School .",
+    "gold": [
+      {
+        "text": "Well ing borough",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "West field Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hat ton School",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Well ing",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Northamptonshire",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Victoria Junior School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "West field Boys School",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Sir Christopher Hat ton School",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Perhaps the best known Ward La F ran product was the P - 80 ` ` Ambassador ' ' model of pump er , one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program ` ` Emergency !",
+    "gold": [
+      {
+        "text": "Ward La F ran",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P - 80 ` ` Ambassador ' '",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ward La F ran",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "P - 80 ` ` Ambassador ' '",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "It is developed by Go la em , a France - based software company ( created in Ren ne in 2009 ) .",
+    "gold": [
+      {
+        "text": "Go la em",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ren ne",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Go la em",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "France",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Ren ne",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area , featuring a hum p yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains .",
+    "gold": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "It was founded as a spin - off of Murphy Oil in 2013 .",
+    "gold": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "It was founded as a spin - off of Murphy Oil in 2013 .",
+    "gold": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The C r l I r well Regional Park Project Pro p sa to create a green artery from the centre of Manchester to the West Penn in Moor s was announced in June 2003 supported by Salford , Bury and Bolton councils and the Red Rose Forest .",
+    "gold": [
+      {
+        "text": "C r l I r well Regional Park Project Pro p sa",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn in Moor s",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Manchester",
+        "value": "LOCATION"
+      },
+      {
+        "text": "West Penn in Moor",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Salford",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bury",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Bolton",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Red Rose Forest",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "They used several features from a batch of A1 Pacific s they had built in 1924 .",
+    "gold": [
+      {
+        "text": "A1 Pacific s",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "A1 Pacific",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Lo ya is recruited from Queens County , New York by Lieutenant Colonel Richard He w et for the 3rd battalion De L an y ' s Brigade had established a fortified position in early August on the central north shore of Long Island at Set au k , just across Long Island Sound from Fairfield .",
+    "gold": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard He w et",
+        "value": "PERSON"
+      },
+      {
+        "text": "De L an y ' s Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Set au k",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard He",
+        "value": "PERSON"
+      },
+      {
+        "text": "De L an y ' s Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Set au k",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "US P 42 has also been shown to de u q tin te p 53 and may be required for the ability of p 53 to respond to stress .",
+    "gold": [
+      {
+        "text": "US P 42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "US P 42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Lo ya is recruited from Queens County , New York by Lieutenant Colonel Richard He w et for the 3rd battalion De L an y ' s Brigade had established a fortified position in early August on the central north shore of Long Island at Set au k , just across Long Island Sound from Fairfield .",
+    "gold": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard He w et",
+        "value": "PERSON"
+      },
+      {
+        "text": "De L an y ' s Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Set au k",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard He",
+        "value": "PERSON"
+      },
+      {
+        "text": "De L an y ' s Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Set au k",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Jam il was married to the daughter of Khalid Ba k das h , a Syrian politician who was the Secretary - General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954 .",
+    "gold": [
+      {
+        "text": "Jam il",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Ba k das h",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Jam il",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Ba k das h",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syrian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "At a festival , Sid d saves Vin from being shot at by R u r .",
+    "gold": [
+      {
+        "text": "Sid d",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "R u r",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Sid d",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "R u r",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Her brother ran unsuccessfully for the United States House of Representatives from ups ta New York , in 1992 and 1994 .",
+    "gold": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "At a festival , Sid d saves Vin from being shot at by R u r .",
+    "gold": [
+      {
+        "text": "Sid d",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "R u r",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Sid d",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "R u r",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Internal conflicts , especially between Co v c and Ban i u , were making headlines in the media .",
+    "gold": [
+      {
+        "text": "Co v c",
+        "value": "PERSON"
+      },
+      {
+        "text": "Ban i u",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Co v c",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Ban i u",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "The B - 52 pilot , Major Larry G . Me s er , later recalled ,",
+    "gold": [
+      {
+        "text": "B - 52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G . Me s er",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "B - 52",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Larry G",
+        "value": "PERSON"
+      },
+      {
+        "text": "Me s",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "In the early 1930s the band moved to the G r Room of the Taft Hotel in New York ; the band was renamed ` ` George Hall and His Hotel Taft Orchestra ` ` .",
+    "gold": [
+      {
+        "text": "G r Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "r Room",
+        "value": "BUILDING"
+      },
+      {
+        "text": "Taft Hotel",
+        "value": "BUILDING"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "George Hall and His Hotel Taft Orchestra",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "During last few years , I live in Melbourne .",
+    "gold": [
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Argentina ' s Del I ma g a Disco s also released the album in 2007 .",
+    "gold": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del I ma g a Disco s",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Argentina",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Del I ma g a",
+        "value": "ART"
+      },
+      {
+        "text": "Disco",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "During last few years , I live in Melbourne .",
+    "gold": [
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "The Newfoundland Reform Liberal Party was a leader - centred political party in Newfoundland and Labrador , Canada from 1975 to 1979 .",
+    "gold": [
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland and Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Newfoundland Reform Liberal Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Newfoundland",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Labrador",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Canada",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Furthermore , the SF O offered to pay reasonable legal costs .",
+    "gold": [
+      {
+        "text": "the SF O",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "SF O",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Perhaps the best known Ward La F ran product was the P - 80 ` ` Ambassador ' ' model of pump er , one of which was donated as product placement by the company to be used as the fictional Los Angeles County Fire Department Engine 51 on the 1970s television program ` ` Emergency !",
+    "gold": [
+      {
+        "text": "Ward La F ran",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "P - 80 ` ` Ambassador ' '",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department Engine 51",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Ward La F ran",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "P - 80 ` ` Ambassador ' '",
+        "value": "PRODUCT"
+      },
+      {
+        "text": "Los Angeles County Fire Department",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "During the Battle of Anti et m on September 17 , 1862 , Wilkinson was injured and forced to serve the remainder of the war as an officer in the Veterans Reserve Corps .",
+    "gold": [
+      {
+        "text": "Battle of Anti et m",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Battle of Anti et",
+        "value": "EVENT"
+      },
+      {
+        "text": "Wilkinson",
+        "value": "PERSON"
+      },
+      {
+        "text": "Veterans Reserve Corps",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "Many of the men were separated from their families and sent into the B . C .",
+    "gold": [],
+    "prediction": []
+  },
+  {
+    "text": "During last few years , I live in Melbourne .",
+    "gold": [
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Melbourne",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "He is a Congressman representing C a ma ca for the period 2006 \u2013 2011 , and belongs to the Union for Peru party .",
+    "gold": [
+      {
+        "text": "C a ma ca",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Peru party",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "a ma",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Union for Peru party",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "They used several features from a batch of A1 Pacific s they had built in 1924 .",
+    "gold": [
+      {
+        "text": "A1 Pacific s",
+        "value": "PRODUCT"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "A1 Pacific",
+        "value": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "text": "Conway is the hub of operations for Norfolk Southern in the Greater Pittsburgh area , featuring a hum p yard and a crew change point for virtually all Pittsburgh and Fort Wayne Line trains .",
+    "gold": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Conway",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Norfolk Southern",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Greater Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Pittsburgh",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fort Wayne Line",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Go n caused strong g us y winds and to r n rainfall along Pakistan ' s Arabian Sea coast from Karachi to G wa da .",
+    "gold": [
+      {
+        "text": "Go n",
+        "value": "EVENT"
+      },
+      {
+        "text": "Pakistan ' s Arabian Sea coast",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "G wa da",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Pakistan",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Arabian Sea",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Karachi",
+        "value": "LOCATION"
+      },
+      {
+        "text": "G wa da",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "US P 42 has also been shown to de u q tin te p 53 and may be required for the ability of p 53 to respond to stress .",
+    "gold": [
+      {
+        "text": "US P 42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "US P 42",
+        "value": "OTHER"
+      },
+      {
+        "text": "p 53",
+        "value": "OTHER"
+      }
+    ]
+  },
+  {
+    "text": "Her brother ran unsuccessfully for the United States House of Representatives from ups ta New York , in 1992 and 1994 .",
+    "gold": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Her brother ran unsuccessfully for the United States House of Representatives from ups ta New York , in 1992 and 1994 .",
+    "gold": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "United States House of Representatives",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "It was founded as a spin - off of Murphy Oil in 2013 .",
+    "gold": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Murphy Oil",
+        "value": "ORGANIZATION"
+      }
+    ]
+  },
+  {
+    "text": "At a festival , Sid d saves Vin from being shot at by R u r .",
+    "gold": [
+      {
+        "text": "Sid d",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "R u r",
+        "value": "PERSON"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Sid d",
+        "value": "PERSON"
+      },
+      {
+        "text": "Vin",
+        "value": "PERSON"
+      },
+      {
+        "text": "R u r",
+        "value": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Jam il was married to the daughter of Khalid Ba k das h , a Syrian politician who was the Secretary - General of the Syrian Communist Party and the first communist to be an elected member of an Arab parliament in 1954 .",
+    "gold": [
+      {
+        "text": "Jam il",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Ba k das h",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Jam il",
+        "value": "PERSON"
+      },
+      {
+        "text": "Khalid Ba k das h",
+        "value": "PERSON"
+      },
+      {
+        "text": "Syrian",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Syrian Communist Party",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Arab",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Lo ya is recruited from Queens County , New York by Lieutenant Colonel Richard He w et for the 3rd battalion De L an y ' s Brigade had established a fortified position in early August on the central north shore of Long Island at Set au k , just across Long Island Sound from Fairfield .",
+    "gold": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard He w et",
+        "value": "PERSON"
+      },
+      {
+        "text": "De L an y ' s Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Set au k",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ],
+    "prediction": [
+      {
+        "text": "Queens County",
+        "value": "LOCATION"
+      },
+      {
+        "text": "New York",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Richard He",
+        "value": "PERSON"
+      },
+      {
+        "text": "De L an y ' s Brigade",
+        "value": "ORGANIZATION"
+      },
+      {
+        "text": "Long Island",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Set au k",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Long Island Sound",
+        "value": "LOCATION"
+      },
+      {
+        "text": "Fairfield",
+        "value": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "This collection contains material relating to sexual health issues from 1974 - 2007 .",
+    "gold": [],
+    "prediction": []
+  }
+]

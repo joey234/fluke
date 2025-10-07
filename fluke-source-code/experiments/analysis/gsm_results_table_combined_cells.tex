@@ -1,0 +1,30 @@
+\begin{table}[h]
+\centering
+\resizebox{\linewidth}{!}{
+\begin{tabular}{llrrrrrrrrrr}
+\toprule
+Category & Modification & \multicolumn{2}{c}{\textbf{GPT-4o}} & \multicolumn{2}{c}{\textbf{Claude-3.5}} & \multicolumn{2}{c}{\textbf{Llama 3.1}} & \multicolumn{2}{c}{\textbf{GPT-5}} & \multicolumn{2}{c}{\textbf{DS R1}} \\
+ &  & $\Delta$ & U & $\Delta$ & U & $\Delta$ & U & $\Delta$ & U & $\Delta$ & U \\
+\midrule
+\textbf{Bias} & \textbf{Temporal} & \cellcolor{green!1} +1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{green!3} +2.0 & \cellcolor{blue!1} 2.0 & \cellcolor{red!3} -2.0 & \cellcolor{blue!3} 4.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!0} 0.0 & \cellcolor{green!1} +1.0 & \cellcolor{blue!0} 1.0 \\
+  & \textbf{Geographical} & \cellcolor{red!1} -1.0 & \cellcolor{blue!4} 5.0 & \cellcolor{green!1} +1.0 & \cellcolor{blue!4} 5.0 & \cellcolor{red!1} -1.0 & \cellcolor{blue!5} 7.0 & \cellcolor{red!1} -1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!1} 2.0 \\
+  & \textbf{Length} & \cellcolor{green!3} +2.0 & \cellcolor{blue!3} 4.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!1} 2.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!1} 2.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!0} 0.0 & \cellcolor{red!3} -2.0 & \cellcolor{blue!1} 2.0 \\
+\midrule
+\textbf{Orthography} & \textbf{Spelling} & \cellcolor{red!1} -1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!0} 0.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!1} 2.0 & \cellcolor{red!1} -1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!0} 0.0 \\
+  & \textbf{Capitalization} & \cellcolor{red!1} -1.0 & \cellcolor{blue!2} 3.0 & \cellcolor{green!1} +1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{red!5} -3.0 & \cellcolor{blue!4} 5.0 & \cellcolor{red!1} -1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{red!1} -1.0 & \cellcolor{blue!0} 1.0 \\
+  & \textbf{Punctuation} & \cellcolor{red!0} +0.0 & \cellcolor{blue!0} 0.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!0} 0.0 & \cellcolor{green!9} \textbf{+4.9}* & \cellcolor{blue!4} 5.0 & \cellcolor{red!1} -1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{red!1} -1.0 & \cellcolor{blue!0} 1.0 \\
+\midrule
+\textbf{Semantics} & \textbf{Concept} & \cellcolor{red!1} -1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!0} 0.0 & \cellcolor{red!5} -3.0 & \cellcolor{blue!4} 5.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!1} 2.0 & \cellcolor{green!1} +1.0 & \cellcolor{blue!0} 1.0 \\
+  & \textbf{Negation} & \cellcolor{red!17} \textbf{-8.9}* & \cellcolor{blue!12} 15.0 & \cellcolor{red!20} \textbf{-11.0}** & \cellcolor{blue!12} 15.0 & \cellcolor{red!19} \textbf{-9.9}* & \cellcolor{blue!14} 18.0 & \cellcolor{red!9} \textbf{-5.0} & \cellcolor{blue!5} 7.0 & \cellcolor{red!17} \textbf{-9.0}** & \cellcolor{blue!7} 9.0 \\
+\midrule
+\textbf{Discourse} & \textbf{Appraisal} & \cellcolor{red!0} +0.0 & \cellcolor{blue!0} 0.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!0} 0.0 & \cellcolor{red!1} -1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{green!1} +1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{red!1} -1.0 & \cellcolor{blue!0} 1.0 \\
+\midrule
+\textbf{Varieties} & \textbf{Style} & \cellcolor{red!7} \textbf{-4.0}* & \cellcolor{blue!3} 4.0 & \cellcolor{red!1} -1.0 & \cellcolor{blue!2} 3.0 & \cellcolor{red!7} -4.0 & \cellcolor{blue!4} 6.0 & \cellcolor{red!3} -2.0 & \cellcolor{blue!3} 4.0 & \cellcolor{red!5} \textbf{-3.0} & \cellcolor{blue!2} 3.0 \\
+  & \textbf{Dialect} & \cellcolor{red!3} -2.0 & \cellcolor{blue!1} 2.0 & \cellcolor{red!3} -2.0 & \cellcolor{blue!3} 4.0 & \cellcolor{red!7} -4.0 & \cellcolor{blue!4} 6.0 & \cellcolor{green!1} +1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{red!3} -2.0 & \cellcolor{blue!1} 2.0 \\
+\midrule
+\textbf{Syntax} & \textbf{Conjunction} & \cellcolor{red!0} +0.0 & \cellcolor{blue!0} 0.0 & \cellcolor{red!1} -1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{green!3} +2.0 & \cellcolor{blue!3} 4.0 & \cellcolor{green!1} +1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{green!1} +1.0 & \cellcolor{blue!0} 1.0 \\
+  & \textbf{Voice} & \cellcolor{red!0} +0.0 & \cellcolor{blue!1} 2.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!1} 2.0 & \cellcolor{green!3} +2.0 & \cellcolor{blue!4} 6.0 & \cellcolor{green!1} +1.0 & \cellcolor{blue!0} 1.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!1} 2.0 \\
+\bottomrule
+\end{tabular}}
+\caption{GSM: Two cells per model — $\Delta$ and U}\label{tab:gsm_combined_cells}
+\end{table}

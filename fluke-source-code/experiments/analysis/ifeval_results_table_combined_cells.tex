@@ -1,0 +1,30 @@
+\begin{table}[h]
+\centering
+\resizebox{\linewidth}{!}{
+\begin{tabular}{llrrrrrrrrrr}
+\toprule
+Category & Modification & \multicolumn{2}{c}{\textbf{GPT-4o}} & \multicolumn{2}{c}{\textbf{Claude-3.5}} & \multicolumn{2}{c}{\textbf{Llama 3.1}} & \multicolumn{2}{c}{\textbf{GPT-5}} & \multicolumn{2}{c}{\textbf{DS R1}} \\
+ &  & $\Delta$ & U & $\Delta$ & U & $\Delta$ & U & $\Delta$ & U & $\Delta$ & U \\
+\midrule
+\textbf{Bias} & \textbf{Temporal} & \cellcolor{red!5} -2.9 & \cellcolor{blue!29} 11.1 & \cellcolor{red!3} -1.9 & \cellcolor{blue!10} 4.0 & \cellcolor{red!11} \textbf{-5.7} & \cellcolor{blue!31} 12.1 & \cellcolor{red!5} -2.9 & \cellcolor{blue!13} 5.1 & \cellcolor{red!0} +0.0 & \cellcolor{blue!31} 12.1 \\
+  & \textbf{Geographical} & \cellcolor{red!1} -0.9 & \cellcolor{blue!23} 9.0 & \cellcolor{red!3} -1.9 & \cellcolor{blue!31} 12.0 & \cellcolor{green!3} +1.9 & \cellcolor{blue!36} 14.0 & \cellcolor{red!9} \textbf{-4.8} & \cellcolor{blue!23} 9.0 & \cellcolor{green!7} +3.7 & \cellcolor{blue!26} 10.0 \\
+  & \textbf{Length} & \cellcolor{red!5} -2.9 & \cellcolor{blue!28} 11.0 & \cellcolor{red!11} \textbf{-5.8} & \cellcolor{blue!26} 10.0 & \cellcolor{green!3} +1.9 & \cellcolor{blue!46} \textcolor{white}{18.0} & \cellcolor{green!3} +1.9 & \cellcolor{blue!15} 6.0 & \cellcolor{red!3} -1.9 & \cellcolor{blue!41} 16.0 \\
+\midrule
+\textbf{Orthography} & \textbf{Capitalization} & \cellcolor{red!3} -1.9 & \cellcolor{blue!21} 8.1 & \cellcolor{red!1} -0.9 & \cellcolor{blue!13} 5.1 & \cellcolor{red!3} -1.9 & \cellcolor{blue!26} 10.1 & \cellcolor{red!1} -0.9 & \cellcolor{blue!23} 9.1 & \cellcolor{red!9} -4.7 & \cellcolor{blue!34} 13.1 \\
+  & \textbf{Punctuation} & \cellcolor{red!5} -2.9 & \cellcolor{blue!18} 7.1 & \cellcolor{green!1} +0.9 & \cellcolor{blue!8} 3.0 & \cellcolor{red!5} -2.8 & \cellcolor{blue!34} 13.1 & \cellcolor{green!3} +1.9 & \cellcolor{blue!21} 8.1 & \cellcolor{green!7} +3.8 & \cellcolor{blue!31} 12.1 \\
+  & \textbf{Spelling} & \cellcolor{red!1} -1.0 & \cellcolor{blue!8} 3.1 & \cellcolor{red!3} -1.9 & \cellcolor{blue!11} 4.1 & \cellcolor{green!9} \textbf{+4.7} & \cellcolor{blue!19} 7.2 & \cellcolor{green!3} +1.9 & \cellcolor{blue!16} 6.2 & \cellcolor{red!3} -1.9 & \cellcolor{blue!21} 8.2 \\
+\midrule
+\textbf{Syntax} & \textbf{Conjunction} & \cellcolor{red!5} -2.9 & \cellcolor{blue!28} 11.0 & \cellcolor{red!1} -0.9 & \cellcolor{blue!18} 7.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!15} 6.0 & \cellcolor{green!11} \textbf{+5.6}* & \cellcolor{blue!21} 8.0 & \cellcolor{red!13} \textbf{-6.7}* & \cellcolor{blue!28} 11.0 \\
+  & \textbf{Voice} & \cellcolor{red!9} \textbf{-4.8} & \cellcolor{blue!23} 9.0 & \cellcolor{green!1} +0.9 & \cellcolor{blue!23} 9.0 & \cellcolor{red!7} -3.8 & \cellcolor{blue!26} 10.0 & \cellcolor{red!0} +0.0 & \cellcolor{blue!15} 6.0 & \cellcolor{red!9} -4.7 & \cellcolor{blue!39} 15.0 \\
+\midrule
+\textbf{Semantics} & \textbf{Concept} & \cellcolor{red!9} \textbf{-4.8} & \cellcolor{blue!23} 9.1 & \cellcolor{red!5} -2.8 & \cellcolor{blue!18} 7.1 & \cellcolor{red!1} -0.9 & \cellcolor{blue!29} 11.1 & \cellcolor{green!5} +2.9 & \cellcolor{blue!18} 7.1 & \cellcolor{green!5} +2.8 & \cellcolor{blue!18} 7.1 \\
+  & \textbf{Negation} & \cellcolor{green!18} \textbf{+9.2}* & \cellcolor{blue!62} \textcolor{white}{24.0} & \cellcolor{green!14} \textbf{+7.4} & \cellcolor{blue!57} \textcolor{white}{22.0} & \cellcolor{green!18} \textbf{+9.3}* & \cellcolor{blue!62} \textcolor{white}{24.0} & \cellcolor{green!13} +6.6 & \cellcolor{blue!59} \textcolor{white}{23.0} & \cellcolor{green!16} \textbf{+8.4} & \cellcolor{blue!59} \textcolor{white}{23.0} \\
+\midrule
+\textbf{Discourse} & \textbf{Appraisal} & \cellcolor{green!1} +1.0 & \cellcolor{blue!18} 7.1 & \cellcolor{green!3} +1.9 & \cellcolor{blue!11} 4.1 & \cellcolor{red!5} -2.9 & \cellcolor{blue!29} 11.2 & \cellcolor{green!1} +1.0 & \cellcolor{blue!18} 7.1 & \cellcolor{red!3} -1.9 & \cellcolor{blue!16} 6.1 \\
+\midrule
+\textbf{Varieties} & \textbf{Style} & \cellcolor{red!7} -3.7 & \cellcolor{blue!46} \textcolor{white}{18.0} & \cellcolor{red!1} -0.9 & \cellcolor{blue!18} 7.0 & \cellcolor{red!3} -1.9 & \cellcolor{blue!26} 10.0 & \cellcolor{red!9} \textbf{-4.8} & \cellcolor{blue!23} 9.0 & \cellcolor{red!1} -0.9 & \cellcolor{blue!28} 11.0 \\
+  & \textbf{Dialect} & \cellcolor{red!20} \textbf{-10.5}** & \cellcolor{blue!34} 13.0 & \cellcolor{red!1} -0.9 & \cellcolor{blue!34} 13.0 & \cellcolor{red!3} -1.9 & \cellcolor{blue!31} 12.0 & \cellcolor{red!13} \textbf{-6.6}* & \cellcolor{blue!28} 11.0 & \cellcolor{red!9} -4.6 & \cellcolor{blue!39} 15.0 \\
+\bottomrule
+\end{tabular}}
+\caption{IFEval: Two cells per model — $\Delta$ and U}\label{tab:ifeval_combined_cells}
+\end{table}

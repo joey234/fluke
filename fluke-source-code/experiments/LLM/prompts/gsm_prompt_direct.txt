@@ -1,0 +1,38 @@
+System message:
+
+Your input fields are:
+1. `text` (str)
+
+Your output fields are:
+1. `answer` (str)
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## text ## ]]
+{text}
+
+[[ ## answer ## ]]
+{answer}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Solve the given math word problem and provide the numerical answer only (no explanation needed).
+
+
+User message:
+
+[[ ## text ## ]]
+Janet's ducks lay 16 eggs per day. She eats 3 for breakfast every morning and bakes 4 into muffins for her friends every day. She sells the remainder at the farmers' market. How many eggs does Janet sell per day?
+
+Respond with the corresponding output fields, starting with the field `[[ ## answer ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+Response:
+
+[[ ## answer ## ]]
+9
+
+[[ ## completed ## ]]
+
+

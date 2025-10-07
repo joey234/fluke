@@ -1,0 +1,39 @@
+\begin{table}[h]
+\centering
+\footnotesize
+\begin{adjustbox}{max width=\linewidth}
+\begin{tabular}{llccccccc}
+\hline
+Category & Modification & \textbf{BERT} & \textbf{GPT-2} & \textbf{T5} & \textbf{GPT-4o} & \textbf{Claude 3.5} & \textbf{Llama 3.1} \\
+\hline
+\rowcolor{gray!20}\textit{Original} & & 87.40 & 86.83 & 84.47 & 90.90 & 94.04 & 93.51 \\
+\textbf{Bias} & \textbf{Temporal} & \cellcolor{red!0} 0.00 & \cellcolor{red!5} -1.93 & \cellcolor{red!14} \textbf{-4.77} & \cellcolor{green!5} +1.95 & \cellcolor{green!8} +2.94 & \cellcolor{red!2} -0.98 \\
+ & \textbf{Geographical} & \cellcolor{red!28} \textbf{-9.38}* & \cellcolor{red!28} \textbf{-9.38}* & \cellcolor{red!6} -2.04 & \cellcolor{red!6} -2.12 & \cellcolor{red!0} 0.00 & \cellcolor{red!15} -5.33 \\
+ & \textbf{Length} & \cellcolor{red!11} -3.85 & \cellcolor{red!5} -1.93 & \cellcolor{red!8} -2.89 & \cellcolor{red!0} 0.00 & \cellcolor{green!11} +3.93 & \cellcolor{red!2} -0.98 \\
+\hline
+\textbf{Orthographic} & \textbf{Spelling} & \cellcolor{green!11} +3.85 & \cellcolor{red!5} -1.95 & \cellcolor{red!5} -1.92 & \cellcolor{red!0} 0.00 & \cellcolor{red!2} -0.99 & \cellcolor{red!5} -1.98 \\
+ & \textbf{Capitalization} & \cellcolor{red!0} 0.00 & \cellcolor{red!12} -4.08 & \cellcolor{red!0} 0.00 & \cellcolor{green!3} +1.02 & \cellcolor{red!0} 0.00 & \cellcolor{red!0} 0.00 \\
+ & \textbf{Punctuation} & \cellcolor{red!5} -1.93 & \cellcolor{red!5} -1.95 & \cellcolor{red!0} 0.00 & \cellcolor{green!2} +0.98 & \cellcolor{red!2} -0.99 & \cellcolor{red!2} -0.98 \\
+\hline
+\textbf{Morphological} & \textbf{Derivation} & \cellcolor{red!0} 0.00 & \cellcolor{green!6} +2.06 & \cellcolor{red!3} -1.04 & \cellcolor{red!12} \textbf{-4.27}* & \cellcolor{green!9} +3.19 & \cellcolor{red!3} -1.07 \\
+ & \textbf{Compound} & \cellcolor{red!11} -3.90 & \cellcolor{red!0} 0.00 & \cellcolor{green!2} +0.95 & \cellcolor{red!5} -1.98 & \cellcolor{green!2} +0.99 & \cellcolor{green!2} +0.98 \\
+\hline
+\textbf{Syntactic} & \textbf{Voice} & \cellcolor{green!8} +2.91 & \cellcolor{green!8} +2.89 & \cellcolor{red!8} -2.89 & \cellcolor{red!2} -0.97 & \cellcolor{red!5} -1.98 & \cellcolor{green!2} +0.99 \\
+ & \textbf{Grammar} & \cellcolor{red!25} \textbf{-8.52} & \cellcolor{red!12} -4.24 & \cellcolor{red!21} \textbf{-7.21}* & \cellcolor{red!30} \textbf{-11.53}* & \cellcolor{red!4} -1.46 & \cellcolor{red!26} \textbf{-8.74}* \\
+ & \textbf{Conjunction} & \cellcolor{red!2} -0.97 & \cellcolor{red!5} -1.95 & \cellcolor{green!8} +2.85 & \cellcolor{red!5} -1.98 & \cellcolor{red!2} -0.99 & \cellcolor{red!5} -2.00 \\
+\hline
+\textbf{Semantic} & \textbf{Concept} & \cellcolor{red!8} -2.92 & \cellcolor{red!14} \textbf{-4.89}* & \cellcolor{red!5} -1.94 & \cellcolor{red!0} 0.00 & \cellcolor{green!2} +0.99 & \cellcolor{red!5} -1.99 \\
+ & \textbf{Negation} & \cellcolor{red!30} \textbf{-21.44}** & \cellcolor{red!30} \textbf{-25.28}** & \cellcolor{red!30} \textbf{-21.50}** & \cellcolor{red!30} \textbf{-18.52}** & \cellcolor{red!30} \textbf{-23.68}** & \cellcolor{red!30} \textbf{-29.60}** \\
+\hline
+\textbf{Pragmatic} & \textbf{Discourse} & \cellcolor{green!16} \textbf{+5.59}* & \cellcolor{red!6} -2.26 & \cellcolor{red!3} -1.14 & \cellcolor{green!3} +1.12 & \cellcolor{red!0} 0.00 & \cellcolor{red!10} \textbf{-3.41} \\
+ & \textbf{Sentiment} & \cellcolor{red!11} -3.93 & \cellcolor{red!5} -1.94 & \cellcolor{red!8} -2.89 & \cellcolor{green!2} +0.98 & \cellcolor{red!5} -1.99 & \cellcolor{red!11} \textbf{-3.96}* \\
+\hline
+\textbf{Genre} & \textbf{Casual} & \cellcolor{red!23} \textbf{-7.82}* & \cellcolor{red!23} \textbf{-7.87}* & \cellcolor{green!17} \textbf{+5.74} & \cellcolor{red!0} 0.00 & \cellcolor{red!0} 0.00 & \cellcolor{red!5} -1.99 \\
+ & \textbf{Dialectal} & \cellcolor{red!11} -3.86 & \cellcolor{red!5} -1.92 & \cellcolor{red!11} -3.89 & \cellcolor{red!2} -0.97 & \cellcolor{red!11} -3.95 & \cellcolor{red!2} -0.99 \\
+ & \textbf{Singlish} & \cellcolor{red!24} \textbf{-8.19}* & \cellcolor{red!8} -2.69 & \cellcolor{red!8} -2.72 & \cellcolor{red!10} -3.63 & \cellcolor{red!0} 0.00 & \cellcolor{green!10} +3.56 \\
+\hline
+\end{tabular}
+\end{adjustbox}
+\caption{Percentage Change in Micro F1 Score by Model and Modification Type}
+\label{tab:dialogue_results_table}
+\end{table}

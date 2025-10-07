@@ -1,0 +1,1712 @@
+[
+  {
+    "original_text": "The campers turned on their flashlights because it was dark without them.",
+    "original_candidates": [
+      "The campers",
+      "their flashlights"
+    ],
+    "original_pronoun": "them",
+    "original_label": 1,
+    "modified_text": "The flashlights were turned on by the campers because it was dark without them.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "the campers",
+      "The flashlights"
+    ],
+    "modified_pronoun": "them",
+    "modified_label": 1,
+    "index": 512
+  },
+  {
+    "original_text": "The board of directors reviewed the findings of the scientists to determine funding because they are interested in the potential profits for the company.",
+    "original_candidates": [
+      "The board of directors",
+      "the scientists"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The findings of the scientists were reviewed by the board of directors to determine funding because they are interested in the potential profits for the company.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "the board of directors",
+      "the scientists"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "index": 108
+  },
+  {
+    "original_text": "Enki does not tell Atrahasis directly, but he speaks to him in secret via a reed wall.",
+    "original_candidates": [
+      "Enki",
+      "Atrahasis"
+    ],
+    "original_pronoun": "him",
+    "original_label": 1,
+    "modified_text": "Atrahasis is not told directly by Enki, but he is spoken to in secret via a reed wall.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Enki",
+      "Atrahasis"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 830
+  },
+  {
+    "original_text": "The employer talked to the employee about being loyal to him.",
+    "original_candidates": [
+      "The employer",
+      "the employee"
+    ],
+    "original_pronoun": "him",
+    "original_label": 0,
+    "modified_text": "The employee was talked to by the employer about being loyal to him.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "the employer",
+      "The employee"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 0,
+    "index": 123
+  },
+  {
+    "original_text": "The birds ate the seeds because they were tasty.",
+    "original_candidates": [
+      "The birds",
+      "the seeds"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The seeds were eaten by the birds because they were tasty.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "the birds",
+      "The seeds"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "index": 871
+  },
+  {
+    "original_text": "Michael Phelps was fined by Judge Louis because he was caught with illegal drugs.",
+    "original_candidates": [
+      "Michael Phelps",
+      "Judge Louis"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "A fine was imposed on Michael Phelps by Judge Louis because illegal drugs had been found with him.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Michael Phelps",
+      "Judge Louis"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 0,
+    "index": 1017
+  },
+  {
+    "original_text": "Samuel despises Carl, telling Bandini if he wants to win him over, he has to treat him poorly.",
+    "original_candidates": [
+      "Samuel",
+      "Carl"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Carl is despised by Samuel, who is told by Bandini that if he wants to win him over, he must be treated poorly.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Samuel",
+      "Carl"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 77
+  },
+  {
+    "original_text": "Shatterstar attempts to kill Arcade, but he only destroys a robotic double.",
+    "original_candidates": [
+      "Arcade",
+      "Shatterstar"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "An attempt is made by Shatterstar to kill Arcade, but a robotic double is only destroyed by him.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Arcade",
+      "Shatterstar"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 1482
+  },
+  {
+    "original_text": "The team shredded the report, so that it could rewrite a new one.",
+    "original_candidates": [
+      "The team",
+      "the report"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "The report was shredded by the team, so that a new one could be rewritten by it.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "the team",
+      "The report"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "index": 79
+  },
+  {
+    "original_text": "Jason built Rocky a robot, and he gave it to him.",
+    "original_candidates": [
+      "Jason",
+      "Rocky"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "A robot was built for Rocky by Jason, and it was given to him by him.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Jason",
+      "Rocky"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 1007
+  },
+  {
+    "original_text": "However, Toyotomi Hideyoshi ordered Koremitsu to be killed when he was thirteen years of age for unknown reasons.",
+    "original_candidates": [
+      "Koremitsu",
+      "Toyotomi Hideyoshi"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "However, Koremitsu was ordered to be killed by Toyotomi Hideyoshi when he was thirteen years of age for unknown reasons.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Koremitsu",
+      "Toyotomi Hideyoshi"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1059
+  },
+  {
+    "original_text": "Joe raced against Steven because he thought it would be easy.",
+    "original_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "The race was run by Joe against Steven because he thought it would be easy.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Joe",
+      "Steven"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1164
+  },
+  {
+    "original_text": "Megan accidentally fires a shot that injures Barbara, but she shoots Larry dead.",
+    "original_candidates": [
+      "Megan",
+      "Barbara"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "A shot is accidentally fired by Megan that injures Barbara, but Larry is shot dead by her.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Megan",
+      "Barbara"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 0,
+    "index": 1499
+  },
+  {
+    "original_text": "A chicken pecked at a bug and it ran away.",
+    "original_candidates": [
+      "A chicken",
+      "a bug"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "A bug was pecked at by a chicken and it was made to run away.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "A chicken",
+      "a bug"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "index": 1013
+  },
+  {
+    "original_text": "Josie did not like Sarah, but she did not know it.",
+    "original_candidates": [
+      "Josie",
+      "Sarah"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Sarah was not liked by Josie, but it was not known by her.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Josie",
+      "Sarah"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 1,
+    "index": 751
+  },
+  {
+    "original_text": "Battlefield 3 is more fun than Modern Warfare 3 because it is a better game.",
+    "original_candidates": [
+      "Battlefield 3",
+      "Modern Warfare 3"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "Battlefield 3 is considered more fun than Modern Warfare 3 because it is regarded as a better game.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Battlefield 3",
+      "Modern Warfare 3"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "index": 447
+  },
+  {
+    "original_text": "Battlefield 3 is more fun than Modern Warfare 3 because it is a crappy game.",
+    "original_candidates": [
+      "Battlefield 3",
+      "Modern Warfare 3"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "Battlefield 3 is considered more fun than Modern Warfare 3 because it is perceived as a crappy game.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Battlefield 3",
+      "Modern Warfare 3"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "index": 27
+  },
+  {
+    "original_text": "Gnumeric was created and developed by Miguel de Icaza, but he has since moved on to other projects.",
+    "original_candidates": [
+      "Gnumeric",
+      "Miguel de Icaza"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Gnumeric was created and developed by Miguel de Icaza, but other projects have since been moved on to by him.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Gnumeric",
+      "Miguel de Icaza"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 89
+  },
+  {
+    "original_text": "The ghost entered the house because it was haunting.",
+    "original_candidates": [
+      "The ghost",
+      "the house"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "The house was entered by the ghost because it was being haunted.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The ghost",
+      "the house"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "index": 439
+  },
+  {
+    "original_text": "Joe crashed into Mike and he had to pay for the damage.",
+    "original_candidates": [
+      "Joe",
+      "Mike"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Mike was crashed into by Joe and he had to pay for the damage.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Joe",
+      "Mike"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 117
+  },
+  {
+    "original_text": "The clown smiled at the child and he cried.",
+    "original_candidates": [
+      "The clown",
+      "the child"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "The child was smiled at by the clown and he cried.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The clown",
+      "the child"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 323
+  },
+  {
+    "original_text": "Joseph did not defeat William in the match, so he earned $100.",
+    "original_candidates": [
+      "Joseph",
+      "William"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "William was not defeated by Joseph in the match, so he earned $100.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Joseph",
+      "William"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 189
+  },
+  {
+    "original_text": "Bob can beat Larry at arm wrestling because he has more muscles.",
+    "original_candidates": [
+      "Bob",
+      "Larry"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Larry can be beaten at arm wrestling by Bob because he has more muscles.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Bob",
+      "Larry"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1423
+  },
+  {
+    "original_text": "Pigs are better than sheep because they do not make bacon.",
+    "original_candidates": [
+      "Pigs",
+      "sheep"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "Pigs are considered better than sheep because bacon is not made by them.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Pigs",
+      "sheep"
+    ],
+    "modified_pronoun": "them",
+    "modified_label": 1,
+    "index": 167
+  },
+  {
+    "original_text": "Google Plus is expected to be a replacement for Facebook but it still does not have enough active users.",
+    "original_candidates": [
+      "Google Plus",
+      "Facebook"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "A replacement for Facebook is expected to be served by Google Plus, but enough active users are still not possessed by it.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Google Plus",
+      "Facebook"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "index": 724
+  },
+  {
+    "original_text": "James tries hard to seduce Wallace without magic, but though he is strongly attracted to him, he refuses to put off his marriage.",
+    "original_candidates": [
+      "James",
+      "Wallace"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Wallace is tried hard to be seduced by James without magic, but though strongly attracted to him, his marriage is refused to be put off.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "James",
+      "Wallace"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 536
+  },
+  {
+    "original_text": "Olivia wants to make amends with Emily, but she is apprehensive.",
+    "original_candidates": [
+      "Olivia",
+      "Emily"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Amends are wanted to be made with Emily by Olivia, but she is apprehensive.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Olivia",
+      "Emily"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "index": 1353
+  },
+  {
+    "original_text": "Geraci swears revenge against Michael, staying quiet until he can hatch a plan to defeat him.",
+    "original_candidates": [
+      "Geraci",
+      "Michael"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Revenge against Michael is sworn by Geraci, who stays quiet until a plan to defeat him can be hatched.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Geraci",
+      "Michael"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 376
+  },
+  {
+    "original_text": "Ravi is in love with Kushal, but, he does not agree.",
+    "original_candidates": [
+      "Ravi",
+      "Kushal"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Kushal is loved by Ravi, but, he is not agreed with.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Ravi",
+      "Kushal"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 1308
+  },
+  {
+    "original_text": "Google Plus is expected to be a replacement for Facebook but it still has a lot more active users.",
+    "original_candidates": [
+      "Google Plus",
+      "Facebook"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "A replacement for Facebook is expected to be provided by Google Plus, but a lot more active users are still maintained by it.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Google Plus",
+      "Facebook"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "index": 832
+  },
+  {
+    "original_text": "The pen is mightier than the sword because it can be used to write world-changing documents.",
+    "original_candidates": [
+      "The pen",
+      "the sword"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "The pen is considered mightier than the sword because world-changing documents can be written with it.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The pen",
+      "the sword"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "index": 1232
+  },
+  {
+    "original_text": "Steven Seagal challenged Jean Claude Van Damme to a fight because he wanted to prove he was the stronger man.",
+    "original_candidates": [
+      "Steven Seagal",
+      "Jean Claude Van Damme"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Jean Claude Van Damme was challenged to a fight by Steven Seagal because he wanted to prove he was the stronger man.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Steven Seagal",
+      "Jean Claude Van Damme"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1104
+  },
+  {
+    "original_text": "Pigs are better than sheep because they make bacon.",
+    "original_candidates": [
+      "Pigs",
+      "sheep"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "Pigs are considered better than sheep because bacon is made by them.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Pigs",
+      "sheep"
+    ],
+    "modified_pronoun": "them",
+    "modified_label": 0,
+    "index": 493
+  },
+  {
+    "original_text": "Fleece feels better than cotton since they are of worse quality.",
+    "original_candidates": [
+      "Fleece",
+      "cotton"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "Fleece is felt to be better than cotton since they are considered to be of worse quality.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Fleece",
+      "cotton"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "index": 681
+  },
+  {
+    "original_text": "The car beat the bike because it was faster.",
+    "original_candidates": [
+      "The car",
+      "the bike"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "The bike was beaten by the car because it was faster.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The car",
+      "the bike"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "index": 623
+  },
+  {
+    "original_text": "The AFL fan first knew of Dickfos when he made appearances in State of Origin matches, impressing for Queensland.",
+    "original_candidates": [
+      "Dickfos",
+      "The AFL fan"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Dickfos was first known to the AFL fan when appearances were made by him in State of Origin matches, impressing for Queensland.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Dickfos",
+      "The AFL fan"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 0,
+    "index": 432
+  },
+  {
+    "original_text": "Steve hired Jose because he was a hard worker.",
+    "original_candidates": [
+      "Steve",
+      "Jose"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Jose was hired by Steve because he was a hard worker.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Steve",
+      "Jose"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 220
+  },
+  {
+    "original_text": "Krishna agreed and let Rukmi go free, but not before having his head shaved as a visible sign of a warrior's defeat.",
+    "original_candidates": [
+      "Krishna",
+      "Rukmi"
+    ],
+    "original_pronoun": "his",
+    "original_label": 1,
+    "modified_text": "Rukmi was let go free by Krishna, but not before having his head shaved as a visible sign of a warrior's defeat.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Krishna",
+      "Rukmi"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 1,
+    "index": 587
+  },
+  {
+    "original_text": "Since the linesmen are relatively far away from the referees, they are also responsible for observing the sidelines on their side of the field.",
+    "original_candidates": [
+      "the linesmen",
+      "the referees"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "Since the linesmen are positioned relatively far away from the referees, the sidelines on their side of the field are also to be observed by them.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "the linesmen",
+      "the referees"
+    ],
+    "modified_pronoun": "them",
+    "modified_label": 1,
+    "index": 837
+  },
+  {
+    "original_text": "Hallums did not appeal to American President Bush to help earn his release.",
+    "original_candidates": [
+      "Hallums",
+      "American President Bush"
+    ],
+    "original_pronoun": "his",
+    "original_label": 0,
+    "modified_text": "An appeal was not made by Hallums to American President Bush to help earn his release.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Hallums",
+      "American President Bush"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 0,
+    "index": 670
+  },
+  {
+    "original_text": "Toyota has the luxury brand Lexus, although they typically sell for the average consumer.",
+    "original_candidates": [
+      "Lexus",
+      "Toyota"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The luxury brand Lexus is owned by Toyota, although they are typically sold for the average consumer.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Lexus",
+      "Toyota"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "index": 1478
+  },
+  {
+    "original_text": "James Cameron is more successful than Michael Bay because his movies sell more worldwide.",
+    "original_candidates": [
+      "James Cameron",
+      "Michael Bay"
+    ],
+    "original_pronoun": "his",
+    "original_label": 0,
+    "modified_text": "More success is attributed to James Cameron than to Michael Bay because more worldwide sales are generated by his movies.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "James Cameron",
+      "Michael Bay"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 0,
+    "index": 159
+  },
+  {
+    "original_text": "The program could successfully parse the file because it was programmed well.",
+    "original_candidates": [
+      "The program",
+      "the file"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "The file could be successfully parsed by the program because it was programmed well.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The program",
+      "the file"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "index": 330
+  },
+  {
+    "original_text": "The committee increased the price of the tickets to the dance for the students, but they changed their decision later.",
+    "original_candidates": [
+      "The committee",
+      "the students"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The price of the tickets to the dance for the students was increased by the committee, but the decision was later changed by them.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The committee",
+      "the students"
+    ],
+    "modified_pronoun": "them",
+    "modified_label": 0,
+    "index": 1187
+  },
+  {
+    "original_text": "Tricia then asks Julia if she has experienced any return of the night terrors.",
+    "original_candidates": [
+      "Julia",
+      "Tricia"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Julia is then asked by Tricia if any return of the night terrors has been experienced by her.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Julia",
+      "Tricia"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 0,
+    "index": 213
+  },
+  {
+    "original_text": "The doctor asks Bugs if he drank the potion ; he becomes insulted at the idea and leaves.",
+    "original_candidates": [
+      "Bugs",
+      "The doctor"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Bugs is asked by the doctor if the potion was drunk by him; insulted at the idea, he leaves.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Bugs",
+      "The doctor"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 944
+  },
+  {
+    "original_text": "Nathan warns Vince that if he doesn't return the money he will tell Rod.",
+    "original_candidates": [
+      "Nathan",
+      "Vince"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Vince is warned by Nathan that if the money is not returned by him, Rod will be told.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Nathan",
+      "Vince"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 786
+  },
+  {
+    "original_text": "Jack and Mark get increasingly drunk and show up uninvited to see classmates, but they refuses to let them in.",
+    "original_candidates": [
+      "classmates",
+      "Jack and Mark"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "Jack and Mark are seen getting increasingly drunk and showing up uninvited to see classmates, but entry is refused to them.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "classmates",
+      "Jack and Mark"
+    ],
+    "modified_pronoun": "them",
+    "modified_label": 1,
+    "index": 181
+  },
+  {
+    "original_text": "John asked Bill because he was confused.",
+    "original_candidates": [
+      "John",
+      "Bill"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Bill was asked by John because he was confused.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "John",
+      "Bill"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 87
+  },
+  {
+    "original_text": "Jim was delighted to see Jack, because he brightened up his day.",
+    "original_candidates": [
+      "Jim",
+      "Jack"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Jim was delighted to see Jack, because his day was brightened up by him.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Jim",
+      "Jack"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 1181
+  },
+  {
+    "original_text": "Because the BFG refuses to eat the human, he subsists on a revolting vegetable known as a ` Snozzcumber '.",
+    "original_candidates": [
+      "the BFG",
+      "the human"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Because the human is not eaten by the BFG, subsistence on a revolting vegetable known as a `Snozzcumber' is maintained by him.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "the BFG",
+      "the human"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 0,
+    "index": 85
+  },
+  {
+    "original_text": "Joe put Bob in the time machine and he went to the future.",
+    "original_candidates": [
+      "Joe",
+      "Bob"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Bob was put in the time machine by Joe and he went to the future.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Joe",
+      "Bob"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 58
+  },
+  {
+    "original_text": "Carlos becomes obsessed with Simon, but he suffers feelings of guilt since he is Rose's fianc.",
+    "original_candidates": [
+      "Carlos",
+      "Simon"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Obsession with Simon is developed by Carlos, but feelings of guilt are suffered by him since he is the fianc\u00e9 of Rose.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Carlos",
+      "Simon"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 280
+  },
+  {
+    "original_text": "Tony helped Jeff because he needed help.",
+    "original_candidates": [
+      "Tony",
+      "Jeff"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Jeff was helped by Tony because he needed help.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Tony",
+      "Jeff"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 1298
+  },
+  {
+    "original_text": "Carl borrowed a book from Richard, but the book was never returned to him.",
+    "original_candidates": [
+      "Carl",
+      "Richard"
+    ],
+    "original_pronoun": "him",
+    "original_label": 1,
+    "modified_text": "A book was borrowed by Carl from Richard, but it was never returned to him.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Carl",
+      "Richard"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 93
+  },
+  {
+    "original_text": "The keys typed the words because they were meant to be typed on.",
+    "original_candidates": [
+      "The keys",
+      "the words"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The words were typed by the keys because they were meant to be typed on.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The keys",
+      "the words"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "index": 1044
+  },
+  {
+    "original_text": "Janis is ordered to kill Noelia, but doesn't know if she can go along with this.",
+    "original_candidates": [
+      "Janis",
+      "Noelia"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Noelia is to be killed by Janis, but it is not known if this can be gone along with by her.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Janis",
+      "Noelia"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 0,
+    "index": 131
+  },
+  {
+    "original_text": "Robin goes to speak to Gael but discovers he has invited more backpackers to stay with them.",
+    "original_candidates": [
+      "Robin",
+      "Gael"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Robin goes to speak to Gael but it is discovered that more backpackers have been invited by him to stay with them.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Robin",
+      "Gael"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 691
+  },
+  {
+    "original_text": "Eclipso then attempts to kill Mehdi, but finds that he is too strong.",
+    "original_candidates": [
+      "Eclipso",
+      "Mehdi"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "An attempt is then made by Eclipso to kill Mehdi, but it is found that he is too strong.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Eclipso",
+      "Mehdi"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 963
+  },
+  {
+    "original_text": "The chimpanzee could not use Linux because it was an animal.",
+    "original_candidates": [
+      "The chimpanzee",
+      "Linux"
+    ],
+    "original_pronoun": "it",
+    "original_label": 0,
+    "modified_text": "Linux could not be used by the chimpanzee because it was an animal.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The chimpanzee",
+      "Linux"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 0,
+    "index": 1486
+  },
+  {
+    "original_text": "Hinckley did not hit Reagan directly, but he seriously wounded him when a bullet ricocheted off the side of the presidential limousine and hit him in the chest.",
+    "original_candidates": [
+      "Hinckley",
+      "Reagan"
+    ],
+    "original_pronoun": "him",
+    "original_label": 1,
+    "modified_text": "Reagan was not hit directly by Hinckley, but he was seriously wounded when a bullet, having ricocheted off the side of the presidential limousine, struck him in the chest.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Hinckley",
+      "Reagan"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 949
+  },
+  {
+    "original_text": "John visited Luke in the hospital because he lived close by.",
+    "original_candidates": [
+      "John",
+      "Luke"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Luke was visited by John in the hospital because he lived close by.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "John",
+      "Luke"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 187
+  },
+  {
+    "original_text": "Rick Perry is doing stronger than Mitt Romney in the polls, but he is confident to maintain the lead.",
+    "original_candidates": [
+      "Rick Perry",
+      "Mitt Romney"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Stronger performance in the polls is being shown by Rick Perry than by Mitt Romney, but the lead is expected to be maintained by him.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Rick Perry",
+      "Mitt Romney"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 0,
+    "index": 124
+  },
+  {
+    "original_text": "Emma finally agrees to put Jennifer ashore, but after she has given her sleeping pills.",
+    "original_candidates": [
+      "Emma",
+      "Jennifer"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Jennifer is finally agreed by Emma to be put ashore, but only after sleeping pills have been given to her by Emma.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Emma",
+      "Jennifer"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 0,
+    "index": 356
+  },
+  {
+    "original_text": "The blacksmith refused to repair the armor for the knight because he did not have any money to pay with.",
+    "original_candidates": [
+      "The blacksmith",
+      "the knight"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "The repair of the armor for the knight was refused by the blacksmith because he did not have any money to pay with.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The blacksmith",
+      "the knight"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 518
+  },
+  {
+    "original_text": "The Police feared allowing the protesters to organize, so they denied their ability to gather.",
+    "original_candidates": [
+      "The Police",
+      "the protesters"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "The allowance for the protesters to organize was feared by the Police, so their ability to gather was denied by them.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The Police",
+      "the protesters"
+    ],
+    "modified_pronoun": "them",
+    "modified_label": 0,
+    "index": 207
+  },
+  {
+    "original_text": "The professor gave the student a bad grade because he was strict.",
+    "original_candidates": [
+      "The professor",
+      "the student"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "A bad grade was given to the student by the professor because he was strict.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The professor",
+      "the student"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 558
+  },
+  {
+    "original_text": "Wanda asks Regina if she wants to go with him, but Regina does not want to leave Owuor.",
+    "original_candidates": [
+      "Wanda",
+      "Regina"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Regina is asked by Wanda if she wants to go with him, but leaving Owuor is not wanted by Regina.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Wanda",
+      "Regina"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "index": 583
+  },
+  {
+    "original_text": "Celine attempts to contact the resurrected Juliana, but seeing she has no memory of her previous life, she decides to leave her alone.",
+    "original_candidates": [
+      "Celine",
+      "the resurrected Juliana"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "An attempt to contact the resurrected Juliana is made by Celine, but it is seen that she has no memory of her previous life, leading to the decision by Celine to leave her alone.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Celine",
+      "the resurrected Juliana"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "index": 626
+  },
+  {
+    "original_text": "Lily gave Amber a hug because she was sorry.",
+    "original_candidates": [
+      "Lily",
+      "Amber"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Amber was given a hug by Lily because she was sorry.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Lily",
+      "Amber"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "index": 845
+  },
+  {
+    "original_text": "Liverpool lost to Manchester United because they were a superior team.",
+    "original_candidates": [
+      "Liverpool",
+      "Manchester United"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "The loss was suffered by Liverpool to Manchester United because they were a superior team.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Liverpool",
+      "Manchester United"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 1,
+    "index": 683
+  },
+  {
+    "original_text": "Bill asked Joe if he could borrow some money.",
+    "original_candidates": [
+      "Bill",
+      "Joe"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Joe was asked by Bill if he could borrow some money.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Bill",
+      "Joe"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 918
+  },
+  {
+    "original_text": "Director Ulli Lommel was unsure about casting Klaus Kinski, but he met him and he was very nice, according to Lommel.",
+    "original_candidates": [
+      "Director Ulli Lommel",
+      "Klaus Kinski"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "It was uncertain to Director Ulli Lommel whether to cast Klaus Kinski, but upon meeting him, he was found to be very nice, according to Lommel.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Director Ulli Lommel",
+      "Klaus Kinski"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 714
+  },
+  {
+    "original_text": "The villagers attempt to have the werewolves executed, but they are instead exiled by the clan leader.",
+    "original_candidates": [
+      "the werewolves",
+      "The villagers"
+    ],
+    "original_pronoun": "they",
+    "original_label": 0,
+    "modified_text": "An attempt is made by the villagers to have the werewolves executed, but the werewolves are instead exiled by the clan leader.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "the werewolves",
+      "The villagers"
+    ],
+    "modified_pronoun": "they",
+    "modified_label": 0,
+    "index": 842
+  },
+  {
+    "original_text": "Trotsky refused to support Lenin since he was waiting to see whether German workers would rebel and whether German soldiers would refuse to follow orders.",
+    "original_candidates": [
+      "Trotsky",
+      "Lenin"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Support for Lenin was refused by Trotsky since he was being waited upon to see whether German workers would rebel and whether German soldiers would refuse to follow orders.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Trotsky",
+      "Lenin"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 894
+  },
+  {
+    "original_text": "Warren snuck Nige outside and said that if he ever saw him again he would kill him.",
+    "original_candidates": [
+      "Warren",
+      "Nige"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Nige was snuck outside by Warren, and it was said that if he ever saw him again, he would be killed.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Warren",
+      "Nige"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 1,
+    "index": 1472
+  },
+  {
+    "original_text": "Ryan Higa sometimes guest stars in videos for Kev Jumbo because he wants his friend's videos to succeed as well.",
+    "original_candidates": [
+      "Ryan Higa",
+      "Kev Jumbo"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Sometimes, videos for Kev Jumbo are guest-starred in by Ryan Higa because he wants his friend's videos to succeed as well.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Ryan Higa",
+      "Kev Jumbo"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 574
+  },
+  {
+    "original_text": "Lakshman asked Vivan to get him some ice cream because he was hot.",
+    "original_candidates": [
+      "Lakshman",
+      "Vivan"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Vivan was asked by Lakshman to get some ice cream for him because he was hot.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Lakshman",
+      "Vivan"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1455
+  },
+  {
+    "original_text": "The Punishers interrogates prisoners and when finished they execute them via an electric chair-like molecular disintegrator.",
+    "original_candidates": [
+      "prisoners",
+      "The Punishers"
+    ],
+    "original_pronoun": "they",
+    "original_label": 1,
+    "modified_text": "Prisoners are interrogated by The Punishers and, when finished, are executed via an electric chair-like molecular disintegrator by them.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "prisoners",
+      "The Punishers"
+    ],
+    "modified_pronoun": "them",
+    "modified_label": 1,
+    "index": 312
+  },
+  {
+    "original_text": "Jane Bingum presented strong evidence against Claire, but she may present a strong defense on her part.",
+    "original_candidates": [
+      "Jane Bingum",
+      "Claire"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Strong evidence against Claire was presented by Jane Bingum, but a strong defense may be presented on her part by her.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Jane Bingum",
+      "Claire"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 1,
+    "index": 965
+  },
+  {
+    "original_text": "The blimp hit the tree because it was in the way.",
+    "original_candidates": [
+      "The blimp",
+      "the tree"
+    ],
+    "original_pronoun": "it",
+    "original_label": 1,
+    "modified_text": "The tree was hit by the blimp because it was in the way.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The blimp",
+      "the tree"
+    ],
+    "modified_pronoun": "it",
+    "modified_label": 1,
+    "index": 1203
+  },
+  {
+    "original_text": "Meanwhile, Brumfield was replaced by Lieutenant Colonel Alex Preece, after an old football injury forced his evacuation to Australia in mid-November.",
+    "original_candidates": [
+      "Lieutenant Colonel Alex Preece",
+      "Brumfield"
+    ],
+    "original_pronoun": "his",
+    "original_label": 1,
+    "modified_text": "Meanwhile, Lieutenant Colonel Alex Preece was brought in to replace Brumfield, after an old football injury necessitated the evacuation of the latter to Australia in mid-November.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Lieutenant Colonel Alex Preece",
+      "Brumfield"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 1,
+    "index": 1447
+  },
+  {
+    "original_text": "Corday fatally stabbed Maya, though she did not attempt to flee.",
+    "original_candidates": [
+      "Corday",
+      "Maya"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Maya was fatally stabbed by Corday, though an attempt to flee was not made by her.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Corday",
+      "Maya"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 1,
+    "index": 284
+  },
+  {
+    "original_text": "Gennie becomes interested in Emma and is jealous when she starts seeing Chas.",
+    "original_candidates": [
+      "Gennie",
+      "Emma"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "Interest in Emma is shown by Gennie, and jealousy is felt by her when Chas is started to be seen by Emma.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Gennie",
+      "Emma"
+    ],
+    "modified_pronoun": "her",
+    "modified_label": 0,
+    "index": 438
+  },
+  {
+    "original_text": "The chef held the waiter so that he would not flee.",
+    "original_candidates": [
+      "The chef",
+      "the waiter"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "The waiter was held by the chef so that he would not flee.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "The chef",
+      "the waiter"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 247
+  },
+  {
+    "original_text": "Billy beat Tommy at Scrabble because that newbie had no skill.",
+    "original_candidates": [
+      "Billy",
+      "Tommy"
+    ],
+    "original_pronoun": "that newbie",
+    "original_label": 1,
+    "modified_text": "Tommy was beaten by Billy at Scrabble because he had no skill.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Billy",
+      "Tommy"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 772
+  },
+  {
+    "original_text": "Juan Pablo is forced to save Greenlee when an Argentinian gang targets him and Carlos.",
+    "original_candidates": [
+      "Greenlee",
+      "Juan Pablo"
+    ],
+    "original_pronoun": "him",
+    "original_label": 0,
+    "modified_text": "Greenlee is saved by Juan Pablo when an Argentinian gang targets Carlos and him.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Greenlee",
+      "Juan Pablo"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 0,
+    "index": 305
+  },
+  {
+    "original_text": "Narendran wants to get Ramu married to Leela but she is turned off by his cowardice.",
+    "original_candidates": [
+      "Narendran",
+      "Ramu"
+    ],
+    "original_pronoun": "his",
+    "original_label": 0,
+    "modified_text": "Narendran wants Ramu to be married to Leela, but by his cowardice, she is turned off.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Narendran",
+      "Ramu"
+    ],
+    "modified_pronoun": "his",
+    "modified_label": 0,
+    "index": 1469
+  },
+  {
+    "original_text": "Jason built Rocky a robot, so he had more free time.",
+    "original_candidates": [
+      "Jason",
+      "Rocky"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "A robot was built for Rocky by Jason, so he had more free time.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Jason",
+      "Rocky"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 73
+  },
+  {
+    "original_text": "Josie did not like Sarah, but she did not tell her.",
+    "original_candidates": [
+      "Josie",
+      "Sarah"
+    ],
+    "original_pronoun": "she",
+    "original_label": 0,
+    "modified_text": "Sarah was not liked by Josie, but she was not told by her.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Josie",
+      "Sarah"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 1,
+    "index": 315
+  },
+  {
+    "original_text": "When Saul realizes where Javadi is going, he immediately sends Carrie and Quinn there to intercept him.",
+    "original_candidates": [
+      "Saul",
+      "Javadi"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "When it is realized by Saul where Javadi is going, Carrie and Quinn are immediately sent there by him to intercept Javadi.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Saul",
+      "Javadi"
+    ],
+    "modified_pronoun": "him",
+    "modified_label": 0,
+    "index": 1453
+  },
+  {
+    "original_text": "Madison has a short attraction to Matilda but she rebuffs her.",
+    "original_candidates": [
+      "Madison",
+      "Matilda"
+    ],
+    "original_pronoun": "she",
+    "original_label": 1,
+    "modified_text": "A short attraction to Matilda is had by Madison, but she is rebuffed by her.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Madison",
+      "Matilda"
+    ],
+    "modified_pronoun": "she",
+    "modified_label": 0,
+    "index": 1056
+  },
+  {
+    "original_text": "John attacked Tim because he was a communist.",
+    "original_candidates": [
+      "John",
+      "Tim"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "Tim was attacked by John because he was a communist.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "John",
+      "Tim"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 1,
+    "index": 591
+  },
+  {
+    "original_text": "Bob sued Bill because he wanted more money.",
+    "original_candidates": [
+      "Bob",
+      "Bill"
+    ],
+    "original_pronoun": "he",
+    "original_label": 0,
+    "modified_text": "Bill was sued by Bob because he wanted more money.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Bob",
+      "Bill"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1369
+  },
+  {
+    "original_text": "Clark proposed to Albert but he turned him down, saying he was too set in his ways.",
+    "original_candidates": [
+      "Clark",
+      "Albert"
+    ],
+    "original_pronoun": "he",
+    "original_label": 1,
+    "modified_text": "A proposal was made to Albert by Clark but he was turned down, with the statement being made that he was too set in his ways.",
+    "type": "active_to_passive",
+    "modified_candidates": [
+      "Clark",
+      "Albert"
+    ],
+    "modified_pronoun": "he",
+    "modified_label": 0,
+    "index": 1483
+  }
+]

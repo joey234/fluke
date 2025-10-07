@@ -1,0 +1,19 @@
+\begin{table}[h]
+\centering
+\begin{tabular}{lrrrrrrrr}
+\hline
+Modification & N & \textbf{bert} & \textbf{gpt2} & \textbf{t5} & \textbf{gpt4o} & \textbf{claude-3-5-sonnet} & \textbf{llama} \\
+\hline
+\textbf{Verbal} & 6 & \cellcolor{red!30} -15.41 & \cellcolor{red!30} -20.55 & \cellcolor{red!30} \textbf{-31.21}* & \cellcolor{red!30} \textbf{-20.81}* & \cellcolor{red!30} -10.27 & \cellcolor{red!15} -5.20 \\
+\hline
+\textbf{Lexical} & 6 & \cellcolor{red!20} -6.67 & \cellcolor{red!0} 0.00 & \cellcolor{red!30} \textbf{-20.00} & \cellcolor{green!19} +6.57 & \cellcolor{red!0} 0.00 & \cellcolor{red!0} 0.00 \\
+\hline
+\textbf{Double} & 6 & \cellcolor{red!30} \textbf{-25.00}* & \cellcolor{red!29} -9.77 & \cellcolor{red!30} \textbf{-30.00}** & \cellcolor{red!30} \textbf{-19.54}* & \cellcolor{red!30} \textbf{-34.61}** & \cellcolor{red!30} -10.00 \\
+\hline
+\textbf{Approximate} & 6 & \cellcolor{red!21} -7.15 & \cellcolor{red!30} -10.62 & \cellcolor{red!30} \textbf{-21.65}* & \cellcolor{red!20} -6.92 & \cellcolor{red!30} \textbf{-14.15}* & \cellcolor{red!30} -14.15 \\
+\textbf{Absolute} & 6 & \cellcolor{red!30} \textbf{-33.33}* & \cellcolor{red!30} \textbf{-20.00} & \cellcolor{red!30} \textbf{-20.00} & \cellcolor{red!19} -6.34 & \cellcolor{red!0} 0.00 & \cellcolor{red!30} -13.13 \\
+\hline
+\end{tabular}
+\caption{Weighted Delta Score by Model and Modification Type}
+\label{tab:ner_results}
+\end{table}
